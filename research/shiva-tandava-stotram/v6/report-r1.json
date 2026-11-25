@@ -1,0 +1,421 @@
+{
+  "stotram": "shiva-tandava-stotram",
+  "verse": "v6",
+  "date": "2026-10-22",
+  "summary": {
+    "blockers_failed": 1,
+    "majors_failed": 1,
+    "minors_failed": 0,
+    "flags": 11,
+    "skipped": 0,
+    "judges_pending": 0,
+    "penalty": 110,
+    "exit_ready": false
+  },
+  "results": [
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.2",
+      "status": "flag",
+      "message": "Text lock not yet confirmed by a human.",
+      "path": "lock.confirmed_by",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.10",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "TOOL"
+    },
+    {
+      "check": "T1.8",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'namannilimpanāyakam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p2",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'sudhāmayūkhalekhayā' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p3",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'virājamānaśekharam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p4",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'mahākapāli' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p5",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.4a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.5a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.10a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8b",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9a",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8b",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T2.9b",
+      "status": "fail",
+      "message": "Structure joins nipīta with pañca-sāyaka first, cutting the agent (…-bhā) off from its participle; the vigraha and notes make …-bhā the instrumental agent of nipīta.",
+      "path": "compounds.c1.structure",
+      "suggested_fix": "((((((lalāṭa-catvara)-(jvalat-dhanañjaya))-sphuliṅga)-bhā)-nipīta)-(pañca-sāyaka))",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.4",
+      "status": "flag",
+      "message": "Role viśeṣaṇa of śiraḥ matches the morphology, but w7/c5 meanings read a genitive and vyakhya reads a vocative (not recorded as an alternative).",
+      "path": "padas.p5",
+      "suggested_fix": "Make the meaning agree with viśeṣaṇa ('great, skull-bearing head') and record the sambodhana reading as an alternative.",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.6",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.1",
+      "status": "flag",
+      "message": "'of the great Skull-bearer' adds a genitive no source supports (vyakhya vocative, shlokam nominative) and contradicts the recorded morphology (neut. nom. with śiraḥ). Same in c5.meaning.",
+      "path": "words.w7.meaning",
+      "suggested_fix": "Grammar reading 'great and skull-bearing (head)', or vyakhya's vocative, with the other as an alternative; align c5.meaning.",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.2",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.3",
+      "status": "flag",
+      "message": "Contextual meaning 'of the great Skull-bearer' adds a genitive no source or the form supports (vyakhya: address; shlokam: 'great skull-bearer'; morph: neut. nom. with śiraḥ). Same in c5.meaning.",
+      "path": "words.w7.meaning",
+      "suggested_fix": "'great Skull-bearer (Śiva)' / 'महाकपाली (शिव)', or 'the great, skull-bearing (head)'; same in c5.",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.5",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.6",
+      "status": "fail",
+      "message": "Segment {refs:[w8], text:'be for'}: 'be' translates astu (w10), so hovering w8 lights the verb and hovering w10 doesn't. HI maps 'हो' to w10 correctly.",
+      "path": "translations.en.lines[0][4]",
+      "suggested_fix": "Split into {refs:[w10], text:'be'} + {refs:[w8], text:'for'}, or refs [w10, w8].",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "flag",
+      "message": "a2 glosses nilimpa as 'a god' without a citation; mw-nilimpa (MW p. 558) supports it.",
+      "path": "annotations.a2.citations",
+      "suggested_fix": "Add {source: mw-nilimpa, locator: 'MW nilimpa, p. 558', quote: 'a god'}.",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "flag",
+      "message": "a4 says 'four of the five witnesses' but cites only three; shlokam and vyakhya-sts-6 support it too.",
+      "path": "annotations.a4.citations",
+      "suggested_fix": "Add citations to shlokam-shiva-tandava and vyakhya-sts-6 with their verbatim readings.",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.10",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'naḥ' is analysed differently in v1 and v6; fine if the context differs, but say why",
+      "path": "v6.p10",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "check": "T4.9",
+  "fields_hash": "44db4142b735a7c0",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a3.citations[1].locator",
+      "message": "Locator 'श्लोक २, शब्दार्थ' names a section vyakhya-sts-2.md doesn't have; the gloss is in the पदच्छेद block. The quote itself is accurate.",
+      "suggested_fix": "श्लोक २, पदच्छेद"
+    },
+    {
+      "status": "flag",
+      "path": "annotations.a4.citations[1].locator",
+      "message": "Same problem as a3: the 'शब्दार्थ' section doesn't exist; the gloss is in the पदच्छेद block.",
+      "suggested_fix": "श्लोक २, पदच्छेद"
+    }
+  ]
+}

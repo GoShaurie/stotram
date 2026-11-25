@@ -1,0 +1,11 @@
+{
+  "check": "T4.9",
+  "fields_hash": "b3079a72a4e40287",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "verse.annotations.a2.citations",
+      "message": "The Ujjain claim in a2 rests on 'Uttarakāṇḍa 104 (kha), caupāī 1 (Ujjain)', whose excerpt in ramcharitmanas-uttarakanda-104-108.md is marked unchecked OCR (p. 1008). Probably right, but a human should confirm against the page image."
+    }
+  ]
+}

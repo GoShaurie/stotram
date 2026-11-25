@@ -1,0 +1,2952 @@
+{
+  "before": {
+    "verse": {
+      "id": "v4",
+      "number": 4,
+      "kind": "verse",
+      "meter": "bhujangaprayata",
+      "concepts": [
+        "chandrashekhara",
+        "vishvarupa"
+      ],
+      "lines": [
+        {
+          "words": [
+            {
+              "id": "w1",
+              "text": "शिवाकान्त",
+              "iast": "śivākānta"
+            },
+            {
+              "id": "w2",
+              "text": "शम्भो",
+              "iast": "śambho"
+            },
+            {
+              "id": "w3",
+              "text": "शशाङ्कार्धमौले",
+              "iast": "śaśāṅkārdhamaule"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w4",
+              "text": "महेशान",
+              "iast": "maheśāna"
+            },
+            {
+              "id": "w5",
+              "text": "शूलिन्",
+              "iast": "śūlin"
+            },
+            {
+              "id": "w6",
+              "text": "जटाजूटधारिन्",
+              "iast": "jaṭājūṭadhārin"
+            }
+          ],
+          "end": "।"
+        },
+        {
+          "words": [
+            {
+              "id": "w7",
+              "text": "त्वमेको",
+              "iast": "tvameko"
+            },
+            {
+              "id": "w8",
+              "text": "जगद्व्यापको",
+              "iast": "jagadvyāpako"
+            },
+            {
+              "id": "w9",
+              "text": "विश्वरूपः",
+              "iast": "viśvarūpaḥ"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w10",
+              "text": "प्रसीद",
+              "iast": "prasīda"
+            },
+            {
+              "id": "w11",
+              "text": "प्रसीद",
+              "iast": "prasīda"
+            },
+            {
+              "id": "w12",
+              "text": "प्रभो",
+              "iast": "prabho"
+            },
+            {
+              "id": "w13",
+              "text": "पूर्णरूप",
+              "iast": "pūrṇarūpa"
+            }
+          ],
+          "end": "॥ ४ ॥"
+        }
+      ],
+      "compounds": {
+        "c1": {
+          "members": [
+            "w1"
+          ],
+          "iast": "śivā-kānta",
+          "type": "tatpuruṣa",
+          "subtype": "ṣaṣṭhī",
+          "vigraha": "शिवायाः कान्तः, हे शिवाकान्त",
+          "meaning": {
+            "en": "O beloved of Śivā (Pārvatī)",
+            "hi": "हे शिवा (पार्वती) के प्रियतम"
+          },
+          "note": {
+            "en": "śivā 'Śiva's wife' + kānta 'beloved, husband': the beloved of Śivā.",
+            "hi": "शिवा 'शिव की पत्नी' + कान्त 'प्रिय, पति': शिवा के प्रियतम।"
+          }
+        },
+        "c2": {
+          "members": [
+            "w3"
+          ],
+          "iast": "śaśāṅk-ārdha-maule",
+          "type": "bahuvrīhi",
+          "subtype": "vyadhikaraṇa",
+          "structure": "((śaśāṅka-ardha)-mauli)",
+          "vigraha": "शशाङ्कस्य अर्धः शशाङ्कार्धः, सः मौलौ यस्य सः, हे शशाङ्कार्धमौले",
+          "meaning": {
+            "en": "O You who have the half-moon on Your head",
+            "hi": "हे मस्तक पर अर्धचन्द्र धारण करने वाले"
+          },
+          "note": {
+            "en": "śaśāṅka 'the moon' + ardha 'half' gives 'the half-moon'; mauli 'head, crest' says where it rests. The whole describes Śiva, who wears it.",
+            "hi": "शशाङ्क 'चन्द्रमा' + अर्ध 'आधा' से 'अर्धचन्द्र'; मौलि 'मस्तक, शिखा' बताता है कि वह कहाँ है। पूरा समास उन शिव का वर्णन करता है जो उसे धारण करते हैं।"
+          }
+        },
+        "c3": {
+          "members": [
+            "w4"
+          ],
+          "iast": "mah-eśāna",
+          "type": "karmadhāraya",
+          "vigraha": "महान् ईशानः, हे महेशान",
+          "meaning": {
+            "en": "O great Lord",
+            "hi": "हे महान् स्वामी"
+          },
+          "note": {
+            "en": "mahā 'great' + īśāna 'ruler, lord'; a + ī becomes e.",
+            "hi": "महा 'महान्' + ईशान 'स्वामी'; आ + ई मिलकर ए बनता है।"
+          }
+        },
+        "c4": {
+          "members": [
+            "w6"
+          ],
+          "iast": "jaṭā-jūṭa-dhārin",
+          "type": "upapada",
+          "structure": "((jaṭā-jūṭa)-dhārin)",
+          "vigraha": "जटानां जूटः जटाजूटः, तं धारयति इति, हे जटाजूटधारिन्",
+          "meaning": {
+            "en": "O wearer of the coil of matted hair",
+            "hi": "हे जटाजूट धारण करने वाले"
+          },
+          "note": {
+            "en": "jaṭā 'matted hair' + jūṭa 'twisted knot' gives the piled-up coil of locks; dhārin 'one who wears' takes it as what is worn.",
+            "hi": "जटा 'उलझे केश' + जूट 'बँधा हुआ जूड़ा' से जटाओं का ऊँचा जूड़ा; धारिन् 'धारण करने वाला' उसे वह बताता है जो धारण किया गया है।"
+          }
+        },
+        "c5": {
+          "members": [
+            "w8"
+          ],
+          "iast": "jagad-vyāpako",
+          "type": "tatpuruṣa",
+          "subtype": "ṣaṣṭhī",
+          "vigraha": "जगतः व्यापकः",
+          "meaning": {
+            "en": "the one who spreads through the world",
+            "hi": "जगत् में व्याप्त"
+          },
+          "note": {
+            "en": "jagat 'the world' + vyāpaka 'spreading through, filling'.",
+            "hi": "जगत् 'संसार' + व्यापक 'फैला हुआ, भरा हुआ'।"
+          }
+        },
+        "c6": {
+          "members": [
+            "w9"
+          ],
+          "iast": "viśva-rūpaḥ",
+          "type": "bahuvrīhi",
+          "vigraha": "विश्वं रूपं यस्य सः",
+          "meaning": {
+            "en": "He whose form is the universe",
+            "hi": "जिनका रूप सारा विश्व है"
+          },
+          "note": {
+            "en": "viśva 'all, the universe' + rūpa 'form'; the compound describes the one who has such a form.",
+            "hi": "विश्व 'सब, संसार' + रूप 'आकार'; समास उसका वर्णन करता है जिसका ऐसा रूप है।"
+          }
+        },
+        "c7": {
+          "members": [
+            "w13"
+          ],
+          "iast": "pūrṇa-rūpa",
+          "type": "bahuvrīhi",
+          "vigraha": "पूर्णं रूपं यस्य सः, हे पूर्णरूप",
+          "meaning": {
+            "en": "O You whose form is whole",
+            "hi": "हे पूर्ण रूप वाले"
+          },
+          "note": {
+            "en": "pūrṇa 'full, whole' + rūpa 'form'; the compound names Śiva by the form He has.",
+            "hi": "पूर्ण 'भरा हुआ, सम्पूर्ण' + रूप 'आकार'; समास शिव को उनके रूप से पुकारता है।"
+          }
+        }
+      },
+      "padas": [
+        {
+          "id": "p1",
+          "words": [
+            "w1"
+          ],
+          "sa": "शिवाकान्त",
+          "iast": "śivākānta",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "शिवाकान्त",
+              "iast": "śivākānta"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        },
+        {
+          "id": "p2",
+          "words": [
+            "w2"
+          ],
+          "sa": "शम्भो",
+          "iast": "śambho",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "शम्भु",
+              "iast": "śambhu"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        },
+        {
+          "id": "p3",
+          "words": [
+            "w3"
+          ],
+          "sa": "शशाङ्कार्धमौले",
+          "iast": "śaśāṅkārdhamaule",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "शशाङ्कार्धमौलि",
+              "iast": "śaśāṅkārdhamauli"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        },
+        {
+          "id": "p4",
+          "words": [
+            "w4"
+          ],
+          "sa": "महेशान",
+          "iast": "maheśāna",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "महेशान",
+              "iast": "maheśāna"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        },
+        {
+          "id": "p5",
+          "words": [
+            "w5"
+          ],
+          "sa": "शूलिन्",
+          "iast": "śūlin",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "शूलिन्",
+              "iast": "śūlin"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        },
+        {
+          "id": "p6",
+          "words": [
+            "w6"
+          ],
+          "sa": "जटाजूटधारिन्",
+          "iast": "jaṭājūṭadhārin",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "जटाजूटधारिन्",
+              "iast": "jaṭājūṭadhārin"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        },
+        {
+          "id": "p7",
+          "words": [
+            "w7"
+          ],
+          "sa": "त्वम्",
+          "iast": "tvam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "युष्मद्",
+              "iast": "yuṣmad"
+            },
+            "case": "nominative",
+            "number": "singular"
+          },
+          "role": "kartā",
+          "head": "x1"
+        },
+        {
+          "id": "p8",
+          "words": [
+            "w7"
+          ],
+          "sa": "एकः",
+          "iast": "ekaḥ",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "एक",
+              "iast": "eka"
+            },
+            "gender": "masculine",
+            "case": "nominative",
+            "number": "singular"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p7"
+        },
+        {
+          "id": "p9",
+          "words": [
+            "w8"
+          ],
+          "sa": "जगद्व्यापकः",
+          "iast": "jagadvyāpakaḥ",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "जगद्व्यापक",
+              "iast": "jagadvyāpaka"
+            },
+            "gender": "masculine",
+            "case": "nominative",
+            "number": "singular"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p7"
+        },
+        {
+          "id": "p10",
+          "words": [
+            "w9"
+          ],
+          "sa": "विश्वरूपः",
+          "iast": "viśvarūpaḥ",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "विश्वरूप",
+              "iast": "viśvarūpa"
+            },
+            "gender": "masculine",
+            "case": "nominative",
+            "number": "singular"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p7"
+        },
+        {
+          "id": "p11",
+          "words": [
+            "w10"
+          ],
+          "sa": "प्रसीद",
+          "iast": "prasīda",
+          "morph": {
+            "type": "tinanta",
+            "dhatu": {
+              "sa": "सद्",
+              "iast": "sad",
+              "gana": 1
+            },
+            "prefixes": [
+              "pra"
+            ],
+            "lakara": "loṭ",
+            "prayoga": "kartari",
+            "person": 2,
+            "number": "singular",
+            "pada": "parasmaipada"
+          },
+          "role": "kriyā",
+          "head": null
+        },
+        {
+          "id": "p12",
+          "words": [
+            "w11"
+          ],
+          "sa": "प्रसीद",
+          "iast": "prasīda",
+          "morph": {
+            "type": "tinanta",
+            "dhatu": {
+              "sa": "सद्",
+              "iast": "sad",
+              "gana": 1
+            },
+            "prefixes": [
+              "pra"
+            ],
+            "lakara": "loṭ",
+            "prayoga": "kartari",
+            "person": 2,
+            "number": "singular",
+            "pada": "parasmaipada"
+          },
+          "role": "kriyā",
+          "head": null
+        },
+        {
+          "id": "p13",
+          "words": [
+            "w12"
+          ],
+          "sa": "प्रभो",
+          "iast": "prabho",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "प्रभु",
+              "iast": "prabhu"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        },
+        {
+          "id": "p14",
+          "words": [
+            "w13"
+          ],
+          "sa": "पूर्णरूप",
+          "iast": "pūrṇarūpa",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "पूर्णरूप",
+              "iast": "pūrṇarūpa"
+            },
+            "gender": "masculine",
+            "case": "vocative",
+            "number": "singular"
+          },
+          "role": "sambodhana",
+          "head": null
+        }
+      ],
+      "adhyahara": [
+        {
+          "id": "x1",
+          "sa": "असि",
+          "iast": "asi",
+          "morph": {
+            "type": "tinanta",
+            "dhatu": {
+              "sa": "अस्",
+              "iast": "as",
+              "gana": 2
+            },
+            "prefixes": [],
+            "lakara": "laṭ",
+            "prayoga": "kartari",
+            "person": 2,
+            "number": "singular",
+            "pada": "parasmaipada"
+          },
+          "role": "kriyā",
+          "head": null,
+          "meaning": {
+            "en": "(You) are",
+            "hi": "(आप) हैं"
+          }
+        }
+      ],
+      "anvaya": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "x1",
+        "p13",
+        "p14",
+        "p11",
+        "p12"
+      ],
+      "translations": {
+        "en": {
+          "lines": [
+            [
+              {
+                "refs": [
+                  "w1"
+                ],
+                "text": "O Beloved of Śivā,"
+              },
+              {
+                "refs": [
+                  "w2"
+                ],
+                "text": "Śambhu,"
+              },
+              {
+                "refs": [
+                  "w3"
+                ],
+                "text": "with the half-moon on Your head,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w4"
+                ],
+                "text": "great Lord,"
+              },
+              {
+                "refs": [
+                  "w5"
+                ],
+                "text": "Bearer of the trident,"
+              },
+              {
+                "refs": [
+                  "w6"
+                ],
+                "text": "who wear the coil of matted hair!"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w7"
+                ],
+                "text": "You alone"
+              },
+              {
+                "refs": [
+                  "x1"
+                ],
+                "text": "are"
+              },
+              {
+                "refs": [
+                  "w8"
+                ],
+                "text": "the one who spreads through the whole world,"
+              },
+              {
+                "refs": [
+                  "w9"
+                ],
+                "text": "whose form is the universe."
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w10"
+                ],
+                "text": "Be gracious,"
+              },
+              {
+                "refs": [
+                  "w11"
+                ],
+                "text": "be gracious,"
+              },
+              {
+                "refs": [
+                  "w12"
+                ],
+                "text": "O Lord,"
+              },
+              {
+                "refs": [
+                  "w13"
+                ],
+                "text": "whose form is whole!"
+              }
+            ]
+          ],
+          "bhavartha": "The poet calls Śiva by name after name: beloved of Śivā, Śambhu, the Lord crowned with a crescent moon, the great Lord who holds the trident and wears His matted hair in a coil. Then he says who this is: the One who spreads through the whole world, whose form is the universe. He ends by begging, twice, that this Lord, whole in form, be gracious."
+        },
+        "hi": {
+          "lines": [
+            [
+              {
+                "refs": [
+                  "w1"
+                ],
+                "text": "हे शिवा (पार्वती) के प्रियतम,"
+              },
+              {
+                "refs": [
+                  "w2"
+                ],
+                "text": "हे शम्भु,"
+              },
+              {
+                "refs": [
+                  "w3"
+                ],
+                "text": "हे मस्तक पर अर्धचन्द्र धारण करने वाले,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w4"
+                ],
+                "text": "हे महेश्वर,"
+              },
+              {
+                "refs": [
+                  "w5"
+                ],
+                "text": "हे त्रिशूलधारी,"
+              },
+              {
+                "refs": [
+                  "w6"
+                ],
+                "text": "हे जटाजूट धारण करने वाले!"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w7"
+                ],
+                "text": "एकमात्र आप ही"
+              },
+              {
+                "refs": [
+                  "w8"
+                ],
+                "text": "सारे जगत् में व्याप्त"
+              },
+              {
+                "refs": [
+                  "w9"
+                ],
+                "text": "और विश्वरूप"
+              },
+              {
+                "refs": [
+                  "x1"
+                ],
+                "text": "हैं।"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w10"
+                ],
+                "text": "प्रसन्न होइए,"
+              },
+              {
+                "refs": [
+                  "w11"
+                ],
+                "text": "प्रसन्न होइए,"
+              },
+              {
+                "refs": [
+                  "w12"
+                ],
+                "text": "हे प्रभु,"
+              },
+              {
+                "refs": [
+                  "w13"
+                ],
+                "text": "हे पूर्णरूप!"
+              }
+            ]
+          ],
+          "bhavartha": "कवि शिव को एक के बाद एक नाम से पुकारता है: शिवा के प्रियतम, शम्भु, मस्तक पर अर्धचन्द्र वाले, त्रिशूल धारण करने वाले और जटाओं का जूड़ा बाँधे महेश्वर। फिर वह बताता है कि ये कौन हैं: वही एक, जो सारे जगत् में फैले हैं और जिनका रूप सारा विश्व है। अन्त में वह दो बार विनती करता है कि ये पूर्णरूप प्रभु प्रसन्न हों।"
+        }
+      },
+      "annotations": [
+        {
+          "id": "a1",
+          "refs": [
+            "w3",
+            "w4",
+            "w5",
+            "w6"
+          ],
+          "kind": "mythology",
+          "body": {
+            "en": "Sages once saw this very figure in the sky. The Kūrma Purāṇa tells how they looked up and saw Rudra with matted locks, half a moon as His crest and a trident held in His great hand: the same three marks this verse calls out.\n\nThen the vision grows. The same passage says He stood filling the whole cosmic egg with His own light. The verse takes the same path: from the figure with moon and trident to the One who fills the world.",
+            "hi": "ऋषियों ने एक बार यही रूप आकाश में देखा था। कूर्म पुराण बताता है कि उन्होंने ऊपर देखा और रुद्र को पाया: जटाधारी, आधा चन्द्रमा जिनका शिरोभूषण है, और जिनके बड़े हाथ में त्रिशूल है। यही तीन चिह्न यह श्लोक पुकारता है।\n\nफिर दर्शन बढ़ता जाता है। वही प्रसंग कहता है कि वे अपने ही तेज से पूरे ब्रह्माण्ड को भरकर खड़े थे। श्लोक भी यही राह लेता है: चन्द्र और त्रिशूल वाले रूप से उस एक तक, जो सारे जगत् को भरता है।"
+          },
+          "citations": [
+            {
+              "source": "kurma-purana-2-5",
+              "locator": "Kūrma Purāṇa 2.5.7",
+              "quote": "tameva mocakaṃ rudramākāśe dadṛśuḥ param"
+            },
+            {
+              "source": "kurma-purana-2-5",
+              "locator": "Kūrma Purāṇa 2.5.8",
+              "quote": "jaṭilaṃ candrārdhakṛtaśekharam"
+            },
+            {
+              "source": "kurma-purana-2-5",
+              "locator": "Kūrma Purāṇa 2.5.9",
+              "quote": "śūlāsaktamahākaram"
+            },
+            {
+              "source": "kurma-purana-2-5",
+              "locator": "Kūrma Purāṇa 2.5.10",
+              "quote": "brahmāṇḍaṃ tejasā svena sarvamāvṛtya ca sthitam"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "id": "a2",
+          "refs": [
+            "w7",
+            "w8"
+          ],
+          "kind": "theology",
+          "body": {
+            "en": "After six names comes a plain statement: *tvam ekaḥ*, You are the One. Verse 1 already called Him [*ekam*](#v1-a2); here the One is also *vyāpaka*, the one who spreads through the whole world.\n\nThe words echo the Śvetāśvatara Upaniṣad, which says there is one Rudra, with no second beside Him, and one God hidden in all beings, *sarva-vyāpī*, spreading through all. The hymn that calls itself the essence of the Veda here repeats the Veda almost word for word.",
+            "hi": "छह नामों के बाद एक सीधा कथन आता है: *त्वम् एकः*, आप ही एक हैं। पहले श्लोक ने उन्हें [*एकम्*](#v1-a2) कहा था; यहाँ वह एक *व्यापक* भी है, जो सारे जगत् में फैला है।\n\nये शब्द श्वेताश्वतर उपनिषद् की गूँज हैं, जो कहता है कि रुद्र एक ही हैं, उनके साथ कोई दूसरा नहीं, और एक ही देव सब प्राणियों में छिपे हैं, *सर्वव्यापी*, सबमें फैले हुए। जो स्तोत्र स्वयं को वेदों का सार कहता है, वह यहाँ वेद को लगभग उसी के शब्दों में दोहराता है।"
+          },
+          "citations": [
+            {
+              "source": "shvetashvatara-upanishad",
+              "locator": "Śvetāśvatara Upaniṣad 3.2",
+              "quote": "एको हि रुद्रो न द्वितीयाय तस्थुर्य"
+            },
+            {
+              "source": "shvetashvatara-upanishad",
+              "locator": "Śvetāśvatara Upaniṣad 6.11",
+              "quote": "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा"
+            },
+            {
+              "source": "shvetashvatara-upanishad",
+              "locator": "Śvetāśvatara Upaniṣad 3.11",
+              "quote": "सर्वव्यापी स भगवान्"
+            },
+            {
+              "source": "mw-vyapaka",
+              "locator": "MW vyāpaka, p. 1037",
+              "quote": "pervading, diffusive, comprehensive, widely spreading or extending"
+            },
+            {
+              "source": "mw-eka",
+              "locator": "MW eka, p. 227",
+              "quote": "alone, solitary, single"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "id": "a3",
+          "refs": [
+            "w9"
+          ],
+          "kind": "variant",
+          "body": {
+            "en": "A statement, or one more call? Some printings read *viśvarūpaḥ*: You alone, spreading through the world, *are* the one whose form is the universe. Others print *viśvarūpa*, one more name in the string of calls: 'O You whose form is the universe!'\n\nEither way it is an old Vedic name. The Mahānārāyaṇa Upaniṣad bows to Him with it: *viśvarūpāya vai namo namaḥ*, salutation again and again to Him whose form is everything.",
+            "hi": "एक कथन, या एक और पुकार? कुछ मुद्रित पाठों में *विश्वरूपः* है: एकमात्र आप ही, जगत् में फैले हुए, वह *हैं* जिनका रूप सारा विश्व है। दूसरे पाठों में *विश्वरूप* है, पुकारों की लड़ी में एक और नाम: 'हे विश्वरूप!'\n\nदोनों तरह यह एक प्राचीन वैदिक नाम है। महानारायण उपनिषद् इसी नाम से उन्हें प्रणाम करता है: *विश्वरूपाय वै नमो नमः*, उन्हें बार-बार नमस्कार, जिनका रूप सब कुछ है।"
+          },
+          "citations": [
+            {
+              "source": "sanskritdocuments-vedasarast",
+              "locator": "verse ॥ ४॥",
+              "quote": "त्वमेको जगद्व्यापको विश्वरूपः"
+            },
+            {
+              "source": "vanivilas-1910-works-17",
+              "locator": "p. 72, verse ॥ ४ ॥",
+              "quote": "त्वमेको जगद्व्यापको विश्वरूपः"
+            },
+            {
+              "source": "ramakrishna-math-mantrapushpam",
+              "locator": "p. 464, verse ॥ ४ ॥",
+              "quote": "त्वमेको जगद्व्यापको विश्वरूपः"
+            },
+            {
+              "source": "gitapress-stotraratnavali",
+              "locator": "p. 27, verse ॥ ४ ॥",
+              "quote": "त्वमेको जगद्व्यापको विश्वरूप"
+            },
+            {
+              "source": "gitapress-stotraratnavali",
+              "locator": "p. 27, Hindi translation",
+              "quote": "हे विश्वरूप!"
+            },
+            {
+              "source": "brihat-stotra-ratnakar-wikisource",
+              "locator": "p. 251, verse ४",
+              "quote": "त्वमेको जगद्व्यापको विश्वरूप"
+            },
+            {
+              "source": "mahanarayana-upanishad-17-23",
+              "locator": "Mahānārāyaṇa Upaniṣad 23.1",
+              "quote": "विश्वरूपाय वै नमो नमः"
+            },
+            {
+              "source": "mw-vishvarupa",
+              "locator": "MW viśva-rūpa, p. 993",
+              "quote": "wearing all forms, manifold, various"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "id": "a4",
+          "refs": [
+            "w10",
+            "w11"
+          ],
+          "kind": "wordplay",
+          "body": {
+            "en": "*Prasīda* holds a picture. Its root *sad* means to sit or sink down; with *pra* it means to settle, the way stirred-up water settles and turns clear, or a stormy sky grows calm. From there it comes to mean to be pleased, to be kind.\n\nSo the cry asks the Lord to turn toward us clear and calm, and His grace, *prasāda*, is named from the same root: clearness, calm, kindness. Said twice, the plea becomes urgent.",
+            "hi": "*प्रसीद* में एक चित्र छिपा है। इसकी धातु *सद्* का अर्थ है बैठना या नीचे बैठ जाना; *प्र* के साथ इसका अर्थ है थम जाना, जैसे हिलाया हुआ पानी थमकर निर्मल हो जाता है, या तूफ़ानी आकाश शान्त हो जाता है। वहीं से इसका अर्थ बनता है प्रसन्न होना, कृपालु होना।\n\nइसलिए यह पुकार प्रभु से कहती है कि वे निर्मल और शान्त होकर हमारी ओर मुड़ें, और उनकी कृपा, *प्रसाद*, इसी धातु से बनी है: निर्मलता, शान्ति, कृपा। दो बार कहने से विनती और तीव्र हो जाती है।"
+          },
+          "citations": [
+            {
+              "source": "mw-sad",
+              "locator": "MW √sad, p. 1138",
+              "quote": "to sit down (esp. at a sacrifice)"
+            },
+            {
+              "source": "mw-prasad",
+              "locator": "MW pra-√sad, p. 696",
+              "quote": "to settle down, grow clear and bright, become placid or tranquil"
+            },
+            {
+              "source": "mw-prasad",
+              "locator": "MW pra-√sad, p. 696",
+              "quote": "to become satisfied or pleased or glad, be gracious or kind"
+            },
+            {
+              "source": "mw-prasada",
+              "locator": "MW prasāda, p. 697",
+              "quote": "graciousness, kindness, kind behaviour, favour"
+            },
+            {
+              "source": "mw-prasada",
+              "locator": "MW prasāda, p. 697",
+              "quote": "calmness, tranquillity, absence of excitement"
+            }
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "words": {
+        "w1": {
+          "compound": "c1",
+          "padaccheda": [
+            {
+              "sa": "शिवा",
+              "iast": "śivā"
+            },
+            {
+              "sa": "कान्त",
+              "iast": "kānta"
+            }
+          ],
+          "components": [
+            {
+              "sa": "शिवा",
+              "iast": "śivā",
+              "pos": "noun",
+              "gender": "feminine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "शिवा",
+                "iast": "śivā"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "śivā",
+                "gloss": "the energy of Śiva personified as his wife (known as Durgā, Pārvatī &c.)"
+              },
+              "meaning": {
+                "en": "Śivā (Pārvatī)",
+                "hi": "शिवा (पार्वती)"
+              }
+            },
+            {
+              "sa": "कान्त",
+              "iast": "kānta",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "कान्त",
+                "iast": "kānta"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "kānta",
+                "gloss": "any one beloved, a lover, husband"
+              },
+              "meaning": {
+                "en": "beloved",
+                "hi": "प्रियतम"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O beloved of Śivā (Pārvatī), i.e. Śiva",
+            "hi": "हे शिवा (पार्वती) के प्रियतम, अर्थात् शिव"
+          },
+          "epithet": true,
+          "aside": {
+            "en": "Śivā is Pārvatī, and her name is His own name with a long *ā*. As with Bhava and Bhavānī ([verse 3](#v3-a3)), husband and wife share one name.",
+            "hi": "शिवा पार्वती हैं, और उनका नाम शिव का ही नाम है, लम्बे *आ* के साथ। भव और भवानी की तरह ([श्लोक ३](#v3-a3)), पति-पत्नी का एक ही नाम है।"
+          },
+          "notes": {
+            "en": "Called by name: 'O beloved of Śivā'. The long ā marks śivā, the goddess, not śiva.",
+            "hi": "सीधी पुकार: 'हे शिवा के प्रियतम'। लम्बा आ बताता है कि यह शिवा (देवी) है, शिव नहीं।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-shiva",
+            "mw-kanta",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w2": {
+          "padaccheda": [
+            {
+              "sa": "शम्भो",
+              "iast": "śambho"
+            }
+          ],
+          "components": [
+            {
+              "sa": "शम्भु",
+              "iast": "śambhu",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "शम्भु",
+                "iast": "śambhu"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "śambhu",
+                "gloss": "granting or causing happiness, beneficent; N. of Śiva"
+              },
+              "meaning": {
+                "en": "Śambhu",
+                "hi": "शम्भु"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O Śambhu, i.e. Śiva",
+            "hi": "हे शम्भु, अर्थात् शिव"
+          },
+          "epithet": true,
+          "aside": {
+            "en": "*Śambhu* is an old Vedic word for 'kind', one who brings well-being. Later it became a name of Śiva.",
+            "hi": "*शम्भु* एक पुराना वैदिक शब्द है, जिसका अर्थ है कल्याण करने वाला, सुख देने वाला। बाद में यह शिव का नाम बन गया।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-shambhu",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w3": {
+          "compound": "c2",
+          "padaccheda": [
+            {
+              "sa": "शशाङ्क",
+              "iast": "śaśāṅka"
+            },
+            {
+              "sa": "अर्ध",
+              "iast": "ardha"
+            },
+            {
+              "sa": "मौले",
+              "iast": "maule"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "savarṇa-dīrgha",
+              "rule": "a + a → ā",
+              "explanation": {
+                "en": "The final a of śaśāṅka and the first a of ardha merge into one long ā: śaśāṅka + ardha → śaśāṅkārdha.",
+                "hi": "शशाङ्क का अन्तिम 'अ' और अर्ध का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: शशाङ्क + अर्ध → शशाङ्कार्ध।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "शशाङ्क",
+              "iast": "śaśāṅka",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "शशाङ्क",
+                "iast": "śaśāṅka"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "śaśāṅka",
+                "gloss": "'hare-marked', the moon"
+              },
+              "meaning": {
+                "en": "moon",
+                "hi": "चन्द्रमा"
+              }
+            },
+            {
+              "sa": "अर्ध",
+              "iast": "ardha",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "अर्ध",
+                "iast": "ardha"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "ardha",
+                "gloss": "the half"
+              },
+              "meaning": {
+                "en": "half",
+                "hi": "आधा"
+              }
+            },
+            {
+              "sa": "मौलि",
+              "iast": "mauli",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "मौलि",
+                "iast": "mauli"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "mauli",
+                "gloss": "the head, the top of anything"
+              },
+              "meaning": {
+                "en": "head",
+                "hi": "मस्तक"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O You (Śiva) with the half-moon on Your head",
+            "hi": "हे मस्तक पर अर्धचन्द्र धारण करने वाले, अर्थात् शिव"
+          },
+          "literal": {
+            "en": "O You who have half of the hare-marked one on Your head",
+            "hi": "हे जिनके मस्तक पर शशाङ्क (चन्द्रमा) का आधा भाग है"
+          },
+          "epithet": true,
+          "aside": {
+            "en": "*Śaśāṅka*, 'hare-marked', is the moon: the dark marks on its face were seen as a hare. Only half of it, a crescent, rests on His head.",
+            "hi": "*शशाङ्क*, यानी 'खरगोश के चिह्न वाला', चन्द्रमा है: उसके मुख के धब्बे खरगोश जैसे देखे गए। उसका केवल आधा भाग, अर्धचन्द्र, उनके मस्तक पर है।"
+          },
+          "notes": {
+            "en": "mauli can mean the head or a crest worn on it; either way the half-moon sits at the top of His head.",
+            "hi": "मौलि का अर्थ मस्तक भी है और उस पर पहना शिरोभूषण भी; दोनों में अर्धचन्द्र सिर के शिखर पर है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-shashanka",
+            "mw-shashankardha",
+            "mw-mauli",
+            "mw-shasha",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w4": {
+          "compound": "c3",
+          "padaccheda": [
+            {
+              "sa": "महा",
+              "iast": "mahā"
+            },
+            {
+              "sa": "ईशान",
+              "iast": "īśāna"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "guṇa",
+              "rule": "ā + ī → e",
+              "explanation": {
+                "en": "The ā of mahā and the ī of īśāna merge into e: mahā + īśāna → maheśāna.",
+                "hi": "महा का 'आ' और ईशान का 'ई' मिलकर 'ए' बनते हैं: महा + ईशान → महेशान।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "महत्",
+              "iast": "mahat",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "महत्",
+                "iast": "mahat"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "mahat",
+                "gloss": "great"
+              },
+              "meaning": {
+                "en": "great",
+                "hi": "महान्"
+              }
+            },
+            {
+              "sa": "ईशान",
+              "iast": "īśāna",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "ईशान",
+                "iast": "īśāna"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "īśāna",
+                "gloss": "a ruler, master, one of the older names of Śiva-Rudra"
+              },
+              "meaning": {
+                "en": "lord",
+                "hi": "स्वामी"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O great Lord, i.e. Śiva",
+            "hi": "हे महेश्वर, अर्थात् शिव"
+          },
+          "epithet": true,
+          "notes": {
+            "en": "Maheśāna is another form of Maheśa, 'great lord', a name of Śiva; īśāna is one of His oldest names.",
+            "hi": "महेशान, महेश ('महान् स्वामी') का ही दूसरा रूप है, शिव का नाम; ईशान उनके सबसे पुराने नामों में से है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-maheshana",
+            "mw-mahesha",
+            "mw-ishana",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w5": {
+          "padaccheda": [
+            {
+              "sa": "शूलिन्",
+              "iast": "śūlin"
+            }
+          ],
+          "components": [
+            {
+              "sa": "शूलिन्",
+              "iast": "śūlin",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "शूल",
+                "iast": "śūla"
+              },
+              "formation": "śūla + ini (possessive)",
+              "sense": {
+                "dict": "mw",
+                "headword": "śūlin",
+                "gloss": "N. of Rudra Śiva (as holding a trident)"
+              },
+              "meaning": {
+                "en": "trident-bearer",
+                "hi": "त्रिशूलधारी"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O Bearer of the trident, i.e. Śiva",
+            "hi": "हे त्रिशूलधारी, अर्थात् शिव"
+          },
+          "epithet": true,
+          "notes": {
+            "en": "śūla is any sharp spike or spear, above all Śiva's trident; śūlin is the one who holds it. Two printings join this word to the next as शूलिञ्जटा…; the words and the sound are the same.",
+            "hi": "शूल कोई भी नुकीला काँटा या भाला है, विशेषकर शिव का त्रिशूल; शूलिन् वह है जो उसे धारण करता है। दो मुद्रित पाठ इसे अगले शब्द से जोड़कर शूलिञ्जटा… लिखते हैं; शब्द और ध्वनि वही हैं।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-shulin",
+            "mw-shula",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w6": {
+          "compound": "c4",
+          "padaccheda": [
+            {
+              "sa": "जटा",
+              "iast": "jaṭā"
+            },
+            {
+              "sa": "जूट",
+              "iast": "jūṭa"
+            },
+            {
+              "sa": "धारिन्",
+              "iast": "dhārin"
+            }
+          ],
+          "components": [
+            {
+              "sa": "जटा",
+              "iast": "jaṭā",
+              "pos": "noun",
+              "gender": "feminine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "जटा",
+                "iast": "jaṭā"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "jaṭā",
+                "gloss": "the hair twisted together (as worn by ascetics, by Śiva)"
+              },
+              "meaning": {
+                "en": "matted hair",
+                "hi": "जटा"
+              }
+            },
+            {
+              "sa": "जूट",
+              "iast": "jūṭa",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "जूट",
+                "iast": "jūṭa"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "jūṭa",
+                "gloss": "twisted hair (of ascetics and Śiva)"
+              },
+              "meaning": {
+                "en": "knot",
+                "hi": "जूड़ा"
+              }
+            },
+            {
+              "sa": "धारिन्",
+              "iast": "dhārin",
+              "pos": "adjective",
+              "root": {
+                "kind": "dhatu",
+                "sa": "धृ",
+                "iast": "dhṛ",
+                "gana": 1,
+                "gloss": {
+                  "en": "to hold, to wear",
+                  "hi": "धारण करना"
+                }
+              },
+              "formation": "√dhṛ + ṇini (one who does)",
+              "sense": {
+                "dict": "mw",
+                "headword": "dhārin",
+                "gloss": "bearing, wearing, holding"
+              },
+              "meaning": {
+                "en": "wearing",
+                "hi": "धारण करने वाला"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O You (Śiva) who wear the coil of matted hair",
+            "hi": "हे जटाजूट धारण करने वाले, अर्थात् शिव"
+          },
+          "epithet": true,
+          "aside": {
+            "en": "*Jaṭā-jūṭa* is matted hair twisted up into a high knot on the head. It is the same coil where [verse 1](#verse-1) shows the Gaṅgā sparkling.",
+            "hi": "*जटा-जूट* यानी उलझी जटाओं को ऐंठकर सिर पर बाँधा गया ऊँचा जूड़ा। यह वही जूड़ा है जिसमें [पहला श्लोक](#verse-1) गंगा को झिलमिलाता दिखाता है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-jatajuta",
+            "mw-jata",
+            "mw-juta",
+            "mw-dharin",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w7": {
+          "padaccheda": [
+            {
+              "sa": "त्वम्",
+              "iast": "tvam"
+            },
+            {
+              "sa": "एकः",
+              "iast": "ekaḥ"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "utva",
+              "rule": "aḥ + voiced consonant → o",
+              "explanation": {
+                "en": "The final aḥ of ekaḥ becomes o before the voiced j of the next word (jagad): ekaḥ + jagad → eko jagad. tvam is simply written together with eko.",
+                "hi": "एकः का अन्तिम 'अः' अगले शब्द (जगद्) के घोष 'ज' से पहले 'ओ' बन जाता है: एकः + जगद् → एको जगद्। त्वम् बस एको के साथ जोड़कर लिखा गया है।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "त्वम्",
+              "iast": "tvam",
+              "pos": "pronoun",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "युष्मद्",
+                "iast": "yuṣmad"
+              },
+              "meaning": {
+                "en": "you",
+                "hi": "आप"
+              }
+            },
+            {
+              "sa": "एक",
+              "iast": "eka",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "एक",
+                "iast": "eka"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "eka",
+                "gloss": "alone, solitary, single, that one only"
+              },
+              "meaning": {
+                "en": "alone",
+                "hi": "एकमात्र"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "You (Śiva) alone, the One",
+            "hi": "एकमात्र आप (शिव) ही"
+          },
+          "notes": {
+            "en": "Two words written as one: tvam 'you' and ekaḥ 'one, alone'.",
+            "hi": "दो शब्द एक साथ लिखे गए हैं: त्वम् 'आप' और एकः 'एक, अकेले'।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-eka",
+            "mw-tvad",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w8": {
+          "compound": "c5",
+          "padaccheda": [
+            {
+              "sa": "जगत्",
+              "iast": "jagat"
+            },
+            {
+              "sa": "व्यापकः",
+              "iast": "vyāpakaḥ"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "jaśtva",
+              "rule": "t + v → d + v",
+              "explanation": {
+                "en": "Final t becomes the voiced d before the voiced v: jagat + vyāpaka → jagadvyāpaka.",
+                "hi": "अन्तिम 'त्' आगे के घोष 'व' से पहले 'द्' बन जाता है: जगत् + व्यापक → जगद्व्यापक।"
+              }
+            },
+            {
+              "name": "utva",
+              "rule": "aḥ + voiced consonant → o",
+              "explanation": {
+                "en": "The final aḥ becomes o before the voiced v of the next word (viśvarūpaḥ): vyāpakaḥ → vyāpako.",
+                "hi": "अगले शब्द (विश्वरूपः) के घोष 'व' से पहले अन्तिम 'अः' 'ओ' बन जाता है: व्यापकः → व्यापको।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "जगत्",
+              "iast": "jagat",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "जगत्",
+                "iast": "jagat"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "jagat",
+                "gloss": "the world, esp. this world, earth"
+              },
+              "meaning": {
+                "en": "world",
+                "hi": "जगत्"
+              }
+            },
+            {
+              "sa": "व्यापक",
+              "iast": "vyāpaka",
+              "pos": "adjective",
+              "root": {
+                "kind": "dhatu",
+                "sa": "आप्",
+                "iast": "āp",
+                "gana": 5,
+                "prefixes": [
+                  "vi"
+                ],
+                "gloss": {
+                  "en": "to spread through, to fill",
+                  "hi": "व्याप्त होना, भरना"
+                }
+              },
+              "formation": "vi + √āp + ṇvul (one who does)",
+              "sense": {
+                "dict": "mw",
+                "headword": "vyāpaka",
+                "gloss": "pervading, spreading everywhere"
+              },
+              "meaning": {
+                "en": "spreading through",
+                "hi": "व्याप्त"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "the one (Śiva) who spreads through the whole world",
+            "hi": "सारे जगत् में व्याप्त (शिव)"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-vyapaka",
+            "mw-vyap",
+            "mw-jagat",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w9": {
+          "compound": "c6",
+          "padaccheda": [
+            {
+              "sa": "विश्व",
+              "iast": "viśva"
+            },
+            {
+              "sa": "रूपः",
+              "iast": "rūpaḥ"
+            }
+          ],
+          "components": [
+            {
+              "sa": "विश्व",
+              "iast": "viśva",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "विश्व",
+                "iast": "viśva"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "viśva",
+                "gloss": "all, every; whole, entire, universal"
+              },
+              "meaning": {
+                "en": "universe",
+                "hi": "विश्व"
+              }
+            },
+            {
+              "sa": "रूप",
+              "iast": "rūpa",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "रूप",
+                "iast": "rūpa"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "rūpa",
+                "gloss": "form, shape, figure"
+              },
+              "meaning": {
+                "en": "form",
+                "hi": "रूप"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "(You, i.e. Śiva) whose form is the universe",
+            "hi": "(आप, अर्थात् शिव) जिनका रूप सारा विश्व है"
+          },
+          "epithet": true,
+          "alternatives": [
+            {
+              "reading": {
+                "en": "O You whose form is the universe! (the text is also found as viśvarūpa, a call)",
+                "hi": "हे विश्वरूप! (पाठ 'विश्वरूप' भी मिलता है, पुकार के रूप में)"
+              },
+              "note": "gitapress-stotraratnavali, gitapress-shiv-stotra-ratnakar and brihat-stotra-ratnakar-wikisource read विश्वरूप; sanskritdocuments-vedasarast, vanivilas-1910-works-17 and ramakrishna-math-mantrapushpam read विश्वरूपः."
+            }
+          ],
+          "confidence": "medium",
+          "sources": [
+            "mw-vishvarupa",
+            "mw-vishva",
+            "mw-rupa",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w10": {
+          "padaccheda": [
+            {
+              "sa": "प्रसीद",
+              "iast": "prasīda"
+            }
+          ],
+          "components": [
+            {
+              "sa": "प्रसीद",
+              "iast": "prasīda",
+              "pos": "verb",
+              "root": {
+                "kind": "dhatu",
+                "sa": "सद्",
+                "iast": "sad",
+                "gana": 1,
+                "prefixes": [
+                  "pra"
+                ],
+                "gloss": {
+                  "en": "to settle, to grow clear; to be pleased",
+                  "hi": "निर्मल होना; प्रसन्न होना"
+                }
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "pra-sad",
+                "gloss": "to become satisfied or pleased or glad, be gracious or kind"
+              },
+              "meaning": {
+                "en": "be gracious",
+                "hi": "प्रसन्न होइए"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "be gracious (to us), (O Śiva)",
+            "hi": "(हे शिव, हम पर) प्रसन्न होइए"
+          },
+          "notes": {
+            "en": "A request to the person addressed: 'be pleased, be gracious'. The root sad takes the stem sīda.",
+            "hi": "जिसे पुकारा गया है उससे विनती: 'प्रसन्न होइए, कृपा कीजिए'। धातु सद् यहाँ सीद रूप लेती है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-prasad",
+            "mw-sad",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w11": {
+          "padaccheda": [
+            {
+              "sa": "प्रसीद",
+              "iast": "prasīda"
+            }
+          ],
+          "components": [
+            {
+              "sa": "प्रसीद",
+              "iast": "prasīda",
+              "pos": "verb",
+              "root": {
+                "kind": "dhatu",
+                "sa": "सद्",
+                "iast": "sad",
+                "gana": 1,
+                "prefixes": [
+                  "pra"
+                ],
+                "gloss": {
+                  "en": "to settle, to grow clear; to be pleased",
+                  "hi": "निर्मल होना; प्रसन्न होना"
+                }
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "pra-sad",
+                "gloss": "to become satisfied or pleased or glad, be gracious or kind"
+              },
+              "meaning": {
+                "en": "be gracious",
+                "hi": "प्रसन्न होइए"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "be gracious (to us), (O Śiva)",
+            "hi": "(हे शिव, हम पर) प्रसन्न होइए"
+          },
+          "notes": {
+            "en": "The same plea said again, for urgency.",
+            "hi": "वही विनती दोबारा, आग्रह के लिए।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-prasad",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w12": {
+          "padaccheda": [
+            {
+              "sa": "प्रभो",
+              "iast": "prabho"
+            }
+          ],
+          "components": [
+            {
+              "sa": "प्रभु",
+              "iast": "prabhu",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "प्रभु",
+                "iast": "prabhu"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "prabhu",
+                "gloss": "a master, lord, king"
+              },
+              "meaning": {
+                "en": "Lord",
+                "hi": "प्रभु"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O Lord, i.e. Śiva",
+            "hi": "हे प्रभु, अर्थात् शिव"
+          },
+          "epithet": true,
+          "confidence": "high",
+          "sources": [
+            "mw-prabhu",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        },
+        "w13": {
+          "compound": "c7",
+          "padaccheda": [
+            {
+              "sa": "पूर्ण",
+              "iast": "pūrṇa"
+            },
+            {
+              "sa": "रूप",
+              "iast": "rūpa"
+            }
+          ],
+          "components": [
+            {
+              "sa": "पूर्ण",
+              "iast": "pūrṇa",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "पूर्ण",
+                "iast": "pūrṇa"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "pūrṇa",
+                "gloss": "complete, all, entire"
+              },
+              "meaning": {
+                "en": "whole",
+                "hi": "पूर्ण"
+              }
+            },
+            {
+              "sa": "रूप",
+              "iast": "rūpa",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "रूप",
+                "iast": "rūpa"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "rūpa",
+                "gloss": "form, shape, figure"
+              },
+              "meaning": {
+                "en": "form",
+                "hi": "रूप"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "O You (Śiva) whose form is whole",
+            "hi": "हे पूर्ण रूप वाले, अर्थात् शिव"
+          },
+          "epithet": true,
+          "aside": {
+            "en": "The verse opened on half a moon (*ardha*) and closes on *pūrṇa*, full. The Lord who wears a half is Himself whole.",
+            "hi": "श्लोक आधे चन्द्रमा (*अर्ध*) से शुरू हुआ और *पूर्ण* पर समाप्त होता है। जो प्रभु आधा चन्द्र पहनते हैं, वे स्वयं पूर्ण हैं।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-purna",
+            "mw-rupa",
+            "shlokam-vedasara-shiva-stava",
+            "gitapress-stotraratnavali"
+          ]
+        }
+      },
+      "review": {
+        "status": "ai_draft",
+        "history": [
+          {
+            "date": "2026-11-20",
+            "by": "ai",
+            "action": "Drafted from evidence pack."
+          }
+        ]
+      },
+      "lock": {
+        "hash": "sha256:d5b68d8efdd19fcee031bf7d6c0c60a42ca93197847277d135e791a62acf47f4",
+        "sources": [
+          "brihat-stotra-ratnakar-wikisource",
+          "gitapress-shiv-stotra-ratnakar",
+          "gitapress-stotraratnavali",
+          "kurma-purana-2-5",
+          "mahanarayana-upanishad-17-23",
+          "ramakrishna-math-mantrapushpam",
+          "ramayana-bala-1-43",
+          "sanskritdocuments-vedasarast",
+          "shlokam-vedasara-shiva-stava",
+          "shvetashvatara-upanishad",
+          "vanivilas-1910-works-17"
+        ],
+        "confirmed_by": null
+      }
+    },
+    "sources": [
+      {
+        "id": "ai-draft",
+        "name": "AI-generated first draft (unverified)",
+        "kind": "ai"
+      },
+      {
+        "id": "stotram-text",
+        "name": "Vedasāraśivastavaḥ, the hymn's own text",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "sanskritdocuments-vedasarast",
+        "name": "sanskritdocuments.org — Vedasara Shiva Stotram (vedasarast.itx); read from the Wayback copy of 2025-07-22",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250722112755/https://sanskritdocuments.org/doc_shiva/vedasarast.html"
+      },
+      {
+        "id": "shlokam-vedasara-shiva-stava",
+        "name": "shlokam.org — Vedasara Shiva Stava (English translation and word meanings; Devanagari copies sanskritdocuments)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/vedasara-shiva-stava.htm"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. 71–73",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n82/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, pp. 464–465; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/464/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 26–29, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 52–55, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "brihat-stotra-ratnakar-wikisource",
+        "name": "बृहत्स्तोत्ररत्नाकर (Bṛhatstotraratnākara) vol. 1 (1953), pp. 251–252, as transcribed on Sanskrit Wikisource",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/वेदसारशिवस्तवः"
+      },
+      {
+        "id": "mw-anam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ānam' (SLP1 key: Anam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Anam"
+      },
+      {
+        "id": "mw-gajendra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gajendra' (SLP1 key: gajendra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gajendra"
+      },
+      {
+        "id": "mw-ganga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gāṅga' (SLP1 key: gANga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gANga"
+      },
+      {
+        "id": "mw-jatajuta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jaṭājūṭa' (SLP1 key: jawAjUwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jawAjUwa"
+      },
+      {
+        "id": "mw-krtti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kṛtti' (SLP1 key: kftti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kftti"
+      },
+      {
+        "id": "mw-madhye",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'madhye' (SLP1 key: maDye)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maDye"
+      },
+      {
+        "id": "mw-mahadeva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahādeva' (SLP1 key: mahAdeva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahAdeva"
+      },
+      {
+        "id": "mw-meka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'meka' (SLP1 key: meka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=meka"
+      },
+      {
+        "id": "mw-na",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nā' (SLP1 key: nA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nA"
+      },
+      {
+        "id": "mw-nasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nāśa' (SLP1 key: nASa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nASa"
+      },
+      {
+        "id": "mw-papa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāpa' (SLP1 key: pApa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pApa"
+      },
+      {
+        "id": "mw-paresha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pareśa' (SLP1 key: pareSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pareSa"
+      },
+      {
+        "id": "mw-pash",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paś' (SLP1 key: paS)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paS"
+      },
+      {
+        "id": "mw-pati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pati' (SLP1 key: pati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pati"
+      },
+      {
+        "id": "mw-rami",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rāmi' (SLP1 key: rAmi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rAmi"
+      },
+      {
+        "id": "mw-sma",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sma' (SLP1 key: sma)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sma"
+      },
+      {
+        "id": "mw-smarari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'smarāri' (SLP1 key: smarAri)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=smarAri"
+      },
+      {
+        "id": "mw-sphurad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sphurad' (SLP1 key: sPurad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sPurad"
+      },
+      {
+        "id": "mw-varenya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vareṇya' (SLP1 key: vareRya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vareRya"
+      },
+      {
+        "id": "mw-vari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vāri' (SLP1 key: vAri)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vAri"
+      },
+      {
+        "id": "mw-vas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vas' (SLP1 key: vas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vas"
+      },
+      {
+        "id": "mw-ari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ari' (SLP1 key: ari)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ari"
+      },
+      {
+        "id": "mw-dhr",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhṛ' (SLP1 key: Df)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Df"
+      },
+      {
+        "id": "mw-eka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'eka' (SLP1 key: eka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=eka"
+      },
+      {
+        "id": "mw-gangaa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaṅgā' (SLP1 key: gaNgA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaNgA"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-para",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'para' (SLP1 key: para)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=para"
+      },
+      {
+        "id": "mw-pashu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paśu' (SLP1 key: paSu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paSu"
+      },
+      {
+        "id": "mw-smara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'smara' (SLP1 key: smara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=smara"
+      },
+      {
+        "id": "mw-smr",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'smṛ' (SLP1 key: smf)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=smf"
+      },
+      {
+        "id": "mw-sphur",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sphur' (SLP1 key: sPur)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sPur"
+      },
+      {
+        "id": "mw-vasana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vasana' (SLP1 key: vasana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vasana"
+      },
+      {
+        "id": "mw-deva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'deva' (SLP1 key: deva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=deva"
+      },
+      {
+        "id": "mw-gaja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaja' (SLP1 key: gaja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaja"
+      },
+      {
+        "id": "mw-indra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'indra' (SLP1 key: indra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=indra"
+      },
+      {
+        "id": "mw-jata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jaṭā' (SLP1 key: jawA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jawA"
+      },
+      {
+        "id": "mw-juta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jūṭa' (SLP1 key: jUwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jUwa"
+      },
+      {
+        "id": "mw-krt",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kṛt' (SLP1 key: kft)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kft"
+      },
+      {
+        "id": "mw-madhya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'madhya' (SLP1 key: maDya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maDya"
+      },
+      {
+        "id": "mw-mahat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahat' (SLP1 key: mahat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahat"
+      },
+      {
+        "id": "mw-pashupati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paśupati' (SLP1 key: paSupati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paSupati"
+      },
+      {
+        "id": "mw-smarashatru",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'smaraśatru' (SLP1 key: smaraSatru)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=smaraSatru"
+      },
+      {
+        "id": "mw-sphurat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sphurat' (SLP1 key: sPurat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sPurat"
+      },
+      {
+        "id": "mw-abhusha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'abhūṣa' (SLP1 key: aBUza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aBUza"
+      },
+      {
+        "id": "mw-ang",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṅg' (SLP1 key: aNg)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aNg"
+      },
+      {
+        "id": "mw-arati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ārāti' (SLP1 key: ArAti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ArAti"
+      },
+      {
+        "id": "mw-ark",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ark' (SLP1 key: ark)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ark"
+      },
+      {
+        "id": "mw-avahni",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'avahni' (SLP1 key: avahni)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=avahni"
+      },
+      {
+        "id": "mw-dam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dam' (SLP1 key: dam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=dam"
+      },
+      {
+        "id": "mw-ida",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īḍā' (SLP1 key: IqA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=IqA"
+      },
+      {
+        "id": "mw-mahesha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśa' (SLP1 key: maheSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSa"
+      },
+      {
+        "id": "mw-mind",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mind' (SLP1 key: mind)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mind"
+      },
+      {
+        "id": "mw-nat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nat' (SLP1 key: nat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nat"
+      },
+      {
+        "id": "mw-pancavaktra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcavaktra' (SLP1 key: paYcavaktra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcavaktra"
+      },
+      {
+        "id": "mw-prabhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prabhu' (SLP1 key: praBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=praBu"
+      },
+      {
+        "id": "mw-sada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sadā' (SLP1 key: sadA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sadA"
+      },
+      {
+        "id": "mw-sur",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sur' (SLP1 key: sur)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sur"
+      },
+      {
+        "id": "mw-suresha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sureśa' (SLP1 key: sureSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sureSa"
+      },
+      {
+        "id": "mw-trinetra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'trinetra' (SLP1 key: trinetra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=trinetra"
+      },
+      {
+        "id": "mw-vibhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhu' (SLP1 key: viBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBu"
+      },
+      {
+        "id": "mw-vibhuu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhū' (SLP1 key: viBU)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBU"
+      },
+      {
+        "id": "mw-virupaksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'virūpākṣa' (SLP1 key: virUpAkza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=virUpAkza"
+      },
+      {
+        "id": "mw-vishvanatha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśvanātha' (SLP1 key: viSvanATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSvanATa"
+      },
+      {
+        "id": "mw-aksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'akṣa' (SLP1 key: akza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=akza"
+      },
+      {
+        "id": "mw-ananda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ānanda' (SLP1 key: Ananda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Ananda"
+      },
+      {
+        "id": "mw-anga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṅga' (SLP1 key: aNga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aNga"
+      },
+      {
+        "id": "mw-araati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'arāti' (SLP1 key: arAti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=arAti"
+      },
+      {
+        "id": "mw-arka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'arka' (SLP1 key: arka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=arka"
+      },
+      {
+        "id": "mw-bhusha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhūṣā' (SLP1 key: BUzA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BUzA"
+      },
+      {
+        "id": "mw-id",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īḍ' (SLP1 key: Iq)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Iq"
+      },
+      {
+        "id": "mw-indu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'indu' (SLP1 key: indu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=indu"
+      },
+      {
+        "id": "mw-maha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahā' (SLP1 key: mahA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahA"
+      },
+      {
+        "id": "mw-natha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nātha' (SLP1 key: nATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nATa"
+      },
+      {
+        "id": "mw-netra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'netra' (SLP1 key: netra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=netra"
+      },
+      {
+        "id": "mw-pancan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcan' (SLP1 key: paYcan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcan"
+      },
+      {
+        "id": "mw-sura",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sura' (SLP1 key: sura)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sura"
+      },
+      {
+        "id": "mw-vahni",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vahni' (SLP1 key: vahni)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vahni"
+      },
+      {
+        "id": "mw-vaktra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vaktra' (SLP1 key: vaktra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vaktra"
+      },
+      {
+        "id": "mw-vibhuti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhūti' (SLP1 key: viBUti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBUti"
+      },
+      {
+        "id": "mw-virupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'virūpa' (SLP1 key: virUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=virUpa"
+      },
+      {
+        "id": "mw-vishva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśva' (SLP1 key: viSva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSva"
+      },
+      {
+        "id": "linga-purana-1-72",
+        "name": "Liṅga Purāṇa 1.72",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mahabharata-karna-8-24",
+        "name": "Mahābhārata, Karṇaparvan 8.24",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "kurma-purana-1-30",
+        "name": "Kūrma Purāṇa 1.30",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "kurma-purana-2-5",
+        "name": "Kūrma Purāṇa 2.5 (Īśvara Gītā)",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "kumarasambhava-3",
+        "name": "Kālidāsa, Kumārasambhava, canto 3",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "linga-purana-1-101",
+        "name": "Liṅga Purāṇa 1.101",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "linga-purana-1-3",
+        "name": "Liṅga Purāṇa 1.3",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "ramayana-bala-1-43",
+        "name": "Vālmīki Rāmāyaṇa, Bāla Kāṇḍa 43",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "bhagavata-8-7",
+        "name": "Bhāgavata Purāṇa 8.7",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mahanarayana-upanishad-17-23",
+        "name": "Mahānārāyaṇa Upaniṣad 17–23",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mandukya-upanishad",
+        "name": "Māṇḍūkya Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "taittiriya-upanishad-3-1",
+        "name": "Taittirīya Upaniṣad 3.1",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "shvetashvatara-upanishad",
+        "name": "Śvetāśvatara Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "katha-upanishad",
+        "name": "Kaṭha Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "shiva-purana-vidyeshvara",
+        "name": "Śiva Purāṇa, Vidyeśvara Saṃhitā",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "vimalananda-mahanarayana",
+        "name": "Mahānārāyaṇopaniṣad, translated with notes by Swami Vimalananda, Sri Ramakrishna Math, Madras, 1986",
+        "kind": "translation",
+        "url": "https://archive.org/details/qmhp-mahanarayana-upanishad-by-swami-vimalananda-sanskr"
+      },
+      {
+        "id": "mw-akshi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'akṣi' (SLP1 key: akzi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=akzi"
+      },
+      {
+        "id": "mw-arti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ārti' (SLP1 key: Arti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Arti"
+      },
+      {
+        "id": "mw-bhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhū' (SLP1 key: BU)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BU"
+      },
+      {
+        "id": "mw-ish",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īś' (SLP1 key: IS)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=IS"
+      },
+      {
+        "id": "mw-nath",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nāth' (SLP1 key: nAT)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nAT"
+      },
+      {
+        "id": "mw-aja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aja' (SLP1 key: aja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aja"
+      },
+      {
+        "id": "mw-bhas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhas' (SLP1 key: Bas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Bas"
+      },
+      {
+        "id": "mw-bhasvara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhāsvara' (SLP1 key: BAsvara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BAsvara"
+      },
+      {
+        "id": "mw-bhava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhava' (SLP1 key: Bava)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Bava"
+      },
+      {
+        "id": "mw-bhavani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhavānī' (SLP1 key: BavAnI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BavAnI"
+      },
+      {
+        "id": "mw-bhush",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhūṣ' (SLP1 key: BUz)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BUz"
+      },
+      {
+        "id": "mw-gale",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gale' (SLP1 key: gale)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gale"
+      },
+      {
+        "id": "mw-gam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gam' (SLP1 key: gam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gam"
+      },
+      {
+        "id": "mw-ganesha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaṇeśa' (SLP1 key: gaReSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaReSa"
+      },
+      {
+        "id": "mw-gavendra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gavendra' (SLP1 key: gavendra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gavendra"
+      },
+      {
+        "id": "mw-girisha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'girīśa' (SLP1 key: girISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=girISa"
+      },
+      {
+        "id": "mw-gunatita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'guṇātīta' (SLP1 key: guRAtIta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=guRAtIta"
+      },
+      {
+        "id": "mw-ita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ita' (SLP1 key: ita)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ita"
+      },
+      {
+        "id": "mw-kalatra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kalatra' (SLP1 key: kalatra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kalatra"
+      },
+      {
+        "id": "mw-mana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'manā' (SLP1 key: manA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=manA"
+      },
+      {
+        "id": "mw-nilavarna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nīlavarṇa' (SLP1 key: nIlavarRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nIlavarRa"
+      },
+      {
+        "id": "mw-rudha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rūḍha' (SLP1 key: rUQa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rUQa"
+      },
+      {
+        "id": "mw-rupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rūpa' (SLP1 key: rUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rUpa"
+      },
+      {
+        "id": "mw-adhirudha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'adhirūḍha' (SLP1 key: aDirUQa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aDirUQa"
+      },
+      {
+        "id": "mw-atita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'atīta' (SLP1 key: atIta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=atIta"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-bhasman",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhasman' (SLP1 key: Basman)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Basman"
+      },
+      {
+        "id": "mw-gala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gala' (SLP1 key: gala)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gala"
+      },
+      {
+        "id": "mw-gana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaṇa' (SLP1 key: gaRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaRa"
+      },
+      {
+        "id": "mw-giri",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'giri' (SLP1 key: giri)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=giri"
+      },
+      {
+        "id": "mw-go",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'go' (SLP1 key: go)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=go"
+      },
+      {
+        "id": "mw-guna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'guṇa' (SLP1 key: guRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=guRa"
+      },
+      {
+        "id": "mw-nila",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nīla' (SLP1 key: nIla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nIla"
+      },
+      {
+        "id": "mw-varna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'varṇa' (SLP1 key: varRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=varRa"
+      },
+      {
+        "id": "mw-adhiruh",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'adhiruh' (SLP1 key: aDiruh)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aDiruh"
+      },
+      {
+        "id": "mw-ati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'atī' (SLP1 key: atI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=atI"
+      },
+      {
+        "id": "mw-bhaas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhās' (SLP1 key: BAs)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BAs"
+      },
+      {
+        "id": "mw-nilakantha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nīlakaṇṭha' (SLP1 key: nIlakaRWa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nIlakaRWa"
+      },
+      {
+        "id": "mw-ruh",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ruh' (SLP1 key: ruh)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ruh"
+      },
+      {
+        "id": "mw-ambho",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ambho' (SLP1 key: amBo)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=amBo"
+      },
+      {
+        "id": "mw-apa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'āpa' (SLP1 key: Apa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Apa"
+      },
+      {
+        "id": "mw-dharin",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhārin' (SLP1 key: DArin)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DArin"
+      },
+      {
+        "id": "mw-dvy",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dvy' (SLP1 key: dvy)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=dvy"
+      },
+      {
+        "id": "mw-jaga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jaga' (SLP1 key: jaga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jaga"
+      },
+      {
+        "id": "mw-kanta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kānta' (SLP1 key: kAnta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAnta"
+      },
+      {
+        "id": "mw-maheshana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśāna' (SLP1 key: maheSAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSAna"
+      },
+      {
+        "id": "mw-maula",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maula' (SLP1 key: mOla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mOla"
+      },
+      {
+        "id": "mw-pra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pra' (SLP1 key: pra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pra"
+      },
+      {
+        "id": "mw-purna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pūrṇa' (SLP1 key: pUrRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pUrRa"
+      },
+      {
+        "id": "mw-rabhas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rabhas' (SLP1 key: raBas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=raBas"
+      },
+      {
+        "id": "mw-shashankardha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śaśāṅkārdha' (SLP1 key: SaSANkArDa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SaSANkArDa"
+      },
+      {
+        "id": "mw-shiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śivā' (SLP1 key: SivA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SivA"
+      },
+      {
+        "id": "mw-shulin",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūlin' (SLP1 key: SUlin)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUlin"
+      },
+      {
+        "id": "mw-sida",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sīda' (SLP1 key: sIda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sIda"
+      },
+      {
+        "id": "mw-vam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vam' (SLP1 key: vam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vam"
+      },
+      {
+        "id": "mw-vishvarupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśvarūpa' (SLP1 key: viSvarUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSvarUpa"
+      },
+      {
+        "id": "mw-ardha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ardha' (SLP1 key: arDa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=arDa"
+      },
+      {
+        "id": "mw-jagat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jagat' (SLP1 key: jagat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jagat"
+      },
+      {
+        "id": "mw-mauli",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mauli' (SLP1 key: mOli)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mOli"
+      },
+      {
+        "id": "mw-prasad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prasad' (SLP1 key: prasad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prasad"
+      },
+      {
+        "id": "mw-shambhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śambhu' (SLP1 key: SamBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SamBu"
+      },
+      {
+        "id": "mw-shashanka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śaśāṅka' (SLP1 key: SaSANka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SaSANka"
+      },
+      {
+        "id": "mw-tvad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tvad' (SLP1 key: tvad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tvad"
+      },
+      {
+        "id": "mw-vyapaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vyāpaka' (SLP1 key: vyApaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vyApaka"
+      },
+      {
+        "id": "mw-ishana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśāna' (SLP1 key: ISAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISAna"
+      },
+      {
+        "id": "mw-kam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kam' (SLP1 key: kam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kam"
+      },
+      {
+        "id": "mw-prasada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prasāda' (SLP1 key: prasAda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prasAda"
+      },
+      {
+        "id": "mw-sad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sad' (SLP1 key: sad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sad"
+      },
+      {
+        "id": "mw-sham",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śam' (SLP1 key: Sam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Sam"
+      },
+      {
+        "id": "mw-shasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śaśa' (SLP1 key: SaSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SaSa"
+      },
+      {
+        "id": "mw-shula",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūla' (SLP1 key: SUla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUla"
+      },
+      {
+        "id": "mw-vyap",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vyāp' (SLP1 key: vyAp)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vyAp"
+      }
+    ]
+  },
+  "patch": [
+    {
+      "op": "replace",
+      "path": "/verses/3/words/w4/confidence",
+      "value": "medium"
+    }
+  ],
+  "disputes": []
+}

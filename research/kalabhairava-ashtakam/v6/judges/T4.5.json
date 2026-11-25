@@ -1,0 +1,12 @@
+{
+  "check": "T4.5",
+  "fields_hash": "36d188840d3cb57f",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a1.body.en",
+      "message": "The gloss of a-dvitīya adds 'nothing beside Him'. MW a-dvitīya (mw-advitiya.md, p. 19,3) gives only 'without a second, sole, unique, matchless', which means no equal or rival. 'Nothing beside Him' can be read as the Advaita claim that nothing else exists. The Hindi ('जिनका कोई दूसरा नहीं') does not make this claim. Only a mild drift, so a human should decide.",
+      "suggested_fix": "*a-dvitīya*, 'without a second', none to equal Him;"
+    }
+  ]
+}

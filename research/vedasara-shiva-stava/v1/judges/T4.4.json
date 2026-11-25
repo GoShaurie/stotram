@@ -1,0 +1,12 @@
+{
+  "check": "T4.4",
+  "fields_hash": "ebe39d458401b3c7",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w14.notes",
+      "message": "smarāri is explained properly: c7 gives the vigraha स्मरस्य अरिः and mw-smarari matches it. The issue is the wordplay. The line sets smarāmi ('I remember') right next to smarārim ('enemy of Smara'). Both come from √smṛ: w14.components[0].root records smṛ 'to remember', and the mw-smara gloss runs 'memory, remembrance; love; Kāma-deva'. No visible note points this out, and neither w13 nor w14 has one that does. The name's meaning is given, so this is not a fail, but the verse is playing on the name and a reader would miss it. A human should decide whether to add a short note.",
+      "suggested_fix": "Add words.w14.notes (en/hi), e.g. en: 'Smara, the god of love, is literally \"remembrance\" (from √smṛ, the same root as smarāmi). The line plays on this: \"I remember (smarāmi) the enemy of Smara (smarārim)\".'"
+    }
+  ]
+}

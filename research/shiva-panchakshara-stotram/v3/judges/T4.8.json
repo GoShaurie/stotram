@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "230ae6461008411e",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines[0][1]",
+      "message": "Read together, segments w2 + w3 give 'who to the cluster of lotuses that is Gaurī's face is the sun that makes it bloom'. Without commas the fronted 'to the cluster ...' runs straight into 'is the sun', and the later 'it' points back to the same cluster, so the sentence reads stilted and is hard to parse on first reading. The meaning is correct (it matches gitapress-stotraratnavali.md: 'मुखकमलको विकसित ... करनेके लिये जो सूर्यस्वरूप हैं'). This is a fluency issue only.",
+      "suggested_fix": "Set off the fronted phrase with commas: w2 'who, to the cluster of lotuses that is Gaurī's face,' and w3 'is the sun that makes it bloom,'. Or reword w2 as 'who, for the lotus-cluster of Gaurī's face,' and keep w3 as it is."
+    }
+  ]
+}

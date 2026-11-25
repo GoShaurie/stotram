@@ -1,0 +1,434 @@
+{
+  "stotram": "vedasara-shiva-stava",
+  "verse": "v1",
+  "date": "2026-11-24",
+  "summary": {
+    "blockers_failed": 0,
+    "majors_failed": 0,
+    "minors_failed": 0,
+    "flags": 11,
+    "skipped": 0,
+    "judges_pending": 0,
+    "penalty": 0,
+    "exit_ready": true
+  },
+  "results": [
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.2",
+      "status": "flag",
+      "message": "Text lock not yet confirmed by a human.",
+      "path": "lock.confirmed_by",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.10",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "TOOL"
+    },
+    {
+      "check": "T1.8",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'pāpanāśam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p3",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'vasānam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p7",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'sphuradgāṅgavārim' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p10",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.4a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.5a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.10a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8b",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9a",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9c",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8b",
+      "status": "flag",
+      "message": "The type tatpuruṣa is acceptable, but the vigraha 'पापानां नाशः' means 'the destruction of sins', while the compound's meaning and note give 'the destroyer of sins' as an epithet of Śiva. mw-nasha supports the agent sense only for nāśa used ifc. ('destroying, annihilating'). A vigraha that analyses it as an agent would match the meaning: e.g. 'पापानां नाशः (नाशकः)', or upapada-style 'पापं नाशयति इति'. Another option is a bahuvrīhi reading like 'पापानां नाशो यस्मात्'. This is not a clear type error, so a human should decide how to word the vigraha.",
+      "path": "compounds.c1.vigraha",
+      "suggested_fix": "Change vigraha to 'पापानि नाशयति इति पापनाशः' (or 'पापानां नाशकः'), keeping type tatpuruṣa, so the vigraha matches the agent meaning 'destroyer of sins'.",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T2.9b",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.5",
+      "status": "flag",
+      "message": "EN segment 'of all living beings' (refs w1) adds 'all'. No pada says 'all': paśūnām is just a genitive plural, and w1.meaning.en is 'of living beings'. It is a small addition, and gitapress-stotraratnavali has 'सम्पूर्ण प्राणियोंके', so a source does read it that way. But the HI segment ('प्राणियों के') and the EN bhāvārtha ('Lord of living beings') both leave it out, so the EN line says slightly more than the rest of the data. A human should decide whether to keep it.",
+      "path": "translations.en.lines[0][1]",
+      "suggested_fix": "Change the text to 'of living beings,' so it matches w1.meaning, the HI line and the bhāvārtha. Or, if 'all' is wanted, add it in HI too ('सब प्राणियों के') and in the bhāvārtha.",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.6",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.2",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.4",
+      "status": "flag",
+      "message": "smarāri is explained properly: c7 gives the vigraha स्मरस्य अरिः and mw-smarari matches it. The issue is the wordplay. The line sets smarāmi ('I remember') right next to smarārim ('enemy of Smara'). Both come from √smṛ: w14.components[0].root records smṛ 'to remember', and the mw-smara gloss runs 'memory, remembrance; love; Kāma-deva'. No visible note points this out, and neither w13 nor w14 has one that does. The name's meaning is given, so this is not a fail, but the verse is playing on the name and a reader would miss it. A human should decide whether to add a short note.",
+      "path": "words.w14.notes",
+      "suggested_fix": "Add words.w14.notes (en/hi), e.g. en: 'Smara, the god of love, is literally \"remembrance\" (from √smṛ, the same root as smarāmi). The line plays on this: \"I remember (smarāmi) the enemy of Smara (smarārim)\".'",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.5",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.10",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'jagat' is analysed differently in v10 and v11; fine if the context differs, but say why",
+      "path": "v11.p2",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'jagat' is analysed differently in v10 and v11; fine if the context differs, but say why",
+      "path": "v11.p10",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'jagat' is analysed differently in v10 and v11; fine if the context differs, but say why",
+      "path": "v11.p17",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'etat' is analysed differently in v10 and v11; fine if the context differs, but say why",
+      "path": "v11.p18",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    }
+  ]
+}

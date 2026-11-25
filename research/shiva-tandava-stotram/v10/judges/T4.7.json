@@ -1,0 +1,12 @@
+{
+  "check": "T4.7",
+  "fields_hash": "056eefd383a4e62b",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.hi.lines[0][3].text",
+      "message": "HI bee is charmed by the welling-up, EN merely 'at' it.",
+      "suggested_fix": "Align EN and HI."
+    }
+  ]
+}

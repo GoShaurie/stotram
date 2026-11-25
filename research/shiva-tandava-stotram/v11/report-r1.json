@@ -1,0 +1,407 @@
+{
+  "stotram": "shiva-tandava-stotram",
+  "verse": "v11",
+  "date": "2026-10-23",
+  "summary": {
+    "blockers_failed": 0,
+    "majors_failed": 0,
+    "minors_failed": 0,
+    "flags": 10,
+    "skipped": 0,
+    "judges_pending": 0,
+    "penalty": 0,
+    "exit_ready": true
+  },
+  "results": [
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.2",
+      "status": "flag",
+      "message": "Text lock not yet confirmed by a human.",
+      "path": "lock.confirmed_by",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.10",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "TOOL"
+    },
+    {
+      "check": "T1.8",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.1",
+      "status": "flag",
+      "message": "Vidyut's sandhi rules can't split 'bhujaṅgamaśvasa' into bhujaṅgama + śvasat; verify by hand",
+      "path": "words.w3.padaccheda",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.1",
+      "status": "flag",
+      "message": "Vidyut's sandhi rules can't split 'dvinirgamatkrama' into vinirgamat + krama; verify by hand",
+      "path": "words.w4.padaccheda",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.4a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.5a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.10a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8b",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9a",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8b",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T2.9b",
+      "status": "flag",
+      "message": "Groups (karāla-bhāla)-havyavāh; vyakhya-sts-11 reads karāla-(bhāla-havyavāh) (भालहव्यवाट् = ललाटाग्नि, the fire is fierce). Only one grouping is mentioned.",
+      "path": "compounds.c1.structure",
+      "suggested_fix": "Mention the other grouping in c1.note, or switch.",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.5",
+      "status": "flag",
+      "message": "Bhāvārtha (EN and HI) ends with Rāvaṇa crying out; he is in no pada and not in adhyāhāra (vyakhya's commentary supports the framing).",
+      "path": "translations.en.bhavartha",
+      "suggested_fix": "End with 'Glory to Śiva!' / 'शिव की जय हो!' and move the Rāvaṇa framing to an annotation, or keep it as commentary framing.",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.6",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.2",
+      "status": "flag",
+      "message": "maṅgala is adjectival here but sense cites the neuter noun 'anything auspicious'; MW's mfn. 'auspicious, lucky' fits.",
+      "path": "words.w7.components[2].sense",
+      "suggested_fix": "sense.gloss 'auspicious, lucky'",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.5",
+      "status": "flag",
+      "message": "Bhāvārthas present Rāvaṇa as the speaker without the traditional hedge used at stotram level.",
+      "path": "translations.en.bhavartha",
+      "suggested_fix": "'The poet (by tradition, Rāvaṇa) sees all of it…' / 'कवि (परम्परा से रावण)…'",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "flag",
+      "message": "'the old title of Agni, who carries offerings to the gods' goes beyond mw-havyavaha ('Agni or fire').",
+      "path": "annotations.a3.body",
+      "suggested_fix": "'havya-vāh, \"oblation-bearer\" (havya, an oblation, MW), a name of Agni or fire' (HI too).",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "flag",
+      "message": "'barrel drum' is stronger than the evidence (MW: 'a kind of drum, tabour').",
+      "path": "annotations.a4.body",
+      "suggested_fix": "'The mṛdaṅga is a kind of drum (MW: \"a kind of drum, tabour\")'",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.10",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'naḥ' is analysed differently in v1 and v6; fine if the context differs, but say why",
+      "path": "v6.p10",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    }
+  ]
+}

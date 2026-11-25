@@ -1,0 +1,1110 @@
+{
+  "group": "structure",
+  "checks": {
+    "T2.8b": "checks/judges/T2.8b.md",
+    "T2.9b": "checks/judges/T2.9b.md",
+    "T3.4": "checks/judges/T3.4.md"
+  },
+  "stotram": {
+    "id": "shiva-panchakshara-stotram",
+    "title": {
+      "sa": "शिवपञ्चाक्षरस्तोत्रम्",
+      "iast": "Śivapañcākṣarastotram",
+      "en": "Shiva Panchakshara Stotram",
+      "hi": "शिव पञ्चाक्षर स्तोत्र"
+    }
+  },
+  "verse": {
+    "id": "v3",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "शिवाय",
+            "iast": "śivāya"
+          },
+          {
+            "id": "w2",
+            "text": "गौरीवदनाब्जवृन्द",
+            "iast": "gaurīvadanābjavṛnda"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "सूर्याय",
+            "iast": "sūryāya"
+          },
+          {
+            "id": "w4",
+            "text": "दक्षाध्वरनाशकाय",
+            "iast": "dakṣādhvaranāśakāya"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "श्रीनीलकण्ठाय",
+            "iast": "śrīnīlakaṇṭhāya"
+          },
+          {
+            "id": "w6",
+            "text": "वृषध्वजाय",
+            "iast": "vṛṣadhvajāya"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "तस्मै",
+            "iast": "tasmai"
+          },
+          {
+            "id": "w8",
+            "text": "शिकाराय",
+            "iast": "śikārāya"
+          },
+          {
+            "id": "w9",
+            "text": "नमः",
+            "iast": "namaḥ"
+          },
+          {
+            "id": "w10",
+            "text": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "end": "॥ ३ ॥"
+      }
+    ],
+    "adhyahara": [
+      {
+        "id": "x1",
+        "sa": "अस्तु",
+        "iast": "astu",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "अस्",
+            "iast": "as",
+            "gana": 2
+          },
+          "lakara": "loṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null,
+        "meaning": {
+          "en": "let (it) be",
+          "hi": "हो"
+        }
+      }
+    ],
+    "anvaya": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p9",
+      "p8",
+      "x1"
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w2",
+          "w3"
+        ],
+        "iast": "gaurī-vadana-abja-vṛnda-sūryāya",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "(((gaurī-vadana)-(abja-vṛnda))-sūrya)",
+        "vigraha": "गौर्याः वदनम् एव अब्जवृन्दम्, तस्य सूर्यः, तस्मै",
+        "meaning": {
+          "en": "to Him who is the sun that makes the cluster of lotuses that is Gaurī's face bloom, i.e. who gladdens Her",
+          "hi": "उन (शिव) को, जो गौरी के मुख-रूपी कमल-समूह को खिलाने (प्रसन्न करने) वाले सूर्य हैं"
+        },
+        "note": {
+          "en": "One compound running across the pāda break: gaurī-vadana 'Gaurī's face' is called abja-vṛnda 'a cluster of lotuses', and sūrya 'sun' is the sun to that cluster. Only the last word carries the 'to' ending, so the whole compound is a title of Śiva.",
+          "hi": "एक ही समास, जो चरण की सीमा पार करता है: गौरी-वदन 'गौरी का मुख' ही अब्ज-वृन्द 'कमलों का समूह' कहा गया है, और सूर्य उस समूह का सूर्य है। 'को' वाला अन्त केवल अन्तिम शब्द पर है, इसलिए पूरा समास शिव की उपाधि है।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w4"
+        ],
+        "iast": "dakṣa-adhvara-nāśakāya",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((dakṣa-adhvara)-nāśaka)",
+        "vigraha": "दक्षस्य अध्वरः दक्षाध्वरः, तस्य नाशकः, तस्मै",
+        "meaning": {
+          "en": "to the destroyer of Dakṣa's sacrifice",
+          "hi": "दक्ष के यज्ञ का नाश करने वाले को"
+        },
+        "note": {
+          "en": "dakṣa-adhvara 'Dakṣa's sacrifice' is what nāśaka 'destroyer' acts on.",
+          "hi": "दक्ष-अध्वर 'दक्ष का यज्ञ' वह है जिसका नाशक 'नाश करने वाला' नाश करता है।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w5"
+        ],
+        "iast": "śrī-nīla-kaṇṭhāya",
+        "type": "karmadhāraya",
+        "structure": "(śrī-(nīla-kaṇṭha))",
+        "vigraha": "नीलः कण्ठः यस्य सः नीलकण्ठः; श्रीमान् नीलकण्ठः श्रीनीलकण्ठः, तस्मै",
+        "meaning": {
+          "en": "to the glorious Blue-throated one",
+          "hi": "शोभाशाली नीलकण्ठ को"
+        },
+        "note": {
+          "en": "nīla-kaṇṭha 'the one whose throat is blue' is a name of Śiva; śrī 'glory' set before it honours the name.",
+          "hi": "नील-कण्ठ 'जिनका कण्ठ नीला है' शिव का नाम है; उसके आगे लगा श्री 'शोभा' नाम का आदर करता है।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w6"
+        ],
+        "iast": "vṛṣa-dhvajāya",
+        "type": "bahuvrīhi",
+        "vigraha": "वृषः ध्वजे यस्य सः, तस्मै",
+        "meaning": {
+          "en": "to Him who has the bull on His banner",
+          "hi": "उन (शिव) को, जिनकी ध्वजा पर बैल का चिह्न है"
+        },
+        "note": {
+          "en": "vṛṣa 'bull' + dhvaja 'banner, emblem': the one whose banner bears the bull.",
+          "hi": "वृष 'बैल' + ध्वज 'ध्वजा, चिह्न': जिनकी ध्वजा पर बैल है।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "शिवाय",
+        "iast": "śivāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p9"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2",
+          "w3"
+        ],
+        "sa": "गौरीवदनाब्जवृन्दसूर्याय",
+        "iast": "gaurīvadanābjavṛndasūryāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "गौरीवदनाब्जवृन्दसूर्य",
+            "iast": "gaurīvadanābjavṛndasūrya"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p9"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w4"
+        ],
+        "sa": "दक्षाध्वरनाशकाय",
+        "iast": "dakṣādhvaranāśakāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "दक्षाध्वरनाशक",
+            "iast": "dakṣādhvaranāśaka"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p9"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w5"
+        ],
+        "sa": "श्रीनीलकण्ठाय",
+        "iast": "śrīnīlakaṇṭhāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "श्रीनीलकण्ठ",
+            "iast": "śrīnīlakaṇṭha"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p9"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w6"
+        ],
+        "sa": "वृषध्वजाय",
+        "iast": "vṛṣadhvajāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वृषध्वज",
+            "iast": "vṛṣadhvaja"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p9"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w7"
+        ],
+        "sa": "तस्मै",
+        "iast": "tasmai",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p9"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w8"
+        ],
+        "sa": "शिकाराय",
+        "iast": "śikārāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिकार",
+            "iast": "śikāra"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p9"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w9"
+        ],
+        "sa": "नमः",
+        "iast": "namaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नमस्",
+            "iast": "namas"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "x1"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w10"
+        ],
+        "sa": "शिवाय",
+        "iast": "śivāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "sampradāna",
+        "head": "p8"
+      }
+    ],
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiva",
+              "gloss": "auspicious, propitious, gracious, favourable, benign, kind"
+            },
+            "meaning": {
+              "en": "auspicious",
+              "hi": "कल्याणकारी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) the auspicious one",
+          "hi": "(उन को, अर्थात् शिव को) जो कल्याण-रूप हैं"
+        },
+        "literal": {
+          "en": "to the auspicious one",
+          "hi": "कल्याणकारी को"
+        },
+        "aside": {
+          "en": "The verse opens with the very word it ends on: śivāya. First it means 'to the auspicious one'; at the close it is His name, 'to Śiva'.",
+          "hi": "श्लोक उसी शब्द से शुरू होता है जिस पर समाप्त होता है: शिवाय। पहले इसका अर्थ है 'कल्याण-रूप को'; अन्त में यह उनका नाम है, 'शिव को'।"
+        },
+        "notes": {
+          "en": "śiva here is the word's plain sense, 'auspicious, kind', describing the Śiva named at the end of the refrain.",
+          "hi": "यहाँ शिव का सीधा अर्थ है 'कल्याणकारी, कृपालु', जो टेक के अन्त में नामित शिव का वर्णन करता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-shiva",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "गौरी",
+            "iast": "gaurī"
+          },
+          {
+            "sa": "वदन",
+            "iast": "vadana"
+          },
+          {
+            "sa": "अब्ज",
+            "iast": "abja"
+          },
+          {
+            "sa": "वृन्द",
+            "iast": "vṛnda"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇadīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of vadana and the first a of abja merge into one long ā: vadana + abja → vadanābja.",
+              "hi": "वदन का अन्तिम 'अ' और अब्ज का पहला 'अ' मिलकर एक दीर्घ 'आ' बन जाते हैं: वदन + अब्ज → वदनाब्ज।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "गौरी",
+            "iast": "gaurī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गौरी",
+              "iast": "gaurī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "gaurī",
+              "gloss": "‘brilliant Goddess’, Śiva's wife Pārvatī"
+            },
+            "meaning": {
+              "en": "Gaurī",
+              "hi": "गौरी"
+            }
+          },
+          {
+            "sa": "वदन",
+            "iast": "vadana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वदन",
+              "iast": "vadana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vadana",
+              "gloss": "the mouth, face, countenance"
+            },
+            "meaning": {
+              "en": "face",
+              "hi": "मुख"
+            }
+          },
+          {
+            "sa": "अब्ज",
+            "iast": "abja",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अब्ज",
+              "iast": "abja"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "abja",
+              "gloss": "a lotus"
+            },
+            "meaning": {
+              "en": "lotus",
+              "hi": "कमल"
+            }
+          },
+          {
+            "sa": "वृन्द",
+            "iast": "vṛnda",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वृन्द",
+              "iast": "vṛnda"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vṛnda",
+              "gloss": "a bunch, cluster (of flowers or berries &c.)"
+            },
+            "meaning": {
+              "en": "cluster",
+              "hi": "समूह"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva, who is the sun) to the cluster of lotuses that is Gaurī's face",
+          "hi": "(उन को, अर्थात् शिव को, जो) गौरी के मुख-रूपी कमल-समूह के लिए (सूर्य हैं)"
+        },
+        "literal": {
+          "en": "Gaurī's face-lotus-cluster",
+          "hi": "गौरी-मुख-कमल-समूह"
+        },
+        "notes": {
+          "en": "First half of the compound c1, which runs across the pāda break and ends in sūryāya (w3). Gaurī, 'the shining one', is Pārvatī. Also printed vadanābjabṛnda (same word, other spelling), vadanābjabāla and vadanāravinda; see a1.",
+          "hi": "समास c1 का पहला भाग, जो चरण की सीमा पार करके सूर्याय (w3) पर समाप्त होता है। गौरी, 'उज्ज्वल देवी', पार्वती हैं। पाठ वदनाब्जबृन्द (वही शब्द, दूसरी वर्तनी), वदनाब्जबाल और वदनारविन्द रूप में भी छपा है; देखें a1।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-gauri",
+          "mw-vadana",
+          "mw-abja",
+          "mw-vrnda",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "सूर्याय",
+            "iast": "sūryāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सूर्य",
+            "iast": "sūrya",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सूर्य",
+              "iast": "sūrya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sūrya",
+              "gloss": "the sun or its deity"
+            },
+            "meaning": {
+              "en": "sun",
+              "hi": "सूर्य"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is the sun that makes the lotus-cluster of Gaurī's face bloom, i.e. who gladdens Her",
+          "hi": "(उनको, अर्थात् शिव को) जो गौरी के मुख-कमलों को खिलाने (प्रसन्न करने) वाले सूर्य हैं"
+        },
+        "notes": {
+          "en": "Last member of the compound c1 begun in w2; its 'to' ending belongs to the whole compound.",
+          "hi": "w2 में शुरू हुए समास c1 का अन्तिम पद; इसका 'को' वाला अन्त पूरे समास का है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-surya",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ],
+        "literal": {
+          "en": "(to Him, i.e. Śiva) who is the sun (to the lotus-cluster of Gaurī's face)",
+          "hi": "(उन को, अर्थात् शिव को) जो (गौरी के मुख-कमलों के लिए) सूर्य हैं"
+        }
+      },
+      "w4": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "दक्ष",
+            "iast": "dakṣa"
+          },
+          {
+            "sa": "अध्वर",
+            "iast": "adhvara"
+          },
+          {
+            "sa": "नाशकाय",
+            "iast": "nāśakāya"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇadīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of dakṣa and the first a of adhvara merge into one long ā: dakṣa + adhvara → dakṣādhvara.",
+              "hi": "दक्ष का अन्तिम 'अ' और अध्वर का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: दक्ष + अध्वर → दक्षाध्वर।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "दक्ष",
+            "iast": "dakṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दक्ष",
+              "iast": "dakṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dakṣa",
+              "gloss": "N. of one of the Prajā-patis"
+            },
+            "meaning": {
+              "en": "Dakṣa",
+              "hi": "दक्ष"
+            }
+          },
+          {
+            "sa": "अध्वर",
+            "iast": "adhvara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अध्वर",
+              "iast": "adhvara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "adhvara",
+              "gloss": "a sacrifice"
+            },
+            "meaning": {
+              "en": "sacrifice",
+              "hi": "यज्ञ"
+            }
+          },
+          {
+            "sa": "नाशक",
+            "iast": "nāśaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नश्",
+              "iast": "naś",
+              "gana": 4,
+              "gloss": {
+                "en": "to perish; (causative) to destroy",
+                "hi": "नष्ट होना; (प्रेरणार्थक) नष्ट करना"
+              }
+            },
+            "formation": "√naś (causative nāśi) + ṇvul (agent noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "nāśaka",
+              "gloss": "destroying, annihilating, removing"
+            },
+            "meaning": {
+              "en": "destroyer",
+              "hi": "नाशक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) the destroyer of Dakṣa's sacrifice",
+          "hi": "(उन को, अर्थात् शिव को) जो दक्ष के यज्ञ का नाश करने वाले हैं"
+        },
+        "notes": {
+          "en": "dakṣādhvara is the same as dakṣa-yajña, 'Dakṣa's sacrifice'. nāśaka takes what it destroys as the first part of the compound.",
+          "hi": "दक्षाध्वर वही है जो दक्ष-यज्ञ, 'दक्ष का यज्ञ'। नाशक जिसका नाश करता है, वह समास के पहले भाग में आता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dakshadhvara",
+          "mw-daksha",
+          "mw-adhvara",
+          "mw-nashaka",
+          "mw-nash",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w5": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "श्री",
+            "iast": "śrī"
+          },
+          {
+            "sa": "नील",
+            "iast": "nīla"
+          },
+          {
+            "sa": "कण्ठाय",
+            "iast": "kaṇṭhāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "श्री",
+            "iast": "śrī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "श्री",
+              "iast": "śrī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śrī",
+              "gloss": "light, lustre, radiance, splendour, glory, beauty"
+            },
+            "meaning": {
+              "en": "glorious",
+              "hi": "शोभाशाली"
+            }
+          },
+          {
+            "sa": "नील",
+            "iast": "nīla",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नील",
+              "iast": "nīla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nīla",
+              "gloss": "of a dark colour, (esp.) dark-blue"
+            },
+            "meaning": {
+              "en": "blue",
+              "hi": "नीला"
+            }
+          },
+          {
+            "sa": "कण्ठ",
+            "iast": "kaṇṭha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कण्ठ",
+              "iast": "kaṇṭha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kaṇṭha",
+              "gloss": "the throat, the neck"
+            },
+            "meaning": {
+              "en": "throat",
+              "hi": "कण्ठ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) the glorious Blue-throated one",
+          "hi": "(उन को, अर्थात् शिव को) जो शोभाशाली नीलकण्ठ हैं"
+        },
+        "literal": {
+          "en": "to the glorious one whose throat is blue",
+          "hi": "जिनका कण्ठ नीला है, उन शोभाशाली को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Nīlakaṇṭha, 'whose throat is blue', is a name of Śiva; śrī before it is an honorific. The dictionary's entry śrī-nīlakaṇṭha names a Jina and does not apply.",
+          "hi": "नीलकण्ठ, 'जिनका कण्ठ नीला है', शिव का नाम है; उसके आगे श्री आदरसूचक है। शब्दकोश की प्रविष्टि श्री-नीलकण्ठ एक जिन का नाम है, वह यहाँ लागू नहीं।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-nilakantha",
+          "mw-nila",
+          "mw-kantha",
+          "mw-shri",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w6": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "वृष",
+            "iast": "vṛṣa"
+          },
+          {
+            "sa": "ध्वजाय",
+            "iast": "dhvajāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "वृष",
+            "iast": "vṛṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वृष",
+              "iast": "vṛṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vṛṣa",
+              "gloss": "a bull"
+            },
+            "meaning": {
+              "en": "bull",
+              "hi": "बैल"
+            }
+          },
+          {
+            "sa": "ध्वज",
+            "iast": "dhvaja",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ध्वज",
+              "iast": "dhvaja"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dhvaja",
+              "gloss": "a banner, flag, standard"
+            },
+            "meaning": {
+              "en": "banner",
+              "hi": "ध्वजा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who has the bull on His banner",
+          "hi": "(उन को, अर्थात् शिव को) जिनकी ध्वजा पर बैल का चिह्न है"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "A dhvaja is a banner or emblem. Śiva's bears a bull, so Vṛṣadhvaja, 'bull-bannered', is one of His names.",
+          "hi": "ध्वज यानी ध्वजा या चिह्न। शिव की ध्वजा पर बैल है, इसलिए वृषध्वज, 'बैल की ध्वजा वाले', उनका एक नाम है।"
+        },
+        "notes": {
+          "en": "Same as vṛṣa-ketana, 'having a bull for a sign', a name of Śiva.",
+          "hi": "वृष-केतन, 'बैल जिनका चिह्न है', के समान; यह शिव का नाम है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vrshadhvaja",
+          "mw-vrshaketana",
+          "mw-vrsha",
+          "mw-dhvaja",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "तस्मै",
+            "iast": "tasmai"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तस्मै",
+            "iast": "tasmai",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tad",
+              "gloss": "he, she, it, that, this"
+            },
+            "meaning": {
+              "en": "to Him",
+              "hi": "उनको"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to Him, i.e. Śiva (the one just described)",
+          "hi": "उन को, अर्थात् शिव को (जिनका अभी वर्णन हुआ)"
+        },
+        "notes": {
+          "en": "'To that one': it gathers up all the descriptions before it and hands them to the refrain. Vidyut's split tas + mai is not a real division; tasmai is a single form of tad.",
+          "hi": "'उनको': यह पहले के सारे वर्णन समेटकर टेक को सौंप देता है। Vidyut का विभाजन तस् + मै वास्तविक नहीं; तस्मै तद् का एक ही रूप है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tad",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "शि",
+            "iast": "śi"
+          },
+          {
+            "sa": "काराय",
+            "iast": "kārāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शि",
+            "iast": "śi",
+            "pos": "syllable",
+            "meaning": {
+              "en": "śi (the sound)",
+              "hi": "'शि' (ध्वनि)"
+            }
+          },
+          {
+            "sa": "कार",
+            "iast": "kāra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to make",
+                "hi": "करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāra",
+              "gloss": "the term used in designating a letter or sound"
+            },
+            "meaning": {
+              "en": "letter",
+              "hi": "अक्षर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is the syllable śi",
+          "hi": "(उन को, अर्थात् शिव को) जो 'शि' अक्षर-रूप हैं"
+        },
+        "literal": {
+          "en": "to the letter śi",
+          "hi": "'शि' अक्षर को"
+        },
+        "notes": {
+          "en": "śi + kāra, like na-kāra in verse 1: kāra after a sound names that sound as a letter. Here it is the śi of na-maḥ śi-vā-ya, with which this verse opens (śi-vāya). Vidyut's reading with i-kāra ('the letter i') is wrong; the word is not split that way.",
+          "hi": "शि + कार, जैसे पहले श्लोक में न-कार: किसी ध्वनि के बाद 'कार' उसे अक्षर के रूप में नाम देता है। यहाँ यह न-मः शि-वा-य का 'शि' है, जिससे यह श्लोक आरम्भ होता है (शि-वाय)। Vidyut का इ-कार ('इ' अक्षर) वाला विभाजन गलत है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-kara",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "नमः",
+            "iast": "namaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "नमस्",
+            "iast": "namas",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नम्",
+              "iast": "nam",
+              "gana": 1,
+              "gloss": {
+                "en": "to bow",
+                "hi": "झुकना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "namas",
+              "gloss": "bow, obeisance, reverential salutation, adoration"
+            },
+            "meaning": {
+              "en": "salutation",
+              "hi": "नमस्कार"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "salutation, a bow",
+          "hi": "नमस्कार, प्रणाम"
+        },
+        "notes": {
+          "en": "namas takes the one it honours with the 'to' ending (śivāya, 'to Śiva'). No verb is written; 'let there be' (astu) is understood.",
+          "hi": "नमः के साथ जिसे प्रणाम किया जाता है उसका रूप 'को' वाला होता है (शिवाय, 'शिव को')। क्रिया लिखी नहीं है; 'हो' (अस्तु) समझा जाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-namas",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiva",
+              "gloss": "‘The Auspicious one’"
+            },
+            "meaning": {
+              "en": "Śiva",
+              "hi": "शिव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to Śiva",
+          "hi": "शिव को"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-shiva",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      }
+    }
+  }
+}

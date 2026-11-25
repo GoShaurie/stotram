@@ -1,0 +1,1565 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Rāvaṇa, the king of Laṅkā and a devotee of Śiva.",
+      "hi": "परम्परा से लंकापति रावण द्वारा रचित माना जाता है, जो शिव के परम भक्त थे।"
+    },
+    "sources": [
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), ed. Swami Devarupananda, Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007 — शिवताण्डवस्तोत्रम् [15] (श्री रावण कृतम्); scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/468/mode/1up"
+      },
+      {
+        "id": "sa-wikisource-shivatandava",
+        "name": "विकिस्रोतः (Sanskrit Wikisource) — शिवताण्डवस्तोत्रम् (रावण); headed \"॥अथ सुसंशुद्धं रावणकृतशिवताण्डवस्तोत्रम्॥\"",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"
+      },
+      {
+        "id": "sanskritdocuments-shivtand-meaning",
+        "name": "sanskritdocuments.org — Shivatandava Stotra with meaning (shivTAND_meaning.itx); word-meanings and translation by Dr. Sarasvati Mohan and students, Samskrit Academy, San Jose CA",
+        "kind": "translation",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivTAND_meaning.html"
+      },
+      {
+        "id": "sanskritdocuments-shivtand",
+        "name": "sanskritdocuments.org — श्रीशिवताण्डवस्तोत्रम् रावणरचितम् (shivtAND.itx; transliterated and proofread by Girish Beeharry and Sushil D. Sharma; \"Extended version with 17 verses\")",
+        "kind": "text",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivtAND.html"
+      },
+      {
+        "id": "shlokam-shiva-tandava",
+        "name": "shlokam.org — Shiva Tandava Stotram (Devanagari, IAST, simplified roman, verse translation, word-meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/shiva-tandava-stotram.htm"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-bhujamga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhujaṃga' (SLP1 key: BujaMga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BujaMga"
+      },
+      {
+        "id": "vyakhya-sts-12",
+        "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक १२ (Shloka 12 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+        "kind": "commentary",
+        "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-12/"
+      },
+      {
+        "id": "mw-drshad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dṛṣad' (SLP1 key: dfzad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=dfzad"
+      },
+      {
+        "id": "mw-garishtha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gariṣṭha' (SLP1 key: garizWa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=garizWa"
+      },
+      {
+        "id": "mw-kada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kadā' (SLP1 key: kadA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kadA"
+      },
+      {
+        "id": "mw-loshtha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'loṣṭha' (SLP1 key: lozWa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lozWa"
+      },
+      {
+        "id": "mw-mauktika",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mauktika' (SLP1 key: mOktika)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mOktika"
+      },
+      {
+        "id": "mw-praja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prajā' (SLP1 key: prajA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prajA"
+      },
+      {
+        "id": "mw-ratna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ratna' (SLP1 key: ratna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ratna"
+      },
+      {
+        "id": "mw-sadashiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sadāśiva' (SLP1 key: sadASiva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sadASiva"
+      },
+      {
+        "id": "mw-sama",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sama' (SLP1 key: sama)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sama"
+      },
+      {
+        "id": "mw-suhrd",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'suhṛd' (SLP1 key: suhfd)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=suhfd"
+      },
+      {
+        "id": "mw-talpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'talpa' (SLP1 key: talpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=talpa"
+      },
+      {
+        "id": "mw-trna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tṛṇa' (SLP1 key: tfRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tfRa"
+      },
+      {
+        "id": "mw-vicitra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vicitra' (SLP1 key: vicitra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vicitra"
+      },
+      {
+        "id": "mw-vipaksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vipakṣa' (SLP1 key: vipakza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vipakza"
+      },
+      {
+        "id": "mw-aravinda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aravinda' (SLP1 key: aravinda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aravinda"
+      },
+      {
+        "id": "mw-cakshus",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'cakṣus' (SLP1 key: cakzus)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=cakzus"
+      },
+      {
+        "id": "mw-loshta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'loṣṭa' (SLP1 key: lozwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lozwa"
+      },
+      {
+        "id": "mw-mahendra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahendra' (SLP1 key: mahendra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahendra"
+      },
+      {
+        "id": "mw-mahi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahī' (SLP1 key: mahI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahI"
+      },
+      {
+        "id": "mw-paksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pakṣa' (SLP1 key: pakza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pakza"
+      },
+      {
+        "id": "mw-pravrtti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pravṛtti' (SLP1 key: pravftti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pravftti"
+      },
+      {
+        "id": "mw-sraj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sraj' (SLP1 key: sraj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sraj"
+      },
+      {
+        "id": "mw-vrt",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vṛt' (SLP1 key: vft)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vft"
+      },
+      {
+        "id": "mw-asmad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'asmad' (SLP1 key: asmad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=asmad"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v12",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "दृषद्विचित्रतल्पयोर्",
+            "iast": "dṛṣadvicitratalpayor"
+          },
+          {
+            "id": "w2",
+            "text": "भुजङ्गमौक्तिकस्रजो",
+            "iast": "bhujaṅgamauktikasrajo"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "र्गरिष्ठरत्नलोष्ठयोः",
+            "iast": "rgariṣṭharatnaloṣṭhayoḥ"
+          },
+          {
+            "id": "w4",
+            "text": "सुहृद्विपक्षपक्षयोः",
+            "iast": "suhṛdvipakṣapakṣayoḥ"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "तृणारविन्दचक्षुषोः",
+            "iast": "tṛṇāravindacakṣuṣoḥ"
+          },
+          {
+            "id": "w6",
+            "text": "प्रजामहीमहेन्द्रयोः",
+            "iast": "prajāmahīmahendrayoḥ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "समप्रवृत्तिकः",
+            "iast": "samapravṛttikaḥ"
+          },
+          {
+            "id": "w8",
+            "text": "कदा",
+            "iast": "kadā"
+          },
+          {
+            "id": "w9",
+            "text": "सदाशिवं",
+            "iast": "sadāśivaṃ"
+          },
+          {
+            "id": "w10",
+            "text": "भजाम्यहम्",
+            "iast": "bhajāmyaham"
+          }
+        ],
+        "end": "॥ १२ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "The first pair is the starkest: a bare rock to lie on against a bright, many-coloured bed. The text pages of sanskritdocuments.org, shlokam.org and vyakhya.org all read *dṛṣad*, the dictionary's word for a rock or large stone, and the vyakhya.org word-gloss renders it पत्थर, शिला. The Samskrit Academy meaning page on sanskritdocuments.org prints *spṛṣad* instead and glosses it 'touching'; since the same site's text page reads *dṛṣad*, this looks like a slip on one page rather than a second tradition.\n\nshlokam.org also splits the word differently, taking *dṛṣad-vicitra* together as 'varied stones'. We follow vyakhya.org, which keeps the stone and the colourful couch as the two halves of the pair, matching the five pairs that follow.",
+          "hi": "पहली जोड़ी सबसे तीखी है: सोने के लिए नंगी चट्टान, और सामने रंग-बिरंगी शय्या। sanskritdocuments.org, shlokam.org और vyakhya.org के पाठ सब *दृषद्* पढ़ते हैं, जो शब्दकोश में चट्टान या बड़े पत्थर का शब्द है, और vyakhya.org का पदच्छेद इसका अर्थ पत्थर, शिला देता है। sanskritdocuments.org पर संस्कृत अकादमी का अर्थ-पृष्ठ इसके स्थान पर *स्पृषद्* छापता है और अर्थ 'छूता हुआ' देता है; चूँकि उसी साइट का पाठ-पृष्ठ *दृषद्* पढ़ता है, यह एक पृष्ठ की भूल लगती है, कोई दूसरी परम्परा नहीं।\n\nshlokam.org शब्द को अलग ढंग से भी बाँटता है और *दृषद्-विचित्र* को साथ लेकर 'तरह-तरह के पत्थर' अर्थ करता है। हम vyakhya.org का अनुसरण करते हैं, जो पत्थर और रंगीन शय्या को जोड़ी के दो भाग मानता है, जैसे आगे की पाँचों जोड़ियाँ हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-drshad",
+            "locator": "MW dṛṣad, p. 492",
+            "quote": "a rock, large stone, mill-stone"
+          },
+          {
+            "source": "vyakhya-sts-12",
+            "locator": "श्लोक १२, पदच्छेद",
+            "quote": "दृषद् = पत्थर, शिला"
+          },
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 12",
+            "quote": "दृषद्विचित्रतल्पयोर्भुजङ्गमौक्तिकस्रजोर्-"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 12, word-meanings",
+            "quote": "touching-varied-ways-snake-embodied-garland"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 12, word-meanings",
+            "quote": "varied stones (dṛṣad:stone | vicitra:varied)"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w2",
+          "w3"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Why does line 2 begin with a bare r? The pair snake and pearl-garland ends in the locative dual *srajoḥ*, and before the voiced g of *gariṣṭha* its visarga turns into r: *srajor gariṣṭha*. That r closes the sixteenth syllable of the first pāda, but shlokam.org and vyakhya.org carry it over the break and start line 2 with र्गरिष्ठ, and this text follows them. The sanskritdocuments.org text keeps स्रजोर् at the end of line 1. Recited, the two layouts sound the same.\n\nA quieter point sits in the same word. Monier-Williams treats *loṣṭha*, the clod set against the gem, as a misspelling of *loṣṭa*, a lump of earth or clay. The witnesses here all write ṣṭh, and the meaning does not change.",
+          "hi": "दूसरी पंक्ति अकेले 'र्' से क्यों शुरू होती है? साँप और मोती-माला की जोड़ी सप्तमी द्विवचन *स्रजोः* पर समाप्त होती है, और *गरिष्ठ* के घोष 'ग' से पहले इसका विसर्ग 'र्' बन जाता है: *स्रजोर् गरिष्ठ*। यह 'र्' पहले चरण के सोलहवें अक्षर को पूरा करता है, पर shlokam.org और vyakhya.org इसे सीमा के पार ले जाकर दूसरी पंक्ति र्गरिष्ठ से आरम्भ करते हैं, और यह पाठ उन्हीं का अनुसरण करता है। sanskritdocuments.org का पाठ स्रजोर् को पहली पंक्ति के अन्त में रखता है। पढ़ने में दोनों एक-से सुनाई देते हैं।\n\nइसी शब्द में एक छोटी बात और है। मोनियर-विलियम्स रत्न के सामने रखे ढेले *लोष्ठ* को *लोष्ट* (मिट्टी का ढेला) की अशुद्ध वर्तनी मानते हैं। यहाँ के सभी पाठ 'ष्ठ' लिखते हैं, और अर्थ नहीं बदलता।"
+        },
+        "citations": [
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 12, text",
+            "quote": "-र्गरिष्ठ रत्नलोष्ठयोः सुहृद्विपक्ष पक्षयोः ।"
+          },
+          {
+            "source": "vyakhya-sts-12",
+            "locator": "श्लोक १२",
+            "quote": "र्गरिष्ठरत्नलोष्ठयोः सुहृद्विपक्षपक्षयोः ।"
+          },
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 12",
+            "quote": "दृषद्विचित्रतल्पयोर्भुजङ्गमौक्तिकस्रजोर्-"
+          },
+          {
+            "source": "mw-loshtha",
+            "locator": "MW loṣṭha, p. 908",
+            "quote": "incorrect for loṣṭa"
+          },
+          {
+            "source": "mw-loshta",
+            "locator": "MW loṣṭa, p. 908",
+            "quote": "a lump of earth or clay, clod"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w4",
+          "w5",
+          "w6"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "The six pairs move mostly from things to people. First come objects of comfort and worth: rock and couch, snake and necklace, gem and clod. Then the pairs turn mostly to persons: friend and foe, a plain blade of grass beside a lotus-eyed beauty, a subject beside an emperor. Grass, Monier-Williams notes, is a common symbol of worthlessness, so the fifth pair sets the least valued thing against the most admired.\n\nThe vyakhya.org commentary hears Rāvaṇa's own heart in this verse, telling him that the path of devotion asks for an even gaze towards everyone, and it adds that Śiva himself holds this impartial, unattached attitude. The snake and the pearls make the point vivid: the god who wears a serpent where others would wear flowers ([verse 1](#v1-a2)) already treats the two alike.",
+          "hi": "छह जोड़ियाँ अधिकतर वस्तुओं से लोगों की ओर बढ़ती हैं। पहले सुख और मूल्य की वस्तुएँ: चट्टान और शय्या, साँप और हार, रत्न और ढेला। फिर जोड़ियाँ अधिकतर व्यक्तियों की हैं: मित्र और शत्रु, कमल-नयन सुन्दर के सामने घास का साधारण तिनका, सम्राट के सामने प्रजा। मोनियर-विलियम्स के अनुसार तिनका प्रायः तुच्छता का प्रतीक है, इसलिए पाँचवीं जोड़ी सबसे कम मूल्य की चीज़ को सबसे सराहे गए रूप के सामने रखती है।\n\nvyakhya.org की व्याख्या इस श्लोक में रावण के अपने अन्तःकरण की आवाज़ सुनती है, जो कहता है कि भक्ति के मार्ग में सबके प्रति समदृष्टि चाहिए, और जोड़ती है कि शिव स्वयं निरपेक्ष और समभाव वाले हैं। साँप और मोती इस बात को सजीव करते हैं: जो देवता फूलों की जगह साँप पहनते हैं ([श्लोक १](#v1-a2)), उनके लिए ये दोनों पहले से एक जैसे हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-trna",
+            "locator": "MW tṛṇa, p. 453",
+            "quote": "often symbol of minuteness and worthlessness"
+          },
+          {
+            "source": "vyakhya-sts-12",
+            "locator": "श्लोक १२, व्याख्या",
+            "quote": "उसे भक्ति के मार्ग में सबके प्रति समदृष्टि रखनी चाहिये"
+          },
+          {
+            "source": "vyakhya-sts-12",
+            "locator": "श्लोक १२, व्याख्या",
+            "quote": "भगवान शिव निरपेक्ष एवं समभाव वृत्ति धारण किये हुए हैं"
+          },
+          {
+            "source": "vyakhya-sts-12",
+            "locator": "श्लोक १२, पदच्छेद",
+            "quote": "अरविंदचक्षुः = जिसके नेत्र कमल जैसे हों"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w7"
+        ],
+        "kind": "grammar",
+        "body": {
+          "en": "Why are all six pairs in the locative dual, ending in *-yoḥ* or *-oḥ*? Each is a dvandva naming two things, hence the dual. The locative marks the things and people towards whom one behaves, and the word that governs them arrives only at the end: *sama-pravṛttikaḥ*, 'one whose conduct is the same'. Monier-Williams records that *sama*, in the sense 'impartial', takes what one is impartial towards in the locative, and *pravṛtti* covers conduct and behaviour as well as inclination.\n\nThe compound is a bahuvrīhi, *samā pravṛttiḥ yasya*, closed by the suffix *-ka*, and it is nominative because it describes the speaker, *aham*. The vyakhya.org gloss puts it simply: one who keeps the same feeling.",
+          "hi": "छहों जोड़ियाँ सप्तमी द्विवचन (*-योः*, *-ओः*) में क्यों हैं? हर एक द्वन्द्व है जो दो चीज़ों का नाम लेता है, इसलिए द्विवचन। सप्तमी उन वस्तुओं और लोगों को बताती है जिनके प्रति आचरण होता है, और जिस शब्द पर ये टिकी हैं वह अन्त में आता है: *सम-प्रवृत्तिकः*, 'जिसका आचरण एक-सा हो'। मोनियर-विलियम्स के अनुसार 'निष्पक्ष' अर्थ में *सम* जिसके प्रति निष्पक्षता हो उसे सप्तमी में लेता है, और *प्रवृत्ति* का अर्थ आचरण, व्यवहार और झुकाव, सब है।\n\nसमास बहुव्रीहि है, *समा प्रवृत्तिः यस्य*, जिसके अन्त में '-क' प्रत्यय है; यह प्रथमा में है क्योंकि वक्ता *अहम्* का वर्णन करता है। vyakhya.org का अर्थ सीधा है: समान भाव रखने वाला।"
+        },
+        "citations": [
+          {
+            "source": "mw-sama",
+            "locator": "MW sama, p. 1152",
+            "quote": "impartial towards (loc. or gen.)"
+          },
+          {
+            "source": "mw-pravrtti",
+            "locator": "MW pravṛtti, p. 694",
+            "quote": "conduct, behaviour, practice"
+          },
+          {
+            "source": "vyakhya-sts-12",
+            "locator": "श्लोक १२, पदच्छेद",
+            "quote": "समप्रवृत्तिकः = समान भाव रखने वाला"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w8",
+          "w9",
+          "w10"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "The verse ends as a question, *kadā … bhajāmy aham*, 'when shall I worship?'. The verb is in the present tense, but Monier-Williams notes that *kadā* may be followed by a present or a future, and the vyakhya.org gloss renders *bhajāmi* as भजूंगा, 'I shall worship'. The longing is for a day that has not yet come.\n\nBoth sanskritdocuments.org pages print a different last pāda in brackets: *samaṃ pravartayan manaḥ kadā sadāśivaṃ bhaje*, 'when, keeping my mind moving evenly, shall I worship Sadāśiva?'. It says much the same with a participle and the middle form *bhaje*. shlokam.org and vyakhya.org read *samapravṛttikaḥ … bhajāmy aham*, and that reading is kept here.",
+          "hi": "श्लोक एक प्रश्न पर समाप्त होता है, *कदा … भजाम्यहम्*, 'मैं कब भजूँगा?'। क्रिया वर्तमान काल में है, पर मोनियर-विलियम्स बताते हैं कि *कदा* के बाद वर्तमान या भविष्य, दोनों आ सकते हैं, और vyakhya.org *भजामि* का अर्थ भजूंगा देता है। लालसा उस दिन की है जो अभी आया नहीं।\n\nsanskritdocuments.org के दोनों पृष्ठ कोष्ठक में एक अलग अन्तिम चरण छापते हैं: *समं प्रवर्तयन्मनः कदा सदाशिवं भजे*, 'मन को समान रूप से चलाते हुए मैं कब सदाशिव को भजूँ?'। यह कृदन्त और आत्मनेपद रूप *भजे* के साथ लगभग वही कहता है। shlokam.org और vyakhya.org *समप्रवृत्तिकः … भजाम्यहम्* पढ़ते हैं, और यहाँ वही पाठ रखा गया है।"
+        },
+        "citations": [
+          {
+            "source": "mw-kada",
+            "locator": "MW kadā, p. 248",
+            "quote": "with following fut. or pres. tense"
+          },
+          {
+            "source": "vyakhya-sts-12",
+            "locator": "श्लोक १२, पदच्छेद",
+            "quote": "भजामि = भजूंगा"
+          },
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 12",
+            "quote": "(समं प्रवर्तयन्मनः कदा सदाशिवं भजे ॥)"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 12",
+            "quote": "(समं प्रवर्तयन्मनः कदा सदाशिवं भजे ॥)"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 12, text",
+            "quote": "समप्रवृत्तिकः कदा सदाशिवं भजाम्यहम् ॥ १२ ॥"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "When"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "shall I"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "with the same regard"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "for a rock and a richly coloured couch,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "for a snake and a string of pearls,"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "for a priceless gem and a lump of clay,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "for a friend and the enemy's camp,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "for a wisp of grass and one with lotus eyes,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "for a common subject and the emperor of the earth,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "worship"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "Sadāśiva?"
+            }
+          ]
+        ],
+        "bhavartha": "A rock or a painted bed, a snake or a pearl necklace, a fine jewel or a clod of mud, a friend or the other side, a stalk of grass or a lotus-eyed face, a commoner or a king: the poet longs for the day when none of these pulls him one way or pushes him the other, when he meets them all alike. He asks when, with a mind that even, he will worship Sadāśiva."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "पत्थर और रंग-बिरंगी शय्या में,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "साँप और मोतियों की माला में,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "बहुमूल्य रत्न और मिट्टी के ढेले में,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "मित्र और शत्रु-पक्ष में,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "तिनके और कमल-से नेत्रों वाले में,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "साधारण प्रजा और पृथ्वी के सम्राट में"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "एक-सा भाव रखने वाला"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "मैं"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "कब"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "सदाशिव को"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "भजूँगा?"
+            }
+          ]
+        ],
+        "bhavartha": "पत्थर हो या सजी हुई सेज, साँप हो या मोतियों का हार, कीमती रत्न हो या मिट्टी का ढेला, मित्र हो या विरोधी, घास का तिनका हो या कमल-नयन चेहरा, आम आदमी हो या राजा: कवि उस दिन की प्रतीक्षा करता है जब इनमें से कोई उसे अपनी ओर न खींचे और न दूर धकेले, जब वह सबसे एक-सा बरताव करे। वह पूछता है कि ऐसे सम मन से वह कब सदाशिव को भजेगा।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "दृषत्",
+            "iast": "dṛṣat"
+          },
+          {
+            "sa": "विचित्र",
+            "iast": "vicitra"
+          },
+          {
+            "sa": "तल्पयोः",
+            "iast": "talpayoḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + v → d + v",
+            "explanation": {
+              "en": "The final t of dṛṣat becomes the voiced d before the v of vicitra: dṛṣat + vicitra → dṛṣadvicitra.",
+              "hi": "दृषत् का अन्तिम 'त्' आगे के घोष 'व' (विचित्र) के कारण 'द्' बन जाता है: दृषत् + विचित्र → दृषद्विचित्र।"
+            }
+          },
+          {
+            "name": "visarga",
+            "rule": "-oḥ + voiced consonant → -or",
+            "explanation": {
+              "en": "The visarga of talpayoḥ becomes r before the voiced bh of bhujaṅga (next display word): talpayoḥ + bhujaṅga → talpayor bhujaṅga.",
+              "hi": "तल्पयोः का विसर्ग आगे के घोष 'भ' (भुजङ्ग) के कारण 'र्' बन जाता है: तल्पयोः + भुजङ्ग → तल्पयोर्भुजङ्ग।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "दृषद्",
+            "iast": "dṛṣad",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दृषद्",
+              "iast": "dṛṣad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dṛṣad",
+              "gloss": "a rock, large stone, mill-stone"
+            },
+            "meaning": {
+              "en": "stone, rock",
+              "hi": "पत्थर, शिला"
+            }
+          },
+          {
+            "sa": "विचित्र",
+            "iast": "vicitra",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विचित्र",
+              "iast": "vicitra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-citra",
+              "gloss": "variegated, many-coloured, motley, brilliant"
+            },
+            "meaning": {
+              "en": "many-coloured, richly decorated",
+              "hi": "रंग-बिरंगा, सजा हुआ"
+            }
+          },
+          {
+            "sa": "तल्प",
+            "iast": "talpa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तल्प",
+              "iast": "talpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "talpa",
+              "gloss": "a couch, bed, sofa"
+            },
+            "meaning": {
+              "en": "couch, bed",
+              "hi": "शय्या, पलंग"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "towards a bare rock and a richly coloured couch",
+          "hi": "पत्थर और रंग-बिरंगी शय्या में"
+        },
+        "literal": {
+          "en": "in the two, stone and many-coloured couch",
+          "hi": "पत्थर और विचित्र शय्या, इन दोनों में"
+        },
+        "notes": {
+          "en": "Locative dual of the dvandva dṛṣad + vicitra-talpa. The contrast is between a rock to lie on and a luxurious bed. shlokam.org reads dṛṣad-vicitra as 'varied stones'; vyakhya.org's split (stone / colourful bed) is followed.",
+          "hi": "द्वन्द्व दृषद् + विचित्र-तल्प का सप्तमी द्विवचन। विरोध है सोने के लिए चट्टान और विलासी शय्या के बीच। shlokam.org दृषद्-विचित्र को 'तरह-तरह के पत्थर' पढ़ता है; vyakhya.org का विभाजन (पत्थर / रंगीन शय्या) लिया गया है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(on) beds of varied stones",
+              "hi": "तरह-तरह के पत्थरों की शय्याओं में"
+            },
+            "note": "shlokam-shiva-tandava glosses dṛṣadvicitra as 'varied stones' with talpayoḥ 'of the beds'. sanskritdocuments-shivtand-meaning reads spṛṣad, 'touching', against dṛṣad in every other witness consulted."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-drshad",
+          "mw-vicitra",
+          "mw-talpa",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "भुजङ्ग",
+            "iast": "bhujaṅga"
+          },
+          {
+            "sa": "मौक्तिक",
+            "iast": "mauktika"
+          },
+          {
+            "sa": "स्रजोः",
+            "iast": "srajoḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "-oḥ + voiced consonant → -or",
+            "explanation": {
+              "en": "The visarga of srajoḥ becomes r before the voiced g of gariṣṭha (next display word): srajoḥ + gariṣṭha → srajor gariṣṭha. The r is printed at the start of line 2, so this word is displayed as srajo.",
+              "hi": "स्रजोः का विसर्ग आगे के घोष 'ग' (गरिष्ठ) के कारण 'र्' बन जाता है: स्रजोः + गरिष्ठ → स्रजोर्गरिष्ठ। वह 'र्' दूसरी पंक्ति के आरम्भ में छपा है, इसलिए यह शब्द 'स्रजो' दिखता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भुजङ्ग",
+            "iast": "bhujaṅga",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भुजङ्ग",
+              "iast": "bhujaṅga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhujaṃga",
+              "gloss": "a serpent, snake, serpent-demon"
+            },
+            "meaning": {
+              "en": "snake",
+              "hi": "साँप, सर्प"
+            }
+          },
+          {
+            "sa": "मौक्तिक",
+            "iast": "mauktika",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मौक्तिक",
+              "iast": "mauktika"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mauktika",
+              "gloss": "a pearl"
+            },
+            "meaning": {
+              "en": "pearl",
+              "hi": "मोती"
+            }
+          },
+          {
+            "sa": "स्रज्",
+            "iast": "sraj",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "स्रज्",
+              "iast": "sraj"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sraj",
+              "gloss": "a wreath of flowers, garland, chaplet worn on the head"
+            },
+            "meaning": {
+              "en": "garland, string",
+              "hi": "माला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "towards a snake and a string of pearls",
+          "hi": "साँप और मोतियों की माला में"
+        },
+        "literal": {
+          "en": "in the two, snake and pearl-garland",
+          "hi": "साँप और मोती-माला, इन दोनों में"
+        },
+        "notes": {
+          "en": "Locative dual of the dvandva bhujaṅga + mauktika-sraj. Both coil and hang round a neck, one deadly, one precious. The Samskrit Academy word-gloss takes it as a single 'snake-embodied garland'; vyakhya.org and shlokam.org list snake and pearl garland as two items.",
+          "hi": "द्वन्द्व भुजङ्ग + मौक्तिक-स्रज् का सप्तमी द्विवचन। दोनों गले में लिपटते या लटकते हैं, एक घातक, एक कीमती। संस्कृत अकादमी का अर्थ इसे एक 'सर्प-रूपी माला' मानता है; vyakhya.org और shlokam.org साँप और मोती-माला को दो अलग चीज़ें गिनते हैं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "towards a garland that is a snake",
+              "hi": "सर्प-रूपी माला में"
+            },
+            "note": "sanskritdocuments-shivtand-meaning glosses 'snake-embodied-garland'; vyakhya-sts-12 and shlokam-shiva-tandava separate the snake and the pearl garland."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-bhujamga",
+          "mw-mauktika",
+          "mw-sraj",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w3": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "गरिष्ठ",
+            "iast": "gariṣṭha"
+          },
+          {
+            "sa": "रत्न",
+            "iast": "ratna"
+          },
+          {
+            "sa": "लोष्ठयोः",
+            "iast": "loṣṭhayoḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "गरिष्ठ",
+            "iast": "gariṣṭha",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गुरु",
+              "iast": "guru"
+            },
+            "formation": "guru + iṣṭhan (superlative)",
+            "sense": {
+              "dict": "mw",
+              "headword": "gariṣṭha",
+              "gloss": "heaviest, excessively heavy; most venerable"
+            },
+            "meaning": {
+              "en": "weightiest, most precious",
+              "hi": "सबसे भारी, अत्यन्त मूल्यवान"
+            }
+          },
+          {
+            "sa": "रत्न",
+            "iast": "ratna",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "रत्न",
+              "iast": "ratna"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ratna",
+              "gloss": "a jewel, gem, treasure, precious stone"
+            },
+            "meaning": {
+              "en": "gem, jewel",
+              "hi": "रत्न"
+            }
+          },
+          {
+            "sa": "लोष्ठ",
+            "iast": "loṣṭha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लोष्ठ",
+              "iast": "loṣṭha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "loṣṭa",
+              "gloss": "a lump of earth or clay, clod"
+            },
+            "meaning": {
+              "en": "clod of earth",
+              "hi": "मिट्टी का ढेला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "towards a priceless gem and a lump of clay",
+          "hi": "बहुमूल्य रत्न और मिट्टी के ढेले में"
+        },
+        "notes": {
+          "en": "The display word starts with r, which is the sandhi form of the visarga of srajoḥ (w2), carried across the line break; it is not part of this compound. MW lists loṣṭha as an incorrect spelling of loṣṭa 'clod'; the witnesses write ṣṭh.",
+          "hi": "प्रदर्शित शब्द 'र्' से शुरू होता है, जो स्रजोः (w2) के विसर्ग का सन्धि-रूप है और पंक्ति के पार आ गया है; यह इस समास का भाग नहीं। मोनियर-विलियम्स लोष्ठ को लोष्ट 'ढेला' की अशुद्ध वर्तनी मानते हैं; पाठों में 'ष्ठ' है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-garishtha",
+          "mw-ratna",
+          "mw-loshta",
+          "mw-loshtha",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w4": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "सुहृत्",
+            "iast": "suhṛt"
+          },
+          {
+            "sa": "विपक्ष",
+            "iast": "vipakṣa"
+          },
+          {
+            "sa": "पक्षयोः",
+            "iast": "pakṣayoḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + v → d + v",
+            "explanation": {
+              "en": "The final t of suhṛt becomes the voiced d before the v of vipakṣa: suhṛt + vipakṣa → suhṛdvipakṣa.",
+              "hi": "सुहृत् का अन्तिम 'त्' आगे के घोष 'व' (विपक्ष) के कारण 'द्' बन जाता है: सुहृत् + विपक्ष → सुहृद्विपक्ष।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "सुहृद्",
+            "iast": "suhṛd",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सुहृद्",
+              "iast": "suhṛd"
+            },
+            "formation": "su + hṛd ('good-hearted')",
+            "sense": {
+              "dict": "mw",
+              "headword": "su-hṛd",
+              "gloss": "a friend, ally"
+            },
+            "meaning": {
+              "en": "friend",
+              "hi": "मित्र"
+            }
+          },
+          {
+            "sa": "विपक्ष",
+            "iast": "vipakṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विपक्ष",
+              "iast": "vipakṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-pakṣa",
+              "gloss": "an opponent, adversary, enemy"
+            },
+            "meaning": {
+              "en": "opponent, enemy",
+              "hi": "विरोधी, शत्रु"
+            }
+          },
+          {
+            "sa": "पक्ष",
+            "iast": "pakṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पक्ष",
+              "iast": "pakṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pakṣa",
+              "gloss": "a side, party, faction"
+            },
+            "meaning": {
+              "en": "side, party",
+              "hi": "पक्ष, दल"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "towards a friend and the enemy's camp",
+          "hi": "मित्र और शत्रु-पक्ष में"
+        },
+        "notes": {
+          "en": "Split as suhṛd + vipakṣa-pakṣa, following vyakhya.org. It can also be read as (suhṛd-vipakṣa)-pakṣa, 'the two parties, of friend and of foe', which shlokam.org's gloss suggests.",
+          "hi": "vyakhya.org के अनुसार सुहृद् + विपक्ष-पक्ष। इसे (सुहृद्-विपक्ष)-पक्ष, 'मित्र और शत्रु, दोनों के पक्ष', भी पढ़ा जा सकता है, जैसा shlokam.org के अर्थ से लगता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "towards the two sides, of friend and of foe",
+              "hi": "मित्र-पक्ष और शत्रु-पक्ष में"
+            },
+            "note": "shlokam-shiva-tandava glosses suhṛdvipakṣa 'friend and foe' and pakṣayoḥ 'of the sides'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-suhrd",
+          "mw-vipaksha",
+          "mw-paksha",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w5": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "तृण",
+            "iast": "tṛṇa"
+          },
+          {
+            "sa": "अरविन्द",
+            "iast": "aravinda"
+          },
+          {
+            "sa": "चक्षुषोः",
+            "iast": "cakṣuṣoḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of tṛṇa and the initial a of aravinda merge into a long ā: tṛṇa + aravinda → tṛṇāravinda.",
+              "hi": "तृण का अन्तिम 'अ' और अरविन्द का आरम्भिक 'अ' मिलकर दीर्घ 'आ' बनते हैं: तृण + अरविन्द → तृणारविन्द।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "तृण",
+            "iast": "tṛṇa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तृण",
+              "iast": "tṛṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tṛṇa",
+              "gloss": "grass, herb, blade of grass, straw"
+            },
+            "meaning": {
+              "en": "grass, a blade of grass",
+              "hi": "घास, तिनका"
+            }
+          },
+          {
+            "sa": "अरविन्द",
+            "iast": "aravinda",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अरविन्द",
+              "iast": "aravinda"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aravinda",
+              "gloss": "a lotus"
+            },
+            "meaning": {
+              "en": "lotus",
+              "hi": "कमल"
+            }
+          },
+          {
+            "sa": "चक्षुस्",
+            "iast": "cakṣus",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "चक्षुस्",
+              "iast": "cakṣus"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "cakṣus",
+              "gloss": "the eye"
+            },
+            "meaning": {
+              "en": "eye",
+              "hi": "नेत्र, आँख"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "towards a wisp of grass and one with lotus eyes",
+          "hi": "तिनके और कमल-से नेत्रों वाले में"
+        },
+        "notes": {
+          "en": "tṛṇa is paired with aravinda-cakṣus, a bahuvrīhi 'one whose eyes are like lotuses' used as a noun (vyakhya.org). The ṣ in cakṣuṣoḥ is the regular change of s after u before a vowel ending.",
+          "hi": "तृण की जोड़ी अरविन्द-चक्षुस् से है, जो बहुव्रीहि 'जिसके नेत्र कमल जैसे हों' है और संज्ञा की तरह आया है (vyakhya.org)। चक्षुषोः में 'ष' उ के बाद 'स्' का नियमित परिवर्तन है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "towards grass and a lotus, (in one's) eyes",
+              "hi": "आँखों में तिनका और कमल, दोनों के प्रति"
+            },
+            "note": "shlokam-shiva-tandava glosses tṛṇāravinda 'grass and lotus' and cakṣuṣoḥ 'of the eyes'; sanskritdocuments-shivtand-meaning has 'a blade of grass and lotus-like eye'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-trna",
+          "mw-aravinda",
+          "mw-cakshus",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w6": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "प्रजा",
+            "iast": "prajā"
+          },
+          {
+            "sa": "मही",
+            "iast": "mahī"
+          },
+          {
+            "sa": "महेन्द्रयोः",
+            "iast": "mahendrayoḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रजा",
+            "iast": "prajā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रजा",
+              "iast": "prajā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "prajā",
+              "gloss": "people, subjects (of a prince)"
+            },
+            "meaning": {
+              "en": "subject, common people",
+              "hi": "प्रजा, साधारण जन"
+            }
+          },
+          {
+            "sa": "मही",
+            "iast": "mahī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मही",
+              "iast": "mahī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mahī",
+              "gloss": "the earth"
+            },
+            "meaning": {
+              "en": "the earth",
+              "hi": "पृथ्वी"
+            }
+          },
+          {
+            "sa": "महेन्द्र",
+            "iast": "mahendra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "महेन्द्र",
+              "iast": "mahendra"
+            },
+            "formation": "mahā + indra (guṇa: ā + i → e)",
+            "sense": {
+              "dict": "mw",
+              "headword": "mahendra",
+              "gloss": "the great Indra; a great chief or leader"
+            },
+            "meaning": {
+              "en": "great lord, supreme ruler",
+              "hi": "महान स्वामी, सर्वोच्च राजा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "towards a common subject and the emperor of the earth",
+          "hi": "साधारण प्रजा और पृथ्वी के सम्राट में"
+        },
+        "literal": {
+          "en": "in the two, subject and great Indra of the earth",
+          "hi": "प्रजा और पृथ्वी का महेन्द्र, इन दोनों में"
+        },
+        "notes": {
+          "en": "mahī-mahendra, 'the Indra of the earth', is a king of kings (vyakhya.org: महाराजाधिराज). shlokam.org divides prajāmahī + mahendra ('subjects and earth', 'great Indra'); the split prajā + mahīmahendra is followed.",
+          "hi": "मही-महेन्द्र, 'पृथ्वी का इन्द्र', अर्थात् राजाओं का राजा (vyakhya.org: महाराजाधिराज)। shlokam.org प्रजामही + महेन्द्र बाँटता है; यहाँ प्रजा + महीमहेन्द्र विभाजन लिया गया है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-praja",
+          "mw-mahi",
+          "mw-mahendra",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w7": {
+        "compound": "c7",
+        "padaccheda": [
+          {
+            "sa": "सम",
+            "iast": "sama"
+          },
+          {
+            "sa": "प्रवृत्तिकः",
+            "iast": "pravṛttikaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सम",
+            "iast": "sama",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सम",
+              "iast": "sama"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sama",
+              "gloss": "same, equal; impartial towards (loc. or gen.)"
+            },
+            "meaning": {
+              "en": "same, even, impartial",
+              "hi": "समान, निष्पक्ष"
+            }
+          },
+          {
+            "sa": "प्रवृत्ति",
+            "iast": "pravṛtti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वृत्",
+              "iast": "vṛt",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to behave towards, to proceed",
+                "hi": "आचरण करना, प्रवृत्त होना"
+              }
+            },
+            "formation": "pra + √vṛt + ktin (action noun), with -ka at the end of the bahuvrīhi",
+            "sense": {
+              "dict": "mw",
+              "headword": "pravṛtti",
+              "gloss": "conduct, behaviour, practice"
+            },
+            "meaning": {
+              "en": "conduct, disposition",
+              "hi": "आचरण, प्रवृत्ति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "with the same regard (for all)",
+          "hi": "सबके प्रति एक-सा भाव रखने वाला"
+        },
+        "literal": {
+          "en": "one whose conduct is the same",
+          "hi": "जिसका आचरण समान है"
+        },
+        "notes": {
+          "en": "Bahuvrīhi qualifying aham. This is the word that governs the six locative duals: one is sama 'impartial' towards them (MW: loc. or gen.). MW has no headword samapravṛttika.",
+          "hi": "बहुव्रीहि, 'अहम्' का विशेषण। छहों सप्तमी द्विवचन इसी पर टिके हैं: उनके प्रति 'सम' (निष्पक्ष) होना (मोनियर-विलियम्स: सप्तमी या षष्ठी के साथ)। मोनियर-विलियम्स में 'समप्रवृत्तिक' अलग प्रविष्टि नहीं है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-sama",
+          "mw-pravrtti",
+          "mw-vrt",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "कदा",
+            "iast": "kadā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कदा",
+            "iast": "kadā",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "kadā",
+              "gloss": "when? at what time?"
+            },
+            "meaning": {
+              "en": "when?",
+              "hi": "कब"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "when",
+          "hi": "कब"
+        },
+        "notes": {
+          "en": "Interrogative indeclinable. Vidyut's lexicon also lists a feminine noun kadā; that reading gives no sense here.",
+          "hi": "प्रश्नवाचक अव्यय। Vidyut 'कदा' को स्त्रीलिंग संज्ञा भी बताता है; वह अर्थ यहाँ नहीं बनता।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kada",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "सदाशिवम्",
+            "iast": "sadāśivam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (bhajāmi): sadāśivam → sadāśivaṃ.",
+              "hi": "अगले शब्द (भजामि) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: सदाशिवम् → सदाशिवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "सदाशिव",
+            "iast": "sadāśiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सदाशिव",
+              "iast": "sadāśiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sadā-śiva",
+              "gloss": "N. of Śiva"
+            },
+            "meaning": {
+              "en": "Sadāśiva, 'ever auspicious', a name of Śiva",
+              "hi": "सदाशिव, 'सदा कल्याणकारी', शिव का नाम"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Sadāśiva",
+          "hi": "सदाशिव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "sadā 'always' + śiva 'kind, auspicious'; as an adjective MW gives 'always kind', and as a masculine noun a name of Śiva. Accusative, the object of bhajāmi.",
+          "hi": "सदा 'हमेशा' + शिव 'कल्याणकारी'; विशेषण के रूप में मोनियर-विलियम्स 'सदा दयालु' अर्थ देते हैं, और पुंलिंग संज्ञा के रूप में शिव का नाम। द्वितीया, भजामि का कर्म।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-sadashiva",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "भजामि",
+            "iast": "bhajāmi"
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "yaṇ",
+            "rule": "i + a → ya",
+            "explanation": {
+              "en": "The final i of bhajāmi becomes y before the a of aham: bhajāmi + aham → bhajāmyaham.",
+              "hi": "भजामि का अन्तिम 'इ' आगे के 'अ' (अहम्) के कारण 'य्' बन जाता है: भजामि + अहम् → भजाम्यहम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजामि",
+            "iast": "bhajāmi",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to serve, honour, worship",
+                "hi": "सेवा करना, भजना"
+              }
+            },
+            "formation": "laṭ, parasmaipada, 1st person singular",
+            "meaning": {
+              "en": "I worship; (after kadā) shall I worship",
+              "hi": "भजता हूँ; (कदा के साथ) भजूँगा"
+            }
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "meaning": {
+              "en": "I",
+              "hi": "मैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "shall I worship",
+          "hi": "मैं भजूँगा"
+        },
+        "literal": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "Present tense with future sense after the question word kadā (MW: kadā with fut. or pres.); vyakhya.org renders it भजूंगा. aham, nominative of asmad, is the subject that samapravṛttikaḥ describes.",
+          "hi": "प्रश्नवाचक 'कदा' के बाद वर्तमान काल भविष्य का अर्थ देता है (मोनियर-विलियम्स: कदा के साथ भविष्य या वर्तमान); vyakhya.org इसे भजूंगा कहता है। अहम्, अस्मद् का प्रथमा रूप, वह कर्ता है जिसका विशेषण समप्रवृत्तिकः है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "mw-asmad",
+          "mw-kada",
+          "vyakhya-sts-12",
+          "shlokam-shiva-tandava"
+        ]
+      }
+    }
+  }
+}

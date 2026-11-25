@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "a92ae0922d541ceb",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a2.body",
+      "message": "The metre claim ('Vilocana also fits the beat of the line exactly, while trilocana puts a heavy syllable where the pattern expects a light one') has no citation. The only evidence is v1 text-report.md, which hedges it. The scansion is correct by standard prosody. A human should decide whether this claim needs its own support and the hedge.",
+      "suggested_fix": "Soften to 'by the usual counting of the metre, trilocana puts a heavy syllable where the pattern expects a light one', or add a citation that records the scan."
+    }
+  ]
+}

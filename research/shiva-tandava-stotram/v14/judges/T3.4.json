@@ -1,0 +1,12 @@
+{
+  "check": "T3.4",
+  "fields_hash": "247ec101834901db",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "padas.p6",
+      "message": "aharniśam is attached to tanotu (p2) as a kriyā-viśeṣaṇa. vyakhya-sts-14 instead ties it to vinodinīm: its anvaya puts 'अह:निशं विनोदिनीं मनोमुदं' together, and its bhāvārtha reads 'निशि-दिवस हमें प्रसन्न रखने वाली', i.e. 'delighting day and night'. Both attachments are grammatical, but the data does not record the other one as an alternative. A human should decide.",
+      "suggested_fix": "Either keep head p2 and add a note or alternative that vyakhya.org attaches aharniśam to vinodinīm (head p5), or change the head to p5."
+    }
+  ]
+}

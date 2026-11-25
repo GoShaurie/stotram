@@ -1,0 +1,1854 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "format": "starts_with",
+      "pattern": "^0\\.3.*"
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "sa",
+        "awa",
+        "bra",
+        "hi"
+      ]
+    },
+    "tradition": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "note": {
+          "type": "object",
+          "properties": {
+            "en": {
+              "type": "string"
+            },
+            "hi": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "en",
+            "hi"
+          ]
+        }
+      },
+      "required": [
+        "id"
+      ]
+    },
+    "id": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "sa": {
+          "type": "string"
+        },
+        "iast": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        },
+        "hi": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sa",
+        "iast",
+        "en",
+        "hi"
+      ]
+    },
+    "deities": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "attribution": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string"
+        },
+        "hi": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en",
+        "hi"
+      ]
+    },
+    "meter": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "object",
+          "properties": {
+            "en": {
+              "type": "string"
+            },
+            "hi": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "en",
+            "hi"
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "description"
+      ]
+    },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string"
+        },
+        "hi": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en",
+        "hi"
+      ]
+    },
+    "about": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string"
+        },
+        "hi": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en",
+        "hi"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "credits": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": [
+              "composer",
+              "text",
+              "meter",
+              "language",
+              "recension",
+              "commentary",
+              "recording"
+            ]
+          },
+          "value": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "note": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "role",
+          "value"
+        ]
+      }
+    },
+    "faq": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "q": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "a": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "q",
+          "a"
+        ]
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "shares-text",
+              "same-meter",
+              "same-deity",
+              "companion",
+              "quotes",
+              "quoted-in"
+            ]
+          },
+          "target": {
+            "type": "string"
+          },
+          "name": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "note": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          }
+        },
+        "required": [
+          "type",
+          "name"
+        ]
+      }
+    },
+    "concepts": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "description": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "story": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "story_citations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "source": {
+                  "type": "string"
+                },
+                "locator": {
+                  "type": "string"
+                },
+                "quote": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "source"
+              ]
+            }
+          },
+          "echoes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "text": {
+                  "type": "string"
+                },
+                "lang": {
+                  "type": "string"
+                },
+                "iast": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                },
+                "source": {
+                  "type": "string"
+                },
+                "locator": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "text",
+                "lang",
+                "meaning",
+                "source"
+              ]
+            }
+          }
+        },
+        "required": [
+          "name",
+          "description"
+        ]
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          },
+          "ancient": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "kind"
+        ]
+      }
+    },
+    "verses": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "number": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 9007199254740991
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "verse",
+              "phalashruti",
+              "dhyana",
+              "refrain"
+            ]
+          },
+          "meter": {
+            "type": "string"
+          },
+          "concepts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "lines": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "words": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": {
+                        "type": "string"
+                      },
+                      "text": {
+                        "type": "string"
+                      },
+                      "iast": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "id",
+                      "text",
+                      "iast"
+                    ]
+                  }
+                },
+                "end": {
+                  "type": "string"
+                },
+                "pada_count": {
+                  "type": "integer",
+                  "exclusiveMinimum": 0,
+                  "maximum": 9007199254740991
+                },
+                "meter_irregular": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "words",
+                "end"
+              ]
+            }
+          },
+          "compounds": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string"
+            },
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "members": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "iast": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "tatpuruṣa",
+                    "karmadhāraya",
+                    "dvigu",
+                    "nañ-tatpuruṣa",
+                    "upapada",
+                    "bahuvrīhi",
+                    "dvandva",
+                    "avyayībhāva"
+                  ]
+                },
+                "subtype": {
+                  "type": "string"
+                },
+                "structure": {
+                  "type": "string"
+                },
+                "vigraha": {
+                  "type": "string"
+                },
+                "meaning": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                },
+                "note": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                }
+              },
+              "required": [
+                "members",
+                "iast",
+                "type",
+                "meaning"
+              ]
+            }
+          },
+          "padas": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "words": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "sa": {
+                  "type": "string"
+                },
+                "iast": {
+                  "type": "string"
+                },
+                "morph": {
+                  "oneOf": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "const": "subanta"
+                        },
+                        "stem": {
+                          "type": "object",
+                          "properties": {
+                            "sa": {
+                              "type": "string"
+                            },
+                            "iast": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "sa",
+                            "iast"
+                          ]
+                        },
+                        "gender": {
+                          "type": "string",
+                          "enum": [
+                            "masculine",
+                            "feminine",
+                            "neuter"
+                          ]
+                        },
+                        "case": {
+                          "type": "string",
+                          "enum": [
+                            "nominative",
+                            "accusative",
+                            "instrumental",
+                            "dative",
+                            "ablative",
+                            "genitive",
+                            "locative",
+                            "vocative"
+                          ]
+                        },
+                        "number": {
+                          "type": "string",
+                          "enum": [
+                            "singular",
+                            "dual",
+                            "plural"
+                          ]
+                        },
+                        "krt": {
+                          "type": "object",
+                          "properties": {
+                            "dhatu": {
+                              "type": "object",
+                              "properties": {
+                                "sa": {
+                                  "type": "string"
+                                },
+                                "iast": {
+                                  "type": "string"
+                                },
+                                "gana": {
+                                  "type": "integer",
+                                  "minimum": 1,
+                                  "maximum": 10
+                                }
+                              },
+                              "required": [
+                                "sa",
+                                "iast"
+                              ]
+                            },
+                            "prefixes": {
+                              "type": "array",
+                              "items": {
+                                "type": "string"
+                              }
+                            },
+                            "suffix": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "dhatu",
+                            "suffix"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "type",
+                        "stem",
+                        "case",
+                        "number"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "const": "tinanta"
+                        },
+                        "dhatu": {
+                          "type": "object",
+                          "properties": {
+                            "sa": {
+                              "type": "string"
+                            },
+                            "iast": {
+                              "type": "string"
+                            },
+                            "gana": {
+                              "type": "integer",
+                              "minimum": 1,
+                              "maximum": 10
+                            }
+                          },
+                          "required": [
+                            "sa",
+                            "iast"
+                          ]
+                        },
+                        "prefixes": {
+                          "type": "array",
+                          "items": {
+                            "type": "string"
+                          }
+                        },
+                        "sanadi": {
+                          "type": "string",
+                          "enum": [
+                            "ṇic",
+                            "san",
+                            "yaṅ",
+                            "nāmadhātu"
+                          ]
+                        },
+                        "lakara": {
+                          "type": "string",
+                          "enum": [
+                            "laṭ",
+                            "liṭ",
+                            "luṭ",
+                            "lṛṭ",
+                            "leṭ",
+                            "loṭ",
+                            "laṅ",
+                            "vidhiliṅ",
+                            "āśīrliṅ",
+                            "luṅ",
+                            "lṛṅ"
+                          ]
+                        },
+                        "prayoga": {
+                          "type": "string",
+                          "enum": [
+                            "kartari",
+                            "karmaṇi",
+                            "bhāve"
+                          ]
+                        },
+                        "person": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 3
+                        },
+                        "number": {
+                          "type": "string",
+                          "enum": [
+                            "singular",
+                            "dual",
+                            "plural"
+                          ]
+                        },
+                        "pada": {
+                          "type": "string",
+                          "enum": [
+                            "parasmaipada",
+                            "ātmanepada"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "type",
+                        "dhatu",
+                        "lakara",
+                        "prayoga",
+                        "person",
+                        "number",
+                        "pada"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "const": "avyaya"
+                        },
+                        "krt": {
+                          "type": "object",
+                          "properties": {
+                            "dhatu": {
+                              "type": "object",
+                              "properties": {
+                                "sa": {
+                                  "type": "string"
+                                },
+                                "iast": {
+                                  "type": "string"
+                                },
+                                "gana": {
+                                  "type": "integer",
+                                  "minimum": 1,
+                                  "maximum": 10
+                                }
+                              },
+                              "required": [
+                                "sa",
+                                "iast"
+                              ]
+                            },
+                            "prefixes": {
+                              "type": "array",
+                              "items": {
+                                "type": "string"
+                              }
+                            },
+                            "suffix": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "dhatu",
+                            "suffix"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "type"
+                      ]
+                    }
+                  ]
+                },
+                "role": {
+                  "type": "string",
+                  "enum": [
+                    "kriyā",
+                    "kartā",
+                    "karma",
+                    "karaṇa",
+                    "sampradāna",
+                    "apādāna",
+                    "adhikaraṇa",
+                    "sambandha",
+                    "sambodhana",
+                    "viśeṣaṇa",
+                    "samānādhikaraṇa",
+                    "kriyā-viśeṣaṇa",
+                    "pūrvakāla",
+                    "nipāta"
+                  ]
+                },
+                "head": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "irregular": {
+                  "type": "object",
+                  "properties": {
+                    "note": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "note"
+                  ]
+                }
+              },
+              "required": [
+                "id",
+                "words",
+                "sa",
+                "iast",
+                "morph",
+                "role",
+                "head"
+              ]
+            }
+          },
+          "adhyahara": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "sa": {
+                  "type": "string"
+                },
+                "iast": {
+                  "type": "string"
+                },
+                "morph": {
+                  "oneOf": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "const": "subanta"
+                        },
+                        "stem": {
+                          "type": "object",
+                          "properties": {
+                            "sa": {
+                              "type": "string"
+                            },
+                            "iast": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "sa",
+                            "iast"
+                          ]
+                        },
+                        "gender": {
+                          "type": "string",
+                          "enum": [
+                            "masculine",
+                            "feminine",
+                            "neuter"
+                          ]
+                        },
+                        "case": {
+                          "type": "string",
+                          "enum": [
+                            "nominative",
+                            "accusative",
+                            "instrumental",
+                            "dative",
+                            "ablative",
+                            "genitive",
+                            "locative",
+                            "vocative"
+                          ]
+                        },
+                        "number": {
+                          "type": "string",
+                          "enum": [
+                            "singular",
+                            "dual",
+                            "plural"
+                          ]
+                        },
+                        "krt": {
+                          "type": "object",
+                          "properties": {
+                            "dhatu": {
+                              "type": "object",
+                              "properties": {
+                                "sa": {
+                                  "type": "string"
+                                },
+                                "iast": {
+                                  "type": "string"
+                                },
+                                "gana": {
+                                  "type": "integer",
+                                  "minimum": 1,
+                                  "maximum": 10
+                                }
+                              },
+                              "required": [
+                                "sa",
+                                "iast"
+                              ]
+                            },
+                            "prefixes": {
+                              "type": "array",
+                              "items": {
+                                "type": "string"
+                              }
+                            },
+                            "suffix": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "dhatu",
+                            "suffix"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "type",
+                        "stem",
+                        "case",
+                        "number"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "const": "tinanta"
+                        },
+                        "dhatu": {
+                          "type": "object",
+                          "properties": {
+                            "sa": {
+                              "type": "string"
+                            },
+                            "iast": {
+                              "type": "string"
+                            },
+                            "gana": {
+                              "type": "integer",
+                              "minimum": 1,
+                              "maximum": 10
+                            }
+                          },
+                          "required": [
+                            "sa",
+                            "iast"
+                          ]
+                        },
+                        "prefixes": {
+                          "type": "array",
+                          "items": {
+                            "type": "string"
+                          }
+                        },
+                        "sanadi": {
+                          "type": "string",
+                          "enum": [
+                            "ṇic",
+                            "san",
+                            "yaṅ",
+                            "nāmadhātu"
+                          ]
+                        },
+                        "lakara": {
+                          "type": "string",
+                          "enum": [
+                            "laṭ",
+                            "liṭ",
+                            "luṭ",
+                            "lṛṭ",
+                            "leṭ",
+                            "loṭ",
+                            "laṅ",
+                            "vidhiliṅ",
+                            "āśīrliṅ",
+                            "luṅ",
+                            "lṛṅ"
+                          ]
+                        },
+                        "prayoga": {
+                          "type": "string",
+                          "enum": [
+                            "kartari",
+                            "karmaṇi",
+                            "bhāve"
+                          ]
+                        },
+                        "person": {
+                          "type": "integer",
+                          "minimum": 1,
+                          "maximum": 3
+                        },
+                        "number": {
+                          "type": "string",
+                          "enum": [
+                            "singular",
+                            "dual",
+                            "plural"
+                          ]
+                        },
+                        "pada": {
+                          "type": "string",
+                          "enum": [
+                            "parasmaipada",
+                            "ātmanepada"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "type",
+                        "dhatu",
+                        "lakara",
+                        "prayoga",
+                        "person",
+                        "number",
+                        "pada"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "type": {
+                          "type": "string",
+                          "const": "avyaya"
+                        },
+                        "krt": {
+                          "type": "object",
+                          "properties": {
+                            "dhatu": {
+                              "type": "object",
+                              "properties": {
+                                "sa": {
+                                  "type": "string"
+                                },
+                                "iast": {
+                                  "type": "string"
+                                },
+                                "gana": {
+                                  "type": "integer",
+                                  "minimum": 1,
+                                  "maximum": 10
+                                }
+                              },
+                              "required": [
+                                "sa",
+                                "iast"
+                              ]
+                            },
+                            "prefixes": {
+                              "type": "array",
+                              "items": {
+                                "type": "string"
+                              }
+                            },
+                            "suffix": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "dhatu",
+                            "suffix"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "type"
+                      ]
+                    }
+                  ]
+                },
+                "role": {
+                  "type": "string",
+                  "enum": [
+                    "kriyā",
+                    "kartā",
+                    "karma",
+                    "karaṇa",
+                    "sampradāna",
+                    "apādāna",
+                    "adhikaraṇa",
+                    "sambandha",
+                    "sambodhana",
+                    "viśeṣaṇa",
+                    "samānādhikaraṇa",
+                    "kriyā-viśeṣaṇa",
+                    "pūrvakāla",
+                    "nipāta"
+                  ]
+                },
+                "head": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "meaning": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                }
+              },
+              "required": [
+                "id",
+                "sa",
+                "iast",
+                "role",
+                "head",
+                "meaning"
+              ]
+            }
+          },
+          "anvaya": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "translations": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "object",
+                "properties": {
+                  "lines": {
+                    "type": "array",
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "refs": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "text": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "refs",
+                          "text"
+                        ]
+                      }
+                    }
+                  },
+                  "bhavartha": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "lines"
+                ]
+              },
+              "hi": {
+                "type": "object",
+                "properties": {
+                  "lines": {
+                    "type": "array",
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "refs": {
+                            "minItems": 1,
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "text": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "refs",
+                          "text"
+                        ]
+                      }
+                    }
+                  },
+                  "bhavartha": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "lines"
+                ]
+              }
+            },
+            "required": [
+              "en",
+              "hi"
+            ]
+          },
+          "annotations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "refs": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "kind": {
+                  "type": "string",
+                  "enum": [
+                    "context",
+                    "mythology",
+                    "wordplay",
+                    "sound",
+                    "theology",
+                    "grammar",
+                    "variant",
+                    "cross-reference"
+                  ]
+                },
+                "body": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                },
+                "citations": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "source": {
+                        "type": "string"
+                      },
+                      "locator": {
+                        "type": "string"
+                      },
+                      "quote": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "source"
+                    ]
+                  }
+                },
+                "confidence": {
+                  "type": "string",
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low"
+                  ]
+                }
+              },
+              "required": [
+                "id",
+                "refs",
+                "kind",
+                "body",
+                "confidence"
+              ]
+            }
+          },
+          "words": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string"
+            },
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "compound": {
+                  "type": "string"
+                },
+                "padaccheda": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "sa": {
+                        "type": "string"
+                      },
+                      "iast": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "sa",
+                      "iast"
+                    ]
+                  }
+                },
+                "sandhi": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "rule": {
+                        "type": "string"
+                      },
+                      "explanation": {
+                        "type": "object",
+                        "properties": {
+                          "en": {
+                            "type": "string"
+                          },
+                          "hi": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "en",
+                          "hi"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "rule",
+                      "explanation"
+                    ]
+                  }
+                },
+                "components": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "sa": {
+                        "type": "string"
+                      },
+                      "iast": {
+                        "type": "string"
+                      },
+                      "pos": {
+                        "type": "string"
+                      },
+                      "gender": {
+                        "type": "string",
+                        "enum": [
+                          "masculine",
+                          "feminine",
+                          "neuter"
+                        ]
+                      },
+                      "root": {
+                        "type": "object",
+                        "properties": {
+                          "kind": {
+                            "type": "string",
+                            "enum": [
+                              "dhatu",
+                              "pratipadika"
+                            ]
+                          },
+                          "sa": {
+                            "type": "string"
+                          },
+                          "iast": {
+                            "type": "string"
+                          },
+                          "gana": {
+                            "type": "integer",
+                            "minimum": 1,
+                            "maximum": 10
+                          },
+                          "prefixes": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "gloss": {
+                            "type": "object",
+                            "properties": {
+                              "en": {
+                                "type": "string"
+                              },
+                              "hi": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "en",
+                              "hi"
+                            ]
+                          }
+                        },
+                        "required": [
+                          "kind",
+                          "sa",
+                          "iast"
+                        ]
+                      },
+                      "formation": {
+                        "type": "string"
+                      },
+                      "sense": {
+                        "type": "object",
+                        "properties": {
+                          "dict": {
+                            "type": "string"
+                          },
+                          "headword": {
+                            "type": "string"
+                          },
+                          "gloss": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "dict",
+                          "headword"
+                        ]
+                      },
+                      "meaning": {
+                        "type": "object",
+                        "properties": {
+                          "en": {
+                            "type": "string"
+                          },
+                          "hi": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "en",
+                          "hi"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "sa",
+                      "iast",
+                      "meaning"
+                    ]
+                  }
+                },
+                "meaning": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                },
+                "literal": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                },
+                "epithet": {
+                  "type": "boolean"
+                },
+                "notes": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                },
+                "aside": {
+                  "type": "object",
+                  "properties": {
+                    "en": {
+                      "type": "string"
+                    },
+                    "hi": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "en",
+                    "hi"
+                  ]
+                },
+                "alternatives": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "reading": {
+                        "type": "object",
+                        "properties": {
+                          "en": {
+                            "type": "string"
+                          },
+                          "hi": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "en",
+                          "hi"
+                        ]
+                      },
+                      "note": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "reading"
+                    ]
+                  }
+                },
+                "confidence": {
+                  "type": "string",
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low"
+                  ]
+                },
+                "sources": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "padaccheda",
+                "components",
+                "meaning",
+                "confidence",
+                "sources"
+              ]
+            }
+          },
+          "lock": {
+            "type": "object",
+            "properties": {
+              "hash": {
+                "type": "string"
+              },
+              "sources": {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "variants": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "at": {
+                      "type": "string"
+                    },
+                    "reading": {
+                      "type": "string"
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "note": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "at",
+                    "reading",
+                    "sources"
+                  ]
+                }
+              },
+              "confirmed_by": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "hash",
+              "sources",
+              "confirmed_by"
+            ]
+          },
+          "review": {
+            "type": "object",
+            "properties": {
+              "status": {
+                "type": "string",
+                "enum": [
+                  "ai_draft",
+                  "ai_verified",
+                  "reviewed",
+                  "scholar_approved"
+                ]
+              },
+              "history": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "date": {
+                      "type": "string"
+                    },
+                    "by": {
+                      "type": "string"
+                    },
+                    "action": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "date",
+                    "by",
+                    "action"
+                  ]
+                }
+              }
+            },
+            "required": [
+              "status"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "number",
+          "kind",
+          "lines",
+          "translations",
+          "words",
+          "review"
+        ]
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "language",
+    "id",
+    "type",
+    "title",
+    "deities",
+    "summary",
+    "sources",
+    "verses"
+  ]
+}

@@ -1,0 +1,9 @@
+# v2: stotram-refine run, 2026-11-20
+
+**Outcome:** `ai_verified`. Penalty 0 → 0. 9/10 words agreed across 2 drafts. Exit-ready: True.
+
+## Needs a human
+
+1. **Confirm the text lock** after reading `text-report.md`:
+   `.venv/bin/python -m checks lock data/stotrams/vedasara-shiva-stava.json --verse v2 --sources brihat-stotra-ratnakar-wikisource,gitapress-shiv-stotra-ratnakar,gitapress-stotraratnavali,ramakrishna-math-mantrapushpam,sanskritdocuments-vedasarast,shlokam-vedasara-shiva-stava,vanivilas-1910-works-17 --confirm "<your name>"`
+- T4.1 `words.w3.alternatives`: No word-by-word source in the evidence supports the chosen sense 'enemies of the gods'. shlokam-vedasara-shiva-stava.md reads सुरारातिनाशं but glosses arāti as 'affliction' ('remover of devas' afflictions'). gitapress-stotraratnavali.md and gitapress-shiv-stotra-ratnakar.md read सुरारार्तिनाशं and translate it देवदुःखदलन. 'Enemy' is supported only by the dictionary (mw-araati.md: m. 'an enemy'). The alternative's note also says MW does not support shlokam's gloss, but mw-araati.md gives f. a-rāti 'failure, adversity' (RV., AV., ŚBr.). Gender plays no part in a compound member, so the 'affliction/adversity' reading is supported by a dictionary sense as well as by every translation in the evidence. The alternative is already recorded and confidence is medium, so this is not a fail. A human should decide which sense to make primary, and the note should be corrected either way. (suggested: Change the alternative's note to say that MW does support the sense: f. a-rāti 'failure, adversity' backs shlokam's 'affliction'. Also consider making 'who removes the gods' afflictions' the primary meaning, since every translation in the evidence agrees on it, and keeping 'destroyer of the gods' enemies' (MW m. 'an enemy') as the alternative.)

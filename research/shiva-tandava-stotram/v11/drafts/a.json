@@ -1,0 +1,832 @@
+{
+  "id": "v11",
+  "number": 11,
+  "kind": "verse",
+  "concepts": [
+    "tandava",
+    "serpent-garland"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "जयत्वदभ्र",
+          "iast": "jayatvadabhra"
+        },
+        {
+          "id": "w2",
+          "text": "विभ्रमभ्रमद्",
+          "iast": "vibhramabhramad"
+        },
+        {
+          "id": "w3",
+          "text": "भुजङ्गमश्वस",
+          "iast": "bhujaṅgamaśvasa"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w4",
+          "text": "द्विनिर्गमत्क्रम",
+          "iast": "dvinirgamatkrama"
+        },
+        {
+          "id": "w5",
+          "text": "स्फुरत्करालभालहव्यवाट्",
+          "iast": "sphuratkarālabhālahavyavāṭ"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w6",
+          "text": "धिमिद्धिमिद्धिमिद्ध्वनन्",
+          "iast": "dhimiddhimiddhimiddhvanan"
+        },
+        {
+          "id": "w7",
+          "text": "मृदङ्गतुङ्गमङ्गल",
+          "iast": "mṛdaṅgatuṅgamaṅgala"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "ध्वनिक्रमप्रवर्तित",
+          "iast": "dhvanikramapravartita"
+        },
+        {
+          "id": "w9",
+          "text": "प्रचण्डताण्डवः",
+          "iast": "pracaṇḍatāṇḍavaḥ"
+        },
+        {
+          "id": "w10",
+          "text": "शिवः",
+          "iast": "śivaḥ"
+        }
+      ],
+      "end": "॥ ११ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1", "w2", "w3", "w4", "w5"],
+      "iast": "adabhra-vibhrama-bhramad-bhujaṅgama-śvasad-vinirgamat-krama-sphurat-karāla-bhāla-havyavāṭ",
+      "type": "bahuvrīhi",
+      "structure": "(((((((adabhra-vibhrama)-bhramat)-bhujaṅgama)-(śvasat-vinirgamat))-krama)-sphurat)-((karāla-bhāla)-havyavāh))",
+      "vigraha": "अदभ्रेण विभ्रमेण भ्रमतः भुजङ्गमस्य श्वसतः विनिर्गच्छतः (श्वासस्य) क्रमेण स्फुरन् करालभाले हव्यवाट् यस्य सः",
+      "meaning": {
+        "en": "He on whose fearsome forehead the fire flares in rhythm with the hissing breath that pours from the serpent whirling round with tremendous force",
+        "hi": "वे (शिव), जिनके विकराल ललाट की अग्नि अत्यन्त वेग से चक्कर काटते सर्प की निकलती फुफकार के क्रम से भड़कती है"
+      },
+      "note": {
+        "en": "One compound of eleven members that starts inside the first display word (after jayatu) and runs across the pāda break: its participle śvasat is split, śvasa- ending pāda 1 and the sandhi d opening pāda 2. adabhra-vibhrama 'with great whirling' qualifies bhramat 'circling', which describes the bhujaṅgama 'serpent'; śvasat-vinirgamat is the serpent's hiss or breath 'coming out'; krama-sphurat 'flaring in step' describes the fire; karāla-bhāla-havyavāh is 'the fire of the dreadful forehead'. The whole is a bahuvrīhi in the nominative, describing Śiva, who has that fire.",
+        "hi": "ग्यारह पदों का एक समास, जो पहले शब्द के भीतर (जयतु के बाद) शुरू होकर चरण की सीमा पार करता है: इसका कृदन्त श्वसत् बँट गया है, 'श्वस' पहले चरण के अन्त में और सन्धि का 'द्' दूसरे चरण के आरम्भ में। अदभ्र-विभ्रम 'प्रबल घुमाव से' भ्रमत् 'घूमते' का विशेषण है, जो भुजङ्गम 'सर्प' का वर्णन करता है; श्वसत्-विनिर्गमत् सर्प की 'बाहर निकलती' फुफकार या साँस है; क्रम-स्फुरत् 'क्रम से भड़कती' अग्नि का विशेषण है; कराल-भाल-हव्यवाह् 'विकराल ललाट की अग्नि' है। पूरा समास प्रथमा में बहुव्रीहि है, जो उस अग्नि वाले शिव का वर्णन करता है।"
+      }
+    },
+    "c2": {
+      "members": ["w6", "w7", "w8", "w9"],
+      "iast": "dhimid-dhimid-dhimid-dhvanan-mṛdaṅga-tuṅga-maṅgala-dhvani-krama-pravartita-pracaṇḍa-tāṇḍavaḥ",
+      "type": "bahuvrīhi",
+      "structure": "(((((((dhimit-dhimit-dhimit)-dhvanat)-mṛdaṅga)-((tuṅga-maṅgala)-dhvani))-krama)-pravartita)-(pracaṇḍa-tāṇḍava))",
+      "vigraha": "धिमिद्धिमिद्धिमिदिति ध्वनतः मृदङ्गस्य तुङ्गमङ्गलध्वनीनां क्रमेण प्रवर्तितं प्रचण्डं ताण्डवं यस्य सः",
+      "meaning": {
+        "en": "He whose furious tāṇḍava is set going by the measured flow of lofty, auspicious sound from the mṛdaṅga booming dhimid-dhimid-dhimid",
+        "hi": "वे (शिव), जिनका प्रचण्ड ताण्डव धिमिद्-धिमिद्-धिमिद् बजते मृदंग की ऊँची, मंगलमय ध्वनियों के क्रम से चल पड़ा है"
+      },
+      "note": {
+        "en": "The second half-verse is again one compound, crossing the pāda break at maṅgala- / dhvani-. The sound-word dhimit (three times) and the participle dhvanat 'sounding' describe the mṛdaṅga; tuṅga-maṅgala-dhvani is its 'lofty, auspicious sound'; that sound's krama 'sequence, measure' is what sets the dance going (pravartita); pracaṇḍa-tāṇḍava is 'the furious tāṇḍava'. As a bahuvrīhi it describes Śiva, so it ends in the nominative -aḥ like śivaḥ.",
+        "hi": "दूसरा अर्धश्लोक भी एक ही समास है, जो मङ्गल- / ध्वनि- पर चरण की सीमा पार करता है। ध्वनि-शब्द धिमित् (तीन बार) और कृदन्त ध्वनत् 'बजता हुआ' मृदंग के विशेषण हैं; तुङ्ग-मङ्गल-ध्वनि उसकी 'ऊँची, मंगलमय ध्वनि' है; उस ध्वनि का क्रम (लय) ही नृत्य को प्रवर्तित करता है; प्रचण्ड-ताण्डव 'उग्र ताण्डव' है। बहुव्रीहि होने से यह शिव का वर्णन करता है, इसलिए शिवः की तरह प्रथमा (-अः) में है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1"],
+      "sa": "जयतु",
+      "iast": "jayatu",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": { "sa": "जि", "iast": "ji", "gana": 1 },
+        "prefixes": [],
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p2",
+      "words": ["w1", "w2", "w3", "w4", "w5"],
+      "sa": "अदभ्रविभ्रमभ्रमद्भुजङ्गमश्वसद्विनिर्गमत्क्रमस्फुरत्करालभालहव्यवाट्",
+      "iast": "adabhravibhramabhramadbhujaṅgamaśvasadvinirgamatkramasphuratkarālabhālahavyavāṭ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "अदभ्रविभ्रमभ्रमद्भुजङ्गमश्वसद्विनिर्गमत्क्रमस्फुरत्करालभालहव्यवाह्",
+          "iast": "adabhravibhramabhramadbhujaṅgamaśvasadvinirgamatkramasphuratkarālabhālahavyavāh"
+        },
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p4"
+    },
+    {
+      "id": "p3",
+      "words": ["w6", "w7", "w8", "w9"],
+      "sa": "धिमिद्धिमिद्धिमिद्ध्वनन्मृदङ्गतुङ्गमङ्गलध्वनिक्रमप्रवर्तितप्रचण्डताण्डवः",
+      "iast": "dhimiddhimiddhimiddhvananmṛdaṅgatuṅgamaṅgaladhvanikramapravartitapracaṇḍatāṇḍavaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "धिमिद्धिमिद्धिमिद्ध्वनन्मृदङ्गतुङ्गमङ्गलध्वनिक्रमप्रवर्तितप्रचण्डताण्डव",
+          "iast": "dhimiddhimiddhimiddhvananmṛdaṅgatuṅgamaṅgaladhvanikramapravartitapracaṇḍatāṇḍava"
+        },
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p4"
+    },
+    {
+      "id": "p4",
+      "words": ["w10"],
+      "sa": "शिवः",
+      "iast": "śivaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "शिव", "iast": "śiva" },
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p1"
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": ["p2", "p3", "p4", "p1"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "Victory to" },
+          { "refs": ["w10"], "text": "Śiva," }
+        ],
+        [
+          { "refs": ["w5"], "text": "on whose fearsome forehead the fire flares" },
+          { "refs": ["w4"], "text": "in rhythm with the outflowing" },
+          { "refs": ["w3"], "text": "hiss of the serpent" },
+          { "refs": ["w2"], "text": "that whirls round and round" },
+          { "refs": ["w1"], "text": "with tremendous force;" }
+        ],
+        [
+          { "refs": ["w9"], "text": "whose furious tāṇḍava" },
+          { "refs": ["w8"], "text": "is set going by the measured flow" },
+          { "refs": ["w7"], "text": "of the lofty, auspicious" },
+          { "refs": ["w8"], "text": "sound" },
+          { "refs": ["w7"], "text": "of the mṛdaṅga drum" },
+          { "refs": ["w6"], "text": "booming dhimid-dhimid-dhimid!" }
+        ]
+      ],
+      "bhavartha": "The snake coiled on Śiva spins with wild speed, and every hiss it lets out fans the fire on His forehead, which leaps higher breath by breath. Meanwhile the mṛdaṅga thunders dhimid-dhimid-dhimid, and to the pattern of its beats Śiva launches into His fierce dance. Rāvaṇa sees all of it, hears all of it, and can only cry out: glory to Śiva!"
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "अत्यन्त" },
+          { "refs": ["w2"], "text": "वेग से चक्कर काटते" },
+          { "refs": ["w3"], "text": "सर्प की फुफकार" },
+          { "refs": ["w4"], "text": "जिस क्रम से बाहर निकलती है, उसी क्रम से" },
+          { "refs": ["w5"], "text": "जिनके विकराल ललाट की अग्नि भड़कती है," }
+        ],
+        [
+          { "refs": ["w6"], "text": "धिमिद्-धिमिद्-धिमिद् बजते" },
+          { "refs": ["w7"], "text": "मृदंग के ऊँचे, मंगलमय" },
+          { "refs": ["w8"], "text": "स्वरों के क्रम से" },
+          { "refs": ["w9"], "text": "जिनका प्रचण्ड ताण्डव" },
+          { "refs": ["w8"], "text": "चल पड़ा है," }
+        ],
+        [
+          { "refs": ["w10"], "text": "उन शिव की" },
+          { "refs": ["w1"], "text": "जय हो!" }
+        ]
+      ],
+      "bhavartha": "शिव के शरीर पर लिपटा सर्प तेज़ी से घूम रहा है, और उसकी हर फुफकार माथे की आग को हवा देती है, जिससे वह साँस-साँस के साथ और ऊँची लपटें उठाती है। उधर मृदंग धिमिद्-धिमिद्-धिमिद् गरज रहा है, और उसकी थाप के क्रम पर शिव अपना उग्र नृत्य आरम्भ कर देते हैं। यह सब देखकर और सुनकर रावण बस यही पुकार उठता है: शिव की जय हो!"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1"],
+      "kind": "variant",
+      "body": {
+        "en": "The verse opens with its only verb, *jayatu*, \"may he be victorious\", fused into the compound that follows: the final u of *jayatu* turns into v before the a of *adabhra* (*jayatv-adabhra*). Everything after it, both long compounds and *śivaḥ*, belongs to the one who is hailed.\n\nThe sanskritdocuments.org edition notes a variant *jayaty-ad(abhra)*, that is *jayati*, \"he is victorious\". The meaning hardly changes: Monier-Williams records that the present of √ji is often used like an imperative, \"glory to\". All five witnesses consulted print *jayatu* in the main text, and so does this edition.",
+        "hi": "श्लोक अपनी एकमात्र क्रिया *जयतु* (\"उनकी जय हो\") से खुलता है, जो आगे के समास से जुड़ गई है: *जयतु* का अन्तिम 'उ' *अदभ्र* के 'अ' से पहले 'व्' बन जाता है (*जयत्व्-अदभ्र*)। इसके बाद का सब कुछ, दोनों लम्बे समास और *शिवः*, उसी का वर्णन है जिसकी जय बोली जा रही है।\n\nsanskritdocuments.org का पाठ एक पाठान्तर *जयत्यद(भ्र)* भी देता है, यानी *जयति* (\"वे विजयी हैं\")। अर्थ लगभग नहीं बदलता: मोनियर-विलियम्स के अनुसार √जि का वर्तमान काल प्रायः आज्ञार्थ की तरह \"जय हो\" के अर्थ में आता है। जिन पाँच साक्षियों को देखा गया, सब मुख्य पाठ में *जयतु* छापते हैं, और यही पाठ यहाँ लिया गया है।"
+      },
+      "citations": [
+        { "source": "sanskritdocuments-shivtand", "locator": "verse 11, line 1 (parenthesised variant)", "quote": "(जयत्यद)" },
+        { "source": "sa-wikisource-shivatandava", "locator": "॥११॥", "quote": "जयत्वदभ्रविभ्रमभ्रमद्भुजङ्गमश्वसद्विनिर्गमत्क्रमस्फुरत्करालभालहव्यवाट्" },
+        { "source": "ramakrishna-math-mantrapushpam", "locator": "p. 469, verse ॥ ११ ॥", "quote": "जयत्वदभ्रविभ्रमभ्रमद्भुजङ्गमश्वस-" },
+        { "source": "vyakhya-sts-11", "locator": "श्लोक ११, पदच्छेद", "quote": "जयतु = जय हो" },
+        { "source": "mw-ji", "locator": "MW √ji, p. 420", "quote": "often pr. in the sense of an Impv." }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a2",
+      "refs": ["w2", "w3", "w4"],
+      "kind": "context",
+      "body": {
+        "en": "The serpent that coils on Śiva ([verse 1](#v1-a2), [verse 5](#v5-a3)) is not still here: it spins with great force (*adabhra-vibhrama*), and its breath, *śvasat*, from √śvas \"to hiss, snort\", streams out (*vinirgamat*). The vyakhya.org commentary reads the picture as cause and effect: with every hiss the forehead fire blazes up more fiercely, snake on one side, flame on the other.\n\nWhere is the word break? *Śvasat* is cut by the pāda line: *-śvasa* ends line 1, and its final consonant, voiced to d, begins line 2 (*dvinirgamat*). shlokam.org instead splits *aśvasa* + *dvinirgamat*; that leaves a meaningless *dvi-*, so we follow vyakhya.org's *śvasad* + *vinirgamat*.",
+        "hi": "शिव पर लिपटा सर्प ([श्लोक १](#v1-a2), [श्लोक ५](#v5-a3)) यहाँ शान्त नहीं है: वह प्रबल वेग से घूम रहा है (*अदभ्र-विभ्रम*), और उसकी साँस, *श्वसत्* (√श्वस्, \"फुफकारना\"), बाहर निकल रही है (*विनिर्गमत्*)। vyakhya.org की व्याख्या इस चित्र को कारण और फल की तरह पढ़ती है: हर फुफकार के साथ माथे की आग और भड़कती है, एक ओर सर्प, दूसरी ओर ज्वाला।\n\nशब्द कहाँ टूटता है? *श्वसत्* चरण की रेखा पर कटा है: *-श्वस* पहली पंक्ति के अन्त में है, और उसका अन्तिम व्यंजन, 'द्' बनकर, दूसरी पंक्ति शुरू करता है (*द्विनिर्गमत्*)। shlokam.org इसे *अश्वस* + *द्विनिर्गमत्* में बाँटता है; उससे एक निरर्थक *द्वि-* बचता है, इसलिए यहाँ vyakhya.org का विभाजन *श्वसद्* + *विनिर्गमत्* माना गया है।"
+      },
+      "citations": [
+        { "source": "mw-shvas", "locator": "MW √śvas, p. 1105", "quote": "to blow, hiss, pant, snort" },
+        { "source": "vyakhya-sts-11", "locator": "श्लोक ११, व्याख्या", "quote": "इधर सर्प की फूत्कार, उधर अनल का संचार" },
+        { "source": "vyakhya-sts-11", "locator": "श्लोक ११, पदच्छेद", "quote": "विनिर्गमत् = बाहर निकलता हुआ" },
+        { "source": "shlokam-shiva-tandava", "locator": "verse 11, word-meanings", "quote": "अश्वस (aśvasa) – breath" },
+        { "source": "mw-adabhra", "locator": "MW adabhra, p. 18", "quote": "not scanty, plentiful" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w5"],
+      "kind": "theology",
+      "body": {
+        "en": "The forehead fire of [verse 2](#v2-a3) and [verse 7](#v7-a2) returns, now at its most dreadful: *karāla*, \"formidable, terrible\". Its name here is *havya-vāh*, \"bearer of the oblation\", the old title of Agni, who carries offerings to the gods; Monier-Williams gives *havya-vāha* simply as Agni or fire. *Sphurat* says it flares and flickers, and *krama* in the word before says it does so step by step, keeping time with the serpent's breath.\n\nOne witness, shlokam.org, reads *phāla* for *bhāla*. The other four print *bhāla*, the ordinary word for forehead.",
+        "hi": "[श्लोक २](#v2-a3) और [श्लोक ७](#v7-a2) की ललाट-अग्नि लौट आई है, अब अपने सबसे भयंकर रूप में: *कराल*, \"विकराल, भीषण\"। यहाँ उसका नाम *हव्य-वाह्* है, \"हवि ले जाने वाला\", अग्नि की पुरानी उपाधि, जो आहुति देवताओं तक पहुँचाते हैं; मोनियर-विलियम्स *हव्य-वाह* का अर्थ सीधे अग्नि देते हैं। *स्फुरत्* बताता है कि वह भड़कती और लपलपाती है, और पिछले शब्द का *क्रम* बताता है कि यह धीरे-धीरे, सर्प की साँस की लय पर होता है।\n\nएक साक्षी, shlokam.org, *भाल* के स्थान पर *फाल* पढ़ता है। बाकी चारों *भाल* छापते हैं, जो माथे के लिए सामान्य शब्द है।"
+      },
+      "citations": [
+        { "source": "mw-karala", "locator": "MW karāla, p. 255", "quote": "formidable, dreadful, terrible" },
+        { "source": "mw-havyavaha", "locator": "MW havya-vāha, p. 1294", "quote": "m. Agni or fire" },
+        { "source": "mw-bhala", "locator": "MW bhāla, p. 754", "quote": "the forehead, brow" },
+        { "source": "vyakhya-sts-11", "locator": "श्लोक ११, पदच्छेद", "quote": "भालहव्यवाट् = ललाटाग्नि" },
+        { "source": "shlokam-shiva-tandava", "locator": "verse 11, text", "quote": "कराल फालहव्यवाट्" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a4",
+      "refs": ["w6", "w7"],
+      "kind": "sound",
+      "body": {
+        "en": "In [verse 1](#v1-a3) the ḍamaru spoke as *ḍamaḍ-ḍamaḍ*; here a different drum speaks. The *mṛdaṅga* is a barrel drum, and *dhimid-dhimid-dhimid* is its deep beat, a pure sound-word with no dictionary meaning. The participle *dhvanat*, \"sounding\", then names what the syllables have already done. vyakhya.org glosses the drum's tone as *tuṅga*, high and also deep, and *maṅgala*, auspicious: loud, but a sound of blessing.\n\nThe beat is printed in slightly different ways. Most witnesses read *dhimid-dhvanan*; shlokam.org has *dhimi-dhvanan*, and sanskritdocuments.org adds *dhimiṃ dhimiṃ dhimiṃ dhvanan* as an alternative. All of them say the same: dhim, dhim, dhim.",
+        "hi": "[श्लोक १](#v1-a3) में डमरू *डमड्-डमड्* बोलता था; यहाँ दूसरा वाद्य बोलता है। *मृदंग* ढोल जैसा वाद्य है, और *धिमिद्-धिमिद्-धिमिद्* उसकी गहरी थाप है, शुद्ध ध्वनि-शब्द, जिसका कोश में कोई अर्थ नहीं। फिर कृदन्त *ध्वनत्* (\"बजता हुआ\") वही बात शब्दों में कहता है जो अक्षर पहले कर चुके हैं। vyakhya.org मृदंग के स्वर को *तुङ्ग* (ऊँचा, गम्भीर) और *मङ्गल* (शुभ) बताता है: ज़ोरदार, पर कल्याण का स्वर।\n\nयह थाप अलग-अलग ढंग से छपी है। अधिकतर साक्षी *धिमिद्ध्वनन्* पढ़ते हैं; shlokam.org में *धिमिध्वनन्* है, और sanskritdocuments.org विकल्प के रूप में *धिमिं धिमिं धिमिं ध्वनन्* देता है। सबका अर्थ एक है: धिम्, धिम्, धिम्।"
+      },
+      "citations": [
+        { "source": "mw-mrdamga", "locator": "MW mṛdaṃga, p. 830", "quote": "a kind of drum, tabour" },
+        { "source": "mw-dhvan", "locator": "MW √dhvan, p. 522", "quote": "to sound, roar, make a noise, echo, reverberate" },
+        { "source": "vyakhya-sts-11", "locator": "श्लोक ११, पदच्छेद", "quote": "तुंग = ऊंचा, गंभीर" },
+        { "source": "sanskritdocuments-shivtand-meaning", "locator": "verse 11, word-meanings", "quote": "Dhimid-dhimid-dhimid-sounding-drum" },
+        { "source": "sanskritdocuments-shivtand", "locator": "verse 11, line 3 (parenthesised variant)", "quote": "(धिमिं धिमिं धिमिं ध्वनन्)" },
+        { "source": "shlokam-shiva-tandava", "locator": "verse 11, text", "quote": "धिमिद्धिमिद्धिमिध्वनन्" }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a5",
+      "refs": ["w8", "w9", "w10"],
+      "kind": "context",
+      "body": {
+        "en": "The [tāṇḍava](#v1-a4) of verse 1 is set in motion again, and this time the verse says what drives it: the *dhvani-krama*, the ordered sequence of the drum's sounds. *Pravartita* means \"set rolling, set going\", so the dance is wild (*pracaṇḍa*, \"fierce, furious\") yet keeps the drum's measure. vyakhya.org stresses that the frenzy is not chaos: the steps fall exactly with the beat.\n\nThe word *krama* appears twice in the verse. The fire flares in step with the serpent's breath; the dance moves in step with the drum. Fire and dance both keep time, and only then does the name arrive: *śivaḥ*, the one hailed by *jayatu*.",
+        "hi": "पहले श्लोक का [ताण्डव](#v1-a4) फिर चल पड़ा है, और इस बार श्लोक बताता है कि उसे कौन चलाता है: *ध्वनि-क्रम*, मृदंग की ध्वनियों का क्रमबद्ध सिलसिला। *प्रवर्तित* का अर्थ है \"चलाया गया, आरम्भ किया गया\", इसलिए नृत्य उग्र (*प्रचण्ड*) होकर भी मृदंग की लय नहीं छोड़ता। vyakhya.org ज़ोर देता है कि यह उन्माद अव्यवस्था नहीं है: कदम ठीक थाप पर पड़ते हैं।\n\n*क्रम* शब्द श्लोक में दो बार आता है। आग सर्प की साँस की लय पर भड़कती है; नृत्य मृदंग की लय पर चलता है। दोनों ताल में हैं, और तभी नाम आता है: *शिवः*, जिनकी *जयतु* कहकर जय बोली गई है।"
+      },
+      "citations": [
+        { "source": "mw-pravartita", "locator": "MW pravartita, p. 693", "quote": "caused to roll on or forwards, set in motion" },
+        { "source": "mw-pracanda", "locator": "MW pracaṇḍa, p. 656", "quote": "excessively violent, impetuous, furious, fierce" },
+        { "source": "mw-tandava", "locator": "MW tāṇḍava, p. 441", "quote": "frantic dance (of Śiva and his votaries)" },
+        { "source": "vyakhya-sts-11", "locator": "श्लोक ११, व्याख्या", "quote": "मृदंग की ध्वनि के ताल-क्रम के ठीक अनुरूप प्रचंड ताण्डव" },
+        { "source": "mw-krama", "locator": "MW krama, p. 319", "quote": "uninterrupted or regular progress, order, series" }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "जयतु", "iast": "jayatu" },
+        { "sa": "अदभ्र", "iast": "adabhra" }
+      ],
+      "sandhi": [
+        {
+          "name": "yaṇ",
+          "rule": "u + a → va",
+          "explanation": {
+            "en": "The final u of jayatu becomes v before the vowel a of adabhra: jayatu + adabhra → jayatvadabhra.",
+            "hi": "जयतु का अन्तिम 'उ' आगे के स्वर 'अ' (अदभ्र) के कारण 'व्' बन जाता है: जयतु + अदभ्र → जयत्वदभ्र।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जयतु",
+          "iast": "jayatu",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "जि",
+            "iast": "ji",
+            "gana": 1,
+            "gloss": { "en": "to conquer, to be victorious", "hi": "जीतना, विजयी होना" }
+          },
+          "formation": "loṭ (imperative), 3rd person singular, parasmaipada",
+          "sense": {
+            "dict": "mw",
+            "headword": "ji",
+            "gloss": "to be victorious, gain the upper hand"
+          },
+          "meaning": { "en": "may he be victorious; glory to", "hi": "जय हो, विजयी हों" }
+        },
+        {
+          "sa": "अदभ्र",
+          "iast": "adabhra",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "अदभ्र", "iast": "adabhra" },
+          "formation": "a (negation) + dabhra 'scanty'",
+          "sense": { "dict": "mw", "headword": "adabhra", "gloss": "not scanty, plentiful; strong" },
+          "meaning": { "en": "great, intense", "hi": "प्रबल, अत्यधिक" }
+        }
+      ],
+      "meaning": { "en": "glory to (Him) ... with great (force)", "hi": "जय हो ... अत्यन्त (वेग से)" },
+      "notes": {
+        "en": "One display word, two padas: the verb jayatu (the verse's only verb) and adabhra, the first member of the long compound c1. adabhra 'not scanty' intensifies vibhrama, the serpent's whirling.",
+        "hi": "एक शब्द में दो पद: क्रिया जयतु (श्लोक की एकमात्र क्रिया) और अदभ्र, जो लम्बे समास c1 का पहला सदस्य है। अदभ्र 'जो कम न हो' सर्प के घुमाव (विभ्रम) की प्रबलता बताता है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "he is victorious (jayati)", "hi": "वे विजयी हैं (जयति)" },
+          "note": "sanskritdocuments-shivtand prints (जयत्यद) as a variant; MW notes the present of √ji is often used in the sense of an imperative."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-ji", "mw-adabhra", "vyakhya-sts-11", "shlokam-shiva-tandava"]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "विभ्रम", "iast": "vibhrama" },
+        { "sa": "भ्रमत्", "iast": "bhramat" }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + bh → d + bh",
+          "explanation": {
+            "en": "The final t of bhramat becomes voiced d before the bh of bhujaṅgama (next display word): bhramat + bhujaṅgama → bhramadbhujaṅgama.",
+            "hi": "भ्रमत् का अन्तिम 'त्' आगे के घोष 'भ' (भुजङ्गम) के कारण 'द्' बन जाता है: भ्रमत् + भुजङ्गम → भ्रमद्भुजङ्गम।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विभ्रम",
+          "iast": "vibhrama",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भ्रम्",
+            "iast": "bhram",
+            "gana": 1,
+            "prefixes": ["vi"],
+            "gloss": { "en": "to whirl about", "hi": "चक्कर खाना" }
+          },
+          "formation": "vi + √bhram + ghañ (action noun)",
+          "sense": { "dict": "mw", "headword": "vibhrama", "gloss": "moving to and fro, rolling or whirling about" },
+          "meaning": { "en": "whirling motion", "hi": "घुमाव, चक्कर" }
+        },
+        {
+          "sa": "भ्रमत्",
+          "iast": "bhramat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भ्रम्",
+            "iast": "bhram",
+            "gana": 1,
+            "gloss": { "en": "to move round, to revolve", "hi": "घूमना" }
+          },
+          "formation": "śatṛ (present active participle)",
+          "sense": { "dict": "mw", "headword": "bhram", "gloss": "to move round, circulate, revolve" },
+          "meaning": { "en": "circling, moving round", "hi": "घूमता हुआ" }
+        }
+      ],
+      "meaning": { "en": "circling round in a whirl", "hi": "वेग से चक्कर काटता हुआ" },
+      "notes": {
+        "en": "adabhra-vibhrama 'with great whirling' qualifies bhramat, which describes the serpent (w3). Vidyut also offers vibhram + abhramad; that split gives a bare root and an unattested form, and is rejected.",
+        "hi": "अदभ्र-विभ्रम 'प्रबल घुमाव से' भ्रमत् का विशेषण है, जो सर्प (w3) का वर्णन करता है। Vidyut 'विभ्रम् + अभ्रमद्' विभाजन भी देता है; उसमें केवल धातु और एक अप्रचलित रूप बचता है, इसलिए वह अस्वीकार है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vibhrama", "mw-bhram", "vyakhya-sts-11", "shlokam-shiva-tandava"]
+    },
+    "w3": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "भुजङ्गम", "iast": "bhujaṅgama" },
+        { "sa": "श्वसत्", "iast": "śvasat" }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + v → d + v",
+          "explanation": {
+            "en": "The final t of śvasat becomes voiced d before the v of vinirgamat; the d is printed at the start of the next line: śvasat + vinirgamat → śvasa|dvinirgamat.",
+            "hi": "श्वसत् का अन्तिम 'त्' आगे के 'व' (विनिर्गमत्) के कारण 'द्' बन जाता है; यह 'द्' अगली पंक्ति के आरम्भ में छपा है: श्वसत् + विनिर्गमत् → श्वस|द्विनिर्गमत्।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भुजङ्गम",
+          "iast": "bhujaṅgama",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "भुजङ्गम", "iast": "bhujaṅgama" },
+          "sense": { "dict": "mw", "headword": "bhujaṃgama", "gloss": "a serpent, serpent-demon" },
+          "meaning": { "en": "serpent", "hi": "सर्प" }
+        },
+        {
+          "sa": "श्वसत्",
+          "iast": "śvasat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "श्वस्",
+            "iast": "śvas",
+            "gana": 2,
+            "gloss": { "en": "to breathe, to hiss", "hi": "साँस लेना, फुफकारना" }
+          },
+          "formation": "śatṛ (present active participle)",
+          "sense": { "dict": "mw", "headword": "śvas", "gloss": "to blow, hiss, pant, snort" },
+          "meaning": { "en": "hissing, breathing", "hi": "फुफकारता, साँस छोड़ता" }
+        }
+      ],
+      "meaning": { "en": "the hiss of the serpent", "hi": "सर्प की फुफकार" },
+      "literal": { "en": "the serpent, hissing", "hi": "फुफकारता सर्प" },
+      "notes": {
+        "en": "śvasat is split across the pāda break: -śvasa ends line 1 and its sandhi d begins line 2. Here the participle stands for the breath itself, the hiss that pours out (w4). shlokam.org splits aśvasa + dvinirgamat instead; that leaves dvi- without sense and is not followed.",
+        "hi": "श्वसत् चरण की सीमा पर बँटा है: '-श्वस' पहली पंक्ति के अन्त में और उसकी सन्धि का 'द्' दूसरी पंक्ति के आरम्भ में। यहाँ कृदन्त स्वयं साँस, यानी बाहर निकलती फुफकार (w4), के लिए है। shlokam.org 'अश्वस + द्विनिर्गमत्' विभाजन करता है; उससे 'द्वि-' का कोई अर्थ नहीं बनता, इसलिए वह नहीं लिया गया।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "the serpent's breath (aśvasa)", "hi": "सर्प की साँस (अश्वस)" },
+          "note": "shlokam-shiva-tandava glosses अश्वस as 'breath' and the next word as द्विनिर्गमत्; vyakhya-sts-11 splits श्वसद् + विनिर्गमत्, followed here."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-bhujamgama", "mw-shvas", "vyakhya-sts-11", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w4": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "विनिर्गमत्", "iast": "vinirgamat" },
+        { "sa": "क्रम", "iast": "krama" }
+      ],
+      "components": [
+        {
+          "sa": "विनिर्गमत्",
+          "iast": "vinirgamat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "गम्",
+            "iast": "gam",
+            "gana": 1,
+            "prefixes": ["vi", "nir"],
+            "gloss": { "en": "to go out, to come forth", "hi": "बाहर निकलना" }
+          },
+          "formation": "vi + nir + √gam + śatṛ (present active participle, built on gam- rather than the usual gacch-)",
+          "sense": { "dict": "mw", "headword": "vi-nir-gam", "gloss": "to go out or away, depart or escape from" },
+          "meaning": { "en": "coming out, issuing forth", "hi": "बाहर निकलता हुआ" }
+        },
+        {
+          "sa": "क्रम",
+          "iast": "krama",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "क्रम", "iast": "krama" },
+          "sense": { "dict": "mw", "headword": "krama", "gloss": "uninterrupted or regular progress, order, series" },
+          "meaning": { "en": "sequence, step by step", "hi": "क्रम, लय" }
+        }
+      ],
+      "meaning": { "en": "in step with (the breath) that streams out", "hi": "बाहर निकलती (साँस) के क्रम से" },
+      "notes": {
+        "en": "The display word starts with the d that belongs to śvasat (w3). vinirgamat describes the serpent's breath coming out; krama, with sphurat in w5, says the fire flares in time with it. The usual present participle of √gam is gacchat; the poem uses a form on the bare root gam-.",
+        "hi": "यह शब्द उस 'द्' से शुरू होता है जो श्वसत् (w3) का है। विनिर्गमत् सर्प की बाहर निकलती साँस का वर्णन करता है; क्रम, w5 के स्फुरत् के साथ, बताता है कि आग उसी लय पर भड़कती है। √गम् का सामान्य वर्तमान कृदन्त गच्छत् है; श्लोक मूल 'गम्-' पर बना रूप लेता है।"
+      },
+      "confidence": "medium",
+      "sources": ["mw-vinirgam", "mw-krama", "vyakhya-sts-11", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w5": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "स्फुरत्", "iast": "sphurat" },
+        { "sa": "कराल", "iast": "karāla" },
+        { "sa": "भाल", "iast": "bhāla" },
+        { "sa": "हव्यवाट्", "iast": "havyavāṭ" }
+      ],
+      "components": [
+        {
+          "sa": "स्फुरत्",
+          "iast": "sphurat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "स्फुर्",
+            "iast": "sphur",
+            "gana": 6,
+            "gloss": { "en": "to flash, to quiver, to burst forth", "hi": "चमकना, फड़कना, फूट पड़ना" }
+          },
+          "formation": "śatṛ (present active participle)",
+          "sense": { "dict": "mw", "headword": "sphur", "gloss": "to flash, glitter, gleam" },
+          "meaning": { "en": "flaring, flashing", "hi": "भड़कता, लपलपाता" }
+        },
+        {
+          "sa": "कराल",
+          "iast": "karāla",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "कराल", "iast": "karāla" },
+          "sense": { "dict": "mw", "headword": "karāla", "gloss": "formidable, dreadful, terrible" },
+          "meaning": { "en": "dreadful, fearsome", "hi": "विकराल, भीषण" }
+        },
+        {
+          "sa": "भाल",
+          "iast": "bhāla",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "भाल", "iast": "bhāla" },
+          "sense": { "dict": "mw", "headword": "bhāla", "gloss": "the forehead, brow" },
+          "meaning": { "en": "forehead", "hi": "ललाट, माथा" }
+        },
+        {
+          "sa": "हव्यवाह्",
+          "iast": "havyavāh",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "वह्",
+            "iast": "vah",
+            "gana": 1,
+            "gloss": { "en": "to carry, to convey", "hi": "ले जाना, ढोना" }
+          },
+          "formation": "havya 'oblation' + √vah + ṇvi (upapada: 'oblation-bearer'); nominative singular havyavāṭ",
+          "sense": { "dict": "mw", "headword": "havya-vāha", "gloss": "Agni or fire" },
+          "meaning": { "en": "fire (the bearer of oblations)", "hi": "अग्नि (हवि ले जाने वाला)" }
+        }
+      ],
+      "meaning": { "en": "(He) on whose fearsome forehead the fire flares", "hi": "(वे) जिनके विकराल ललाट की अग्नि भड़कती है" },
+      "notes": {
+        "en": "havyavāṭ is the nominative singular of havyavāh: final h becomes ṭ in pausa. The nominative ending belongs to the whole bahuvrīhi c1, which describes Śiva. shlokam.org reads phāla for bhāla; the other four witnesses read bhāla.",
+        "hi": "हव्यवाट् हव्यवाह् का प्रथमा एकवचन है: अन्त में 'ह्' विराम में 'ट्' बन जाता है। यह प्रथमा विभक्ति पूरे बहुव्रीहि c1 की है, जो शिव का वर्णन करता है। shlokam.org 'भाल' के स्थान पर 'फाल' पढ़ता है; बाकी चार साक्षी 'भाल' पढ़ते हैं।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "phāla instead of bhāla (same sense here)", "hi": "भाल के स्थान पर फाल" },
+          "note": "shlokam-shiva-tandava prints कराल फालहव्यवाट् and glosses फाल as forehead; the other witnesses read भाल."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-sphur", "mw-karala", "mw-bhala", "mw-havyavaha", "vyakhya-sts-11", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w6": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "धिमित्", "iast": "dhimit" },
+        { "sa": "धिमित्", "iast": "dhimit" },
+        { "sa": "धिमित्", "iast": "dhimit" },
+        { "sa": "ध्वनत्", "iast": "dhvanat" }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + dh → d + dh",
+          "explanation": {
+            "en": "Each final t becomes voiced d before the voiced dh that follows: dhimit + dhimit → dhimiddhimit, and dhimit + dhvanat → dhimiddhvanat.",
+            "hi": "हर अन्तिम 'त्' आगे के घोष 'ध' के कारण 'द्' बन जाता है: धिमित् + धिमित् → धिमिद्धिमित्, और धिमित् + ध्वनत् → धिमिद्ध्वनत्।"
+          }
+        },
+        {
+          "name": "anunāsika",
+          "rule": "t + m → n + m",
+          "explanation": {
+            "en": "The final t of dhvanat becomes the nasal n before the m of mṛdaṅga (next display word): dhvanat + mṛdaṅga → dhvananmṛdaṅga.",
+            "hi": "ध्वनत् का अन्तिम 'त्' आगे के 'म' (मृदङ्ग) के कारण 'न्' बन जाता है: ध्वनत् + मृदङ्ग → ध्वनन्मृदङ्ग।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "धिमित्",
+          "iast": "dhimit",
+          "pos": "indeclinable",
+          "meaning": { "en": "onomatopoeia for the beat of the mṛdaṅga", "hi": "मृदंग की थाप का अनुकरण-शब्द" }
+        },
+        {
+          "sa": "ध्वनत्",
+          "iast": "dhvanat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "ध्वन्",
+            "iast": "dhvan",
+            "gana": 1,
+            "gloss": { "en": "to sound, to resound", "hi": "ध्वनि करना, गूँजना" }
+          },
+          "formation": "śatṛ (present active participle)",
+          "sense": { "dict": "mw", "headword": "dhvan", "gloss": "to sound, roar, make a noise, echo, reverberate" },
+          "meaning": { "en": "sounding, resounding", "hi": "बजता हुआ" }
+        }
+      ],
+      "meaning": { "en": "booming dhimid-dhimid-dhimid", "hi": "धिमिद्-धिमिद्-धिमिद् बजता हुआ" },
+      "notes": {
+        "en": "Anukaraṇa (onomatopoeia) three times, like ḍamat in verse 1 and dhagat in verse 2; MW has no headword for it. shlokam.org reads dhimi-dhvanan; sanskritdocuments.org also gives dhimiṃ dhimiṃ dhimiṃ dhvanan. The sense is the same.",
+        "hi": "अनुकरण (ध्वन्यात्मक शब्द) तीन बार, जैसे पहले श्लोक में डमत् और दूसरे में धगत्; मोनियर-विलियम्स में इसकी प्रविष्टि नहीं है। shlokam.org 'धिमिध्वनन्' पढ़ता है; sanskritdocuments.org 'धिमिं धिमिं धिमिं ध्वनन्' भी देता है। अर्थ एक ही है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-dhvan", "vyakhya-sts-11", "sanskritdocuments-shivtand-meaning", "shlokam-shiva-tandava"]
+    },
+    "w7": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "मृदङ्ग", "iast": "mṛdaṅga" },
+        { "sa": "तुङ्ग", "iast": "tuṅga" },
+        { "sa": "मङ्गल", "iast": "maṅgala" }
+      ],
+      "components": [
+        {
+          "sa": "मृदङ्ग",
+          "iast": "mṛdaṅga",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "मृदङ्ग", "iast": "mṛdaṅga" },
+          "sense": { "dict": "mw", "headword": "mṛdaṃga", "gloss": "a kind of drum, tabour" },
+          "meaning": { "en": "mṛdaṅga, a barrel drum", "hi": "मृदंग (ढोल जैसा वाद्य)" }
+        },
+        {
+          "sa": "तुङ्ग",
+          "iast": "tuṅga",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "तुङ्ग", "iast": "tuṅga" },
+          "sense": { "dict": "mw", "headword": "tuṅga", "gloss": "prominent, erect, lofty, high" },
+          "meaning": { "en": "lofty, loud", "hi": "ऊँचा" }
+        },
+        {
+          "sa": "मङ्गल",
+          "iast": "maṅgala",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "मङ्गल", "iast": "maṅgala" },
+          "sense": { "dict": "mw", "headword": "maṅgala", "gloss": "anything auspicious" },
+          "meaning": { "en": "auspicious", "hi": "मंगलमय, शुभ" }
+        }
+      ],
+      "meaning": { "en": "of the mṛdaṅga, lofty and auspicious", "hi": "मृदंग के ऊँचे, मंगलमय" },
+      "notes": {
+        "en": "tuṅga and maṅgala qualify dhvani 'sound' in w8: the drum's lofty, auspicious sound. The compound crosses the pāda break after maṅgala.",
+        "hi": "तुङ्ग और मङ्गल w8 के 'ध्वनि' के विशेषण हैं: मृदंग की ऊँची, मंगलमय ध्वनि। समास 'मङ्गल' के बाद चरण की सीमा पार करता है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "deep, grave (sound)", "hi": "गम्भीर (ध्वनि)" },
+          "note": "vyakhya-sts-11 glosses तुंग as ऊंचा, गंभीर; shlokam-shiva-tandava glosses it as 'auspicious'."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-mrdamga", "mw-tunga", "mw-mangala", "vyakhya-sts-11", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w8": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "ध्वनि", "iast": "dhvani" },
+        { "sa": "क्रम", "iast": "krama" },
+        { "sa": "प्रवर्तित", "iast": "pravartita" }
+      ],
+      "components": [
+        {
+          "sa": "ध्वनि",
+          "iast": "dhvani",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "ध्वनि", "iast": "dhvani" },
+          "sense": { "dict": "mw", "headword": "dhvani", "gloss": "sound, echo, noise, voice, tone, tune" },
+          "meaning": { "en": "sound", "hi": "ध्वनि, स्वर" }
+        },
+        {
+          "sa": "क्रम",
+          "iast": "krama",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "क्रम", "iast": "krama" },
+          "sense": { "dict": "mw", "headword": "krama", "gloss": "order, series, regular arrangement, succession" },
+          "meaning": { "en": "sequence, measure", "hi": "क्रम, लय" }
+        },
+        {
+          "sa": "प्रवर्तित",
+          "iast": "pravartita",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "वृत्",
+            "iast": "vṛt",
+            "gana": 1,
+            "prefixes": ["pra"],
+            "gloss": { "en": "(causative) to set in motion", "hi": "(प्रेरणार्थक) चलाना, आरम्भ कराना" }
+          },
+          "formation": "pra + √vṛt + ṇic + kta (past passive participle of the causative)",
+          "sense": { "dict": "mw", "headword": "pravartita", "gloss": "caused to roll on or forwards, set in motion" },
+          "meaning": { "en": "set going, set in motion", "hi": "प्रवर्तित, चलाया गया" }
+        }
+      ],
+      "meaning": { "en": "set going by the measured flow of sound", "hi": "ध्वनियों के क्रम से चलाया गया" },
+      "notes": {
+        "en": "dhvani-krama 'the sequence of sounds' is the instrument; pravartita 'set going' describes the tāṇḍava in w9. No sandhi at the joins.",
+        "hi": "ध्वनि-क्रम 'ध्वनियों का सिलसिला' साधन है; प्रवर्तित 'चलाया गया' w9 के ताण्डव का विशेषण है। जोड़ों पर कोई सन्धि नहीं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-dhvani", "mw-krama", "mw-pravartita", "vyakhya-sts-11", "shlokam-shiva-tandava"]
+    },
+    "w9": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "प्रचण्ड", "iast": "pracaṇḍa" },
+        { "sa": "ताण्डवः", "iast": "tāṇḍavaḥ" }
+      ],
+      "components": [
+        {
+          "sa": "प्रचण्ड",
+          "iast": "pracaṇḍa",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "प्रचण्ड", "iast": "pracaṇḍa" },
+          "sense": { "dict": "mw", "headword": "pracaṇḍa", "gloss": "excessively violent, impetuous, furious, fierce" },
+          "meaning": { "en": "fierce, furious", "hi": "प्रचण्ड, उग्र" }
+        },
+        {
+          "sa": "ताण्डव",
+          "iast": "tāṇḍava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "ताण्डव", "iast": "tāṇḍava" },
+          "sense": { "dict": "mw", "headword": "tāṇḍava", "gloss": "frantic dance (of Śiva and his votaries)" },
+          "meaning": { "en": "the tāṇḍava dance", "hi": "ताण्डव नृत्य" }
+        }
+      ],
+      "meaning": { "en": "(He) whose tāṇḍava is furious", "hi": "(वे) जिनका ताण्डव प्रचण्ड है" },
+      "notes": {
+        "en": "The nominative -aḥ belongs to the whole bahuvrīhi c2 (w6–w9), which describes Śiva: 'He whose fierce tāṇḍava is set going…'.",
+        "hi": "प्रथमा '-अः' पूरे बहुव्रीहि c2 (w6–w9) की है, जो शिव का वर्णन करता है: 'वे, जिनका प्रचण्ड ताण्डव … चलाया गया है'।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pracanda", "mw-tandava", "vyakhya-sts-11", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w10": {
+      "padaccheda": [
+        { "sa": "शिवः", "iast": "śivaḥ" }
+      ],
+      "components": [
+        {
+          "sa": "शिव",
+          "iast": "śiva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "शिव", "iast": "śiva" },
+          "sense": { "dict": "mw", "headword": "śiva", "gloss": "'The Auspicious one'" },
+          "meaning": { "en": "Śiva, the auspicious one", "hi": "शिव, कल्याणकारी" }
+        }
+      ],
+      "meaning": { "en": "Śiva", "hi": "शिव" },
+      "epithet": true,
+      "notes": {
+        "en": "Nominative singular, the subject of jayatu; both long compounds describe him.",
+        "hi": "प्रथमा एकवचन, जयतु का कर्ता; दोनों लम्बे समास इन्हीं का वर्णन करते हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-shiva", "vyakhya-sts-11", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      { "date": "2026-10-23", "by": "ai", "action": "Drafted from evidence pack." }
+    ]
+  }
+}

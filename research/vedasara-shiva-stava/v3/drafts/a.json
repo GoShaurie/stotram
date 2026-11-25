@@ -1,0 +1,1242 @@
+{
+  "id": "v3",
+  "number": 3,
+  "kind": "verse",
+  "meter": "bhujangaprayata",
+  "concepts": [
+    "nilakantha",
+    "vibhuti",
+    "pancha-vaktra"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "गिरीशं",
+          "iast": "girīśaṃ"
+        },
+        {
+          "id": "w2",
+          "text": "गणेशं",
+          "iast": "gaṇeśaṃ"
+        },
+        {
+          "id": "w3",
+          "text": "गले",
+          "iast": "gale"
+        },
+        {
+          "id": "w4",
+          "text": "नीलवर्णं",
+          "iast": "nīlavarṇaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "गवेन्द्राधिरूढं",
+          "iast": "gavendrādhirūḍhaṃ"
+        },
+        {
+          "id": "w6",
+          "text": "गुणातीतरूपम्",
+          "iast": "guṇātītarūpam"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w7",
+          "text": "भवं",
+          "iast": "bhavaṃ"
+        },
+        {
+          "id": "w8",
+          "text": "भास्वरं",
+          "iast": "bhāsvaraṃ"
+        },
+        {
+          "id": "w9",
+          "text": "भस्मना",
+          "iast": "bhasmanā"
+        },
+        {
+          "id": "w10",
+          "text": "भूषिताङ्गं",
+          "iast": "bhūṣitāṅgaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w11",
+          "text": "भवानीकलत्रं",
+          "iast": "bhavānīkalatraṃ"
+        },
+        {
+          "id": "w12",
+          "text": "भजे",
+          "iast": "bhaje"
+        },
+        {
+          "id": "w13",
+          "text": "पञ्चवक्त्रम्",
+          "iast": "pañcavaktram"
+        }
+      ],
+      "end": "॥ ३ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1"],
+      "iast": "gir-īśaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "गिरेः ईशः, तम्",
+      "meaning": {
+        "en": "the Lord of the mountain",
+        "hi": "पर्वत के स्वामी"
+      },
+      "note": {
+        "en": "giri 'mountain' + īśa 'lord': the lord of the mountain. The two i-sounds merge into one long ī.",
+        "hi": "गिरि 'पर्वत' + ईश 'स्वामी': पर्वत के स्वामी। दोनों इ-ध्वनियाँ मिलकर एक दीर्घ ई बन जाती हैं।"
+      }
+    },
+    "c2": {
+      "members": ["w2"],
+      "iast": "gaṇ-eśaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "गणानाम् ईशः, तम्",
+      "meaning": {
+        "en": "the Lord of the gaṇas, His hosts of attendants",
+        "hi": "गणों के, अर्थात् सेवक-दलों के स्वामी"
+      },
+      "note": {
+        "en": "gaṇa 'host, troop of attendants' + īśa 'lord'; a + ī becomes e.",
+        "hi": "गण 'सेवकों का दल' + ईश 'स्वामी'; अ + ई मिलकर ए बनता है।"
+      }
+    },
+    "c3": {
+      "members": ["w4"],
+      "iast": "nīla-varṇaṃ",
+      "type": "bahuvrīhi",
+      "vigraha": "(गले) नीलः वर्णः यस्य सः, तम्",
+      "meaning": {
+        "en": "(Him) whose colour is blue (at the throat)",
+        "hi": "(उन्हें) जिनका (कण्ठ में) रंग नीला है"
+      },
+      "note": {
+        "en": "nīla 'blue' + varṇa 'colour'; the compound describes the one who has that colour, and gale 'on the throat' says where.",
+        "hi": "नील 'नीला' + वर्ण 'रंग'; समास उसका वर्णन करता है जिसका यह रंग है, और 'गले' बताता है कि कहाँ।"
+      }
+    },
+    "c4": {
+      "members": ["w5"],
+      "iast": "gav-endr-ādhirūḍhaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "dvitīyā",
+      "structure": "((gava-indra)-adhirūḍha)",
+      "vigraha": "गवाम् इन्द्रः गवेन्द्रः, गवेन्द्रम् अधिरूढः, तम्",
+      "meaning": {
+        "en": "riding the king of bulls",
+        "hi": "बैलों के राजा पर सवार"
+      },
+      "note": {
+        "en": "gavendra 'chief of cattle', i.e. the king of bulls, is itself a compound of go and indra; adhirūḍha 'mounted on' takes it as what is mounted.",
+        "hi": "गवेन्द्र 'गौओं में श्रेष्ठ', अर्थात् बैलों का राजा, स्वयं गो और इन्द्र का समास है; अधिरूढ 'चढ़ा हुआ' उसे वह बताता है जिस पर सवारी है।"
+      }
+    },
+    "c5": {
+      "members": ["w6"],
+      "iast": "guṇ-ātīta-rūpam",
+      "type": "bahuvrīhi",
+      "structure": "((guṇa-atīta)-rūpa)",
+      "vigraha": "गुणान् अतीतं रूपं यस्य सः, तम्",
+      "meaning": {
+        "en": "(Him) whose form is beyond the guṇas",
+        "hi": "(उन्हें) जिनका रूप गुणों से परे है"
+      },
+      "note": {
+        "en": "guṇātīta 'gone beyond the guṇas' describes rūpa 'form'; the whole describes Śiva, who has such a form.",
+        "hi": "गुणातीत 'गुणों से परे' रूप का विशेषण है; पूरा समास उन शिव का वर्णन करता है जिनका ऐसा रूप है।"
+      }
+    },
+    "c6": {
+      "members": ["w10"],
+      "iast": "bhūṣit-āṅgaṃ",
+      "type": "bahuvrīhi",
+      "vigraha": "(भस्मना) भूषितम् अङ्गं यस्य सः, तम्",
+      "meaning": {
+        "en": "(Him) whose body is adorned (with ash)",
+        "hi": "(उन्हें) जिनका शरीर (भस्म से) सजा है"
+      },
+      "note": {
+        "en": "bhūṣita 'adorned' + aṅga 'body'; bhasmanā 'with ash' says with what.",
+        "hi": "भूषित 'सजा हुआ' + अङ्ग 'शरीर'; 'भस्मना' बताता है किससे।"
+      }
+    },
+    "c7": {
+      "members": ["w11"],
+      "iast": "bhavānī-kalatraṃ",
+      "type": "bahuvrīhi",
+      "vigraha": "भवानी कलत्रं यस्य सः, तम्",
+      "meaning": {
+        "en": "(Him) whose wife is Bhavānī",
+        "hi": "(उन्हें) जिनकी पत्नी भवानी हैं"
+      },
+      "note": {
+        "en": "kalatra 'wife' is a neuter word, but the compound describes Śiva and so takes His form.",
+        "hi": "कलत्र 'पत्नी' नपुंसक शब्द है, पर समास शिव का वर्णन करता है, इसलिए उन्हीं का रूप लेता है।"
+      }
+    },
+    "c8": {
+      "members": ["w13"],
+      "iast": "pañca-vaktram",
+      "type": "bahuvrīhi",
+      "vigraha": "पञ्च वक्त्राणि यस्य सः, तम्",
+      "meaning": {
+        "en": "(Him) who has five faces",
+        "hi": "(उन्हें) जिनके पाँच मुख हैं"
+      },
+      "note": {
+        "en": "pañca 'five' + vaktra 'face': the one who has five faces, a name of Śiva.",
+        "hi": "पञ्च 'पाँच' + वक्त्र 'मुख': जिसके पाँच मुख हैं, शिव का नाम।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1"],
+      "sa": "गिरीशम्",
+      "iast": "girīśam",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "गिरीश", "iast": "girīśa"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p2",
+      "words": ["w2"],
+      "sa": "गणेशम्",
+      "iast": "gaṇeśam",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "गणेश", "iast": "gaṇeśa"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p3",
+      "words": ["w3"],
+      "sa": "गले",
+      "iast": "gale",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "गल", "iast": "gala"},
+        "gender": "masculine",
+        "case": "locative",
+        "number": "singular"
+      },
+      "role": "adhikaraṇa",
+      "head": "p4"
+    },
+    {
+      "id": "p4",
+      "words": ["w4"],
+      "sa": "नीलवर्णम्",
+      "iast": "nīlavarṇam",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "नीलवर्ण", "iast": "nīlavarṇa"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p5",
+      "words": ["w5"],
+      "sa": "गवेन्द्राधिरूढम्",
+      "iast": "gavendrādhirūḍham",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "गवेन्द्राधिरूढ", "iast": "gavendrādhirūḍha"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p6",
+      "words": ["w6"],
+      "sa": "गुणातीतरूपम्",
+      "iast": "guṇātītarūpam",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "गुणातीतरूप", "iast": "guṇātītarūpa"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p7",
+      "words": ["w7"],
+      "sa": "भवम्",
+      "iast": "bhavam",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "भव", "iast": "bhava"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p12"
+    },
+    {
+      "id": "p8",
+      "words": ["w8"],
+      "sa": "भास्वरम्",
+      "iast": "bhāsvaram",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "भास्वर", "iast": "bhāsvara"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p9",
+      "words": ["w9"],
+      "sa": "भस्मना",
+      "iast": "bhasmanā",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "भस्मन्", "iast": "bhasman"},
+        "gender": "neuter",
+        "case": "instrumental",
+        "number": "singular"
+      },
+      "role": "karaṇa",
+      "head": "p10"
+    },
+    {
+      "id": "p10",
+      "words": ["w10"],
+      "sa": "भूषिताङ्गम्",
+      "iast": "bhūṣitāṅgam",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "भूषिताङ्ग", "iast": "bhūṣitāṅga"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p11",
+      "words": ["w11"],
+      "sa": "भवानीकलत्रम्",
+      "iast": "bhavānīkalatram",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "भवानीकलत्र", "iast": "bhavānīkalatra"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p12",
+      "words": ["w12"],
+      "sa": "भजे",
+      "iast": "bhaje",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {"sa": "भज्", "iast": "bhaj", "gana": 1},
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p13",
+      "words": ["w13"],
+      "sa": "पञ्चवक्त्रम्",
+      "iast": "pañcavaktram",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "पञ्चवक्त्र", "iast": "pañcavaktra"},
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अहम्",
+      "iast": "aham",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "अस्मद्", "iast": "asmad"},
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p12",
+      "meaning": {
+        "en": "I (the one who prays)",
+        "hi": "मैं (स्तुति करने वाला)"
+      }
+    }
+  ],
+  "anvaya": ["x1", "p1", "p2", "p3", "p4", "p5", "p6", "p8", "p9", "p10", "p11", "p13", "p7", "p12"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {"refs": ["w1"], "text": "The Lord of the mountain,"},
+          {"refs": ["w2"], "text": "the Lord of His hosts,"},
+          {"refs": ["w4"], "text": "blue"},
+          {"refs": ["w3"], "text": "at the throat,"}
+        ],
+        [
+          {"refs": ["w5"], "text": "riding the king of bulls,"},
+          {"refs": ["w6"], "text": "whose form lies beyond the qualities of nature;"}
+        ],
+        [
+          {"refs": ["w7"], "text": "Bhava, the source of all being,"},
+          {"refs": ["w8"], "text": "shining,"},
+          {"refs": ["w10"], "text": "His body adorned"},
+          {"refs": ["w9"], "text": "with ash,"}
+        ],
+        [
+          {"refs": ["w11"], "text": "whose wife is Bhavānī:"},
+          {"refs": ["x1"], "text": "I"},
+          {"refs": ["w12"], "text": "worship"},
+          {"refs": ["w13"], "text": "the five-faced Lord."}
+        ]
+      ],
+      "bhavartha": "The poet worships Śiva in a string of pictures. He is Lord of the mountain and of His hosts, His throat is blue, He rides the king of bulls, and His form lies beyond the qualities of nature. He is Bhava, shining, His body adorned with ash; Bhavānī is His wife, and He has five faces."
+    },
+    "hi": {
+      "lines": [
+        [
+          {"refs": ["w1"], "text": "पर्वत के स्वामी,"},
+          {"refs": ["w2"], "text": "गणों के स्वामी,"},
+          {"refs": ["w3"], "text": "कण्ठ में"},
+          {"refs": ["w4"], "text": "नीले रंग वाले,"}
+        ],
+        [
+          {"refs": ["w5"], "text": "बैलों के राजा पर सवार,"},
+          {"refs": ["w6"], "text": "गुणों से परे रूप वाले,"}
+        ],
+        [
+          {"refs": ["w7"], "text": "सबके उद्गम भव,"},
+          {"refs": ["w8"], "text": "तेजस्वी,"},
+          {"refs": ["w9"], "text": "भस्म से"},
+          {"refs": ["w10"], "text": "सजे शरीर वाले,"}
+        ],
+        [
+          {"refs": ["w11"], "text": "भवानी जिनकी पत्नी हैं,"},
+          {"refs": ["w13"], "text": "उन पाँच मुखों वाले (शिव) को"},
+          {"refs": ["x1"], "text": "मैं"},
+          {"refs": ["w12"], "text": "भजता हूँ।"}
+        ]
+      ],
+      "bhavartha": "कवि शिव को चित्रों की एक माला में भजता है। वे पर्वत के और अपने गणों के स्वामी हैं, उनका कण्ठ नीला है, वे बैलों के राजा पर सवार हैं, और उनका रूप गुणों से परे है। वे भव हैं, तेजस्वी हैं, उनका शरीर भस्म से सजा है; भवानी उनकी पत्नी हैं और उनके पाँच मुख हैं।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w3", "w4"],
+      "kind": "mythology",
+      "body": {
+        "en": "The Bhāgavata uses this verse's very words: *gale nīlam*, blue on the throat. When the ocean was churned, a poison called *hālāhala* rose and spread everywhere. Out of compassion Mahādeva took it in His palm and drank it. The poison showed its power even on Him, staining His throat blue, and that stain became His ornament. So the blue the poet sees is the colour of a world saved.",
+        "hi": "भागवत ठीक इन्हीं शब्दों का प्रयोग करता है: *गले नीलम्*, कण्ठ में नीला। जब समुद्र मथा गया, तो *हालाहल* नाम का विष उठा और चारों ओर फैल गया। करुणा से महादेव ने उसे हथेली पर लेकर पी लिया। विष ने उन पर भी अपना बल दिखाया और उनका कण्ठ नीला कर दिया, पर वही दाग़ उनका आभूषण बन गया। इसलिए कवि जो नीलापन देखता है, वह बचाए गए संसार का रंग है।"
+      },
+      "citations": [
+        {
+          "source": "bhagavata-8-7",
+          "locator": "Bhāgavata Purāṇa 8.7.42",
+          "quote": "अभक्षयन्महादेव: कृपया भूतभावन:"
+        },
+        {
+          "source": "bhagavata-8-7",
+          "locator": "Bhāgavata Purāṇa 8.7.43",
+          "quote": "यच्चकार गले नीलं तच्च साधोर्विभूषणम्"
+        },
+        {
+          "source": "mw-nilavarna",
+          "locator": "MW nīlavarṇa, p. 566",
+          "quote": "blue-coloured, blue"
+        },
+        {
+          "source": "mw-gala",
+          "locator": "MW gala, p. 350",
+          "quote": "the throat, neck"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a2",
+      "refs": ["w6"],
+      "kind": "variant",
+      "body": {
+        "en": "Beyond the *guṇas*, or beyond counting? Most printings read *guṇātīta-rūpam*: His form lies beyond the three *guṇas*, the strands of nature (goodness, passion and darkness) that weave all we see. The Śvetāśvatara Upaniṣad says it in one word: He is *nirguṇa*. Other printings have *gaṇātīta-rūpam*, 'whose forms are past counting'. One vowel apart, the two pull two ways: Śiva beyond every form, or Śiva in countless forms.",
+        "hi": "गुणों से परे, या गिनती से परे? अधिकतर मुद्रित पाठों में *गुणातीत-रूपम्* है: उनका रूप तीनों *गुणों* से परे है, प्रकृति के वे धागे (सत्त्व, रजस्, तमस्) जिनसे दिखने वाला सब बुना है। श्वेताश्वतर उपनिषद् यही एक शब्द में कहता है: वे *निर्गुण* हैं। कुछ पाठों में *गणातीत-रूपम्* है, 'जिनके रूप गिनती से परे हैं'। एक स्वर का अन्तर, पर अर्थ दो ओर: हर रूप से परे शिव, या अनगिनत रूपों वाले शिव।"
+      },
+      "citations": [
+        {
+          "source": "sanskritdocuments-vedasarast",
+          "locator": "verse ॥ ३॥",
+          "quote": "गवेन्द्राधिरूढं गुणातीतरूपम्"
+        },
+        {
+          "source": "vanivilas-1910-works-17",
+          "locator": "p. 71, verse ॥ ३ ॥",
+          "quote": "गवेन्द्राधिरूढं गुणातीतरूपम्"
+        },
+        {
+          "source": "ramakrishna-math-mantrapushpam",
+          "locator": "p. 464, verse ॥ ३ ॥",
+          "quote": "गवेन्द्राधिरूढं गुणातीतरूपम्"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 27, verse ॥ ३ ॥",
+          "quote": "गवेन्द्राधिरूढं गणातीतरूपम्"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 27, Hindi translation",
+          "quote": "अगणित रूपवाले"
+        },
+        {
+          "source": "brihat-stotra-ratnakar-wikisource",
+          "locator": "p. 251, verse ३",
+          "quote": "गणातीतरूपम्"
+        },
+        {
+          "source": "shvetashvatara-upanishad",
+          "locator": "Śvetāśvatara Upaniṣad 6.11",
+          "quote": "साक्षी चेता केवलो निर्गुणश्च"
+        },
+        {
+          "source": "mw-guna",
+          "locator": "MW guṇa, p. 357",
+          "quote": "an ingredient or constituent of Prakṛti"
+        },
+        {
+          "source": "mw-gunatita",
+          "locator": "MW guṇātīta, p. 358",
+          "quote": "freed from or beyond all properties"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w7", "w8", "w9", "w10", "w11", "w12"],
+      "kind": "sound",
+      "body": {
+        "en": "Say the verse aloud. The first half chimes on *g*: *girīśaṃ gaṇeśaṃ gale … gavendra … guṇātīta*. The second switches to *bh*, six words in a row: *bhavaṃ bhāsvaraṃ bhasmanā bhūṣitāṅgaṃ bhavānī… bhaje*. At its heart stands a pair: *Bhava*, an old name of Śiva from *bhū*, 'to be, to become', and *Bhavānī*, His wife, whose name is made from His. Husband and wife share one name, and the line ends in *bhaje*, 'I worship'.",
+        "hi": "श्लोक को बोलकर पढ़िए। पहला आधा *ग* पर गूँजता है: *गिरीशं गणेशं गले … गवेन्द्र … गुणातीत*। दूसरा आधा *भ* पर आ जाता है, लगातार छह शब्द: *भवं भास्वरं भस्मना भूषिताङ्गं भवानी… भजे*। बीच में एक जोड़ी है: *भव*, शिव का पुराना नाम, *भू* (होना, बनना) से, और *भवानी*, उनकी पत्नी, जिनका नाम उन्हीं के नाम से बना है। पति-पत्नी का एक नाम, और पंक्ति *भजे*, 'मैं भजता हूँ', पर पूरी होती है।"
+      },
+      "citations": [
+        {
+          "source": "mw-bhava",
+          "locator": "MW bhava, p. 749",
+          "quote": "later N. of Śiva or a form of Śiva"
+        },
+        {
+          "source": "mw-bhava",
+          "locator": "MW bhava, p. 748",
+          "quote": "coming into existence, birth, production, origin"
+        },
+        {
+          "source": "mw-bhavani",
+          "locator": "MW bhavānī, p. 749",
+          "quote": "fr. bhava"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        {"sa": "गिरि", "iast": "giri"},
+        {"sa": "ईशम्", "iast": "īśam"}
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "i + ī → ī",
+          "explanation": {
+            "en": "The i of giri and the ī of īśa merge into one long ī: giri + īśa → girīśa.",
+            "hi": "गिरि का 'इ' और ईश का 'ई' मिलकर एक दीर्घ 'ई' बनते हैं: गिरि + ईश → गिरीश।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (gaṇeśaṃ): girīśam → girīśaṃ.",
+            "hi": "अगले शब्द (गणेशं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: गिरीशम् → गिरीशं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "गिरि",
+          "iast": "giri",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "गिरि", "iast": "giri"},
+          "sense": {"dict": "mw", "headword": "giri", "gloss": "a mountain, hill, rock"},
+          "meaning": {"en": "mountain", "hi": "पर्वत"}
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "ईश", "iast": "īśa"},
+          "sense": {"dict": "mw", "headword": "īśa", "gloss": "a ruler, master, lord"},
+          "meaning": {"en": "lord", "hi": "स्वामी"}
+        }
+      ],
+      "meaning": {"en": "the Lord of the mountain, i.e. Śiva", "hi": "पर्वत के स्वामी, अर्थात् शिव को"},
+      "epithet": true,
+      "notes": {
+        "en": "A well-known name of Śiva, 'mountain-lord'. The verse does not name the mountain; it is usually understood as Kailāsa.",
+        "hi": "शिव का प्रसिद्ध नाम, 'पर्वत के स्वामी'। श्लोक पर्वत का नाम नहीं लेता; सामान्यतः इसे कैलास समझा जाता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {"en": "the Lord of Kailāsa", "hi": "कैलासनाथ"},
+          "note": "gitapress-stotraratnavali renders girīśa as कैलासनाथ and shlokam-vedasara-shiva-stava adds '(Kailasha)'; MW gives only 'mountain-lord', Śiva."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-girisha", "mw-giri", "mw-isha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w2": {
+      "compound": "c2",
+      "padaccheda": [
+        {"sa": "गण", "iast": "gaṇa"},
+        {"sa": "ईशम्", "iast": "īśam"}
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "a + ī → e",
+          "explanation": {
+            "en": "The a of gaṇa and the ī of īśa merge into e: gaṇa + īśa → gaṇeśa.",
+            "hi": "गण का 'अ' और ईश का 'ई' मिलकर 'ए' बनते हैं: गण + ईश → गणेश।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (gale): gaṇeśam → gaṇeśaṃ.",
+            "hi": "अगले शब्द (गले) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: गणेशम् → गणेशं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "गण",
+          "iast": "gaṇa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "गण", "iast": "gaṇa"},
+          "sense": {"dict": "mw", "headword": "gaṇa", "gloss": "body of followers or attendants"},
+          "meaning": {"en": "hosts", "hi": "गण"}
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "ईश", "iast": "īśa"},
+          "sense": {"dict": "mw", "headword": "īśa", "gloss": "a ruler, master, lord"},
+          "meaning": {"en": "lord", "hi": "स्वामी"}
+        }
+      ],
+      "meaning": {"en": "the Lord of the gaṇas, His hosts of attendants, i.e. Śiva", "hi": "गणों के स्वामी, अर्थात् शिव को"},
+      "epithet": true,
+      "aside": {
+        "en": "Here *Gaṇeśa* is Śiva Himself, lord of the *gaṇas*, the hosts of attendants who follow Him, not His elephant-headed son, who is better known by this name.",
+        "hi": "यहाँ *गणेश* स्वयं शिव हैं, *गणों* के, यानी उनके साथ चलने वाले सेवक-दलों के स्वामी; हाथी के मुख वाले उनके पुत्र नहीं, जो इस नाम से अधिक जाने जाते हैं।"
+      },
+      "notes": {
+        "en": "Gaṇeśa is also an old name of Śiva, besides the elephant-headed god; the gaṇas are the troops of attendants of Śiva.",
+        "hi": "शब्दकोश गणेश को हाथी-मुख देवता के अलावा शिव का नाम भी बताता है; गण शिव के सेवकों के दल हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-ganesha", "mw-gana", "mw-isha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w3": {
+      "padaccheda": [
+        {"sa": "गले", "iast": "gale"}
+      ],
+      "components": [
+        {
+          "sa": "गल",
+          "iast": "gala",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "गल", "iast": "gala"},
+          "sense": {"dict": "mw", "headword": "gala", "gloss": "the throat, neck"},
+          "meaning": {"en": "throat", "hi": "कण्ठ"}
+        }
+      ],
+      "meaning": {"en": "at the throat", "hi": "कण्ठ में"},
+      "notes": {
+        "en": "The -e ending means 'at, on': it tells where Śiva is blue.",
+        "hi": "'-ए' अन्त का अर्थ है 'में, पर': यह बताता है कि शिव कहाँ नीले हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-gale", "mw-gala", "shlokam-vedasara-shiva-stava", "bhagavata-8-7"]
+    },
+    "w4": {
+      "compound": "c3",
+      "padaccheda": [
+        {"sa": "नील", "iast": "nīla"},
+        {"sa": "वर्णम्", "iast": "varṇam"}
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (gavendra…): nīlavarṇam → nīlavarṇaṃ.",
+            "hi": "अगले शब्द (गवेन्द्र…) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: नीलवर्णम् → नीलवर्णं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नील",
+          "iast": "nīla",
+          "pos": "adjective",
+          "root": {"kind": "pratipadika", "sa": "नील", "iast": "nīla"},
+          "sense": {"dict": "mw", "headword": "nīla", "gloss": "of a dark colour, (esp.) dark-blue"},
+          "meaning": {"en": "blue", "hi": "नीला"}
+        },
+        {
+          "sa": "वर्ण",
+          "iast": "varṇa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "वर्ण", "iast": "varṇa"},
+          "sense": {"dict": "mw", "headword": "varṇa", "gloss": "colour, tint, dye, pigment"},
+          "meaning": {"en": "colour", "hi": "रंग"}
+        }
+      ],
+      "meaning": {"en": "blue in colour (Him, i.e. Śiva, at the throat)", "hi": "नीले रंग वाले (शिव को, कण्ठ में)"},
+      "literal": {"en": "having a blue colour", "hi": "जिसका रंग नीला है"},
+      "notes": {
+        "en": "With gale this gives the picture of Nīlakaṇṭha, the blue-throated.",
+        "hi": "'गले' के साथ यह नीलकण्ठ, अर्थात् नीले कण्ठ वाले का चित्र देता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-nilavarna", "mw-nila", "mw-varna", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w5": {
+      "compound": "c4",
+      "padaccheda": [
+        {"sa": "गो", "iast": "go"},
+        {"sa": "इन्द्र", "iast": "indra"},
+        {"sa": "अधिरूढम्", "iast": "adhirūḍham"}
+      ],
+      "sandhi": [
+        {
+          "name": "avaṅ-ādeśa",
+          "rule": "go + indra → gavendra",
+          "explanation": {
+            "en": "Before indra, go takes the form gava, and a + i then merge into e: go + indra → gavendra.",
+            "hi": "इन्द्र से पहले 'गो' का रूप 'गव' हो जाता है, फिर अ + इ मिलकर ए बनते हैं: गो + इन्द्र → गवेन्द्र।"
+          }
+        },
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of gavendra and the a of adhirūḍha merge into ā: gavendra + adhirūḍha → gavendrādhirūḍha.",
+            "hi": "गवेन्द्र का अन्तिम 'अ' और अधिरूढ का 'अ' मिलकर 'आ' बनते हैं: गवेन्द्र + अधिरूढ → गवेन्द्राधिरूढ।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (guṇātīta…): gavendrādhirūḍham → gavendrādhirūḍhaṃ.",
+            "hi": "अगले शब्द (गुणातीत…) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: गवेन्द्राधिरूढम् → गवेन्द्राधिरूढं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "गो",
+          "iast": "go",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "गो", "iast": "go"},
+          "sense": {"dict": "mw", "headword": "go", "gloss": "an ox f. a cow, (pl.) cattle"},
+          "meaning": {"en": "cattle", "hi": "गौ"}
+        },
+        {
+          "sa": "इन्द्र",
+          "iast": "indra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "इन्द्र", "iast": "indra"},
+          "sense": {"dict": "mw", "headword": "indra", "gloss": "ifc. best, excellent, the first, the chief"},
+          "meaning": {"en": "chief", "hi": "श्रेष्ठ"}
+        },
+        {
+          "sa": "अधिरूढ",
+          "iast": "adhirūḍha",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "रुह्",
+            "iast": "ruh",
+            "gana": 1,
+            "prefixes": ["adhi"],
+            "gloss": {"en": "to rise above, to mount", "hi": "ऊपर चढ़ना"}
+          },
+          "formation": "adhi + √ruh + kta",
+          "sense": {"dict": "mw", "headword": "adhi-rūḍha", "gloss": "ascended, mounted"},
+          "meaning": {"en": "mounted", "hi": "सवार"}
+        }
+      ],
+      "meaning": {"en": "(Him, i.e. Śiva) riding the king of bulls", "hi": "बैलों के राजा पर सवार (शिव को)"},
+      "literal": {"en": "mounted on the chief of cattle", "hi": "गौओं में श्रेष्ठ पर आरूढ़"},
+      "aside": {
+        "en": "*Gavendra* is 'the Indra of cattle': at the end of a word *indra* means the chief, so this is the king of bulls, Nandi, Śiva's mount.",
+        "hi": "*गवेन्द्र* यानी 'गौओं के इन्द्र': शब्द के अन्त में *इन्द्र* का अर्थ होता है श्रेष्ठ, इसलिए यह बैलों का राजा है, शिव का वाहन नन्दी।"
+      },
+      "notes": {
+        "en": "gavendra means a bull; indra at the end of a compound means 'chief of its kind'.",
+        "hi": "शब्दकोश गवेन्द्र का अर्थ 'बैल' देता है; समास के अन्त में इन्द्र का अर्थ है 'अपनी जाति में श्रेष्ठ'।"
+      },
+      "confidence": "high",
+      "sources": ["mw-gavendra", "mw-go", "mw-indra", "mw-adhirudha", "mw-adhiruh", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w6": {
+      "compound": "c5",
+      "padaccheda": [
+        {"sa": "गुण", "iast": "guṇa"},
+        {"sa": "अतीत", "iast": "atīta"},
+        {"sa": "रूपम्", "iast": "rūpam"}
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The a of guṇa and the a of atīta merge into ā: guṇa + atīta → guṇātīta.",
+            "hi": "गुण का 'अ' और अतीत का 'अ' मिलकर 'आ' बनते हैं: गुण + अतीत → गुणातीत।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "गुण",
+          "iast": "guṇa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "गुण", "iast": "guṇa"},
+          "sense": {"dict": "mw", "headword": "guṇa", "gloss": "an ingredient or constituent of Prakṛti"},
+          "meaning": {"en": "qualities", "hi": "गुण"}
+        },
+        {
+          "sa": "अतीत",
+          "iast": "atīta",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "इ",
+            "iast": "i",
+            "gana": 2,
+            "prefixes": ["ati"],
+            "gloss": {"en": "to pass over, to get beyond", "hi": "पार जाना"}
+          },
+          "formation": "ati + √i + kta",
+          "sense": {"dict": "mw", "headword": "atīta", "gloss": "one who has gone through or got over or beyond"},
+          "meaning": {"en": "beyond", "hi": "परे"}
+        },
+        {
+          "sa": "रूप",
+          "iast": "rūpa",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "pratipadika", "sa": "रूप", "iast": "rūpa"},
+          "sense": {"dict": "mw", "headword": "rūpa", "gloss": "form, shape, figure"},
+          "meaning": {"en": "form", "hi": "रूप"}
+        }
+      ],
+      "meaning": {"en": "(Him, i.e. Śiva) whose form lies beyond the qualities of nature", "hi": "जिनका रूप गुणों से परे है (उन शिव को)"},
+      "literal": {"en": "whose form has gone beyond the guṇas", "hi": "जिनका रूप गुणों को लाँघ चुका है"},
+      "notes": {
+        "en": "The guṇas are the three strands of nature: sattva, rajas and tamas. The other reading गणातीतरूपम् gives 'whose forms are beyond counting'; see a2.",
+        "hi": "गुण प्रकृति के तीन धागे हैं: सत्त्व, रजस् और तमस्। दूसरा पाठ गणातीतरूपम् 'जिनके रूप गिनती से परे हैं' अर्थ देता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {"en": "whose forms are beyond counting", "hi": "अगणित रूपों वाले"},
+          "note": "Reading गणातीतरूपम् (gitapress-stotraratnavali, gitapress-shiv-stotra-ratnakar, brihat-stotra-ratnakar-wikisource); Gita Press Hindi has अगणित रूपवाले. shlokam-vedasara-shiva-stava prints गुणातीतरूपम् but translates 'whose forms are innumerable'."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-gunatita", "mw-guna", "mw-atita", "mw-ati", "mw-rupa", "sanskritdocuments-vedasarast", "vanivilas-1910-works-17", "ramakrishna-math-mantrapushpam", "gitapress-stotraratnavali", "brihat-stotra-ratnakar-wikisource", "shvetashvatara-upanishad"]
+    },
+    "w7": {
+      "padaccheda": [
+        {"sa": "भवम्", "iast": "bhavam"}
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (bhāsvaraṃ): bhavam → bhavaṃ.",
+            "hi": "अगले शब्द (भास्वरं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भवम् → भवं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भव",
+          "iast": "bhava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "gloss": {"en": "to be, to come into being", "hi": "होना, उत्पन्न होना"}
+          },
+          "formation": "√bhū + ap",
+          "sense": {"dict": "mw", "headword": "bhava", "gloss": "later N. of Śiva or a form of Śiva"},
+          "meaning": {"en": "Bhava", "hi": "भव"}
+        }
+      ],
+      "meaning": {"en": "Bhava, i.e. Śiva, the source of all being", "hi": "भव, अर्थात् सबके उद्गम शिव को"},
+      "literal": {"en": "Being, Becoming", "hi": "होना, उद्भव"},
+      "epithet": true,
+      "notes": {
+        "en": "An old name of Śiva, from √bhū 'to be, to become'; the word bhava also means coming into being, origin, existence.",
+        "hi": "शिव का पुराना नाम, √भू 'होना' से; 'भव' शब्द का अर्थ उत्पत्ति, उद्गम, अस्तित्व भी है।"
+      },
+      "alternatives": [
+        {
+          "reading": {"en": "existence itself", "hi": "स्वयं अस्तित्व"},
+          "note": "shlokam-vedasara-shiva-stava glosses bhavam as 'existence' and translates 'who is existence itself'; gitapress-stotraratnavali has संसारके आदिकारण (the first cause of the world)."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-bhava", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w8": {
+      "padaccheda": [
+        {"sa": "भास्वरम्", "iast": "bhāsvaram"}
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (bhasmanā): bhāsvaram → bhāsvaraṃ.",
+            "hi": "अगले शब्द (भस्मना) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भास्वरम् → भास्वरं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भास्वर",
+          "iast": "bhāsvara",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भास्",
+            "iast": "bhās",
+            "gana": 1,
+            "gloss": {"en": "to shine, to be bright", "hi": "चमकना"}
+          },
+          "formation": "√bhās + varac",
+          "sense": {"dict": "mw", "headword": "bhāsvara", "gloss": "shining, brilliant, bright, resplendent"},
+          "meaning": {"en": "shining", "hi": "तेजस्वी"}
+        }
+      ],
+      "meaning": {"en": "shining (Him, i.e. Śiva)", "hi": "तेजस्वी (शिव को)"},
+      "notes": {
+        "en": "From √bhās 'to shine'; it can also be taken as 'whose very nature is light'.",
+        "hi": "√भास् 'चमकना' से; इसे 'प्रकाशस्वरूप' भी समझा जा सकता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {"en": "whose very nature is light", "hi": "प्रकाशस्वरूप"},
+          "note": "gitapress-stotraratnavali प्रकाशस्वरूप; shlokam-vedasara-shiva-stava 'shining as the underlying consciousness'."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-bhasvara", "mw-bhaas", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w9": {
+      "padaccheda": [
+        {"sa": "भस्मना", "iast": "bhasmanā"}
+      ],
+      "components": [
+        {
+          "sa": "भस्मन्",
+          "iast": "bhasman",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "pratipadika", "sa": "भस्मन्", "iast": "bhasman"},
+          "sense": {"dict": "mw", "headword": "bhasman", "gloss": "sacred ashes (smeared on the body)"},
+          "meaning": {"en": "ash", "hi": "भस्म"}
+        }
+      ],
+      "meaning": {"en": "with ash", "hi": "भस्म से"},
+      "aside": {
+        "en": "Verse 2 called it *vibhūti*; here it is plain *bhasman*, ash, and it is what adorns Him.",
+        "hi": "दूसरे श्लोक ने इसे *विभूति* कहा था; यहाँ यह सीधी-सादी *भस्म* है, और यही उनका शृंगार है।"
+      },
+      "notes": {
+        "en": "The -ā ending means 'with, by means of': the ash is what the body is adorned with.",
+        "hi": "'-आ' अन्त का अर्थ है 'से': भस्म वह है जिससे शरीर सजा है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhasman", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w10": {
+      "compound": "c6",
+      "padaccheda": [
+        {"sa": "भूषित", "iast": "bhūṣita"},
+        {"sa": "अङ्गम्", "iast": "aṅgam"}
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The a of bhūṣita and the a of aṅga merge into ā: bhūṣita + aṅga → bhūṣitāṅga.",
+            "hi": "भूषित का 'अ' और अङ्ग का 'अ' मिलकर 'आ' बनते हैं: भूषित + अङ्ग → भूषिताङ्ग।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (bhavānī…): bhūṣitāṅgam → bhūṣitāṅgaṃ.",
+            "hi": "अगले शब्द (भवानी…) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भूषिताङ्गम् → भूषिताङ्गं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भूषित",
+          "iast": "bhūṣita",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भूष्",
+            "iast": "bhūṣ",
+            "gana": 1,
+            "gloss": {"en": "to adorn", "hi": "सजाना"}
+          },
+          "formation": "√bhūṣ + kta",
+          "sense": {"dict": "mw", "headword": "bhūṣ", "gloss": "to adorn, embellish, attire"},
+          "meaning": {"en": "adorned", "hi": "सजा"}
+        },
+        {
+          "sa": "अङ्ग",
+          "iast": "aṅga",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "pratipadika", "sa": "अङ्ग", "iast": "aṅga"},
+          "sense": {"dict": "mw", "headword": "aṅga", "gloss": "the body"},
+          "meaning": {"en": "body", "hi": "शरीर"}
+        }
+      ],
+      "meaning": {"en": "(Him, i.e. Śiva) whose body is adorned", "hi": "जिनका शरीर सजा है (उन शिव को)"},
+      "literal": {"en": "having adorned limbs", "hi": "सजे अंगों वाले"},
+      "confidence": "high",
+      "sources": ["mw-bhush", "mw-anga", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w11": {
+      "compound": "c7",
+      "padaccheda": [
+        {"sa": "भवानी", "iast": "bhavānī"},
+        {"sa": "कलत्रम्", "iast": "kalatram"}
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the consonant of the next word (bhaje): bhavānīkalatram → bhavānīkalatraṃ.",
+            "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भवानीकलत्रम् → भवानीकलत्रं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भवानी",
+          "iast": "bhavānī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "pratipadika", "sa": "भवानी", "iast": "bhavānī"},
+          "sense": {"dict": "mw", "headword": "bhavānī", "gloss": "N. of a goddess identified in later times with Pārvatī"},
+          "meaning": {"en": "Bhavānī", "hi": "भवानी"}
+        },
+        {
+          "sa": "कलत्र",
+          "iast": "kalatra",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "pratipadika", "sa": "कलत्र", "iast": "kalatra"},
+          "sense": {"dict": "mw", "headword": "kalatra", "gloss": "a wife, consort"},
+          "meaning": {"en": "wife", "hi": "पत्नी"}
+        }
+      ],
+      "meaning": {"en": "(Him, i.e. Śiva) whose wife is Bhavānī", "hi": "भवानी जिनकी पत्नी हैं (उन शिव को)"},
+      "notes": {
+        "en": "Bhavānī, Pārvatī, takes her name from Bhava (w7): 'the wife of Bhava'.",
+        "hi": "भवानी, अर्थात् पार्वती, का नाम भव (w7) से बना है: 'भव की पत्नी'।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhavani", "mw-kalatra", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w12": {
+      "padaccheda": [
+        {"sa": "भजे", "iast": "bhaje"}
+      ],
+      "components": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": {"en": "to serve, to adore", "hi": "भजना, सेवा करना"}
+          },
+          "sense": {"dict": "mw", "headword": "bhaj", "gloss": "to serve, honour, revere, love, adore"},
+          "meaning": {"en": "worship", "hi": "भजता हूँ"}
+        }
+      ],
+      "meaning": {"en": "I worship", "hi": "(मैं) भजता हूँ"},
+      "notes": {
+        "en": "'I worship', said of the speaker himself; the same root gives bhakti, devotion. The 'I' is understood from the verb form.",
+        "hi": "'मैं भजता हूँ', वक्ता अपने लिए कहता है; इसी धातु से 'भक्ति' बनता है। 'मैं' क्रिया के रूप से समझा जाता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhaj", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w13": {
+      "compound": "c8",
+      "padaccheda": [
+        {"sa": "पञ्च", "iast": "pañca"},
+        {"sa": "वक्त्रम्", "iast": "vaktram"}
+      ],
+      "components": [
+        {
+          "sa": "पञ्चन्",
+          "iast": "pañcan",
+          "pos": "numeral",
+          "root": {"kind": "pratipadika", "sa": "पञ्चन्", "iast": "pañcan"},
+          "sense": {"dict": "mw", "headword": "pañcan", "gloss": "five"},
+          "meaning": {"en": "five", "hi": "पाँच"}
+        },
+        {
+          "sa": "वक्त्र",
+          "iast": "vaktra",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "pratipadika", "sa": "वक्त्र", "iast": "vaktra"},
+          "sense": {"dict": "mw", "headword": "vaktra", "gloss": "the mouth, face"},
+          "meaning": {"en": "face", "hi": "मुख"}
+        }
+      ],
+      "meaning": {"en": "the five-faced Lord, i.e. Śiva", "hi": "पाँच मुखों वाले, अर्थात् शिव को"},
+      "epithet": true,
+      "notes": {
+        "en": "The same word closes verse 2; the five faces are pictured in that verse's note (#v2-a4).",
+        "hi": "यही शब्द दूसरे श्लोक के अन्त में भी है; पाँच मुखों का चित्र वहीं के टिप्पण में है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pancavaktra", "mw-pancan", "mw-vaktra", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali", "mahanarayana-upanishad-17-23"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {"date": "2026-11-20", "by": "ai", "action": "Drafted from evidence pack."}
+    ]
+  },
+  "_new_concepts": {
+    "nilakantha": {
+      "name": {"en": "Nīlakaṇṭha, the blue-throated Lord", "hi": "नीलकण्ठ, नीले कण्ठ वाले"},
+      "description": {
+        "en": "Śiva's throat is blue from the poison He drank when the ocean was churned. He took it in to keep the world safe, and the blue mark it left is counted as His ornament.",
+        "hi": "समुद्र-मन्थन के समय शिव ने जो विष पिया, उससे उनका कण्ठ नीला हो गया। उन्होंने संसार को बचाने के लिए उसे पिया, और उसका नीला चिह्न उनका आभूषण माना जाता है।"
+      }
+    }
+  }
+}

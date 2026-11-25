@@ -1,0 +1,430 @@
+{
+  "stotram": "kalabhairava-ashtakam",
+  "verse": "v9",
+  "date": "2026-11-24",
+  "summary": {
+    "blockers_failed": 0,
+    "majors_failed": 0,
+    "minors_failed": 0,
+    "flags": 9,
+    "skipped": 0,
+    "judges_pending": 0,
+    "penalty": 0,
+    "exit_ready": true
+  },
+  "results": [
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.2",
+      "status": "flag",
+      "message": "Text lock not yet confirmed by a human.",
+      "path": "lock.confirmed_by",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.10",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "TOOL"
+    },
+    {
+      "check": "T1.8",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'kālabhairavāṣṭakam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p1",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'jñānamuktisādhanam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p5",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'vicitrapuṇyavardhanam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p6",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'śokamohadainyalobhakopatāpanāśanam' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p7",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'kālabhairavāṅghrisannidhim' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p10",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.4a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.5a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.10a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8b",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9a",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9c",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8b",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T2.9b",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.5",
+      "status": "flag",
+      "message": "The closing phrase 'the feet where the hymn began' does not come from any pada of v9. It is a cross-reference to verse 1, and annotation a1 supports it with the 'pāvanāṅghripaṅkaja' quote in vanivilas-1910-works-18. The claim is accurate, but the bhāvārtha now adds content that is not in the verse. A human should decide whether the bhāvārtha may carry this link or whether it belongs only in annotation a1.",
+      "path": "translations.en.bhavartha",
+      "suggested_fix": "End at '...will surely come into the presence of Kālabhairava's feet.' and leave the link back to verse 1 to annotation a1.",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.5",
+      "status": "flag",
+      "message": "Same as the EN bhāvārtha: 'उन्हीं चरणों तक जहाँ से स्तोत्र आरम्भ हुआ था' is a link back to verse 1 and is found in no pada of v9. It is accurate and annotation a1 already makes this point.",
+      "path": "translations.hi.bhavartha",
+      "suggested_fix": "End at '...वे निश्चय ही कालभैरव के चरणों की सन्निधि में पहुँच जाते हैं।' and leave the link back to verse 1 to annotation a1.",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.6",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.2",
+      "status": "flag",
+      "message": "The sādhana component is given as a neuter noun meaning 'means', and the compound's vigraha 'तयोः साधनम्' reads it the same way. But sense.gloss quotes the first adjective sense in MW, 'leading straight to a goal, guiding well, furthering' (mf(ī/ā)n., RV). mw-sadhana.md has a neuter-noun sense that matches the chosen meaning exactly: 'any means of effecting or accomplishing, any agent or instrument ... requisite for (gen. or comp.)'. The meaning is right for this line, but the cited sense comes from a different entry than the one the word is used in.",
+      "path": "words.w5.components[2].sense",
+      "suggested_fix": "Set sense.gloss to the MW neuter sense: 'any means of effecting or accomplishing, any agent or instrument ..., an expedient, requisite for (gen. or comp.)'.",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.5",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.10",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    }
+  ]
+}

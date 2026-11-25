@@ -1,0 +1,1176 @@
+{
+  "group": "meaning",
+  "checks": {
+    "T4.2": "checks/judges/T4.2.md",
+    "T4.3": "checks/judges/T4.3.md",
+    "T4.4": "checks/judges/T4.4.md"
+  },
+  "stotram": {
+    "id": "shiva-panchakshara-stotram",
+    "title": {
+      "sa": "शिवपञ्चाक्षरस्तोत्रम्",
+      "iast": "Śivapañcākṣarastotram",
+      "en": "Shiva Panchakshara Stotram",
+      "hi": "शिव पञ्चाक्षर स्तोत्र"
+    },
+    "deities": [
+      "shiva"
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v1",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "नागेन्द्रहाराय",
+            "iast": "nāgendrahārāya"
+          },
+          {
+            "id": "w2",
+            "text": "त्रिलोचनाय",
+            "iast": "trilocanāya"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "भस्माङ्गरागाय",
+            "iast": "bhasmāṅgarāgāya"
+          },
+          {
+            "id": "w4",
+            "text": "महेश्वराय",
+            "iast": "maheśvarāya"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "नित्याय",
+            "iast": "nityāya"
+          },
+          {
+            "id": "w6",
+            "text": "शुद्धाय",
+            "iast": "śuddhāya"
+          },
+          {
+            "id": "w7",
+            "text": "दिगम्बराय",
+            "iast": "digambarāya"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "तस्मै",
+            "iast": "tasmai"
+          },
+          {
+            "id": "w9",
+            "text": "नकाराय",
+            "iast": "nakārāya"
+          },
+          {
+            "id": "w10",
+            "text": "नमः",
+            "iast": "namaḥ"
+          },
+          {
+            "id": "w11",
+            "text": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "end": "॥ १ ॥"
+      }
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w1"
+        ],
+        "iast": "nāga-indra-hārāya",
+        "type": "bahuvrīhi",
+        "structure": "((nāga-indra)-hāra)",
+        "vigraha": "नागानाम् इन्द्रः नागेन्द्रः, सः एव हारः यस्य सः, तस्मै",
+        "meaning": {
+          "en": "to Him whose necklace is the king of snakes",
+          "hi": "उन (शिव) को, जिनका हार नागराज है"
+        },
+        "note": {
+          "en": "nāga-indra 'king of the snakes' (the snakes' chief) is then used as hāra 'necklace'; the whole describes the one who wears it, Śiva.",
+          "hi": "नाग-इन्द्र 'साँपों का राजा' ही हार है; पूरा समास उसका वर्णन करता है जो यह हार पहनते हैं, अर्थात् शिव।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w2"
+        ],
+        "iast": "tri-locanāya",
+        "type": "bahuvrīhi",
+        "vigraha": "त्रीणि लोचनानि यस्य सः, तस्मै",
+        "meaning": {
+          "en": "to Him who has three eyes",
+          "hi": "उन (शिव) को, जिनके तीन नेत्र हैं"
+        },
+        "note": {
+          "en": "tri 'three' + locana 'eye': the one who has three eyes.",
+          "hi": "त्रि 'तीन' + लोचन 'नेत्र': जिनके तीन नेत्र हैं।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w3"
+        ],
+        "iast": "bhasma-aṅga-rāgāya",
+        "type": "bahuvrīhi",
+        "structure": "(bhasman-(aṅga-rāga))",
+        "vigraha": "भस्म एव अङ्गरागः यस्य सः, तस्मै",
+        "meaning": {
+          "en": "to Him whose body-paint is ash",
+          "hi": "उन (शिव) को, भस्म ही जिनका अंगराग है"
+        },
+        "note": {
+          "en": "aṅga-rāga 'body-paint' (aṅga 'body' + rāga 'colouring'); bhasman 'ash' says what that paint is. The whole describes Śiva.",
+          "hi": "अङ्ग-राग 'शरीर का लेप' (अङ्ग 'शरीर' + राग 'रंगना'); भस्मन् 'राख' बताता है कि वह लेप क्या है। पूरा समास शिव का वर्णन करता है।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w4"
+        ],
+        "iast": "mahā-īśvarāya",
+        "type": "karmadhāraya",
+        "vigraha": "महान् ईश्वरः महेश्वरः, तस्मै",
+        "meaning": {
+          "en": "to the great Lord",
+          "hi": "महान् ईश्वर को"
+        },
+        "note": {
+          "en": "mahat 'great' takes the form mahā at the front of the compound; mahā + īśvara joins to maheśvara.",
+          "hi": "महत् 'महान्' समास के आरम्भ में महा बन जाता है; महा + ईश्वर मिलकर महेश्वर बनता है।"
+        }
+      },
+      "c5": {
+        "members": [
+          "w7"
+        ],
+        "iast": "dig-ambarāya",
+        "type": "bahuvrīhi",
+        "vigraha": "दिशः एव अम्बरं यस्य सः, तस्मै",
+        "meaning": {
+          "en": "to Him whose clothing is the directions",
+          "hi": "उन (शिव) को, दिशाएँ ही जिनके वस्त्र हैं"
+        },
+        "note": {
+          "en": "diś 'direction' + ambara 'clothing' (also 'sky'): the one clothed only in the directions, i.e. naked.",
+          "hi": "दिश् 'दिशा' + अम्बर 'वस्त्र' (और 'आकाश'): जो केवल दिशाओं को ओढ़े हैं, अर्थात् निर्वस्त्र।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "नागेन्द्रहाराय",
+        "iast": "nāgendrahārāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नागेन्द्रहार",
+            "iast": "nāgendrahāra"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "त्रिलोचनाय",
+        "iast": "trilocanāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "त्रिलोचन",
+            "iast": "trilocana"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w3"
+        ],
+        "sa": "भस्माङ्गरागाय",
+        "iast": "bhasmāṅgarāgāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भस्माङ्गराग",
+            "iast": "bhasmāṅgarāga"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w4"
+        ],
+        "sa": "महेश्वराय",
+        "iast": "maheśvarāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "महेश्वर",
+            "iast": "maheśvara"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w5"
+        ],
+        "sa": "नित्याय",
+        "iast": "nityāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नित्य",
+            "iast": "nitya"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w6"
+        ],
+        "sa": "शुद्धाय",
+        "iast": "śuddhāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शुद्ध",
+            "iast": "śuddha"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "दिगम्बराय",
+        "iast": "digambarāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "दिगम्बर",
+            "iast": "digambara"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w8"
+        ],
+        "sa": "तस्मै",
+        "iast": "tasmai",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w9"
+        ],
+        "sa": "नकाराय",
+        "iast": "nakārāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नकार",
+            "iast": "nakāra"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w10"
+        ],
+        "sa": "नमः",
+        "iast": "namaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नमस्",
+            "iast": "namas"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "x1"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w11"
+        ],
+        "sa": "शिवाय",
+        "iast": "śivāya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "role": "sampradāna",
+        "head": "p10"
+      }
+    ],
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "नाग",
+            "iast": "nāga"
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra"
+          },
+          {
+            "sa": "हाराय",
+            "iast": "hārāya"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + i → e",
+            "explanation": {
+              "en": "The final a of nāga and the first i of indra merge into e: nāga + indra → nāgendra.",
+              "hi": "नाग का अन्तिम 'अ' और इन्द्र का पहला 'इ' मिलकर 'ए' बन जाते हैं: नाग + इन्द्र → नागेन्द्र।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नाग",
+            "iast": "nāga",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नाग",
+              "iast": "nāga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nāga",
+              "gloss": "a snake"
+            },
+            "meaning": {
+              "en": "snake",
+              "hi": "साँप"
+            }
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इन्द्र",
+              "iast": "indra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "indra",
+              "gloss": "ifc. best, excellent, the first, the chief"
+            },
+            "meaning": {
+              "en": "king",
+              "hi": "राजा"
+            }
+          },
+          {
+            "sa": "हार",
+            "iast": "hāra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "हार",
+              "iast": "hāra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "hāra",
+              "gloss": "a garland of pearls, necklace"
+            },
+            "meaning": {
+              "en": "necklace",
+              "hi": "हार"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who wears the king of snakes as a necklace",
+          "hi": "(उन को, अर्थात् शिव को) जो नागराज को हार बनाकर पहनते हैं"
+        },
+        "literal": {
+          "en": "(to him) whose necklace is the king of snakes",
+          "hi": "(उन को) जिनका हार नागराज है"
+        },
+        "notes": {
+          "en": "indra at the end of a compound means 'chief, king of': nāgendra is the king of the snakes. The word does not name which snake. Vidyut's split nāgendra + hārāya agrees.",
+          "hi": "समास के अन्त में इन्द्र का अर्थ 'प्रधान, राजा' होता है: नागेन्द्र यानी साँपों का राजा। शब्द यह नहीं बताता कि कौन-सा साँप। Vidyut का विभाजन नागेन्द्र + हाराय भी यही है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nagendra",
+          "mw-naga",
+          "mw-indra",
+          "mw-hara",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w2": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "त्रि",
+            "iast": "tri"
+          },
+          {
+            "sa": "लोचनाय",
+            "iast": "locanāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "त्रि",
+            "iast": "tri",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "त्रि",
+              "iast": "tri"
+            },
+            "meaning": {
+              "en": "three",
+              "hi": "तीन"
+            }
+          },
+          {
+            "sa": "लोचन",
+            "iast": "locana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लोचन",
+              "iast": "locana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "locana",
+              "gloss": "‘organ of sight’, the eye"
+            },
+            "meaning": {
+              "en": "eye",
+              "hi": "नेत्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who has three eyes",
+          "hi": "(उन को, अर्थात् शिव को) जिनके तीन नेत्र हैं"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "The third eye sits in the middle of His forehead. It is often taken to see all three times at once: past, present and future.",
+          "hi": "तीसरा नेत्र माथे के बीच में है। प्रायः माना जाता है कि यह तीनों काल एक साथ देखता है: भूत, वर्तमान और भविष्य।"
+        },
+        "notes": {
+          "en": "Trilocana is a well-known name of Śiva. One older printing reads vilocanāya, 'to Him with (striking) eyes'; see the variant note.",
+          "hi": "त्रिलोचन शिव का प्रसिद्ध नाम है। एक पुराने मुद्रित पाठ में विलोचनाय है, 'सुन्दर नेत्रों वाले को'; पाठभेद की टिप्पणी देखें।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(to Him) with (striking) eyes",
+              "hi": "(उन को) जिनके नेत्र विलक्षण हैं"
+            },
+            "note": "vanivilas-1910-works-17 reads विलोचनाय; mw-vilocana gives 'the eye, sight'. All other witnesses (A, C, D, E, F) read त्रिलोचनाय."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-trilocana",
+          "mw-tri",
+          "mw-locana",
+          "mw-shiva",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w3": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "भस्म",
+            "iast": "bhasma"
+          },
+          {
+            "sa": "अङ्ग",
+            "iast": "aṅga"
+          },
+          {
+            "sa": "रागाय",
+            "iast": "rāgāya"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of bhasma and the first a of aṅga merge into a long ā: bhasma + aṅga → bhasmāṅga.",
+              "hi": "भस्म का अन्तिम 'अ' और अङ्ग का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: भस्म + अङ्ग → भस्माङ्ग।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भस्मन्",
+            "iast": "bhasman",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भस्मन्",
+              "iast": "bhasman"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhasman",
+              "gloss": "sacred ashes (smeared on the body)"
+            },
+            "meaning": {
+              "en": "ash",
+              "hi": "भस्म"
+            }
+          },
+          {
+            "sa": "अङ्ग",
+            "iast": "aṅga",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अङ्ग",
+              "iast": "aṅga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṅga",
+              "gloss": "the body"
+            },
+            "meaning": {
+              "en": "body",
+              "hi": "शरीर"
+            }
+          },
+          {
+            "sa": "राग",
+            "iast": "rāga",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "रञ्ज्",
+              "iast": "rañj",
+              "gana": 1,
+              "gloss": {
+                "en": "to colour",
+                "hi": "रंगना"
+              }
+            },
+            "formation": "√rañj + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "rāga",
+              "gloss": "the act of colouring or dyeing"
+            },
+            "meaning": {
+              "en": "paint",
+              "hi": "लेप"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) whose body-paint is ash",
+          "hi": "(उन को, अर्थात् शिव को) भस्म ही जिनका अंगराग है"
+        },
+        "literal": {
+          "en": "(to him) whose body-colouring is ash",
+          "hi": "(उन को) जिनके शरीर का लेप भस्म है"
+        },
+        "notes": {
+          "en": "bhasman loses its final n at the front of a compound (bhasma-). Vidyut also offers bhasmāṅga + rāgāya ('ash-coloured' + 'colour'); that split is not followed, because aṅga-rāga 'body-paint' is a set word and gives the plain sense.",
+          "hi": "समास के आरम्भ में भस्मन् का अन्तिम 'न्' हट जाता है (भस्म-)। Vidyut भस्माङ्ग + रागाय ('राख के रंग का' + 'रंग') विभाजन भी देता है; वह नहीं लिया गया, क्योंकि अङ्ग-राग 'शरीर का लेप' प्रचलित शब्द है और सीधा अर्थ देता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhasman",
+          "mw-angaraga",
+          "mw-anga",
+          "mw-raga",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w4": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "महा",
+            "iast": "mahā"
+          },
+          {
+            "sa": "ईश्वराय",
+            "iast": "īśvarāya"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "ā + ī → e",
+            "explanation": {
+              "en": "The final ā of mahā and the first ī of īśvara merge into e: mahā + īśvara → maheśvara.",
+              "hi": "महा का अन्तिम 'आ' और ईश्वर का पहला 'ई' मिलकर 'ए' बन जाते हैं: महा + ईश्वर → महेश्वर।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "महत्",
+            "iast": "mahat",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "महत्",
+              "iast": "mahat"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mahat",
+              "gloss": "great"
+            },
+            "meaning": {
+              "en": "great",
+              "hi": "महान्"
+            }
+          },
+          {
+            "sa": "ईश्वर",
+            "iast": "īśvara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईश्वर",
+              "iast": "īśvara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "īśvara",
+              "gloss": "master, lord, prince, king"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "ईश्वर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to the great Lord, i.e. Śiva",
+          "hi": "महेश्वर को, अर्थात् शिव को"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "After three wild pictures comes the plain title: Maheśvara, the great Lord of all.",
+          "hi": "तीन अनोखे चित्रों के बाद सीधा पद आता है: महेश्वर, सबके महान् स्वामी।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-maheshvara",
+          "mw-mahat",
+          "mw-ishvara",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "नित्याय",
+            "iast": "nityāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "नित्य",
+            "iast": "nitya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नित्य",
+              "iast": "nitya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nitya",
+              "gloss": "continual, perpetual, eternal"
+            },
+            "meaning": {
+              "en": "eternal",
+              "hi": "नित्य"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is eternal",
+          "hi": "(उन को, अर्थात् शिव को) जो नित्य, अविनाशी हैं"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nitya",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "शुद्धाय",
+            "iast": "śuddhāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शुद्ध",
+            "iast": "śuddha",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "शुध्",
+              "iast": "śudh",
+              "gana": 4,
+              "gloss": {
+                "en": "to become pure",
+                "hi": "शुद्ध होना"
+              }
+            },
+            "formation": "√śudh + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "śuddha",
+              "gloss": "cleansed, cleared, clean, pure"
+            },
+            "meaning": {
+              "en": "pure",
+              "hi": "शुद्ध"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is pure",
+          "hi": "(उन को, अर्थात् शिव को) जो शुद्ध हैं"
+        },
+        "aside": {
+          "en": "Śuddha, 'pure', is itself one of Śiva's names: the One who wears ash and goes unclothed is untouched by any stain.",
+          "hi": "शुद्ध, 'पवित्र', स्वयं शिव का एक नाम है: भस्म लगाए, निर्वस्त्र रहने वाले वे किसी भी मैल से अछूते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shuddha",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w7": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "दिक्",
+            "iast": "dik"
+          },
+          {
+            "sa": "अम्बराय",
+            "iast": "ambarāya"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "k + a → g + a",
+            "explanation": {
+              "en": "The final k of dik becomes g before the vowel of ambara: dik + ambara → digambara.",
+              "hi": "दिक् का अन्तिम 'क्' आगे के स्वर (अम्बर) के कारण 'ग्' बन जाता है: दिक् + अम्बर → दिगम्बर।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "दिश्",
+            "iast": "diś",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दिश्",
+              "iast": "diś"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "diś",
+              "gloss": "direction, cardinal point"
+            },
+            "meaning": {
+              "en": "direction",
+              "hi": "दिशा"
+            }
+          },
+          {
+            "sa": "अम्बर",
+            "iast": "ambara",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अम्बर",
+              "iast": "ambara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ambara",
+              "gloss": "clothes, apparel, garment"
+            },
+            "meaning": {
+              "en": "clothing",
+              "hi": "वस्त्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is clothed only by the directions, i.e. sky-clad, naked",
+          "hi": "(उनको, अर्थात् शिव को) दिशाएँ ही जिनके वस्त्र हैं, अर्थात् जो निर्वस्त्र हैं"
+        },
+        "literal": {
+          "en": "(to him) whose garment is the directions",
+          "hi": "(उन को) जिनका वस्त्र दिशाएँ हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Digambara means 'naked'; it is also a name of Śiva. ambara also means 'sky', so 'sky-clad' is the usual English rendering.",
+          "hi": "दिगम्बर का अर्थ 'निर्वस्त्र' है; यह शिव का नाम भी है। अम्बर का अर्थ 'आकाश' भी है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-digambara",
+          "mw-dish",
+          "mw-ambara",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "तस्मै",
+            "iast": "tasmai"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तस्मै",
+            "iast": "tasmai",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tad",
+              "gloss": "he, she, it, that, this"
+            },
+            "meaning": {
+              "en": "to Him",
+              "hi": "उनको"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to Him, i.e. Śiva (the one just described)",
+          "hi": "उन को, अर्थात् शिव को (जिनका अभी वर्णन हुआ)"
+        },
+        "notes": {
+          "en": "'To that one': it gathers up all the descriptions before it and hands them to the refrain. Vidyut's split tas + mai is not a real division; tasmai is a single form of tad.",
+          "hi": "'उनको': यह पहले के सारे वर्णन समेटकर टेक को सौंप देता है। Vidyut का विभाजन तस् + मै वास्तविक नहीं; तस्मै तद् का एक ही रूप है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tad",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          },
+          {
+            "sa": "काराय",
+            "iast": "kārāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "syllable",
+            "meaning": {
+              "en": "na (the sound)",
+              "hi": "'न' (ध्वनि)"
+            }
+          },
+          {
+            "sa": "कार",
+            "iast": "kāra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to make",
+                "hi": "करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāra",
+              "gloss": "the term used in designating a letter or sound"
+            },
+            "meaning": {
+              "en": "letter",
+              "hi": "अक्षर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is the syllable na",
+          "hi": "(उन को, अर्थात् शिव को) जो 'न' अक्षर-रूप हैं"
+        },
+        "literal": {
+          "en": "to the letter na",
+          "hi": "'न' अक्षर को"
+        },
+        "notes": {
+          "en": "kāra after a sound names that sound as a letter (a-kāra, ka-kāra). Here it names the na of na-maḥ śi-vā-ya, with which this verse opens (nā-gendra).",
+          "hi": "किसी ध्वनि के बाद 'कार' उसे अक्षर के रूप में नाम देता है (अकार, ककार)। यहाँ यह न-मः शि-वा-य के 'न' का नाम है, जिससे यह श्लोक आरम्भ होता है (ना-गेन्द्र)।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-nakara",
+          "mw-kara",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "नमः",
+            "iast": "namaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "नमस्",
+            "iast": "namas",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नम्",
+              "iast": "nam",
+              "gana": 1,
+              "gloss": {
+                "en": "to bow",
+                "hi": "झुकना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "namas",
+              "gloss": "bow, obeisance, reverential salutation, adoration"
+            },
+            "meaning": {
+              "en": "salutation",
+              "hi": "नमस्कार"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "salutation, a bow",
+          "hi": "नमस्कार, प्रणाम"
+        },
+        "notes": {
+          "en": "namas takes the one it honours with the 'to' ending (śivāya, 'to Śiva'). No verb is written; 'let there be' (astu) is understood.",
+          "hi": "नमः के साथ जिसे प्रणाम किया जाता है उसका रूप 'को' वाला होता है (शिवाय, 'शिव को')। क्रिया लिखी नहीं है; 'हो' (अस्तु) समझा जाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-namas",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiva",
+              "gloss": "‘The Auspicious one’"
+            },
+            "meaning": {
+              "en": "Śiva",
+              "hi": "शिव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to Śiva",
+          "hi": "शिव को"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "Śiva means 'kind, auspicious'. The fierce, ash-smeared figure of this verse is, by name, the gentle one.",
+          "hi": "शिव का अर्थ है 'कल्याणकारी, कृपालु'। इस श्लोक के भस्म-लिप्त, उग्र-से दिखने वाले देव अपने नाम से ही मंगलमय हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shiva",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1521 @@
+{
+  "group": "meaning",
+  "checks": {
+    "T4.2": "checks/judges/T4.2.md",
+    "T4.3": "checks/judges/T4.3.md",
+    "T4.4": "checks/judges/T4.4.md"
+  },
+  "stotram": {
+    "id": "kalabhairava-ashtakam",
+    "title": {
+      "sa": "कालभैरवाष्टकम्",
+      "iast": "Kālabhairavāṣṭakam",
+      "en": "Kalabhairava Ashtakam",
+      "hi": "कालभैरवाष्टकम्"
+    },
+    "deities": [
+      "kalabhairava",
+      "shiva"
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v2",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "भानुकोटि",
+            "iast": "bhānukoṭi"
+          },
+          {
+            "id": "w2",
+            "text": "भास्वरं",
+            "iast": "bhāsvaraṃ"
+          },
+          {
+            "id": "w3",
+            "text": "भवाब्धितारकं",
+            "iast": "bhavābdhitārakaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "परं",
+            "iast": "paraṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "नीलकण्ठमीप्सितार्थदायकं",
+            "iast": "nīlakaṇṭhamīpsitārthadāyakaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "त्रिलोचनम्",
+            "iast": "trilocanam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "कालकालमम्बुजाक्षमक्षशूलमक्षरं",
+            "iast": "kālakālamambujākṣamakṣaśūlamakṣaraṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "काशिकापुराधिनाथ",
+            "iast": "kāśikāpurādhinātha"
+          },
+          {
+            "id": "w9",
+            "text": "कालभैरवं",
+            "iast": "kālabhairavaṃ"
+          },
+          {
+            "id": "w10",
+            "text": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "end": "॥ २ ॥"
+      }
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w1",
+          "w2"
+        ],
+        "iast": "bhānu-koṭi-bhāsvaram",
+        "type": "karmadhāraya",
+        "structure": "((bhānu-koṭi)-bhāsvara)",
+        "vigraha": "भानूनां कोटिः भानुकोटिः, सा इव भास्वरः, तम्",
+        "meaning": {
+          "en": "shining like ten million suns",
+          "hi": "करोड़ों सूर्यों के समान दीप्तिमान"
+        },
+        "note": {
+          "en": "bhānu-koṭi 'ten million suns' is what He is compared with; bhāsvara 'shining' is the quality they share. The whole describes Kālabhairava and takes his ending.",
+          "hi": "भानु-कोटि 'करोड़ों सूर्य' से उनकी तुलना है; भास्वर 'चमकता हुआ' वह गुण है जो दोनों में है। पूरा समास कालभैरव का वर्णन करता है।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w3"
+        ],
+        "iast": "bhava-abdhi-tārakam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((bhava-abdhi)-tāraka)",
+        "vigraha": "भवः एव अब्धिः भवाब्धिः, तस्य तारकः, तम्",
+        "meaning": {
+          "en": "the one who carries (us) across the ocean of worldly life",
+          "hi": "संसार-सागर से पार उतारने वाले"
+        },
+        "note": {
+          "en": "bhava-abdhi 'the ocean that is worldly life' compares worldly existence to an ocean; tāraka 'one who carries across' is the one who takes souls over it.",
+          "hi": "भव-अब्धि 'संसार-रूपी सागर' संसार की तुलना सागर से करता है; तारक 'पार उतारने वाला' वह है जो उसके पार ले जाता है।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w5"
+        ],
+        "iast": "nīla-kaṇṭham",
+        "type": "bahuvrīhi",
+        "vigraha": "नीलः कण्ठः यस्य सः, तम्",
+        "meaning": {
+          "en": "Him whose throat is blue",
+          "hi": "उन्हें, जिनका कण्ठ नीला है"
+        },
+        "note": {
+          "en": "nīla 'dark blue' + kaṇṭha 'throat': the one whose throat is blue. Nīlakaṇṭha is a name of Śiva. The first of two descriptions packed into the display word w5.",
+          "hi": "नील 'गहरा नीला' + कण्ठ 'गला': जिनका कण्ठ नीला है। नीलकण्ठ शिव का नाम है। w5 में जुड़े दो वर्णनों में पहला।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w5"
+        ],
+        "iast": "īpsita-artha-dāyakam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((īpsita-artha)-dāyaka)",
+        "vigraha": "ईप्सितः अर्थः ईप्सितार्थः, तस्य दायकः, तम्",
+        "meaning": {
+          "en": "the giver of the things one longs for",
+          "hi": "मनचाही वस्तुएँ देने वाले"
+        },
+        "note": {
+          "en": "īpsita 'desired' describes artha 'thing, object'; dāyaka 'giver' is the one who grants such things.",
+          "hi": "ईप्सित 'चाहा हुआ' अर्थ 'वस्तु' का विशेषण है; दायक 'देने वाला' वह है जो ऐसी वस्तुएँ देता है।"
+        }
+      },
+      "c5": {
+        "members": [
+          "w6"
+        ],
+        "iast": "tri-locanam",
+        "type": "bahuvrīhi",
+        "vigraha": "त्रीणि लोचनानि यस्य सः, तम्",
+        "meaning": {
+          "en": "Him who has three eyes",
+          "hi": "उन्हें, जिनके तीन नेत्र हैं"
+        },
+        "note": {
+          "en": "tri 'three' + locana 'eye': the one whose eyes are three. Trilocana is a name of Śiva.",
+          "hi": "त्रि 'तीन' + लोचन 'नेत्र': जिनके तीन नेत्र हैं। त्रिलोचन शिव का नाम है।"
+        }
+      },
+      "c6": {
+        "members": [
+          "w7"
+        ],
+        "iast": "kāla-kālam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "कालस्य कालः, तम्",
+        "meaning": {
+          "en": "the Death of Death",
+          "hi": "काल के भी काल"
+        },
+        "note": {
+          "en": "kāla 'time, death' twice: the one who is Kāla even to Kāla, the end of what ends all things.",
+          "hi": "काल 'समय, मृत्यु' दो बार: जो काल के लिए भी काल हैं, सबका अन्त करने वाले का भी अन्त।"
+        }
+      },
+      "c7": {
+        "members": [
+          "w7"
+        ],
+        "iast": "ambuja-akṣam",
+        "type": "bahuvrīhi",
+        "vigraha": "अम्बुजे इव अक्षिणी यस्य सः, तम्",
+        "meaning": {
+          "en": "Him whose eyes are like lotuses",
+          "hi": "उन्हें, जिनके नेत्र कमल जैसे हैं"
+        },
+        "note": {
+          "en": "ambuja 'lotus' (literally 'water-born') + akṣa, the form akṣi 'eye' takes at the end of a compound: the lotus-eyed one.",
+          "hi": "अम्बुज 'कमल' (शब्दशः 'जल में जन्मा') + अक्ष, जो समास के अन्त में अक्षि 'नेत्र' का रूप है: कमल-नयन।"
+        }
+      },
+      "c8": {
+        "members": [
+          "w7"
+        ],
+        "iast": "akṣa-śūlam",
+        "type": "bahuvrīhi",
+        "vigraha": "अक्षः (अक्षमाला) च शूलं च यस्य सः, तम्",
+        "meaning": {
+          "en": "Him who holds a rosary and the trident",
+          "hi": "उन्हें, जो अक्षमाला और त्रिशूल धारण करते हैं"
+        },
+        "note": {
+          "en": "akṣa 'rosary bead' and śūla 'trident' are first joined as a pair; the whole then describes the one who has them. Read with akṣa as 'axle', it becomes the trident that is the axis of the worlds.",
+          "hi": "अक्ष 'अक्षमाला का मनका' और शूल 'त्रिशूल' पहले जोड़े के रूप में जुड़ते हैं; फिर पूरा समास उनका वर्णन करता है जिनके पास ये हैं। अक्ष को 'धुरी' पढ़ें तो अर्थ होता है लोकों की धुरी-रूपी त्रिशूल।"
+        }
+      },
+      "c9": {
+        "members": [
+          "w8",
+          "w9"
+        ],
+        "iast": "kāśikā-pura-adhinātha-kāla-bhairavam",
+        "type": "karmadhāraya",
+        "structure": "(((kāśikā-pura)-adhinātha)-(kāla-bhairava))",
+        "vigraha": "काशिका इति पुरम्, तस्य अधिनाथः, स एव कालभैरवः, तम्",
+        "meaning": {
+          "en": "Kālabhairava, the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति कालभैरव को"
+        },
+        "note": {
+          "en": "kāśikā-pura 'the city Kāśikā'; with adhinātha 'supreme lord' it means the lord of that city; that title and the name Kāla-bhairava stand for one and the same person.",
+          "hi": "काशिका-पुर 'काशी नगरी'; अधिनाथ 'अधिपति' के साथ अर्थ है उस नगरी के स्वामी; यह उपाधि और कालभैरव नाम एक ही के लिए हैं।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1",
+          "w2"
+        ],
+        "sa": "भानुकोटिभास्वरम्",
+        "iast": "bhānukoṭibhāsvaram",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भानुकोटिभास्वर",
+            "iast": "bhānukoṭibhāsvara"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w3"
+        ],
+        "sa": "भवाब्धितारकम्",
+        "iast": "bhavābdhitārakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भवाब्धितारक",
+            "iast": "bhavābdhitāraka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w4"
+        ],
+        "sa": "परम्",
+        "iast": "param",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पर",
+            "iast": "para"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w5"
+        ],
+        "sa": "नीलकण्ठम्",
+        "iast": "nīlakaṇṭham",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नीलकण्ठ",
+            "iast": "nīlakaṇṭha"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w5"
+        ],
+        "sa": "ईप्सितार्थदायकम्",
+        "iast": "īpsitārthadāyakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "ईप्सितार्थदायक",
+            "iast": "īpsitārthadāyaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w6"
+        ],
+        "sa": "त्रिलोचनम्",
+        "iast": "trilocanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "त्रिलोचन",
+            "iast": "trilocana"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "कालकालम्",
+        "iast": "kālakālam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "कालकाल",
+            "iast": "kālakāla"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w7"
+        ],
+        "sa": "अम्बुजाक्षम्",
+        "iast": "ambujākṣam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अम्बुजाक्ष",
+            "iast": "ambujākṣa"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w7"
+        ],
+        "sa": "अक्षशूलम्",
+        "iast": "akṣaśūlam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अक्षशूल",
+            "iast": "akṣaśūla"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w7"
+        ],
+        "sa": "अक्षरम्",
+        "iast": "akṣaram",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अक्षर",
+            "iast": "akṣara"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w8",
+          "w9"
+        ],
+        "sa": "काशिकापुराधिनाथकालभैरवम्",
+        "iast": "kāśikāpurādhināthakālabhairavam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "काशिकापुराधिनाथकालभैरव",
+            "iast": "kāśikāpurādhināthakālabhairava"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p12"
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w10"
+        ],
+        "sa": "भजे",
+        "iast": "bhaje",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "ātmanepada"
+        },
+        "role": "kriyā",
+        "head": null
+      }
+    ],
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "भानु",
+            "iast": "bhānu"
+          },
+          {
+            "sa": "कोटि",
+            "iast": "koṭi"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भानु",
+            "iast": "bhānu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भानु",
+              "iast": "bhānu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhānu",
+              "gloss": "the sun"
+            },
+            "meaning": {
+              "en": "sun",
+              "hi": "सूर्य"
+            }
+          },
+          {
+            "sa": "कोटि",
+            "iast": "koṭi",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कोटि",
+              "iast": "koṭi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "koṭi",
+              "gloss": "a Krore or ten millions"
+            },
+            "meaning": {
+              "en": "ten million",
+              "hi": "करोड़"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "like ten million suns",
+          "hi": "करोड़ों सूर्यों के समान"
+        },
+        "literal": {
+          "en": "ten million suns",
+          "hi": "करोड़ सूर्य"
+        },
+        "aside": {
+          "en": "A *koṭi* is ten million, a crore: not one sun but more suns than anyone could count, all shining at once.",
+          "hi": "*कोटि* यानी करोड़: एक सूर्य नहीं, बल्कि अनगिनत सूर्य, सब एक साथ चमकते हुए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhanu",
+          "mw-koti",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "भास्वरम्",
+            "iast": "bhāsvaram"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (bhavābdhi): bhāsvaram → bhāsvaraṃ.",
+              "hi": "अगले शब्द (भवाब्धि) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भास्वरम् → भास्वरं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भास्वर",
+            "iast": "bhāsvara",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भास्वर",
+              "iast": "bhāsvara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhāsvara",
+              "gloss": "shining, brilliant, bright, resplendent"
+            },
+            "meaning": {
+              "en": "shining",
+              "hi": "दीप्तिमान"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) shining like ten million suns",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो करोड़ों सूर्यों के समान दीप्तिमान हैं"
+        },
+        "notes": {
+          "en": "The final -m belongs to the whole description w1–w2, which points to Kālabhairava, the one being worshipped.",
+          "hi": "अन्त का '-म्' पूरे वर्णन w1–w2 का है, जो कालभैरव की ओर संकेत करता है, जिनकी उपासना हो रही है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhasvara",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w3": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "भव",
+            "iast": "bhava"
+          },
+          {
+            "sa": "अब्धि",
+            "iast": "abdhi"
+          },
+          {
+            "sa": "तारकम्",
+            "iast": "tārakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of bhava and the first a of abdhi merge into a long ā: bhava + abdhi → bhavābdhi.",
+              "hi": "भव का अन्तिम 'अ' और अब्धि का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: भव + अब्धि → भवाब्धि।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (param): tārakam → tārakaṃ.",
+              "hi": "अगले शब्द (परम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: तारकम् → तारकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भव",
+            "iast": "bhava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "gloss": {
+                "en": "to be, to become",
+                "hi": "होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhava",
+              "gloss": "worldly existence, the world (= saṃsāra)"
+            },
+            "meaning": {
+              "en": "worldly life",
+              "hi": "संसार"
+            }
+          },
+          {
+            "sa": "अब्धि",
+            "iast": "abdhi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अब्धि",
+              "iast": "abdhi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "abdhi",
+              "gloss": "the ocean"
+            },
+            "meaning": {
+              "en": "ocean",
+              "hi": "सागर"
+            }
+          },
+          {
+            "sa": "तारक",
+            "iast": "tāraka",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "तॄ",
+              "iast": "tṝ",
+              "gana": 1,
+              "gloss": {
+                "en": "to cross over",
+                "hi": "पार करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tāraka",
+              "gloss": "causing or enabling to pass or go over, carrying over, rescuing"
+            },
+            "meaning": {
+              "en": "rescuer",
+              "hi": "तारने वाले"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who carries (us) across the ocean of worldly life",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो संसार-सागर से पार उतारते हैं"
+        },
+        "literal": {
+          "en": "the one who takes (souls) across the ocean of becoming",
+          "hi": "भव-सागर से तारने वाले"
+        },
+        "notes": {
+          "en": "bhava, from √bhū 'to be, to become', is worldly existence, the round of birth; it is pictured as an ocean (abdhi). tāraka is 'one who makes (others) cross'.",
+          "hi": "भव, √भू 'होना' से, संसार है, जन्म-मरण का चक्र; इसे सागर (अब्धि) के रूप में देखा गया है। तारक यानी 'जो दूसरों को पार कराए'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhavabdhi",
+          "mw-bhava",
+          "mw-abdhi",
+          "mw-taraka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "परम्",
+            "iast": "param"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (nīlakaṇṭha): param → paraṃ.",
+              "hi": "अगले शब्द (नीलकण्ठ) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: परम् → परं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पर",
+            "iast": "para",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पर",
+              "iast": "para"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "para",
+              "gloss": "highest, supreme, chief"
+            },
+            "meaning": {
+              "en": "supreme",
+              "hi": "परम"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the Supreme",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो परम हैं"
+        },
+        "notes": {
+          "en": "Here param is the adjective para, 'supreme', describing Kālabhairava like the other words, not the adverb param 'afterwards'.",
+          "hi": "यहाँ परम् विशेषण 'पर' (परम, श्रेष्ठ) है, जो दूसरे शब्दों की तरह कालभैरव का वर्णन करता है; यह 'बाद में' वाला अव्यय 'परम्' नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-para",
+          "mw-param",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w5": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "नील",
+            "iast": "nīla"
+          },
+          {
+            "sa": "कण्ठम्",
+            "iast": "kaṇṭham"
+          },
+          {
+            "sa": "ईप्सित",
+            "iast": "īpsita"
+          },
+          {
+            "sa": "अर्थ",
+            "iast": "artha"
+          },
+          {
+            "sa": "दायकम्",
+            "iast": "dāyakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of īpsita and the first a of artha merge into a long ā: īpsita + artha → īpsitārtha.",
+              "hi": "ईप्सित का अन्तिम 'अ' और अर्थ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: ईप्सित + अर्थ → ईप्सितार्थ।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (trilocanam): dāyakam → dāyakaṃ. Before the vowel of īpsita the m of kaṇṭham simply joins it: kaṇṭham + īpsita → kaṇṭhamīpsita.",
+              "hi": "अगले शब्द (त्रिलोचनम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: दायकम् → दायकं। ईप्सित के स्वर से पहले कण्ठम् का 'म्' उसी से जुड़ जाता है: कण्ठम् + ईप्सित → कण्ठमीप्सित।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नील",
+            "iast": "nīla",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नील",
+              "iast": "nīla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nīla",
+              "gloss": "of a dark colour, (esp.) dark-blue or dark-green or black"
+            },
+            "meaning": {
+              "en": "blue",
+              "hi": "नीला"
+            }
+          },
+          {
+            "sa": "कण्ठ",
+            "iast": "kaṇṭha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कण्ठ",
+              "iast": "kaṇṭha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kaṇṭha",
+              "gloss": "the throat, the neck"
+            },
+            "meaning": {
+              "en": "throat",
+              "hi": "कण्ठ"
+            }
+          },
+          {
+            "sa": "ईप्सित",
+            "iast": "īpsita",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "आप्",
+              "iast": "āp",
+              "gana": 5,
+              "gloss": {
+                "en": "to obtain",
+                "hi": "पाना"
+              }
+            },
+            "formation": "√āp + san (wish to obtain) + kta (past passive participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "īpsita",
+              "gloss": "wished, desired"
+            },
+            "meaning": {
+              "en": "desired",
+              "hi": "मनचाहा"
+            }
+          },
+          {
+            "sa": "अर्थ",
+            "iast": "artha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अर्थ",
+              "iast": "artha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "artha",
+              "gloss": "thing, object"
+            },
+            "meaning": {
+              "en": "thing",
+              "hi": "वस्तु"
+            }
+          },
+          {
+            "sa": "दायक",
+            "iast": "dāyaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दा",
+              "iast": "dā",
+              "gana": 3,
+              "gloss": {
+                "en": "to give",
+                "hi": "देना"
+              }
+            },
+            "formation": "√dā + ṇvul (one who does)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dāyaka",
+              "gloss": "giving, granting, bestowing"
+            },
+            "meaning": {
+              "en": "giver",
+              "hi": "देने वाले"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) whose throat is blue, who gives what we long for",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनका कण्ठ नीला है, जो मनचाही वस्तुएँ देते हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Two descriptions written as one word: nīla-kaṇṭham 'whose throat is blue' and īpsita-artha-dāyakam 'giver of the things one longs for'. Each ends in its own -m, and both point to Kālabhairava. īpsita comes from the wish-form of √āp 'to obtain': 'wished to be gained'.",
+          "hi": "एक शब्द में लिखे दो वर्णन: नील-कण्ठम् 'जिनका कण्ठ नीला है' और ईप्सित-अर्थ-दायकम् 'मनचाही वस्तुएँ देने वाले'। दोनों का अपना '-म्' है और दोनों कालभैरव की ओर संकेत करते हैं। ईप्सित √आप् 'पाना' के इच्छा-रूप से बना है: 'जिसे पाने की चाह हो'।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "who grants the wealth we wish for",
+              "hi": "मनचाहा धन देने वाले"
+            },
+            "note": "greenmesg-kalabhairava renders artha as 'Worldly Prosperity'; MW artha also lists 'substance, wealth'. gitapress-shiv-stotra-ratnakar (अभीष्ट वस्तु) and shlokam-kalabhairava ('desired objects') take the wider 'thing', which is followed here."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-nilakantha",
+          "mw-nila",
+          "mw-kantha",
+          "mw-ipsita",
+          "mw-artha",
+          "mw-dayaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w6": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "त्रि",
+            "iast": "tri"
+          },
+          {
+            "sa": "लोचनम्",
+            "iast": "locanam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "त्रि",
+            "iast": "tri",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "त्रि",
+              "iast": "tri"
+            },
+            "meaning": {
+              "en": "three",
+              "hi": "तीन"
+            }
+          },
+          {
+            "sa": "लोचन",
+            "iast": "locana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लोचन",
+              "iast": "locana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "locana",
+              "gloss": "the eye"
+            },
+            "meaning": {
+              "en": "eye",
+              "hi": "नेत्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the three-eyed",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनके तीन नेत्र हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "trīṇi locanāni yasya, 'whose eyes are three'. Trilocana is a name of Śiva.",
+          "hi": "त्रीणि लोचनानि यस्य, 'जिनके तीन नेत्र हैं'। त्रिलोचन शिव का नाम है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-trilocana",
+          "mw-locana",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w7": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          {
+            "sa": "कालम्",
+            "iast": "kālam"
+          },
+          {
+            "sa": "अम्बुज",
+            "iast": "ambuja"
+          },
+          {
+            "sa": "अक्षम्",
+            "iast": "akṣam"
+          },
+          {
+            "sa": "अक्ष",
+            "iast": "akṣa"
+          },
+          {
+            "sa": "शूलम्",
+            "iast": "śūlam"
+          },
+          {
+            "sa": "अक्षरम्",
+            "iast": "akṣaram"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of ambuja and the first a of akṣa merge into a long ā: ambuja + akṣa → ambujākṣa.",
+              "hi": "अम्बुज का अन्तिम 'अ' और अक्ष का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: अम्बुज + अक्ष → अम्बुजाक्ष।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (kāśikā): akṣaram → akṣaraṃ. Before a vowel the final m simply joins it: kālam + ambuja → kālamambuja, akṣam + akṣa → akṣamakṣa, śūlam + akṣaram → śūlamakṣaram.",
+              "hi": "अगले शब्द (काशिका) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अक्षरम् → अक्षरं। स्वर से पहले अन्तिम 'म्' उसी से जुड़ जाता है: कालम् + अम्बुज → कालमम्बुज, अक्षम् + अक्ष → अक्षमक्ष, शूलम् + अक्षरम् → शूलमक्षरम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काल",
+            "iast": "kāla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काल",
+              "iast": "kāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla",
+              "gloss": "a space of time, time (in general)"
+            },
+            "meaning": {
+              "en": "Death (Time)",
+              "hi": "काल"
+            }
+          },
+          {
+            "sa": "अम्बुज",
+            "iast": "ambuja",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अम्बुज",
+              "iast": "ambuja"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ambu-ja",
+              "gloss": "a lotus"
+            },
+            "meaning": {
+              "en": "lotus",
+              "hi": "कमल"
+            }
+          },
+          {
+            "sa": "अक्ष",
+            "iast": "akṣa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अक्षि",
+              "iast": "akṣi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "akṣa",
+              "gloss": "[only ifc. for akṣi], the eye"
+            },
+            "meaning": {
+              "en": "eye",
+              "hi": "नेत्र"
+            }
+          },
+          {
+            "sa": "अक्ष",
+            "iast": "akṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अक्ष",
+              "iast": "akṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "akṣa",
+              "gloss": "a seed of which rosaries are made"
+            },
+            "meaning": {
+              "en": "rosary",
+              "hi": "अक्षमाला"
+            }
+          },
+          {
+            "sa": "शूल",
+            "iast": "śūla",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शूल",
+              "iast": "śūla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śūla",
+              "gloss": "lance, pike, spear (esp. the trident of Śiva)"
+            },
+            "meaning": {
+              "en": "trident",
+              "hi": "त्रिशूल"
+            }
+          },
+          {
+            "sa": "अक्षर",
+            "iast": "akṣara",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अक्षर",
+              "iast": "akṣara"
+            },
+            "formation": "a ('not') + kṣara ('perishing')",
+            "sense": {
+              "dict": "mw",
+              "headword": "a-kṣara",
+              "gloss": "imperishable"
+            },
+            "meaning": {
+              "en": "imperishable",
+              "hi": "अविनाशी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the Death of Death, lotus-eyed, holding a rosary and the trident, the Imperishable",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो काल के भी काल, कमल-नयन, अक्षमाला और त्रिशूल धारण करने वाले और अविनाशी हैं"
+        },
+        "notes": {
+          "en": "Four descriptions written as one word, each ending in its own -m: kāla-kālam 'the Death of Death', ambuja-akṣam 'lotus-eyed', akṣa-śūlam 'holding rosary and trident' and akṣaram 'imperishable'. All four point to Kālabhairava. In ambujākṣa, akṣa is the form akṣi 'eye' takes at the end of a word.",
+          "hi": "एक शब्द में लिखे चार वर्णन, हर एक का अपना '-म्': काल-कालम् 'काल के भी काल', अम्बुज-अक्षम् 'कमल-नयन', अक्ष-शूलम् 'अक्षमाला और त्रिशूल वाले' और अक्षरम् 'अविनाशी'। चारों कालभैरव की ओर संकेत करते हैं। अम्बुजाक्ष में 'अक्ष' शब्द के अन्त में अक्षि 'नेत्र' का रूप है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whose trident holds up the three worlds (akṣa as 'axle, axis')",
+              "hi": "जिनका त्रिशूल तीनों लोकों की धुरी है"
+            },
+            "note": "greenmesg-kalabhairava: 'Whose Trident Supports the Three Worlds'; MW 1. akṣa 'an axle, axis'. gitapress-shiv-stotra-ratnakar reads akṣa as अक्षमाला (rosary), MW 2. akṣa 'a seed of which rosaries are made', which is followed here."
+          },
+          {
+            "reading": {
+              "en": "wielder of the imperishable trident",
+              "hi": "अविनाशी त्रिशूल धारण करने वाले"
+            },
+            "note": "shlokam-kalabhairava glosses akṣa as 'immortal'; MW gives no such sense for akṣa (it belongs to akṣara), so this is not followed."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-kala",
+          "mw-ambujaksha",
+          "mw-ambuja",
+          "mw-akshi",
+          "mw-aksha",
+          "mw-shula",
+          "mw-akshara",
+          "mw-kshara",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w8": {
+        "compound": "c9",
+        "padaccheda": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā"
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of pura and the first a of adhinātha merge into a long ā: pura + adhinātha → purādhinātha.",
+              "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काशिका",
+              "iast": "kāśikā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāśikā",
+              "gloss": "'the city of the Kāśis', Benares"
+            },
+            "meaning": {
+              "en": "Kāśī",
+              "hi": "काशी"
+            }
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pura",
+              "gloss": "a fortress, castle, city, town"
+            },
+            "meaning": {
+              "en": "city",
+              "hi": "नगरी"
+            }
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अधिनाथ",
+              "iast": "adhinātha"
+            },
+            "formation": "adhi ('over, above') + nātha ('lord')",
+            "sense": {
+              "dict": "mw",
+              "headword": "adhi-nātha",
+              "gloss": "a supreme lord, chieftain"
+            },
+            "meaning": {
+              "en": "supreme lord",
+              "hi": "अधिपति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāśikā is Kāśī, the city also called Benares (Vārāṇasī). adhi-nātha is more than nātha 'lord': the prefix adhi- makes Him the lord over all. The title runs on into the name Kālabhairava.",
+          "hi": "काशिका यानी काशी, जिसे बनारस (वाराणसी) भी कहते हैं। अधि-नाथ केवल नाथ 'स्वामी' नहीं: 'अधि' उन्हें सबके ऊपर का स्वामी बनाता है। यह उपाधि कालभैरव नाम से जुड़ी है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kashika",
+          "mw-kashi",
+          "mw-pura",
+          "mw-adhinatha",
+          "mw-natha",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w9": {
+        "compound": "c9",
+        "padaccheda": [
+          {
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          {
+            "sa": "भैरवम्",
+            "iast": "bhairavam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): kālabhairavam → kālabhairavaṃ.",
+              "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काल",
+            "iast": "kāla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काल",
+              "iast": "kāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla",
+              "gloss": "black, of a dark colour; time (in general)"
+            },
+            "meaning": {
+              "en": "black; time",
+              "hi": "काला; समय"
+            }
+          },
+          {
+            "sa": "भैरव",
+            "iast": "bhairava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भैरव",
+              "iast": "bhairava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhairava",
+              "gloss": "N. of a form of Śiva; frightful, terrible"
+            },
+            "meaning": {
+              "en": "Bhairava",
+              "hi": "भैरव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Kālabhairava",
+          "hi": "कालभैरव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāla-bhairava is a form of Bhairava, the fierce form of Śiva. kāla can mean 'black' and 'time'; bhairava means 'terrible'. The ending -m marks Him as the one worshipped (bhaje).",
+          "hi": "काल-भैरव भैरव का एक रूप है, जो शिव का उग्र रूप है। काल का अर्थ 'काला' भी है और 'समय' भी; भैरव का अर्थ है 'भयानक'। अन्त का '-म्' बताता है कि उन्हीं को भजा जा रहा है (भजे)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kalabhairava",
+          "mw-kala",
+          "mw-bhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to serve, to worship",
+                "hi": "भजना, सेवा करना"
+              }
+            },
+            "formation": "laṭ, first person singular, ātmanepada",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "I worship",
+              "hi": "भजता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "From √bhaj, 'to serve, revere, love': the root of bhakti and bhajan. The form itself says 'I', so no separate word for 'I' is needed.",
+          "hi": "√भज् से, 'सेवा करना, आदर करना, प्रेम करना': इसी धातु से भक्ति और भजन बने हैं। रूप स्वयं 'मैं' बताता है, इसलिए 'मैं' के लिए अलग शब्द नहीं चाहिए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      }
+    }
+  }
+}

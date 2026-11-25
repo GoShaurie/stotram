@@ -1,0 +1,1364 @@
+{
+  "group": "translation",
+  "checks": {
+    "T4.8": "checks/judges/T4.8.md"
+  },
+  "stotram": {
+    "id": "rudrashtakam",
+    "title": {
+      "sa": "रुद्राष्टकम्",
+      "iast": "Rudrāṣṭakam",
+      "en": "Rudrashtakam",
+      "hi": "रुद्राष्टकम्"
+    }
+  },
+  "verse": {
+    "id": "v6",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "कलातीतकल्याणकल्पान्तकारी",
+            "iast": "kalātītakalyāṇakalpāntakārī"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w2",
+            "text": "सदा",
+            "iast": "sadā"
+          },
+          {
+            "id": "w3",
+            "text": "सज्जनानन्ददाता",
+            "iast": "sajjanānandadātā"
+          },
+          {
+            "id": "w4",
+            "text": "पुरारी",
+            "iast": "purārī"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "चिदानन्दसन्दोहमोहापहारी",
+            "iast": "cidānandasandohamohāpahārī"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w6",
+            "text": "प्रसीद",
+            "iast": "prasīda"
+          },
+          {
+            "id": "w7",
+            "text": "प्रसीद",
+            "iast": "prasīda"
+          },
+          {
+            "id": "w8",
+            "text": "प्रभो",
+            "iast": "prabho"
+          },
+          {
+            "id": "w9",
+            "text": "मन्मथारी",
+            "iast": "manmathārī"
+          }
+        ],
+        "end": "॥ ६ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Where does the first word break? Some printings run it together, *kalātītakalyāṇakalpāntakārī*; others space it, *kalātīta kalyāṇa kalpāntakārī*. Spaced, it gives three titles: beyond the *kalās*, auspicious, ender of the world-age. Joined, it can also mean 'whose goodness lies beyond the *kalās*'. And *kalā* is layered too: a small part (like the moon's sixteen digits), a tiny slice of time, or the elements the material world is made of. He is past them all.",
+          "hi": "पहला शब्द कहाँ टूटता है? कुछ छपे पाठों में यह एक साथ है, *कलातीतकल्याणकल्पान्तकारी*; कुछ में अलग-अलग, *कलातीत कल्याण कल्पान्तकारी*। अलग पढ़ें तो तीन नाम बनते हैं: कलाओं से परे, कल्याण-स्वरूप, कल्प का अन्त करने वाले। साथ पढ़ें तो अर्थ यह भी बनता है: 'जिनका कल्याण-रूप कलाओं से परे है'। *कला* के भी कई अर्थ हैं: छोटा अंश (जैसे चन्द्रमा की सोलह कलाएँ), समय का बहुत छोटा माप, या वे तत्त्व जिनसे भौतिक जगत बना है। शिव इन सबसे परे हैं।"
+        },
+        "citations": [
+          {
+            "source": "kashiraj-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 443, between dohā 107 and 108, line 11",
+            "quote": "कलातीतकल्याणकल्पांतकारी"
+          },
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "verse 6",
+            "quote": "कलातीतकल्याणकल्पान्तकारी"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 1011, stanza 6",
+            "quote": "कलातीत कल्याण कल्पान्तकारी"
+          },
+          {
+            "source": "belvedere-1926-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 428, stanza 6",
+            "quote": "कलातीत कल्याण कल्पान्तकारी"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 1011, stanza 6, Hindi translation",
+            "quote": "कलाओंसे परे, कल्याणस्वरूप"
+          },
+          {
+            "source": "greenmesg-rudrashtakam",
+            "locator": "verse 6, meaning 6.1",
+            "quote": "Whose Auspicious Nature is Beyond the Elements of the gross material world"
+          },
+          {
+            "source": "mw-kalaa",
+            "locator": "MW kalā, p. 261",
+            "quote": "a small part of anything"
+          },
+          {
+            "source": "mw-kalaa",
+            "locator": "MW kalā, p. 261",
+            "quote": "(with Pāśupatas) the elements of the gross or material world"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w5"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Sandoha* starts in the cowshed. It means milking together, the whole milk of a herd gathered in one place, and from there any great heap or mass. So *cid-ānanda-sandoha* pictures consciousness (*cit*) and bliss (*ānanda*) gathered full to the brim: that is what Śiva is. The same word then names what He does: He takes away *moha*, the fog of delusion that keeps the mind from seeing what is true. The one who is that fullness lifts the fog.",
+          "hi": "*सन्दोह* गोशाला से आया शब्द है। इसका अर्थ है एक साथ दुहना, पूरे झुण्ड का सारा दूध एक जगह, और फिर कोई भी बड़ा ढेर या पुंज। इसलिए *चिद्-आनन्द-सन्दोह* का चित्र है: चेतना (*चित्*) और आनन्द ऊपर तक भरे हुए; शिव यही हैं। फिर यही शब्द बताता है कि वे क्या करते हैं: वे *मोह* हर लेते हैं, वह धुंध जो मन को सच देखने नहीं देती। जो स्वयं वह पूर्णता हैं, वही धुंध हटाते हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-samdoha",
+            "locator": "MW saṃdoha, p. 1144",
+            "quote": "the whole milk (of a herd)"
+          },
+          {
+            "source": "mw-samdoha",
+            "locator": "MW saṃdoha, p. 1144",
+            "quote": "totality, multitude, heap, mass, abundance"
+          },
+          {
+            "source": "mw-cidananda",
+            "locator": "MW cidānanda, p. 397",
+            "quote": "‘thought and joy’, in comp."
+          },
+          {
+            "source": "mw-moha",
+            "locator": "MW moha, p. 836",
+            "quote": "darkness or delusion of mind"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 1011, stanza 6, Hindi translation",
+            "quote": "सच्चिदानन्दघन, मोहको हरनेवाले"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w4"
+        ],
+        "kind": "sound",
+        "body": {
+          "en": "Listen to the line-ends: *kalpānta-kārī, purārī, moha-apahārī, manmathārī*. All four lines close on the same ring, *-ārī*. Textbook Sanskrit would say *purāriḥ*, or *purāre* when calling out, and the same for *manmathārī*. Tulsīdās writes a long *-ī*, a form likely shaped by his Hindi ear, which also keeps the rhyme whole. Such forms are accepted as *ārṣa*: usages held valid because ancient sages used them, even where the rules would say otherwise.",
+          "hi": "पंक्तियों के अन्त सुनिए: *कल्पान्त-कारी, पुरारी, मोह-अपहारी, मन्मथारी*। चारों पंक्तियाँ एक ही गूँज, *-आरी*, पर रुकती हैं। व्याकरण के अनुसार *पुरारिः* होना चाहिए, या पुकारते समय *पुरारे*; *मन्मथारी* में भी यही बात है। तुलसीदास अन्त में दीर्घ *-ई* लिखते हैं, जो शायद उनकी हिन्दी की लय से आया रूप है और तुक को भी पूरा रखता है। ऐसे रूप *आर्ष* माने जाते हैं: ऐसे प्रयोग जो प्राचीन ऋषियों द्वारा प्रयुक्त होने के कारण नियम से हटकर भी मान्य हैं।"
+        },
+        "citations": [
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "note on ārṣa forms, after the whole hymn",
+            "quote": "likely to be influenced by Hindi construction"
+          },
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "note on ārṣa forms, after the whole hymn",
+            "quote": "deemed valid on account of their having been used by some ancient sages"
+          },
+          {
+            "source": "kashiraj-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 443, between dohā 107 and 108, lines 11–12",
+            "quote": "सदा सज्जनानंददाता पुरारी"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 1011, stanza 6",
+            "quote": "प्रसीद प्रसीद प्रभो मन्मथारी"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w6",
+          "w7",
+          "w8"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Twice: *prasīda, prasīda*, be pleased, be gracious. Here the teacher's plea ([verse 1](#v1-a1)) is finally spoken. The word holds a picture: *pra-sad* is to settle and grow clear and calm, like the sea or the sky. In [verse 4](#v4-a1) he praised that glad face; now he asks to see it turned on him. And it is. Right after the hymn, Śiva who knows all hears the prayer, and the teacher begins his wish with *jauṃ prasanna prabhu mo para*: 'Lord, if You are pleased with me'.",
+          "hi": "दो बार: *प्रसीद, प्रसीद*, प्रसन्न होइए, कृपा कीजिए। यहाँ आकर गुरु की विनती ([श्लोक १](#v1-a1)) सीधे शब्दों में कही जाती है। शब्द में एक चित्र है: *प्र-सद्* यानी थमकर साफ़ और शान्त हो जाना, जैसे समुद्र या आकाश। [श्लोक ४](#v4-a1) में गुरु ने उसी प्रसन्न मुख की स्तुति की थी; अब वे चाहते हैं कि वह मुख उनकी ओर मुड़े। और ऐसा होता है। स्तुति के ठीक बाद सर्वज्ञ शिव विनती सुनते हैं, और गुरु अपना वर इन शब्दों से माँगना शुरू करते हैं: *जौं प्रसन्न प्रभु मो पर*, 'हे प्रभु, यदि आप मुझ पर प्रसन्न हैं'।"
+        },
+        "citations": [
+          {
+            "source": "mw-prasad",
+            "locator": "MW pra-√sad, p. 696",
+            "quote": "to settle down, grow clear and bright, become placid or tranquil"
+          },
+          {
+            "source": "mw-prasad",
+            "locator": "MW pra-√sad, p. 696",
+            "quote": "to become satisfied or pleased or glad, be gracious or kind"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa 108 (ka), p. 1012",
+            "quote": "सुनि बिनती सर्बग्य सिव देखि बिप्र अनुरागु।"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa 108 (kha), p. 1012",
+            "quote": "जौं प्रसन्न प्रभु मो पर नाथ दीन पर नेहु।"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "You,"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "beyond all parts and measures, the auspicious one who brings the world-age to its end;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "ever"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "giving joy to good people;"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "foe of the cities (Tripura);"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "a mass of consciousness and bliss who takes delusion away:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "be pleased,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "be pleased,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "O Lord,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "enemy of Kāma!"
+            }
+          ]
+        ],
+        "bhavartha": "The teacher heaps up names for Śiva. He is beyond every part and measure, goodness itself, and the one who brings a whole age of the world to its end. He always gives joy to good people and is the foe of the demons' cities. He is consciousness and bliss gathered into one, and He takes delusion away. Then comes the plea itself, said twice: be pleased, O Lord, enemy of Kāma."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "आप,"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "कलाओं से परे, कल्याण-स्वरूप, कल्प का अन्त (प्रलय) करने वाले;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "सज्जनों को"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "सदा"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "आनन्द देने वाले;"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "पुरों (त्रिपुर) के शत्रु;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "चेतना और आनन्द के पुंज, मोह को हरने वाले:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "प्रसन्न होइए,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "प्रसन्न होइए,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "हे प्रभो,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "कामदेव के शत्रु!"
+            }
+          ]
+        ],
+        "bhavartha": "गुरु शिव के एक के बाद एक नाम गिनाते हैं। वे हर अंश और हर माप से परे हैं, स्वयं कल्याण हैं, और कल्प का अन्त करने वाले हैं। वे सज्जनों को सदा आनन्द देते हैं और असुरों के पुरों के शत्रु हैं। वे चेतना और आनन्द का पुंज हैं और मोह को हर लेते हैं। फिर आती है असली विनती, दो बार: हे प्रभो, कामदेव के शत्रु, प्रसन्न होइए।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "कला",
+            "iast": "kalā"
+          },
+          {
+            "sa": "अतीत",
+            "iast": "atīta"
+          },
+          {
+            "sa": "कल्याण",
+            "iast": "kalyāṇa"
+          },
+          {
+            "sa": "कल्प",
+            "iast": "kalpa"
+          },
+          {
+            "sa": "अन्त",
+            "iast": "anta"
+          },
+          {
+            "sa": "कारी",
+            "iast": "kārī"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "ā + a → ā",
+            "explanation": {
+              "en": "Final ā of kalā and initial a of atīta merge into one long ā: kalā + atīta → kalātīta.",
+              "hi": "कला का अन्तिम 'आ' और अतीत का पहला 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: कला + अतीत → कलातीत।"
+            }
+          },
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "Final a of kalpa and initial a of anta merge into long ā: kalpa + anta → kalpānta.",
+              "hi": "कल्प का अन्तिम 'अ' और अन्त का पहला 'अ' मिलकर दीर्घ 'आ' बनते हैं: कल्प + अन्त → कल्पान्त।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कला",
+            "iast": "kalā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कला",
+              "iast": "kalā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kalā",
+              "gloss": "a small part of anything, any single part or portion of a whole, esp. a sixteenth part"
+            },
+            "meaning": {
+              "en": "part",
+              "hi": "अंश"
+            }
+          },
+          {
+            "sa": "अतीत",
+            "iast": "atīta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "इ",
+              "iast": "i",
+              "gana": 2,
+              "prefixes": [
+                "ati"
+              ],
+              "gloss": {
+                "en": "to go beyond",
+                "hi": "पार जाना"
+              }
+            },
+            "formation": "ati + √i + kta",
+            "sense": {
+              "dict": "mw",
+              "headword": "atīta",
+              "gloss": "one who has gone through or got over or beyond"
+            },
+            "meaning": {
+              "en": "beyond",
+              "hi": "परे"
+            }
+          },
+          {
+            "sa": "कल्याण",
+            "iast": "kalyāṇa",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कल्याण",
+              "iast": "kalyāṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kalyāṇa",
+              "gloss": "beneficial, salutary, auspicious"
+            },
+            "meaning": {
+              "en": "auspicious",
+              "hi": "कल्याणकारी"
+            }
+          },
+          {
+            "sa": "कल्प",
+            "iast": "kalpa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कल्प",
+              "iast": "kalpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kalpa",
+              "gloss": "a fabulous period of time (a day of Brahmā or one thousand Yugas)"
+            },
+            "meaning": {
+              "en": "world-age",
+              "hi": "कल्प"
+            }
+          },
+          {
+            "sa": "अन्त",
+            "iast": "anta",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "anta",
+              "gloss": "end, conclusion"
+            },
+            "meaning": {
+              "en": "end",
+              "hi": "अन्त"
+            }
+          },
+          {
+            "sa": "कारिन्",
+            "iast": "kārin",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to do, to make",
+                "hi": "करना"
+              }
+            },
+            "formation": "√kṛ + ṇini",
+            "sense": {
+              "dict": "mw",
+              "headword": "kārin",
+              "gloss": "doing, making, effecting, producing"
+            },
+            "meaning": {
+              "en": "bringer",
+              "hi": "करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Śiva) beyond all parts and measures, the auspicious one who brings the world-age to its end",
+          "hi": "(शिव) जो कलाओं से परे, कल्याण-स्वरूप और कल्प का अन्त करने वाले हैं"
+        },
+        "literal": {
+          "en": "the auspicious one gone beyond the parts, maker of the end of the kalpa",
+          "hi": "कलाओं से परे गया हुआ कल्याण-रूप, कल्प के अन्त का कर्ता"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "A kalpa is a day of Brahmā, the whole span of a world; its end (kalpānta) is the great dissolution, pralaya. kalā has several senses (a part, esp. a sixteenth; a small unit of time; the elements of the material world); all fit 'beyond'. The witnesses differ only in spacing.",
+          "hi": "कल्प ब्रह्मा का एक दिन, यानी एक पूरे जगत की अवधि है; उसका अन्त (कल्पान्त) महाप्रलय है। कला के कई अर्थ हैं (अंश, विशेषकर सोलहवाँ भाग; समय की छोटी इकाई; भौतिक जगत के तत्त्व); 'परे' के साथ सभी ठीक बैठते हैं। पाठों में केवल शब्दों के बीच की जगह का अन्तर है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whose auspicious nature is beyond the kalās, and who ends the world-age",
+              "hi": "जिनका कल्याण-रूप कलाओं से परे है, और जो कल्प का अन्त करते हैं"
+            },
+            "note": "greenmesg-rudrashtakam reads kalātīta-kalyāṇa as a description of His auspicious nature; gitapress-ramcharitmanas and sanskritdocuments-rudra8 give three separate descriptions."
+          },
+          {
+            "reading": {
+              "en": "beyond time",
+              "hi": "काल से परे"
+            },
+            "note": "shlokam-rudrashtakam glosses kalātīta as 'beyond time', using kalā as a unit of time (MW sense 'a division of time')."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-kalaa",
+          "mw-atita",
+          "mw-kalyana",
+          "mw-kalpa",
+          "mw-kalpanta",
+          "mw-karin",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "greenmesg-rudrashtakam",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "सदा",
+            "iast": "sadā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सदा",
+            "iast": "sadā",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "sadā",
+              "gloss": "always, ever, every time, continually"
+            },
+            "meaning": {
+              "en": "always",
+              "hi": "सदा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "always, ever",
+          "hi": "सदा, हमेशा"
+        },
+        "notes": {
+          "en": "Goes with the giving in the next word: He gives joy to good people at all times.",
+          "hi": "अगले शब्द के 'देने' से जुड़ता है: वे सज्जनों को हर समय आनन्द देते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-sada",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w3": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "सत्",
+            "iast": "sat"
+          },
+          {
+            "sa": "जन",
+            "iast": "jana"
+          },
+          {
+            "sa": "आनन्द",
+            "iast": "ānanda"
+          },
+          {
+            "sa": "दाता",
+            "iast": "dātā"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "ścutva",
+            "rule": "t + j → j + j",
+            "explanation": {
+              "en": "Final t of sat becomes j before the j of jana: sat + jana → sajjana.",
+              "hi": "सत् का अन्तिम 'त्' आगे के 'ज' के कारण 'ज्' बन जाता है: सत् + जन → सज्जन।"
+            }
+          },
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + ā → ā",
+            "explanation": {
+              "en": "Final a of sajjana and initial ā of ānanda merge into one long ā: sajjana + ānanda → sajjanānanda.",
+              "hi": "सज्जन का अन्तिम 'अ' और आनन्द का 'आ' मिलकर एक दीर्घ 'आ' बनते हैं: सज्जन + आनन्द → सज्जनानन्द।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "सत्",
+            "iast": "sat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "अस्",
+              "iast": "as",
+              "gana": 2,
+              "gloss": {
+                "en": "to be",
+                "hi": "होना"
+              }
+            },
+            "formation": "√as + śatṛ",
+            "sense": {
+              "dict": "mw",
+              "headword": "sat",
+              "gloss": "real, actual, true, good, right"
+            },
+            "meaning": {
+              "en": "good",
+              "hi": "सत्, अच्छा"
+            }
+          },
+          {
+            "sa": "जन",
+            "iast": "jana",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जन",
+              "iast": "jana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jana",
+              "gloss": "creature, living being, man, person"
+            },
+            "meaning": {
+              "en": "person",
+              "hi": "जन"
+            }
+          },
+          {
+            "sa": "आनन्द",
+            "iast": "ānanda",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नन्द्",
+              "iast": "nand",
+              "gana": 1,
+              "prefixes": [
+                "ā"
+              ],
+              "gloss": {
+                "en": "to rejoice",
+                "hi": "आनन्दित होना"
+              }
+            },
+            "formation": "ā + √nand + ghañ",
+            "sense": {
+              "dict": "mw",
+              "headword": "ānanda",
+              "gloss": "happiness, joy, enjoyment"
+            },
+            "meaning": {
+              "en": "joy",
+              "hi": "आनन्द"
+            }
+          },
+          {
+            "sa": "दातृ",
+            "iast": "dātṛ",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दा",
+              "iast": "dā",
+              "gana": 3,
+              "gloss": {
+                "en": "to give",
+                "hi": "देना"
+              }
+            },
+            "formation": "√dā + tṛc",
+            "sense": {
+              "dict": "mw",
+              "headword": "dātṛ",
+              "gloss": "giving, a giver, donor, liberal"
+            },
+            "meaning": {
+              "en": "giver",
+              "hi": "दाता"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Śiva) the giver of joy to good people",
+          "hi": "(शिव) सज्जनों को आनन्द देने वाले"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "sajjana is 'a good or virtuous man', from sat 'good' and jana 'person'. dātā is the regular form of dātṛ 'giver'.",
+          "hi": "सज्जन यानी अच्छा, सदाचारी व्यक्ति: सत् 'अच्छा' + जन 'व्यक्ति'। दाता 'दातृ' (देने वाला) का नियमित रूप है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-sajjana",
+          "mw-sat",
+          "mw-jana",
+          "mw-ananda",
+          "mw-datr",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w4": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अरी",
+            "iast": "arī"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "Final a of pura and initial a of ari merge into one long ā: pura + ari → purāri.",
+              "hi": "पुर का अन्तिम 'अ' और अरि का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: पुर + अरि → पुरारि।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pura",
+              "gloss": "= tri-pura, the 3 strongholds of the Asuras"
+            },
+            "meaning": {
+              "en": "city",
+              "hi": "पुर, नगर"
+            }
+          },
+          {
+            "sa": "अरि",
+            "iast": "ari",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अरि",
+              "iast": "ari"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ari",
+              "gloss": "an enemy"
+            },
+            "meaning": {
+              "en": "enemy",
+              "hi": "शत्रु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "foe of the cities (Tripura), i.e. Śiva",
+          "hi": "पुरों (त्रिपुर) के शत्रु, अर्थात् शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "*Pura* is a city or stronghold; here it means Tripura, the three cities of the demons. *Purāri*, 'foe of the cities', is a well-known name of Śiva.",
+          "hi": "*पुर* यानी नगर या गढ़; यहाँ इसका अर्थ त्रिपुर है, असुरों के तीन पुर। *पुरारि*, 'पुरों के शत्रु', शिव का प्रसिद्ध नाम है।"
+        },
+        "notes": {
+          "en": "The long final ī is not the normal form (purāriḥ, or purāre when calling out); it is an ārṣa usage, and every witness has it.",
+          "hi": "अन्तिम दीर्घ ई सामान्य रूप नहीं है (पुरारिः, या पुकारते समय पुरारे); यह आर्ष प्रयोग है, और सभी पाठों में यही है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-purari",
+          "mw-pura",
+          "mw-ari",
+          "mw-tripura",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w5": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "चित्",
+            "iast": "cit"
+          },
+          {
+            "sa": "आनन्द",
+            "iast": "ānanda"
+          },
+          {
+            "sa": "सन्दोह",
+            "iast": "sandoha"
+          },
+          {
+            "sa": "मोह",
+            "iast": "moha"
+          },
+          {
+            "sa": "अपहारी",
+            "iast": "apahārī"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + ā → d + ā",
+            "explanation": {
+              "en": "Final t of cit becomes the voiced d before the vowel ā: cit + ānanda → cidānanda.",
+              "hi": "चित् का अन्तिम 'त्' आगे के स्वर 'आ' के कारण 'द्' बन जाता है: चित् + आनन्द → चिदानन्द।"
+            }
+          },
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "Final a of moha and initial a of apahārin merge into one long ā: moha + apahārī → mohāpahārī.",
+              "hi": "मोह का अन्तिम 'अ' और अपहारी का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: मोह + अपहारी → मोहापहारी।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "चित्",
+            "iast": "cit",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "चित्",
+              "iast": "cit"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "cidānanda",
+              "gloss": "‘thought and joy’, in comp."
+            },
+            "meaning": {
+              "en": "consciousness",
+              "hi": "चेतना"
+            }
+          },
+          {
+            "sa": "आनन्द",
+            "iast": "ānanda",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नन्द्",
+              "iast": "nand",
+              "gana": 1,
+              "prefixes": [
+                "ā"
+              ],
+              "gloss": {
+                "en": "to rejoice",
+                "hi": "आनन्दित होना"
+              }
+            },
+            "formation": "ā + √nand + ghañ",
+            "sense": {
+              "dict": "mw",
+              "headword": "ānanda",
+              "gloss": "‘pure happiness’, one of the three attributes of Ātman or Brahman"
+            },
+            "meaning": {
+              "en": "bliss",
+              "hi": "आनन्द"
+            }
+          },
+          {
+            "sa": "सन्दोह",
+            "iast": "sandoha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दुह्",
+              "iast": "duh",
+              "gana": 2,
+              "prefixes": [
+                "sam"
+              ],
+              "gloss": {
+                "en": "to milk",
+                "hi": "दुहना"
+              }
+            },
+            "formation": "sam + √duh + ghañ",
+            "sense": {
+              "dict": "mw",
+              "headword": "saṃdoha",
+              "gloss": "totality, multitude, heap, mass, abundance"
+            },
+            "meaning": {
+              "en": "mass",
+              "hi": "पुंज"
+            }
+          },
+          {
+            "sa": "मोह",
+            "iast": "moha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मुह्",
+              "iast": "muh",
+              "gana": 4,
+              "gloss": {
+                "en": "to be bewildered",
+                "hi": "मोहित होना"
+              }
+            },
+            "formation": "√muh + ghañ",
+            "sense": {
+              "dict": "mw",
+              "headword": "moha",
+              "gloss": "bewilderment, perplexity, distraction, infatuation, delusion"
+            },
+            "meaning": {
+              "en": "delusion",
+              "hi": "मोह"
+            }
+          },
+          {
+            "sa": "अपहारिन्",
+            "iast": "apahārin",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हृ",
+              "iast": "hṛ",
+              "gana": 1,
+              "prefixes": [
+                "apa"
+              ],
+              "gloss": {
+                "en": "to take away, to remove",
+                "hi": "हर लेना, दूर करना"
+              }
+            },
+            "formation": "apa + √hṛ + ṇini",
+            "sense": {
+              "dict": "mw",
+              "headword": "apa-hṛ",
+              "gloss": "to snatch away, carry off; to remove"
+            },
+            "meaning": {
+              "en": "remover",
+              "hi": "हरने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Śiva) the mass of consciousness and bliss who takes delusion away",
+          "hi": "(शिव) चेतना और आनन्द के पुंज, जो मोह को हर लेते हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Two descriptions in one word: what He is (cidānanda-sandoha, consciousness and bliss in full measure) and what He does (moha-apahārī, remover of delusion). The witnesses differ only in spacing.",
+          "hi": "एक शब्द में दो विशेषण: वे क्या हैं (चिदानन्द-सन्दोह, भरपूर चेतना और आनन्द) और क्या करते हैं (मोह-अपहारी, मोह को हरने वाले)। पाठों में केवल शब्दों के बीच की जगह का अन्तर है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "who takes away delusion and so brings the soul into the fullness of consciousness and bliss",
+              "hi": "जो मोह हरकर जीव को चेतना और आनन्द की पूर्णता में ले जाते हैं"
+            },
+            "note": "greenmesg-rudrashtakam reads cidānanda-sandoha as the fullness the freed soul enters; gitapress-ramcharitmanas (सच्चिदानन्दघन) and sanskritdocuments-rudra8 (चिदानन्दराशि) take it as a description of Śiva himself."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-cidananda",
+          "mw-cit",
+          "mw-ananda",
+          "mw-samdoha",
+          "mw-moha",
+          "mw-apahr",
+          "mw-apaharin",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "greenmesg-rudrashtakam",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "सद्",
+              "iast": "sad",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to grow clear, to be pleased",
+                "hi": "निर्मल होना, प्रसन्न होना"
+              }
+            },
+            "formation": "pra + √sad (sīda-), a request to 'you'",
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-sad",
+              "gloss": "to become satisfied or pleased or glad, be gracious or kind"
+            },
+            "meaning": {
+              "en": "be pleased",
+              "hi": "प्रसन्न होइए"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "be pleased, be gracious (O Śiva)",
+          "hi": "प्रसन्न होइए, कृपा कीजिए (हे शिव)"
+        },
+        "notes": {
+          "en": "A request addressed to 'you'. The root sad takes the stem sīd- in the present, so pra + sad gives prasīda.",
+          "hi": "'आप' से की गई विनती। वर्तमान के रूपों में सद् धातु 'सीद्' बन जाती है, इसलिए प्र + सद् से प्रसीद बनता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prasad",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "सद्",
+              "iast": "sad",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to grow clear, to be pleased",
+                "hi": "निर्मल होना, प्रसन्न होना"
+              }
+            },
+            "formation": "pra + √sad (sīda-), a request to 'you'",
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-sad",
+              "gloss": "to become satisfied or pleased or glad, be gracious or kind"
+            },
+            "meaning": {
+              "en": "be pleased",
+              "hi": "प्रसन्न होइए"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "be pleased (O Śiva), again",
+          "hi": "प्रसन्न होइए (हे शिव), फिर से"
+        },
+        "aside": {
+          "en": "Said twice: the plea is not just made but pressed, the same word again, as one begs when it matters most.",
+          "hi": "दो बार कहा गया: विनती केवल की नहीं जाती, उसी शब्द को दोहराकर ज़ोर से की जाती है, जैसे सबसे ज़रूरी बात पर कोई विनती करता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prasad",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "ramcharitmanas-uttarakanda-104-108"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "प्रभो",
+            "iast": "prabho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रभु",
+            "iast": "prabhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रभु",
+              "iast": "prabhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "prabhu",
+              "gloss": "a master, lord, king (also applied to gods)"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "प्रभु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Lord, i.e. Śiva",
+          "hi": "हे प्रभो, अर्थात् हे शिव"
+        },
+        "notes": {
+          "en": "The calling-out form of prabhu: the final -u becomes -o.",
+          "hi": "प्रभु का पुकारने वाला रूप: अन्तिम '-उ' '-ओ' बन जाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prabhu",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w9": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "मन्मथ",
+            "iast": "manmatha"
+          },
+          {
+            "sa": "अरी",
+            "iast": "arī"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "Final a of manmatha and initial a of ari merge into one long ā: manmatha + ari → manmathāri.",
+              "hi": "मन्मथ का अन्तिम 'अ' और अरि का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: मन्मथ + अरि → मन्मथारि।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "मन्मथ",
+            "iast": "manmatha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मन्मथ",
+              "iast": "manmatha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "manmatha",
+              "gloss": "love or the god of love"
+            },
+            "meaning": {
+              "en": "Kāma",
+              "hi": "कामदेव"
+            }
+          },
+          {
+            "sa": "अरि",
+            "iast": "ari",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अरि",
+              "iast": "ari"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ari",
+              "gloss": "an enemy"
+            },
+            "meaning": {
+              "en": "enemy",
+              "hi": "शत्रु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O enemy of Kāma, i.e. Śiva",
+          "hi": "हे कामदेव के शत्रु, अर्थात् हे शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "*Manmatha*, the god of love, is the 'churner of the mind': *man* (mind) + *matha* (stirring), desire whirling the heart like a churning stick.",
+          "hi": "*मन्मथ*, कामदेव, यानी 'मन को मथने वाला': *मन्* (मन) + *मथ* (मथना); इच्छा मन को वैसे ही घुमाती है जैसे मथानी दही को।"
+        },
+        "notes": {
+          "en": "Like purārī, the long final ī is an ārṣa form, here for manmathāre (calling out), standing beside prabho.",
+          "hi": "पुरारी की तरह अन्तिम दीर्घ ई आर्ष रूप है, यहाँ मन्मथारे (सम्बोधन) के स्थान पर, 'प्रभो' के साथ।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-manmatha",
+          "mw-ari",
+          "mw-math",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      }
+    }
+  }
+}

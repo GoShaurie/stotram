@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "051cc4755b24ee19",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "verse.annotations.a3.body",
+      "message": "Calling the tāṇḍava 'whirling' ('घूमता' in the Hindi) goes beyond the cited excerpt. mw-tandava.md (MW p. 441,3) gives only 'dancing (esp. with violent gesticulation), frantic dance (of Śiva and his votaries)', and no other evidence file mentions whirling. It is a small descriptive detail, but no source in the evidence supports it.",
+      "suggested_fix": "EN: 'Tāṇḍava is Śiva's wild, frantic dance'; HI: '*ताण्डव* शिव का उन्मत्त, प्रचण्ड नृत्य है'."
+    }
+  ]
+}

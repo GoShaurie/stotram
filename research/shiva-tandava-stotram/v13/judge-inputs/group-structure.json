@@ -1,0 +1,1713 @@
+{
+  "group": "structure",
+  "checks": {
+    "T2.8b": "checks/judges/T2.8b.md",
+    "T2.9b": "checks/judges/T2.9b.md",
+    "T3.4": "checks/judges/T3.4.md",
+    "T3.6": "checks/judges/T3.6.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    }
+  },
+  "verse": {
+    "id": "v13",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "कदा",
+            "iast": "kadā"
+          },
+          {
+            "id": "w2",
+            "text": "निलिम्पनिर्झरी",
+            "iast": "nilimpanirjharī"
+          },
+          {
+            "id": "w3",
+            "text": "निकुञ्जकोटरे",
+            "iast": "nikuñjakoṭare"
+          },
+          {
+            "id": "w4",
+            "text": "वसन्",
+            "iast": "vasan"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "विमुक्तदुर्मतिः",
+            "iast": "vimuktadurmatiḥ"
+          },
+          {
+            "id": "w6",
+            "text": "सदा",
+            "iast": "sadā"
+          },
+          {
+            "id": "w7",
+            "text": "शिरःस्थमञ्जलिं",
+            "iast": "śiraḥsthamañjaliṃ"
+          },
+          {
+            "id": "w8",
+            "text": "वहन्",
+            "iast": "vahan"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "विलोललोललोचनो",
+            "iast": "vilolalolalocano"
+          },
+          {
+            "id": "w10",
+            "text": "ललामभाललग्नकः",
+            "iast": "lalāmabhālalagnakaḥ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w11",
+            "text": "शिवेति",
+            "iast": "śiveti"
+          },
+          {
+            "id": "w12",
+            "text": "मन्त्रमुच्चरन्",
+            "iast": "mantramuccaran"
+          },
+          {
+            "id": "w13",
+            "text": "कदा",
+            "iast": "kadā"
+          },
+          {
+            "id": "w14",
+            "text": "सुखी",
+            "iast": "sukhī"
+          },
+          {
+            "id": "w15",
+            "text": "भवाम्यहम्",
+            "iast": "bhavāmyaham"
+          }
+        ],
+        "end": "॥ १३ ॥"
+      }
+    ],
+    "adhyahara": [],
+    "anvaya": [
+      "p18",
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p15",
+      "p16",
+      "p17"
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w2",
+          "w3"
+        ],
+        "iast": "nilimpa-nirjharī-nikuñja-koṭare",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "(((nilimpa-nirjharī)-nikuñja)-koṭara)",
+        "vigraha": "निलिम्पानां निर्झरी निलिम्पनिर्झरी, तस्याः निकुञ्जः, तस्य कोटरे",
+        "meaning": {
+          "en": "in a hollow of the bowers of the river of the gods (the Gaṅgā)",
+          "hi": "देवनदी (गंगा) के कुंजों के किसी कोटर (कुटी) में"
+        },
+        "note": {
+          "en": "One compound across two display words, with the case ending only at the end (koṭare, locative). nilimpa-nirjharī 'the river of the gods' is the Gaṅgā, the same name as in verse 2; nikuñja is a bower or thicket, and koṭara a hollow, so the whole says where the poet wants to live: a sheltered nook among the thickets on the Gaṅgā's bank.",
+          "hi": "दो प्रदर्शित शब्दों में फैला एक समास, जिसकी विभक्ति केवल अन्त में है (कोटरे, सप्तमी)। निलिम्प-निर्झरी 'देवताओं की नदी' गंगा है, वही नाम जो दूसरे श्लोक में आया; निकुञ्ज कुंज या झाड़ी है और कोटर खोखला स्थान। पूरा समास बताता है कि कवि कहाँ रहना चाहता है: गंगा-तट की झाड़ियों के बीच किसी ओट वाले कोने में।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w5"
+        ],
+        "iast": "vimukta-dur-matiḥ",
+        "type": "bahuvrīhi",
+        "structure": "(vimukta-(dur-mati))",
+        "vigraha": "विमुक्ता दुर्मतिः येन सः",
+        "meaning": {
+          "en": "one who has let go of evil thinking",
+          "hi": "जिसने दुर्बुद्धि छोड़ दी है"
+        },
+        "note": {
+          "en": "dur-mati 'bad thinking' (dus + mati) is a prādi tatpuruṣa; with vimukta 'let go, released' it forms a bahuvrīhi describing the speaker, 'he by whom bad thinking has been released'.",
+          "hi": "दुर्-मति 'बुरी बुद्धि' (दुस् + मति) प्रादि तत्पुरुष है; 'विमुक्त' (छोड़ी हुई) के साथ यह बहुव्रीहि बनता है, जो वक्ता का वर्णन करता है: 'जिसके द्वारा दुर्बुद्धि छोड़ दी गई है'।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w7"
+        ],
+        "iast": "śiraḥ-stham",
+        "type": "upapada",
+        "vigraha": "शिरसि तिष्ठति इति शिरःस्थः, तम्",
+        "meaning": {
+          "en": "resting on the head",
+          "hi": "सिर पर स्थित"
+        },
+        "note": {
+          "en": "Only the first part of the display word w7 is a compound: śiras 'head' + -stha 'standing, placed', from √sthā. It qualifies the separate word añjalim that follows.",
+          "hi": "प्रदर्शित शब्द w7 का केवल पहला भाग समास है: शिरस् 'सिर' + -स्थ 'स्थित', √स्था से। यह आगे के अलग पद 'अञ्जलिम्' का विशेषण है।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w9"
+        ],
+        "iast": "vilola-lola-locanaḥ",
+        "type": "bahuvrīhi",
+        "structure": "((vilola-lola)-locana)",
+        "vigraha": "विलोले लोले लोचने यस्य सः",
+        "meaning": {
+          "en": "one whose eyes are restless and roving",
+          "hi": "जिसके नेत्र अत्यन्त चंचल हैं"
+        },
+        "note": {
+          "en": "vilola and lola mean nearly the same, 'rolling, unsteady'; set side by side they intensify each other. With locana 'eye' they form a bahuvrīhi describing the speaker.",
+          "hi": "विलोल और लोल का अर्थ लगभग एक है, 'डोलता, अस्थिर'; साथ रखने से भाव और गहरा हो जाता है। लोचन (नेत्र) के साथ ये बहुव्रीहि बनाते हैं, जो वक्ता का वर्णन करता है।"
+        }
+      },
+      "c5": {
+        "members": [
+          "w10"
+        ],
+        "iast": "lalāma-bhāla-lagnakaḥ",
+        "type": "bahuvrīhi",
+        "structure": "(lalāma-(bhāla-lagna))",
+        "vigraha": "ललामं भाले लग्नं यस्य सः",
+        "meaning": {
+          "en": "one on whose forehead an auspicious mark is set",
+          "hi": "जिसके माथे पर शुभ तिलक लगा है"
+        },
+        "note": {
+          "en": "lalāma 'mark, ornament', bhāla 'forehead', lagna 'fixed, attached'. The final -ka is best taken as the suffix that may close a bahuvrīhi, so the compound means 'he whose forehead has a mark fixed on it'. The vyakhya.org commentary reads the mark as the tripuṇḍra of a Śaiva devotee.",
+          "hi": "ललाम 'चिह्न, आभूषण', भाल 'माथा', लग्न 'लगा हुआ'। अन्तिम '-क' को बहुव्रीहि के अन्त में लगने वाला प्रत्यय मानना उचित है, अतः अर्थ है 'जिसके माथे पर चिह्न लगा है'। vyakhya.org की व्याख्या इस चिह्न को शिवभक्त का त्रिपुण्ड्र मानती है।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "कदा",
+        "iast": "kadā",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p17"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2",
+          "w3"
+        ],
+        "sa": "निलिम्पनिर्झरीनिकुञ्जकोटरे",
+        "iast": "nilimpanirjharīnikuñjakoṭare",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "निलिम्पनिर्झरीनिकुञ्जकोटर",
+            "iast": "nilimpanirjharīnikuñjakoṭara"
+          },
+          "gender": "neuter",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "adhikaraṇa",
+        "head": "p3"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w4"
+        ],
+        "sa": "वसन्",
+        "iast": "vasan",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वसत्",
+            "iast": "vasat"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "वस्",
+              "iast": "vas",
+              "gana": 1
+            },
+            "prefixes": [],
+            "suffix": "śatṛ"
+          }
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p18"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w5"
+        ],
+        "sa": "विमुक्तदुर्मतिः",
+        "iast": "vimuktadurmatiḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विमुक्तदुर्मति",
+            "iast": "vimuktadurmati"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p18"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w6"
+        ],
+        "sa": "सदा",
+        "iast": "sadā",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w7"
+        ],
+        "sa": "शिरःस्थम्",
+        "iast": "śiraḥstham",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिरःस्थ",
+            "iast": "śiraḥstha"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p7"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "अञ्जलिम्",
+        "iast": "añjalim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अञ्जलि",
+            "iast": "añjali"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p8"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w8"
+        ],
+        "sa": "वहन्",
+        "iast": "vahan",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वहत्",
+            "iast": "vahat"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "वह्",
+              "iast": "vah",
+              "gana": 1
+            },
+            "prefixes": [],
+            "suffix": "śatṛ"
+          }
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p18"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w9"
+        ],
+        "sa": "विलोललोललोचनः",
+        "iast": "vilolalolalocanaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विलोललोललोचन",
+            "iast": "vilolalolalocana"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p18"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w10"
+        ],
+        "sa": "ललामभाललग्नकः",
+        "iast": "lalāmabhālalagnakaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "ललामभाललग्नक",
+            "iast": "lalāmabhālalagnaka"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p18"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w11"
+        ],
+        "sa": "शिव",
+        "iast": "śiva",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w11"
+        ],
+        "sa": "इति",
+        "iast": "iti",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": "p13"
+      },
+      {
+        "id": "p13",
+        "words": [
+          "w12"
+        ],
+        "sa": "मन्त्रम्",
+        "iast": "mantram",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "मन्त्र",
+            "iast": "mantra"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p14"
+      },
+      {
+        "id": "p14",
+        "words": [
+          "w12"
+        ],
+        "sa": "उच्चरन्",
+        "iast": "uccaran",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "उच्चरत्",
+            "iast": "uccarat"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "चर्",
+              "iast": "car",
+              "gana": 1
+            },
+            "prefixes": [
+              "ud"
+            ],
+            "suffix": "śatṛ"
+          }
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p18"
+      },
+      {
+        "id": "p15",
+        "words": [
+          "w13"
+        ],
+        "sa": "कदा",
+        "iast": "kadā",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p17"
+      },
+      {
+        "id": "p16",
+        "words": [
+          "w14"
+        ],
+        "sa": "सुखी",
+        "iast": "sukhī",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "सुखिन्",
+            "iast": "sukhin"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p18"
+      },
+      {
+        "id": "p17",
+        "words": [
+          "w15"
+        ],
+        "sa": "भवामि",
+        "iast": "bhavāmi",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p18",
+        "words": [
+          "w15"
+        ],
+        "sa": "अहम्",
+        "iast": "aham",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अस्मद्",
+            "iast": "asmad"
+          },
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p17"
+      }
+    ],
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "कदा",
+            "iast": "kadā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कदा",
+            "iast": "kadā",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "kadā",
+              "gloss": "when? at what time?"
+            },
+            "meaning": {
+              "en": "when?",
+              "hi": "कब?"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "when?",
+          "hi": "कब?"
+        },
+        "notes": {
+          "en": "An interrogative indeclinable. It opens the verse and comes back in the last pāda (w13), framing the whole wish.",
+          "hi": "प्रश्नवाचक अव्यय। यह श्लोक को खोलता है और अन्तिम चरण (w13) में फिर आता है, पूरी कामना को घेरते हुए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kada",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "निलिम्प",
+            "iast": "nilimpa"
+          },
+          {
+            "sa": "निर्झरी",
+            "iast": "nirjharī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "निलिम्प",
+            "iast": "nilimpa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निलिम्प",
+              "iast": "nilimpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nilimpa",
+              "gloss": "a god"
+            },
+            "meaning": {
+              "en": "a god",
+              "hi": "देवता"
+            }
+          },
+          {
+            "sa": "निर्झरी",
+            "iast": "nirjharī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निर्झरी",
+              "iast": "nirjharī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nirjharī",
+              "gloss": "a river"
+            },
+            "meaning": {
+              "en": "river",
+              "hi": "नदी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of the river of the gods, the Gaṅgā",
+          "hi": "देवनदी गंगा के"
+        },
+        "literal": {
+          "en": "river of the gods",
+          "hi": "देवताओं की नदी"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "nilimpānāṃ nirjharī, 'the river of the gods' (ṣaṣṭhī tatpuruṣa); MW records nilimpa-nirjharī as a name of the Gaṅgā. It has no case ending of its own: it is the first part of the compound that ends in koṭare (w3).",
+          "hi": "निलिम्पानां निर्झरी, 'देवताओं की नदी' (षष्ठी तत्पुरुष); मोनियर-विलियम्स निलिम्प-निर्झरी को गंगा का नाम बताते हैं। इसकी अपनी विभक्ति नहीं है: यह उस समास का पहला भाग है जो 'कोटरे' (w3) पर समाप्त होता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nilimpanirjhari",
+          "mw-nilimpa",
+          "mw-nirjhari",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "निकुञ्ज",
+            "iast": "nikuñja"
+          },
+          {
+            "sa": "कोटरे",
+            "iast": "koṭare"
+          }
+        ],
+        "components": [
+          {
+            "sa": "निकुञ्ज",
+            "iast": "nikuñja",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निकुञ्ज",
+              "iast": "nikuñja"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ni-kuñja",
+              "gloss": "an arbour, a bower, thicket"
+            },
+            "meaning": {
+              "en": "bower, thicket",
+              "hi": "कुंज, झाड़ी"
+            }
+          },
+          {
+            "sa": "कोटर",
+            "iast": "koṭara",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कोटर",
+              "iast": "koṭara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "koṭara",
+              "gloss": "the hollow of a tree; cave, cavity"
+            },
+            "meaning": {
+              "en": "hollow, nook",
+              "hi": "कोटर, खोखला स्थान"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "in a sheltered hollow among the bowers",
+          "hi": "कुंजों के बीच किसी ओट वाली कुटी में"
+        },
+        "literal": {
+          "en": "in the hollow of the bower",
+          "hi": "कुंज के कोटर में"
+        },
+        "notes": {
+          "en": "koṭare is the locative singular, and it closes the whole compound w2–w3. vyakhya.org glosses koṭara as a dwelling, a leaf hut (parṇaśālā); shlokam.org and sanskritdocuments.org keep 'hollow place'.",
+          "hi": "कोटरे सप्तमी एकवचन है और पूरे समास w2–w3 को समाप्त करता है। vyakhya.org कोटर का अर्थ घर, पर्णशाला देता है; shlokam.org और sanskritdocuments.org 'खोखला स्थान' रखते हैं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "in a leaf hut in the grove",
+              "hi": "उपवन की पर्णकुटी में"
+            },
+            "note": "vyakhya-sts-13 glosses निकुंज as उपवन and कोटरे as गृह में, पर्णशाला."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-nikunja",
+          "mw-kotara",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "वसन्",
+            "iast": "vasan"
+          }
+        ],
+        "components": [
+          {
+            "sa": "वसत्",
+            "iast": "vasat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वस्",
+              "iast": "vas",
+              "gana": 1,
+              "gloss": {
+                "en": "to dwell, to live",
+                "hi": "रहना, निवास करना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vas",
+              "gloss": "to dwell, live, stop (at a place), stay"
+            },
+            "meaning": {
+              "en": "living, dwelling",
+              "hi": "रहता हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "living",
+          "hi": "रहते हुए"
+        },
+        "notes": {
+          "en": "Nominative masculine singular of vasat, from √vas 'to dwell' (class 1, not the √vas 'to wear' of class 2). Like vahan and uccaran it describes the speaker, aham (w15).",
+          "hi": "वसत् का प्रथमा पुंलिंग एकवचन, √वस् 'रहना' (भ्वादि) से, 'पहनना' अर्थ वाले अदादि √वस् से नहीं। वहन् और उच्चरन् की तरह यह वक्ता 'अहम्' (w15) का वर्णन करता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-vas",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w5": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "विमुक्त",
+            "iast": "vimukta"
+          },
+          {
+            "sa": "दुर्मतिः",
+            "iast": "durmatiḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "rutva",
+            "rule": "s + m → r + m",
+            "explanation": {
+              "en": "The prefix dus ends in s, which becomes r before the voiced m of mati: dus + mati → durmati.",
+              "hi": "उपसर्ग 'दुस्' का अन्तिम 'स्' आगे के घोष 'म' (मति) के कारण 'र्' बन जाता है: दुस् + मति → दुर्मति।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "विमुक्त",
+            "iast": "vimukta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मुच्",
+              "iast": "muc",
+              "gana": 6,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to release, to let go",
+                "hi": "छोड़ना, मुक्त करना"
+              }
+            },
+            "formation": "vi + √muc + kta (past passive participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-mukta",
+              "gloss": "given up, abandoned, relinquished"
+            },
+            "meaning": {
+              "en": "let go, given up",
+              "hi": "छोड़ी हुई"
+            }
+          },
+          {
+            "sa": "दुर्मति",
+            "iast": "durmati",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मन्",
+              "iast": "man",
+              "gana": 4,
+              "prefixes": [
+                "dus"
+              ],
+              "gloss": {
+                "en": "to think",
+                "hi": "सोचना"
+              }
+            },
+            "formation": "dus + mati (√man + ktin)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dur-mati",
+              "gloss": "bad disposition of mind, envy, hatred"
+            },
+            "meaning": {
+              "en": "evil thinking, ill will",
+              "hi": "दुर्बुद्धि, बुरे विचार"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "rid of evil thoughts",
+          "hi": "दुर्बुद्धि से मुक्त"
+        },
+        "literal": {
+          "en": "by whom bad thinking has been let go",
+          "hi": "जिसने दुर्बुद्धि छोड़ दी है"
+        },
+        "notes": {
+          "en": "A bahuvrīhi in the nominative, describing the speaker. vyakhya.org reads it as a hope still to be fulfilled: 'when shall I be free of my bad thinking?'",
+          "hi": "प्रथमा में बहुव्रीहि, जो वक्ता का वर्णन करता है। vyakhya.org इसे एक अधूरी आशा की तरह पढ़ता है: 'मैं कब दुर्बुद्धि से मुक्त हो पाऊँगा?'"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-vimukta",
+          "mw-durmati",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "सदा",
+            "iast": "sadā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सदा",
+            "iast": "sadā",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "sadā",
+              "gloss": "always, ever, every time, continually"
+            },
+            "meaning": {
+              "en": "always",
+              "hi": "सदा, हमेशा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "ever, always",
+          "hi": "सदा"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-sada",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w7": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "शिरःस्थम्",
+            "iast": "śiraḥstham"
+          },
+          {
+            "sa": "अञ्जलिम्",
+            "iast": "añjalim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "s + s → ḥ + s",
+            "explanation": {
+              "en": "The final s of śiras is written as visarga before the s of stha: śiras + stha → śiraḥstha. shlokam.org writes śirastha, dropping the visarga.",
+              "hi": "शिरस् का अन्तिम 'स्' आगे के 'स्थ' से पहले विसर्ग बन जाता है: शिरस् + स्थ → शिरःस्थ। shlokam.org विसर्ग छोड़कर 'शिरस्थ' लिखता है।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m of añjalim is written as anusvāra before the v of the next word (vahan): añjalim → añjaliṃ. Before the vowel a of añjalim, the m of śiraḥstham simply joins it.",
+              "hi": "अगले शब्द (वहन्) के 'व' से पहले अञ्जलिम् का अन्तिम 'म्' अनुस्वार बन जाता है: अञ्जलिम् → अञ्जलिं। 'शिरःस्थम्' का 'म्' आगे के स्वर 'अ' से बस जुड़ जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिरस्",
+            "iast": "śiras",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिरस्",
+              "iast": "śiras"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiras",
+              "gloss": "the head, skull"
+            },
+            "meaning": {
+              "en": "head",
+              "hi": "सिर"
+            }
+          },
+          {
+            "sa": "स्थ",
+            "iast": "stha",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्था",
+              "iast": "sthā",
+              "gana": 1,
+              "gloss": {
+                "en": "to stand, to stay",
+                "hi": "ठहरना, स्थित होना"
+              }
+            },
+            "formation": "śiras + √sthā + ka (upapada)",
+            "sense": {
+              "dict": "mw",
+              "headword": "stha",
+              "gloss": "standing, staying, abiding, being situated in"
+            },
+            "meaning": {
+              "en": "placed on",
+              "hi": "स्थित, रखा हुआ"
+            }
+          },
+          {
+            "sa": "अञ्जलि",
+            "iast": "añjali",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अञ्जलि",
+              "iast": "añjali"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "añjali",
+              "gloss": "the open hands placed side by side and slightly hollowed"
+            },
+            "meaning": {
+              "en": "joined, cupped palms (a gesture of reverence)",
+              "hi": "अंजलि, जुड़ी हुई हथेलियाँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the joined palms resting on the head",
+          "hi": "सिर पर रखी अंजलि"
+        },
+        "notes": {
+          "en": "One display word holding two padas: śiraḥstham (an upapada compound, 'resting on the head') qualifies añjalim, the object of vahan (w8). Both are masculine accusative singular.",
+          "hi": "एक प्रदर्शित शब्द में दो पद: शिरःस्थम् (उपपद समास, 'सिर पर स्थित') अञ्जलिम् का विशेषण है, जो 'वहन्' (w8) का कर्म है। दोनों पुंलिंग द्वितीया एकवचन हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shirahstha",
+          "mw-shiras",
+          "mw-stha",
+          "mw-anjali",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "वहन्",
+            "iast": "vahan"
+          }
+        ],
+        "components": [
+          {
+            "sa": "वहत्",
+            "iast": "vahat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वह्",
+              "iast": "vah",
+              "gana": 1,
+              "gloss": {
+                "en": "to carry, to bear",
+                "hi": "ढोना, धारण करना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vah",
+              "gloss": "to bear or carry on or with"
+            },
+            "meaning": {
+              "en": "carrying, holding",
+              "hi": "धारण करता हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "holding",
+          "hi": "धारण किए हुए"
+        },
+        "notes": {
+          "en": "Nominative masculine singular of vahat, from √vah 'to carry'. Its object is añjalim (w7). MW's separate entry vahat (a vessel) is unrelated.",
+          "hi": "वहत् का प्रथमा पुंलिंग एकवचन, √वह् 'ढोना' से। इसका कर्म अञ्जलिम् (w7) है। मोनियर-विलियम्स की अलग प्रविष्टि 'वहत्' (नौका) का इससे सम्बन्ध नहीं।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-vah",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w9": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "विलोल",
+            "iast": "vilola"
+          },
+          {
+            "sa": "लोल",
+            "iast": "lola"
+          },
+          {
+            "sa": "लोचनः",
+            "iast": "locanaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "utva",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before the voiced l of the next word (lalāma): vilolalolalocanaḥ + lalāma… → vilolalolalocano lalāma….",
+              "hi": "अगले शब्द (ललाम) के घोष 'ल' से पहले अन्तिम '-अः' '-ओ' बन जाता है: विलोललोललोचनः + ललाम… → विलोललोललोचनो ललाम…।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "विलोल",
+            "iast": "vilola",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "लुल्",
+              "iast": "lul",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to move to and fro",
+                "hi": "इधर-उधर हिलना"
+              }
+            },
+            "formation": "vi + lola (from √lul)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-lola",
+              "gloss": "moving to and fro, rolling, waving, tremulous, unsteady"
+            },
+            "meaning": {
+              "en": "rolling, unsteady",
+              "hi": "डोलता, अस्थिर"
+            }
+          },
+          {
+            "sa": "लोल",
+            "iast": "lola",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "लुल्",
+              "iast": "lul",
+              "gana": 1,
+              "gloss": {
+                "en": "to roll about",
+                "hi": "लोटना, हिलना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "lola",
+              "gloss": "moving hither and thither, restless; desirous, greedy"
+            },
+            "meaning": {
+              "en": "restless, eager",
+              "hi": "चंचल, लोलुप"
+            }
+          },
+          {
+            "sa": "लोचन",
+            "iast": "locana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "लोच्",
+              "iast": "loc",
+              "gana": 1,
+              "gloss": {
+                "en": "to see",
+                "hi": "देखना"
+              }
+            },
+            "formation": "√loc + lyuṭ (instrument noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "locana",
+              "gloss": "the eye"
+            },
+            "meaning": {
+              "en": "eye",
+              "hi": "नेत्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "with restless, roving eyes",
+          "hi": "चंचल नेत्रों वाला"
+        },
+        "literal": {
+          "en": "whose eyes are rolling and restless",
+          "hi": "जिसके नेत्र डोलते और चंचल हैं"
+        },
+        "notes": {
+          "en": "A bahuvrīhi describing the speaker. vyakhya.org takes it as a confession: 'my eyes are very restless', the eyes that still wander after the world. lola can also mean 'greedy, longing', which vyakhya.org catches with चंचल-लोलुप.",
+          "hi": "वक्ता का वर्णन करने वाला बहुव्रीहि। vyakhya.org इसे एक स्वीकारोक्ति मानता है: 'मेरे नेत्र बड़े चंचल हैं', जो अभी भी संसार की ओर भटकते हैं। 'लोल' का अर्थ 'लालची, ललचाया हुआ' भी है, जिसे vyakhya.org 'चंचल-लोलुप' कहकर पकड़ता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "having released (attachment to) women with darting eyes",
+              "hi": "चंचल नेत्रों वाली स्त्रियों (के आकर्षण) को छोड़कर"
+            },
+            "note": "Follows the variant vimukta-lola-locanā… in sa-wikisource-shivatandava (and in parentheses in sanskritdocuments-shivtand); shlokam-shiva-tandava's translation also takes the line this way. See note a3."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vilola",
+          "mw-lola",
+          "mw-locana",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w10": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "ललाम",
+            "iast": "lalāma"
+          },
+          {
+            "sa": "भाल",
+            "iast": "bhāla"
+          },
+          {
+            "sa": "लग्नकः",
+            "iast": "lagnakaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "ललाम",
+            "iast": "lalāma",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ललाम",
+              "iast": "lalāma"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "lalāma",
+              "gloss": "ornament, decoration; a sectarial mark"
+            },
+            "meaning": {
+              "en": "mark, ornament (here a devotee's forehead mark)",
+              "hi": "चिह्न, आभूषण (यहाँ तिलक)"
+            }
+          },
+          {
+            "sa": "भाल",
+            "iast": "bhāla",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भाल",
+              "iast": "bhāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhāla",
+              "gloss": "the forehead, brow"
+            },
+            "meaning": {
+              "en": "forehead",
+              "hi": "माथा"
+            }
+          },
+          {
+            "sa": "लग्नक",
+            "iast": "lagnaka",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "लग्",
+              "iast": "lag",
+              "gana": 1,
+              "gloss": {
+                "en": "to stick, to adhere",
+                "hi": "लगना, चिपकना"
+              }
+            },
+            "formation": "√lag + kta (lagna) + ka (bahuvrīhi suffix)",
+            "sense": {
+              "dict": "mw",
+              "headword": "lagna",
+              "gloss": "adhered, adhering or clinging to, attached to, fixed on"
+            },
+            "meaning": {
+              "en": "fixed, set on",
+              "hi": "लगा हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "with a sacred mark set on the brow",
+          "hi": "माथे पर शुभ तिलक लगाए"
+        },
+        "literal": {
+          "en": "one on whose forehead an ornament is fixed",
+          "hi": "जिसके भाल पर आभूषण लगा है"
+        },
+        "notes": {
+          "en": "MW's only entry for lagnaka is 'a surety', which does not fit; the word is lagna 'fixed' with the -ka that may close a bahuvrīhi. vyakhya.org glosses it as तिलकांकित, marked with a tilaka, and in its व्याख्या names the tripuṇḍra. shlokam.org writes phāla where the others have bhāla, apparently a variant spelling of the same word.",
+          "hi": "मोनियर-विलियम्स में 'लग्नक' का एकमात्र अर्थ 'जमानतदार' है, जो यहाँ नहीं बैठता; शब्द 'लग्न' (लगा हुआ) है, साथ में बहुव्रीहि के अन्त में आने वाला '-क'। vyakhya.org इसका अर्थ 'तिलकांकित' देता है और व्याख्या में त्रिपुण्ड्र का नाम लेता है। जहाँ अन्य पाठ 'भाल' देते हैं, वहाँ shlokam.org 'फाल' लिखता है, जो सम्भवतः उसी शब्द की दूसरी वर्तनी है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "devoted to (Śiva) of the glorious forehead",
+              "hi": "सुन्दर ललाट वाले (शिव) में अनुरक्त"
+            },
+            "note": "sanskritdocuments-shivtand-meaning glosses 'the best-forehead-interested' and translates 'devoted in the God with glorious forehead', taking lalāma as 'best, beautiful' and lagnaka as attached to Śiva."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-lalama",
+          "mw-bhala",
+          "mw-lagna",
+          "mw-lagnaka",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          {
+            "sa": "इति",
+            "iast": "iti"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + i → e",
+            "explanation": {
+              "en": "Final a of śiva and initial i of iti merge into e: śiva + iti → śiveti.",
+              "hi": "शिव का अन्तिम 'अ' और इति का आरम्भिक 'इ' मिलकर 'ए' बन जाते हैं: शिव + इति → शिवेति।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiva",
+              "gloss": "auspicious, propitious, gracious"
+            },
+            "meaning": {
+              "en": "Śiva, the auspicious one",
+              "hi": "शिव, मंगलमय"
+            }
+          },
+          {
+            "sa": "इति",
+            "iast": "iti",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "iti",
+              "gloss": "in this manner, thus"
+            },
+            "meaning": {
+              "en": "thus (marks a quotation)",
+              "hi": "ऐसा (उद्धरण-सूचक)"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "“Śiva” (as the words of the mantra)",
+          "hi": "'शिव' ऐसा"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "śiva is a quoted address, the vocative 'O Śiva'; iti closes the quotation and tells us these are the words of the mantra (w12). The name comes from the adjective śiva 'auspicious, kindly'.",
+          "hi": "शिव यहाँ उद्धृत सम्बोधन है, 'हे शिव'; इति उद्धरण बन्द करता है और बताता है कि यही मन्त्र (w12) के शब्द हैं। यह नाम विशेषण 'शिव' (मंगलमय, कृपालु) से बना है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shiva",
+          "mw-iti",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w12": {
+        "padaccheda": [
+          {
+            "sa": "मन्त्रम्",
+            "iast": "mantram"
+          },
+          {
+            "sa": "उच्चरन्",
+            "iast": "uccaran"
+          }
+        ],
+        "components": [
+          {
+            "sa": "मन्त्र",
+            "iast": "mantra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मन्त्र",
+              "iast": "mantra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mantra",
+              "gloss": "a sacred formula addressed to any individual deity"
+            },
+            "meaning": {
+              "en": "mantra, sacred formula",
+              "hi": "मन्त्र"
+            }
+          },
+          {
+            "sa": "उच्चरत्",
+            "iast": "uccarat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "चर्",
+              "iast": "car",
+              "gana": 1,
+              "prefixes": [
+                "ud"
+              ],
+              "gloss": {
+                "en": "to utter, to pronounce",
+                "hi": "उच्चारण करना"
+              }
+            },
+            "formation": "ud + √car + śatṛ (present active participle); ud + c → ucc",
+            "sense": {
+              "dict": "mw",
+              "headword": "uc-car",
+              "gloss": "to emit (sounds), utter, pronounce"
+            },
+            "meaning": {
+              "en": "uttering, chanting",
+              "hi": "उच्चारण करता हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "chanting the mantra",
+          "hi": "मन्त्र जपते हुए"
+        },
+        "notes": {
+          "en": "Two padas in one display word: mantram (accusative, the object) and uccaran (nominative participle, describing the speaker). Before the vowel u the final m of mantram stays m and is written joined. With the prefix ud, √car 'to move' means 'to send forth', hence to utter a sound.",
+          "hi": "एक प्रदर्शित शब्द में दो पद: मन्त्रम् (द्वितीया, कर्म) और उच्चरन् (प्रथमा कृदन्त, वक्ता का वर्णन)। स्वर 'उ' से पहले मन्त्रम् का 'म्' 'म्' ही रहता है और जुड़कर लिखा जाता है। 'उद्' उपसर्ग के साथ √चर् (चलना) का अर्थ 'बाहर भेजना', अर्थात् ध्वनि का उच्चारण करना हो जाता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-mantra",
+          "mw-uccar",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w13": {
+        "padaccheda": [
+          {
+            "sa": "कदा",
+            "iast": "kadā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कदा",
+            "iast": "kadā",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "kadā",
+              "gloss": "when? at what time?"
+            },
+            "meaning": {
+              "en": "when?",
+              "hi": "कब?"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "when?",
+          "hi": "कब?"
+        },
+        "notes": {
+          "en": "The opening kadā (w1) repeated just before the verb, pressing the question.",
+          "hi": "आरम्भ का कदा (w1) क्रिया से ठीक पहले दोहराया गया, प्रश्न पर ज़ोर देने के लिए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kada",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w14": {
+        "padaccheda": [
+          {
+            "sa": "सुखी",
+            "iast": "sukhī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सुखिन्",
+            "iast": "sukhin",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सुखिन्",
+              "iast": "sukhin"
+            },
+            "formation": "sukha + in (possessive)",
+            "sense": {
+              "dict": "mw",
+              "headword": "sukhin",
+              "gloss": "happy, joyful"
+            },
+            "meaning": {
+              "en": "happy",
+              "hi": "सुखी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "happy",
+          "hi": "सुखी"
+        },
+        "notes": {
+          "en": "Nominative masculine singular of sukhin, 'one who has happiness'; with bhavāmi it says what the speaker will become.",
+          "hi": "सुखिन् (सुख वाला) का प्रथमा पुंलिंग एकवचन; 'भवामि' के साथ यह बताता है कि वक्ता क्या बनेगा।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-sukhin",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w15": {
+        "padaccheda": [
+          {
+            "sa": "भवामि",
+            "iast": "bhavāmi"
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "yaṇ",
+            "rule": "i + a → ya",
+            "explanation": {
+              "en": "Final i of bhavāmi becomes y before the vowel a of aham: bhavāmi + aham → bhavāmyaham.",
+              "hi": "भवामि का अन्तिम 'इ' आगे के स्वर 'अ' (अहम्) से पहले 'य्' बन जाता है: भवामि + अहम् → भवाम्यहम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भवामि",
+            "iast": "bhavāmi",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "gloss": {
+                "en": "to be, to become",
+                "hi": "होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhū",
+              "gloss": "to become, be"
+            },
+            "meaning": {
+              "en": "I become, I shall be",
+              "hi": "होऊँगा"
+            }
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aham",
+              "gloss": "nom. sg., ‘I’"
+            },
+            "meaning": {
+              "en": "I",
+              "hi": "मैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "shall I be",
+          "hi": "मैं होऊँगा"
+        },
+        "literal": {
+          "en": "I become",
+          "hi": "मैं होता हूँ"
+        },
+        "notes": {
+          "en": "bhavāmi is present tense (laṭ), first person singular, but after kadā it points to the future (see note a4). aham is the subject that every nominative in the verse describes.",
+          "hi": "भवामि वर्तमान काल (लट्), उत्तम पुरुष एकवचन है, पर 'कदा' के बाद भविष्य का अर्थ देता है (देखें टिप्पणी a4)। अहम् वह कर्ता है जिसका वर्णन श्लोक के सभी प्रथमा पद करते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhu",
+          "mw-aham",
+          "mw-kada",
+          "vyakhya-sts-13",
+          "shlokam-shiva-tandava"
+        ]
+      }
+    }
+  }
+}

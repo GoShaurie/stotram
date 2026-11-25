@@ -1,0 +1,1266 @@
+{
+  "id": "v10",
+  "number": 10,
+  "kind": "verse",
+  "meter": "vasantatilaka",
+  "concepts": [
+    "pashupati",
+    "srishti-sthiti-laya",
+    "gaja-charma",
+    "kashipati",
+    "karuna"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "शम्भो",
+          "iast": "śambho"
+        },
+        {
+          "id": "w2",
+          "text": "महेश",
+          "iast": "maheśa"
+        },
+        {
+          "id": "w3",
+          "text": "करुणामय",
+          "iast": "karuṇāmaya"
+        },
+        {
+          "id": "w4",
+          "text": "शूलपाणे",
+          "iast": "śūlapāṇe"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "गौरीपते",
+          "iast": "gaurīpate"
+        },
+        {
+          "id": "w6",
+          "text": "पशुपते",
+          "iast": "paśupate"
+        },
+        {
+          "id": "w7",
+          "text": "पशुपाशनाशिन्",
+          "iast": "paśupāśanāśin"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "काशीपते",
+          "iast": "kāśīpate"
+        },
+        {
+          "id": "w9",
+          "text": "करुणया",
+          "iast": "karuṇayā"
+        },
+        {
+          "id": "w10",
+          "text": "जगदेतदेक",
+          "iast": "jagadetadeka"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w11",
+          "text": "स्त्वं",
+          "iast": "stvaṃ"
+        },
+        {
+          "id": "w12",
+          "text": "हंसि",
+          "iast": "haṃsi"
+        },
+        {
+          "id": "w13",
+          "text": "पासि",
+          "iast": "pāsi"
+        },
+        {
+          "id": "w14",
+          "text": "विदधासि",
+          "iast": "vidadhāsi"
+        },
+        {
+          "id": "w15",
+          "text": "महेश्वरोऽसि",
+          "iast": "maheśvaro'si"
+        }
+      ],
+      "end": "॥ १० ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w2"],
+      "iast": "mahā-īśa",
+      "type": "karmadhāraya",
+      "vigraha": "महान् ईशः",
+      "meaning": {
+        "en": "the great Lord",
+        "hi": "महान् ईश्वर"
+      },
+      "note": {
+        "en": "mahat 'great' takes the form mahā- at the start of a compound and merges with īśa 'lord': mahā + īśa → maheśa.",
+        "hi": "समास के आरम्भ में महत् 'महान्' का रूप महा- होता है, जो ईश 'स्वामी' से मिलकर महेश बनता है: महा + ईश → महेश।"
+      }
+    },
+    "c2": {
+      "members": ["w4"],
+      "iast": "śūla-pāṇe",
+      "type": "bahuvrīhi",
+      "subtype": "vyadhikaraṇa",
+      "vigraha": "शूलं पाणौ यस्य सः",
+      "meaning": {
+        "en": "O You who hold the trident in Your hand",
+        "hi": "हे हाथ में त्रिशूल धारण करने वाले"
+      },
+      "note": {
+        "en": "'He in whose hand is the trident': the two members are in different relations (śūla is the thing held, pāṇi the place), and the whole names Śiva. Called out here as a name.",
+        "hi": "'जिसके हाथ में त्रिशूल है': शूल वस्तु है और पाणि उसका स्थान; पूरा समास शिव का नाम है, जो यहाँ सम्बोधन में आया है।"
+      }
+    },
+    "c3": {
+      "members": ["w5"],
+      "iast": "gaurī-pate",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "गौर्याः पतिः",
+      "meaning": {
+        "en": "O husband of Gaurī",
+        "hi": "हे गौरी के पति"
+      },
+      "note": {
+        "en": "gaurī 'the shining goddess', Pārvatī, + pati 'husband, lord'.",
+        "hi": "गौरी 'उज्ज्वल देवी', पार्वती, + पति 'पति, स्वामी'।"
+      }
+    },
+    "c4": {
+      "members": ["w6"],
+      "iast": "paśu-pate",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "पशूनां पतिः",
+      "meaning": {
+        "en": "O Lord of all beings",
+        "hi": "हे सब जीवों के स्वामी"
+      },
+      "note": {
+        "en": "paśu 'a tethered creature, a bound soul' + pati 'lord'. The name opened the hymn in verse 1.",
+        "hi": "पशु 'बँधा हुआ प्राणी, बद्ध जीव' + पति 'स्वामी'। स्तोत्र पहले श्लोक में इसी नाम से आरम्भ हुआ था।"
+      }
+    },
+    "c5": {
+      "members": ["w7"],
+      "iast": "paśu-pāśa-nāśin",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "structure": "((paśu-pāśa)-nāśin)",
+      "vigraha": "पशूनां पाशः पशुपाशः, पशुपाशानां नाशी",
+      "meaning": {
+        "en": "O destroyer of the ropes that bind all beings",
+        "hi": "हे जीवों के बन्धन नष्ट करने वाले"
+      },
+      "note": {
+        "en": "paśu-pāśa 'the cord of the bound one' is itself a compound; nāśin 'destroyer' (from the causative of √naś, 'to make vanish') takes it as its object.",
+        "hi": "पशु-पाश 'बँधे जीव की डोरी' स्वयं एक समास है; नाशिन् 'नष्ट करने वाला' (√नश् के प्रेरणार्थक 'मिटा देना' से) उसे अपना विषय बनाता है।"
+      }
+    },
+    "c6": {
+      "members": ["w8"],
+      "iast": "kāśī-pate",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "काश्याः पतिः",
+      "meaning": {
+        "en": "O Lord of Kāśī",
+        "hi": "हे काशी के स्वामी"
+      },
+      "note": {
+        "en": "kāśī, the city of Vārāṇasī (Benares), + pati 'lord'.",
+        "hi": "काशी, यानी वाराणसी नगरी, + पति 'स्वामी'।"
+      }
+    },
+    "c7": {
+      "members": ["w15"],
+      "iast": "mahā-īśvaraḥ",
+      "type": "karmadhāraya",
+      "vigraha": "महान् ईश्वरः",
+      "meaning": {
+        "en": "the great Lord",
+        "hi": "महान् ईश्वर"
+      },
+      "note": {
+        "en": "mahā- (from mahat 'great') + īśvara 'lord, ruler'. Only the first part of the display word; asi 'You are' follows it.",
+        "hi": "महा- (महत् 'महान्' से) + ईश्वर 'स्वामी, शासक'। यह प्रदर्शित शब्द का केवल पहला भाग है; उसके बाद असि 'आप हैं' आता है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1"],
+      "sa": "शम्भो",
+      "iast": "śambho",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "शम्भु", "iast": "śambhu"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p2",
+      "words": ["w2"],
+      "sa": "महेश",
+      "iast": "maheśa",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "महेश", "iast": "maheśa"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p3",
+      "words": ["w3"],
+      "sa": "करुणामय",
+      "iast": "karuṇāmaya",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "करुणामय", "iast": "karuṇāmaya"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p4",
+      "words": ["w4"],
+      "sa": "शूलपाणे",
+      "iast": "śūlapāṇe",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "शूलपाणि", "iast": "śūlapāṇi"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p5",
+      "words": ["w5"],
+      "sa": "गौरीपते",
+      "iast": "gaurīpate",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "गौरीपति", "iast": "gaurīpati"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p6",
+      "words": ["w6"],
+      "sa": "पशुपते",
+      "iast": "paśupate",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "पशुपति", "iast": "paśupati"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p7",
+      "words": ["w7"],
+      "sa": "पशुपाशनाशिन्",
+      "iast": "paśupāśanāśin",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "पशुपाशनाशिन्", "iast": "paśupāśanāśin"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p8",
+      "words": ["w8"],
+      "sa": "काशीपते",
+      "iast": "kāśīpate",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "काशीपति", "iast": "kāśīpati"},
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p9",
+      "words": ["w9"],
+      "sa": "करुणया",
+      "iast": "karuṇayā",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "करुणा", "iast": "karuṇā"},
+        "gender": "feminine",
+        "case": "instrumental",
+        "number": "singular"
+      },
+      "role": "karaṇa",
+      "head": "p14"
+    },
+    {
+      "id": "p10",
+      "words": ["w10"],
+      "sa": "जगत्",
+      "iast": "jagat",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "जगत्", "iast": "jagat"},
+        "gender": "neuter",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p14"
+    },
+    {
+      "id": "p11",
+      "words": ["w10"],
+      "sa": "एतत्",
+      "iast": "etat",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "एतद्", "iast": "etad"},
+        "gender": "neuter",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p10"
+    },
+    {
+      "id": "p12",
+      "words": ["w10"],
+      "sa": "एकः",
+      "iast": "ekaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "एक", "iast": "eka"},
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p13"
+    },
+    {
+      "id": "p13",
+      "words": ["w11"],
+      "sa": "त्वम्",
+      "iast": "tvam",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "युष्मद्", "iast": "yuṣmad"},
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p14"
+    },
+    {
+      "id": "p14",
+      "words": ["w12"],
+      "sa": "हंसि",
+      "iast": "haṃsi",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {"sa": "हन्", "iast": "han", "gana": 2},
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 2,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p15",
+      "words": ["w13"],
+      "sa": "पासि",
+      "iast": "pāsi",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {"sa": "पा", "iast": "pā", "gana": 2},
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 2,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p16",
+      "words": ["w14"],
+      "sa": "विदधासि",
+      "iast": "vidadhāsi",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {"sa": "धा", "iast": "dhā", "gana": 3},
+        "prefixes": ["vi"],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 2,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p17",
+      "words": ["w15"],
+      "sa": "महेश्वरः",
+      "iast": "maheśvaraḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {"sa": "महेश्वर", "iast": "maheśvara"},
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p13"
+    },
+    {
+      "id": "p18",
+      "words": ["w15"],
+      "sa": "असि",
+      "iast": "asi",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {"sa": "अस्", "iast": "as", "gana": 2},
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 2,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": ["p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8", "p12", "p13", "p9", "p11", "p10", "p14", "p15", "p16", "p17", "p18"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {"refs": ["w1"], "text": "O Śambhu,"},
+          {"refs": ["w2"], "text": "great Lord,"},
+          {"refs": ["w3"], "text": "full of compassion,"},
+          {"refs": ["w4"], "text": "trident in hand,"}
+        ],
+        [
+          {"refs": ["w5"], "text": "husband of Gaurī,"},
+          {"refs": ["w6"], "text": "Lord of all beings,"},
+          {"refs": ["w7"], "text": "destroyer of the ropes that bind them,"}
+        ],
+        [
+          {"refs": ["w8"], "text": "Lord of Kāśī!"},
+          {"refs": ["w9"], "text": "Out of compassion,"},
+          {"refs": ["w10"], "text": "this world"}
+        ],
+        [
+          {"refs": ["w11"], "text": "You"},
+          {"refs": ["w10"], "text": "alone"},
+          {"refs": ["w12"], "text": "destroy,"},
+          {"refs": ["w13"], "text": "protect"},
+          {"refs": ["w14"], "text": "and create;"},
+          {"refs": ["w15"], "text": "You are Maheśvara, the great Lord."}
+        ]
+      ],
+      "bhavartha": "The poet calls on Śiva by eight names: Śambhu, the great Lord, the one full of compassion, the one with the trident in His hand, the husband of Gaurī, the Lord of all beings who destroys the ropes that bind them, the Lord of Kāśī. Then he says what this Lord does: out of compassion He alone destroys, protects and creates this world. He is Maheśvara, the great Lord."
+    },
+    "hi": {
+      "lines": [
+        [
+          {"refs": ["w1"], "text": "हे शम्भो,"},
+          {"refs": ["w2"], "text": "हे महेश,"},
+          {"refs": ["w3"], "text": "हे करुणामय,"},
+          {"refs": ["w4"], "text": "हे हाथ में त्रिशूल धारण करने वाले,"}
+        ],
+        [
+          {"refs": ["w5"], "text": "हे गौरी के पति,"},
+          {"refs": ["w6"], "text": "हे सब जीवों के स्वामी,"},
+          {"refs": ["w7"], "text": "हे जीवों के बन्धन नष्ट करने वाले,"}
+        ],
+        [
+          {"refs": ["w8"], "text": "हे काशी के स्वामी!"},
+          {"refs": ["w9"], "text": "करुणा से"},
+          {"refs": ["w10"], "text": "इस जगत् का"}
+        ],
+        [
+          {"refs": ["w11"], "text": "आप"},
+          {"refs": ["w10"], "text": "अकेले ही"},
+          {"refs": ["w12"], "text": "संहार करते हैं,"},
+          {"refs": ["w13"], "text": "पालन करते हैं"},
+          {"refs": ["w14"], "text": "और सृजन करते हैं;"},
+          {"refs": ["w15"], "text": "आप महेश्वर हैं।"}
+        ]
+      ],
+      "bhavartha": "कवि शिव को आठ नामों से पुकारता है: शम्भु, महेश, करुणा से भरे, हाथ में त्रिशूल लिए, गौरी के पति, सब जीवों के स्वामी जो उनके बन्धन नष्ट करते हैं, और काशी के स्वामी। फिर वह बताता है कि यही प्रभु करुणा से अकेले इस जगत् का संहार, पालन और सृजन करते हैं। वही महेश्वर हैं।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w5"],
+      "kind": "context",
+      "body": {
+        "en": "Husband of Gaurī, then Lord of beings: the pairing is old. In the Rāmāyaṇa, when King Bhagīratha's year of penance is over, it is *umāpatiḥ paśupatī*, Umā's husband, the Lord of beings, who speaks to him and promises to hold the falling Gaṅgā on His head. The Mahānārāyaṇa Upaniṣad bows with the same two names side by side: *umāpataye paśupataye namo namaḥ*. Gaurī, 'the shining goddess', and Umā are both names of Pārvatī.",
+        "hi": "पहले गौरी के पति, फिर जीवों के स्वामी: यह जोड़ी पुरानी है। रामायण में जब राजा भगीरथ का एक वर्ष का तप पूरा होता है, तब *उमापतिः पशुपती*, यानी उमा के पति, जीवों के स्वामी, उनसे बोलते हैं और गिरती गंगा को अपने सिर पर धारण करने का वचन देते हैं। महानारायण उपनिषद् भी इन्हीं दो नामों को साथ रखकर नमन करता है: *उमापतये पशुपतये नमो नमः*। गौरी, 'उज्ज्वल देवी', और उमा, दोनों पार्वती के नाम हैं।"
+      },
+      "citations": [
+        {
+          "source": "ramayana-bala-1-43",
+          "locator": "Rāmāyaṇa 1.43.2 (vulgate; CE 1.42.2)",
+          "quote": "umāpatiḥ paśupatī rājānam idam abravīt"
+        },
+        {
+          "source": "ramayana-bala-1-43",
+          "locator": "Rāmāyaṇa 1.43.3 (vulgate; CE 1.42.3)",
+          "quote": "śirasā dhārayiṣyāmi śailarājasutām aham"
+        },
+        {
+          "source": "mahanarayana-upanishad-17-23",
+          "locator": "Mahānārāyaṇa Up. anuvāka 22",
+          "quote": "अम्बिकापतय उमापतये पशुपतये नमो नमः"
+        },
+        {
+          "source": "mw-gauri",
+          "locator": "MW gaurī, p. 370,1",
+          "quote": "‘brilliant Goddess’, Śiva's wife Pārvatī"
+        },
+        {
+          "source": "mw-uma",
+          "locator": "MW umā, p. 217,1",
+          "quote": "also called Pārvatī and Durgā"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a2",
+      "refs": ["w6", "w7"],
+      "kind": "theology",
+      "body": {
+        "en": "[Verse 1](#v1-a1) told how Śiva came to be Paśupati, Lord of the tethered. This line adds what He does with the tether. *Pāśa* is a rope or noose; the *paśu-pāśa* is the cord that holds every bound creature. The Liṅga Purāṇa passage that gives Him the name also calls Him *paśupāśa-vimocaka*, the one who loosens that cord. The hymn picks a stronger word, *nāśin*: He does not just untie the rope, He destroys it.",
+        "hi": "[पहले श्लोक](#v1-a1) में बताया गया कि शिव पशुपति, यानी बँधे हुए जीवों के स्वामी, कैसे बने। यह पंक्ति बताती है कि वे उस बन्धन का क्या करते हैं। *पाश* यानी रस्सी या फंदा; *पशु-पाश* वह डोरी है जो हर बँधे जीव को जकड़े रखती है। जिस लिङ्ग पुराण प्रसंग से उन्हें यह नाम मिला, वही उन्हें *पशुपाश-विमोचक* भी कहता है, यानी उस डोरी को खोलने वाले। स्तोत्र इससे कड़ा शब्द चुनता है, *नाशिन्*: वे रस्सी केवल खोलते नहीं, उसे नष्ट कर देते हैं।"
+      },
+      "citations": [
+        {
+          "source": "linga-purana-1-72",
+          "locator": "Liṅga Purāṇa 1.72.43",
+          "quote": "paśupāśavimocakaḥ"
+        },
+        {
+          "source": "mw-pasha",
+          "locator": "MW pāśa, p. 623,3",
+          "quote": "a snare, trap, noose, tie, bond, cord"
+        },
+        {
+          "source": "mw-pashupasha",
+          "locator": "MW paśu-pāśa, p. 611,3",
+          "quote": "the chains which fetter the individual soul"
+        },
+        {
+          "source": "mw-nashin",
+          "locator": "MW nāśin, p. 538,1",
+          "quote": "ifc. destroying, removing"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a3",
+      "refs": ["w8"],
+      "kind": "mythology",
+      "body": {
+        "en": "Why Lord of Kāśī (Vārāṇasī)? The Kūrma Purāṇa sets a story there. A demon took the shape of an elephant and came to kill the brahmins who worshipped at that spot each day. To guard them, the three-eyed Lord burst out of the liṅga, struck the demon down with His trident and made its hide His garment, the hide of [verse 1](#verse-1). So that liṅga is Kṛttivāseśvara, the Lord clothed in the hide.",
+        "hi": "काशी (वाराणसी) के स्वामी क्यों? कूर्म पुराण वहीं की एक कथा कहता है। एक दैत्य हाथी का रूप लेकर उन ब्राह्मणों को मारने आया जो उस स्थान पर रोज़ उपासना करते थे। उनकी रक्षा के लिए त्रिनेत्र महादेव लिङ्ग से प्रकट हुए, त्रिशूल से उस दैत्य को मार गिराया और उसकी खाल को अपना वस्त्र बना लिया, वही खाल जो [पहले श्लोक](#verse-1) में है। इसलिए वह लिङ्ग कृत्तिवासेश्वर कहलाता है, खाल ओढ़ने वाले ईश्वर।"
+      },
+      "citations": [
+        {
+          "source": "kurma-purana-1-30",
+          "locator": "Kūrma Purāṇa 1.30.12–13",
+          "quote": "etāni guhyaliṅgāni vārāṇasyāṃ dvijottamāḥ"
+        },
+        {
+          "source": "kurma-purana-1-30",
+          "locator": "Kūrma Purāṇa 1.30.16",
+          "quote": "asmin sthāne purā daityo hastī bhūtvā bhavāntikam"
+        },
+        {
+          "source": "kurma-purana-1-30",
+          "locator": "Kūrma Purāṇa 1.30.17",
+          "quote": "teṣāṃ liṅgānmahādevaḥ prādurāsīt trilocanaḥ"
+        },
+        {
+          "source": "kurma-purana-1-30",
+          "locator": "Kūrma Purāṇa 1.30.18",
+          "quote": "hatvā gajākṛtiṃ daityaṃ śūlenāvajñayā haraḥ"
+        },
+        {
+          "source": "mw-kashi",
+          "locator": "MW kāśī, p. 280,3",
+          "quote": "f. = kāśi, Benares q.v."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a4",
+      "refs": ["w9", "w10", "w11", "w12", "w13", "w14"],
+      "kind": "theology",
+      "body": {
+        "en": "Three verbs in a row: *haṃsi*, You destroy; *pāsi*, You protect; *vidadhāsi*, You create. [Verse 5](#v5-a3) traced these acts from the world's side; here they are said to Śiva directly, and in the present: You alone (*ekaḥ*) do this, now. Over all three stands one word, *karuṇayā*, out of compassion. Line one called Him *karuṇāmaya*, made of compassion; now that compassion is the reason for every act, the destroying included.",
+        "hi": "लगातार तीन क्रियाएँ: *हंसि*, आप संहार करते हैं; *पासि*, आप पालन करते हैं; *विदधासि*, आप रचते हैं। [पाँचवें श्लोक](#v5-a3) ने यही तीन काम जगत् की ओर से देखे थे; यहाँ वे सीधे शिव से कहे गए हैं, और वर्तमान में: आप अकेले (*एकः*) यह अभी कर रहे हैं। तीनों के ऊपर एक शब्द है, *करुणया*, करुणा से। पहली पंक्ति ने उन्हें *करुणामय*, करुणा से बना हुआ, कहा था; अब वही करुणा हर काम का कारण है, संहार का भी।"
+      },
+      "citations": [
+        {
+          "source": "mw-han",
+          "locator": "MW √han, p. 1287,2",
+          "quote": "to smite, slay, hit, kill, mar, destroy"
+        },
+        {
+          "source": "mw-pa",
+          "locator": "MW 3. √pā, p. 613,2",
+          "quote": "to watch, keep, preserve"
+        },
+        {
+          "source": "mw-vidha",
+          "locator": "MW vi-√dhā, p. 967,2",
+          "quote": "to form, create, build, establish, found"
+        },
+        {
+          "source": "mw-karunamaya",
+          "locator": "MW karuṇā-maya, p. 255,3",
+          "quote": "‘consisting of compassion’, compassionate"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "print: Stotraratnavali (Gita Press), p. 29, verse ॥ १० ॥, Hindi translation",
+          "quote": "एक तुम्हीं करुणावश इस जगत्की उत्पत्ति, पालन और संहार करते हो"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "padaccheda": [{"sa": "शम्भो", "iast": "śambho"}],
+      "components": [
+        {
+          "sa": "शम्",
+          "iast": "śam",
+          "pos": "indeclinable",
+          "meaning": {"en": "happiness", "hi": "कल्याण"}
+        },
+        {
+          "sa": "भु",
+          "iast": "bhu",
+          "pos": "noun",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "gloss": {"en": "to be, to come about", "hi": "होना"}
+          },
+          "meaning": {"en": "being", "hi": "होने वाला"}
+        }
+      ],
+      "meaning": {"en": "O Śambhu, giver of happiness, i.e. Śiva", "hi": "हे शम्भु, कल्याण देने वाले, अर्थात् शिव"},
+      "epithet": true,
+      "aside": {
+        "en": "With this verse the metre changes: after nine verses in bhujaṅgaprayāta, the lines now run to fourteen syllables, in vasantatilakā.",
+        "hi": "इस श्लोक से छन्द बदल जाता है: नौ श्लोक भुजङ्गप्रयात में चलने के बाद अब हर पंक्ति चौदह अक्षरों की है, वसन्ततिलका छन्द में।"
+      },
+      "notes": {
+        "en": "Vocative of śambhu, 'being for happiness, beneficent', a name of Śiva. The -o ending is the calling form of -u stems.",
+        "hi": "शम्भु 'कल्याणकारी' का सम्बोधन रूप, शिव का नाम। -उ वाले शब्दों का पुकारने वाला रूप -ओ में समाप्त होता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-shambhu", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        {"sa": "महा", "iast": "mahā"},
+        {"sa": "ईश", "iast": "īśa"}
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "ā + ī → e",
+          "explanation": {
+            "en": "The ā of mahā and the ī of īśa merge into e: mahā + īśa → maheśa.",
+            "hi": "महा का आ और ईश का ई मिलकर ए बन जाते हैं: महा + ईश → महेश।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "महा",
+          "iast": "mahā",
+          "pos": "adjective",
+          "root": {"kind": "pratipadika", "sa": "महत्", "iast": "mahat"},
+          "meaning": {"en": "great", "hi": "महान्"}
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "ईश", "iast": "īśa"},
+          "sense": {"dict": "mw", "headword": "īśa", "gloss": "a ruler, master, lord"},
+          "meaning": {"en": "lord", "hi": "स्वामी"}
+        }
+      ],
+      "meaning": {"en": "O great Lord, i.e. Śiva", "hi": "हे महान् स्वामी, अर्थात् शिव"},
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-mahesha", "mw-isha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w3": {
+      "padaccheda": [
+        {"sa": "करुणा", "iast": "karuṇā"},
+        {"sa": "मय", "iast": "maya"}
+      ],
+      "components": [
+        {
+          "sa": "करुणा",
+          "iast": "karuṇā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "pratipadika", "sa": "करुणा", "iast": "karuṇā"},
+          "sense": {"dict": "mw", "headword": "karuṇā", "gloss": "pity, compassion"},
+          "meaning": {"en": "compassion", "hi": "करुणा"}
+        },
+        {
+          "sa": "मय",
+          "iast": "maya",
+          "pos": "suffix",
+          "formation": "mayaṭ (made of, full of)",
+          "meaning": {"en": "made of", "hi": "से बना"}
+        }
+      ],
+      "meaning": {"en": "O You who are full of compassion, i.e. Śiva", "hi": "हे करुणा से भरे, अर्थात् शिव"},
+      "literal": {"en": "O one made of compassion", "hi": "हे करुणा से बने हुए"},
+      "epithet": true,
+      "notes": {
+        "en": "karuṇā + the ending -maya 'made of, full of'. Compassion comes back in line 3 as karuṇayā, 'out of compassion'.",
+        "hi": "करुणा + अन्त में -मय 'से बना, से भरा'। पंक्ति ३ में करुणा फिर आती है: करुणया, 'करुणा से'।"
+      },
+      "confidence": "high",
+      "sources": ["mw-karunamaya", "mw-karuna", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w4": {
+      "compound": "c2",
+      "padaccheda": [
+        {"sa": "शूल", "iast": "śūla"},
+        {"sa": "पाणे", "iast": "pāṇe"}
+      ],
+      "components": [
+        {
+          "sa": "शूल",
+          "iast": "śūla",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "शूल", "iast": "śūla"},
+          "sense": {"dict": "mw", "headword": "śūla", "gloss": "lance, pike, spear (esp. the trident of Śiva)"},
+          "meaning": {"en": "trident", "hi": "त्रिशूल"}
+        },
+        {
+          "sa": "पाणि",
+          "iast": "pāṇi",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "पाणि", "iast": "pāṇi"},
+          "sense": {"dict": "mw", "headword": "pāṇi", "gloss": "the hand"},
+          "meaning": {"en": "hand", "hi": "हाथ"}
+        }
+      ],
+      "meaning": {"en": "O You with the trident in Your hand, i.e. Śiva", "hi": "हे हाथ में त्रिशूल धारण करने वाले, अर्थात् शिव"},
+      "literal": {"en": "O trident-handed one", "hi": "हे शूलपाणि"},
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-shulapani", "mw-shula", "mw-pani", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w5": {
+      "compound": "c3",
+      "padaccheda": [
+        {"sa": "गौरी", "iast": "gaurī"},
+        {"sa": "पते", "iast": "pate"}
+      ],
+      "components": [
+        {
+          "sa": "गौरी",
+          "iast": "gaurī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "pratipadika", "sa": "गौरी", "iast": "gaurī"},
+          "sense": {"dict": "mw", "headword": "gaurī", "gloss": "‘brilliant Goddess’, Śiva's wife Pārvatī"},
+          "meaning": {"en": "Gaurī", "hi": "गौरी"}
+        },
+        {
+          "sa": "पति",
+          "iast": "pati",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "पति", "iast": "pati"},
+          "sense": {"dict": "mw", "headword": "pati", "gloss": "a husband"},
+          "meaning": {"en": "husband", "hi": "पति"}
+        }
+      ],
+      "meaning": {"en": "O husband of Gaurī (Pārvatī), i.e. Śiva", "hi": "हे गौरी (पार्वती) के पति, अर्थात् शिव"},
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-gauripati", "mw-gauri", "mw-pati", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w6": {
+      "compound": "c4",
+      "padaccheda": [
+        {"sa": "पशु", "iast": "paśu"},
+        {"sa": "पते", "iast": "pate"}
+      ],
+      "components": [
+        {
+          "sa": "पशु",
+          "iast": "paśu",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "पशु", "iast": "paśu"},
+          "sense": {"dict": "mw", "headword": "paśu", "gloss": "the individual soul as distinct from the divine Soul of the universe"},
+          "meaning": {"en": "beings", "hi": "जीव"}
+        },
+        {
+          "sa": "पति",
+          "iast": "pati",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "पति", "iast": "pati"},
+          "sense": {"dict": "mw", "headword": "pati", "gloss": "a master, owner, possessor, lord"},
+          "meaning": {"en": "lord", "hi": "स्वामी"}
+        }
+      ],
+      "meaning": {"en": "O Lord of all beings, i.e. Śiva", "hi": "हे सब जीवों के स्वामी, अर्थात् शिव"},
+      "literal": {"en": "O Lord of the tethered ones", "hi": "हे बँधे प्राणियों के स्वामी"},
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-pashupati", "mw-pashu", "linga-purana-1-72", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w7": {
+      "compound": "c5",
+      "padaccheda": [
+        {"sa": "पशु", "iast": "paśu"},
+        {"sa": "पाश", "iast": "pāśa"},
+        {"sa": "नाशिन्", "iast": "nāśin"}
+      ],
+      "components": [
+        {
+          "sa": "पशु",
+          "iast": "paśu",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "पशु", "iast": "paśu"},
+          "meaning": {"en": "beings", "hi": "जीव"}
+        },
+        {
+          "sa": "पाश",
+          "iast": "pāśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "पाश", "iast": "pāśa"},
+          "sense": {"dict": "mw", "headword": "pāśa", "gloss": "a snare, trap, noose, tie, bond, cord"},
+          "meaning": {"en": "rope", "hi": "बन्धन"}
+        },
+        {
+          "sa": "नाशिन्",
+          "iast": "nāśin",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नश्",
+            "iast": "naś",
+            "gana": 4,
+            "gloss": {"en": "to vanish; (causative) to destroy", "hi": "नष्ट होना; (प्रेरणार्थक) नष्ट करना"}
+          },
+          "formation": "causative of √naś + ṇini (one who does the act)",
+          "sense": {"dict": "mw", "headword": "nāśin", "gloss": "destroying, removing"},
+          "meaning": {"en": "destroyer", "hi": "नाशक"}
+        }
+      ],
+      "meaning": {"en": "O destroyer of the ropes that bind all beings, i.e. Śiva", "hi": "हे जीवों के बन्धन नष्ट करने वाले, अर्थात् शिव"},
+      "epithet": true,
+      "notes": {
+        "en": "Ends in -n because the calling form of a -in word drops nothing: nāśin stays nāśin. paśu-pāśa is the cord that holds the bound soul.",
+        "hi": "-इन् वाले शब्द का पुकारने वाला रूप वैसा ही रहता है: नाशिन्। पशु-पाश वह डोरी है जो बँधे जीव को बाँधे रखती है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pashupasha", "mw-pasha", "mw-nashin", "linga-purana-1-72", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w8": {
+      "compound": "c6",
+      "padaccheda": [
+        {"sa": "काशी", "iast": "kāśī"},
+        {"sa": "पते", "iast": "pate"}
+      ],
+      "components": [
+        {
+          "sa": "काशी",
+          "iast": "kāśī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "pratipadika", "sa": "काशी", "iast": "kāśī"},
+          "sense": {"dict": "mw", "headword": "kāśī", "gloss": "= kāśi, Benares"},
+          "meaning": {"en": "Kāśī", "hi": "काशी"}
+        },
+        {
+          "sa": "पति",
+          "iast": "pati",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "पति", "iast": "pati"},
+          "sense": {"dict": "mw", "headword": "pati", "gloss": "a master, owner, possessor, lord"},
+          "meaning": {"en": "lord", "hi": "स्वामी"}
+        }
+      ],
+      "meaning": {"en": "O Lord of Kāśī (Vārāṇasī), i.e. Śiva", "hi": "हे काशी (वाराणसी) के स्वामी, अर्थात् शिव"},
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-kashi", "mw-pati", "kurma-purana-1-30", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w9": {
+      "padaccheda": [{"sa": "करुणया", "iast": "karuṇayā"}],
+      "components": [
+        {
+          "sa": "करुणा",
+          "iast": "karuṇā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "pratipadika", "sa": "करुणा", "iast": "karuṇā"},
+          "sense": {"dict": "mw", "headword": "karuṇā", "gloss": "pity, compassion"},
+          "meaning": {"en": "compassion", "hi": "करुणा"}
+        }
+      ],
+      "meaning": {"en": "out of compassion", "hi": "करुणा से"},
+      "literal": {"en": "by compassion", "hi": "करुणा के द्वारा"},
+      "notes": {
+        "en": "The -ayā ending means 'by, out of': compassion is the reason for all three acts that follow.",
+        "hi": "-अया अन्त का अर्थ है 'से, के कारण': आगे के तीनों कामों का कारण करुणा है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-karuna", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w10": {
+      "padaccheda": [
+        {"sa": "जगत्", "iast": "jagat"},
+        {"sa": "एतत्", "iast": "etat"},
+        {"sa": "एकः", "iast": "ekaḥ"}
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + e → d + e",
+          "explanation": {
+            "en": "Final t becomes d before a vowel: jagat + etat → jagad etat, and etat + ekaḥ → etad ekaḥ.",
+            "hi": "स्वर से पहले अन्तिम त् द् बन जाता है: जगत् + एतत् → जगदेतत्, और एतत् + एकः → एतदेकः।"
+          }
+        },
+        {
+          "name": "visarga",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of ekaḥ becomes s before the t of tvam (next display word): ekaḥ + tvam → ekas tvam. The print carries that s over the line break, so the next line begins स्त्वं.",
+            "hi": "एकः का अन्तिम ः आगे के त (त्वम्) से पहले स् बन जाता है: एकः + त्वम् → एकस्त्वम्। छपे पाठ में यह स् अगली पंक्ति में चला जाता है, इसलिए वह स्त्वं से शुरू होती है।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "pratipadika", "sa": "जगत्", "iast": "jagat"},
+          "sense": {"dict": "mw", "headword": "jagat", "gloss": "the world, esp. this world, earth"},
+          "meaning": {"en": "world", "hi": "जगत्"}
+        },
+        {
+          "sa": "एतद्",
+          "iast": "etad",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "एतद्", "iast": "etad"},
+          "sense": {"dict": "mw", "headword": "etad", "gloss": "this, this here"},
+          "meaning": {"en": "this", "hi": "यह"}
+        },
+        {
+          "sa": "एक",
+          "iast": "eka",
+          "pos": "adjective",
+          "root": {"kind": "pratipadika", "sa": "एक", "iast": "eka"},
+          "sense": {"dict": "mw", "headword": "eka", "gloss": "alone, solitary, single"},
+          "meaning": {"en": "alone", "hi": "अकेले"}
+        }
+      ],
+      "meaning": {"en": "this world … (You) alone, i.e. Śiva", "hi": "इस जगत् का … (आप) अकेले, अर्थात् शिव"},
+      "notes": {
+        "en": "Three separate words run together by sandhi: jagat etat 'this world' is what is destroyed, kept and created; ekaḥ 'alone' goes with tvam 'You' on the next line. Not a compound.",
+        "hi": "सन्धि से जुड़े तीन अलग शब्द: जगत् एतत् 'यह जगत्' वह है जिसका संहार, पालन और सृजन होता है; एकः 'अकेले' अगली पंक्ति के त्वम् 'आप' के साथ जाता है। यह समास नहीं है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-jagat", "mw-etad", "mw-eka", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w11": {
+      "padaccheda": [{"sa": "त्वम्", "iast": "tvam"}],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the h of haṃsi (next display word): tvam → tvaṃ.",
+            "hi": "आगे के ह (हंसि) से पहले अन्तिम म् अनुस्वार (ं) बन जाता है: त्वम् → त्वं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "त्वम्",
+          "iast": "tvam",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "You", "hi": "आप"}
+        }
+      ],
+      "meaning": {"en": "You, i.e. Śiva", "hi": "आप, अर्थात् शिव"},
+      "notes": {
+        "en": "The स् at the start belongs to the previous word: it is the s of ekas (from ekaḥ). The word itself is tvam, 'you'.",
+        "hi": "आरम्भ का स् पिछले शब्द का है: यह एकस् (एकः से) का स् है। शब्द स्वयं त्वम् 'तुम/आप' है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-tvam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w12": {
+      "padaccheda": [{"sa": "हंसि", "iast": "haṃsi"}],
+      "components": [
+        {
+          "sa": "हंसि",
+          "iast": "haṃsi",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "हन्",
+            "iast": "han",
+            "gana": 2,
+            "gloss": {"en": "to strike, to destroy", "hi": "मारना, नष्ट करना"}
+          },
+          "formation": "present tense, 'you' (one person)",
+          "sense": {"dict": "mw", "headword": "han", "gloss": "to smite, slay, hit, kill, mar, destroy"},
+          "meaning": {"en": "destroy", "hi": "संहार करते हैं"}
+        }
+      ],
+      "meaning": {"en": "(You) destroy (this world)", "hi": "(आप इस जगत् का) संहार करते हैं"},
+      "confidence": "high",
+      "sources": ["mw-han", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w13": {
+      "padaccheda": [{"sa": "पासि", "iast": "pāsi"}],
+      "components": [
+        {
+          "sa": "पासि",
+          "iast": "pāsi",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "पा",
+            "iast": "pā",
+            "gana": 2,
+            "gloss": {"en": "to guard, to keep", "hi": "रक्षा करना"}
+          },
+          "formation": "present tense, 'you' (one person)",
+          "sense": {"dict": "mw", "headword": "pā", "gloss": "to watch, keep, preserve"},
+          "meaning": {"en": "protect", "hi": "पालन करते हैं"}
+        }
+      ],
+      "meaning": {"en": "(You) protect (this world)", "hi": "(आप इस जगत् का) पालन करते हैं"},
+      "notes": {
+        "en": "From pā 'to guard' (pāti), not the pā 'to drink' (pibati).",
+        "hi": "पा 'रक्षा करना' (पाति) से, पा 'पीना' (पिबति) से नहीं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pa", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w14": {
+      "padaccheda": [{"sa": "विदधासि", "iast": "vidadhāsi"}],
+      "components": [
+        {
+          "sa": "विदधासि",
+          "iast": "vidadhāsi",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "धा",
+            "iast": "dhā",
+            "gana": 3,
+            "prefixes": ["vi"],
+            "gloss": {"en": "to form, to create", "hi": "रचना, बनाना"}
+          },
+          "formation": "vi + √dhā, present tense, 'you' (one person)",
+          "sense": {"dict": "mw", "headword": "vi-dhā", "gloss": "to form, create, build, establish, found"},
+          "meaning": {"en": "create", "hi": "सृजन करते हैं"}
+        }
+      ],
+      "meaning": {"en": "(You) create (this world)", "hi": "(आप इस जगत् का) सृजन करते हैं"},
+      "notes": {
+        "en": "dhā 'to place' doubles itself in the present (dadhā-); with vi it means to arrange, to form, to create.",
+        "hi": "धा 'रखना' वर्तमान काल में दोहराकर दधा- बनता है; वि के साथ इसका अर्थ है व्यवस्थित करना, रचना, सृजन करना।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vidha", "mw-dha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w15": {
+      "compound": "c7",
+      "padaccheda": [
+        {"sa": "महेश्वरः", "iast": "maheśvaraḥ"},
+        {"sa": "असि", "iast": "asi"}
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "ā + ī → e",
+          "explanation": {
+            "en": "mahā + īśvara → maheśvara.",
+            "hi": "महा + ईश्वर → महेश्वर।"
+          }
+        },
+        {
+          "name": "visarga",
+          "rule": "aḥ + a → o + ऽ",
+          "explanation": {
+            "en": "The -aḥ of maheśvaraḥ becomes -o before the a of asi, and that a drops out, marked by ऽ: maheśvaraḥ + asi → maheśvaro'si.",
+            "hi": "महेश्वरः का -अः आगे के अ (असि) से पहले -ओ बन जाता है, और वह अ लुप्त हो जाता है, जिसे ऽ से दिखाते हैं: महेश्वरः + असि → महेश्वरोऽसि।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "महा",
+          "iast": "mahā",
+          "pos": "adjective",
+          "root": {"kind": "pratipadika", "sa": "महत्", "iast": "mahat"},
+          "meaning": {"en": "great", "hi": "महान्"}
+        },
+        {
+          "sa": "ईश्वर",
+          "iast": "īśvara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "pratipadika", "sa": "ईश्वर", "iast": "īśvara"},
+          "sense": {"dict": "mw", "headword": "īśvara", "gloss": "master, lord, prince, king"},
+          "meaning": {"en": "lord", "hi": "ईश्वर"}
+        },
+        {
+          "sa": "असि",
+          "iast": "asi",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "अस्",
+            "iast": "as",
+            "gana": 2,
+            "gloss": {"en": "to be", "hi": "होना"}
+          },
+          "formation": "present tense, 'you' (one person)",
+          "meaning": {"en": "are", "hi": "हैं"}
+        }
+      ],
+      "meaning": {"en": "You are the great Lord (Maheśvara)", "hi": "आप महेश्वर (महान् ईश्वर) हैं"},
+      "notes": {
+        "en": "The verse opened by calling Him maheśa, 'great Lord'; it closes by stating it: maheśvaro 'si, You are the great Lord.",
+        "hi": "श्लोक महेश 'महान् स्वामी' पुकारकर शुरू हुआ था; अन्त में वही बात कथन बनकर आती है: महेश्वरोऽसि, आप महेश्वर हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-maheshvara", "mw-ishvara", "mw-as", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {"date": "2026-11-21", "by": "ai", "action": "Drafted from evidence pack."}
+    ]
+  },
+  "_new_concepts": {
+    "kashipati": {
+      "name": {"en": "Kāśīpati, Lord of Kāśī", "hi": "काशीपति, काशी के स्वामी"},
+      "description": {
+        "en": "Śiva as the Lord of Kāśī, the city of Vārāṇasī. The purāṇas set some of His stories in this city, among them the elephant-demon He slew there with His trident, which gave the liṅga of Kṛttivāseśvara its name.",
+        "hi": "काशी, यानी वाराणसी नगरी, के स्वामी के रूप में शिव। पुराण उनकी कई कथाएँ इसी नगरी में रखते हैं, जैसे हाथी-रूपी दैत्य की कथा जिसे उन्होंने वहाँ त्रिशूल से मारा, और जिससे कृत्तिवासेश्वर लिङ्ग को उसका नाम मिला।"
+      }
+    },
+    "karuna": {
+      "name": {"en": "Karuṇā, Śiva's compassion", "hi": "करुणा, शिव की दया"},
+      "description": {
+        "en": "Compassion as Śiva's nature and the reason for what He does. The hymn calls Him karuṇāmaya, made of compassion, and says that out of compassion He destroys, protects and creates the world.",
+        "hi": "करुणा, जो शिव का स्वभाव है और उनके हर काम का कारण। स्तोत्र उन्हें करुणामय, करुणा से बना हुआ, कहता है, और बताता है कि करुणा से ही वे जगत् का संहार, पालन और सृजन करते हैं।"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[
+ {
+  "check": "T2.9b",
+  "status": "flag",
+  "message": "Note says eleven members; the breakdown, structure and padaccheda list twelve (thirteen if āhuti-kṛta is split).",
+  "path": "compounds.c1.note",
+  "suggested_fix": "Correct the count or say \"a long compound\".",
+  "severity": "major",
+  "tier": 2,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.6",
+  "status": "fail",
+  "message": "Segment refs only w4 but includes \"made\", which translates kṛta in w3; hovering w4 lights w3's verb. HI tags \"आहुति बन गया\" to w3 correctly.",
+  "path": "translations.en.lines[1][0]",
+  "suggested_fix": "{refs:[w3], \"who made\"}, {refs:[w4], \"the fierce god of the five arrows\"}, {refs:[w3], \"an offering in the fire\"}",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.9",
+  "status": "flag",
+  "message": "Credits 'that eye is the true home of fire' to vyakhya.org's own voice; the commentary attributes it to Sudarshan Singh Chakra.",
+  "path": "annotations.a5.body",
+  "suggested_fix": "'the vyakhya.org commentary, citing Sudarshan Singh Chakra, calls that eye…' (same in HI)",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ }
+]

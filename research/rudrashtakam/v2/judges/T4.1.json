@@ -1,0 +1,12 @@
+{
+  "check": "T4.1",
+  "fields_hash": "9f515ed660f7cb79",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w6.components[2].meaning",
+      "message": "The second kāla is glossed 'Death' but has no sense field; mw-kala.md excerpt shows only 'time (in general)', 'N. of Śiva'. Sources support the idea (gitapress 'महाकालके भी काल', sanskritdocuments 'Devourer even of the great Time-Spirit'). w6.meaning says 'great Death' while components/literal say 'great Time'. Human should confirm.",
+      "suggested_fix": "Add a sense from MW kāla 2 ('time as destroying all things, death') if present, and make the word meaning use the same term as the components."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "check": "T4.9",
+  "fields_hash": "80064936db0ddc23",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a4.body",
+      "message": "a4 describes verse 3 (no verb; images before bhajāmi) but no v4 excerpt gives v3's text; link is #verse-3 not a v3 annotation.",
+      "suggested_fix": "Link to a v3 annotation or cite gitapress stanza 3."
+    },
+    {
+      "status": "flag",
+      "path": "annotations.a1.citations",
+      "message": "'Śiva's voice offers a boon' rests on dohā 108 (ka) ('पुनि मंदिर नभबानी भइ द्विजबर बर मागु'), present in the excerpt but not cited.",
+      "suggested_fix": "Add citation ramcharitmanas-uttarakanda-104-108, 'Uttarakāṇḍa 108 (ka)', quote 'पुनि मंदिर नभबानी भइ द्विजबर बर मागु'."
+    }
+  ]
+}

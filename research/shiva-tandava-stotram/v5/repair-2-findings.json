@@ -1,0 +1,12 @@
+[
+ {
+  "check": "T4.8",
+  "status": "fail",
+  "message": "Stilted Hindi: the first sentence frames the claim twice ('…मोनियर-विलियम्स बताते हैं कि वह चाँदनी पर जीता है, ऐसी कथा है'), and 'धूल झाड़ते थे' means dusting off, not shedding pollen.",
+  "path": "annotations.a5.body.hi",
+  "suggested_fix": "'चकोर एक तीतर जैसा पक्षी है, जो कथा के अनुसार चाँदनी पर जीता है (मोनियर-विलियम्स);' … 'शिव के चरणों में पराग झराते थे'",
+  "severity": "major",
+  "tier": 4,
+  "method": "JUDGE"
+ }
+]

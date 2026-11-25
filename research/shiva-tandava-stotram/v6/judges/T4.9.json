@@ -1,0 +1,11 @@
+{
+  "check": "T4.9",
+  "fields_hash": "730525bca99f8af5",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "",
+      "message": "Registry entry mw-lekha points to MW lekha (leKa) but v6 evidence mw-lekha.md is lekhā (leKA): slug collision."
+    }
+  ]
+}

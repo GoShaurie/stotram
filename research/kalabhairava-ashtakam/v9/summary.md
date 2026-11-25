@@ -1,0 +1,11 @@
+# v9: stotram-refine run, 2026-11-21
+
+**Outcome:** `ai_verified`. Penalty 0 → 0. 10/11 words agreed across 2 drafts. Exit-ready: True.
+
+## Needs a human
+
+1. **Confirm the text lock** after reading `text-report.md`:
+   `.venv/bin/python -m checks lock data/stotrams/kalabhairava-ashtakam.json --verse v9 --sources gitapress-shiv-stotra-ratnakar,greenmesg-kalabhairava,ramakrishna-math-mantrapushpam,sanskritdocuments-kaalabhairava,sanskritdocuments-shivarahasya-kalabhairava,shlokam-kalabhairava,vanivilas-1910-works-18 --confirm "<your name>"`
+- T3.5 `translations.en.bhavartha`: The closing phrase 'the feet where the hymn began' does not come from any pada of v9. It is a cross-reference to verse 1, and annotation a1 supports it with the 'pāvanāṅghripaṅkaja' quote in vanivilas-1910-works-18. The claim is accurate, but the bhāvārtha now adds content that is not in the verse. A human should decide whether the bhāvārtha may carry this link or whether it belongs only in annotation a1. (suggested: End at '...will surely come into the presence of Kālabhairava's feet.' and leave the link back to verse 1 to annotation a1.)
+- T3.5 `translations.hi.bhavartha`: Same as the EN bhāvārtha: 'उन्हीं चरणों तक जहाँ से स्तोत्र आरम्भ हुआ था' is a link back to verse 1 and is found in no pada of v9. It is accurate and annotation a1 already makes this point. (suggested: End at '...वे निश्चय ही कालभैरव के चरणों की सन्निधि में पहुँच जाते हैं।' and leave the link back to verse 1 to annotation a1.)
+- T4.2 `words.w5.components[2].sense`: The sādhana component is given as a neuter noun meaning 'means', and the compound's vigraha 'तयोः साधनम्' reads it the same way. But sense.gloss quotes the first adjective sense in MW, 'leading straight to a goal, guiding well, furthering' (mf(ī/ā)n., RV). mw-sadhana.md has a neuter-noun sense that matches the chosen meaning exactly: 'any means of effecting or accomplishing, any agent or instrument ... requisite for (gen. or comp.)'. The meaning is right for this line, but the cited sense comes from a different entry than the one the word is used in. (suggested: Set sense.gloss to the MW neuter sense: 'any means of effecting or accomplishing, any agent or instrument ..., an expedient, requisite for (gen. or comp.)'.)

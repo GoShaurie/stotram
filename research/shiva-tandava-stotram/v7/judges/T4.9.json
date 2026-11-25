@@ -1,0 +1,18 @@
+{
+  "check": "T4.9",
+  "fields_hash": "15e1ad5f1c132054",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a1.body",
+      "message": "'Most witnesses read bhāla' has no citation, though Mantrapushpam, Wikisource, sanskritdocuments and vyakhya all print करालभालपट्टिका.",
+      "suggested_fix": "Cite ramakrishna-math-mantrapushpam and sa-wikisource-shivatandava (quote 'करालभालपट्टिका')."
+    },
+    {
+      "status": "flag",
+      "path": "annotations.a2.citations",
+      "message": "Locator 'श्लोक ७, शब्दार्थ' names a section vyakhya doesn't have; the glosses are in the पदच्छेद block.",
+      "suggested_fix": "'श्लोक ७, पदच्छेद (word glosses)'"
+    }
+  ]
+}

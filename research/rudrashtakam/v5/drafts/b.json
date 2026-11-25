@@ -1,0 +1,1230 @@
+{
+  "id": "v5",
+  "number": 5,
+  "kind": "verse",
+  "concepts": [
+    "saguna-shiva",
+    "tapa-traya",
+    "bhava-bhakti"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "प्रचण्डं",
+          "iast": "pracaṇḍaṃ"
+        },
+        {
+          "id": "w2",
+          "text": "प्रकृष्टं",
+          "iast": "prakṛṣṭaṃ"
+        },
+        {
+          "id": "w3",
+          "text": "प्रगल्भं",
+          "iast": "pragalbhaṃ"
+        },
+        {
+          "id": "w4",
+          "text": "परेशं",
+          "iast": "pareśaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "अखण्डं",
+          "iast": "akhaṇḍaṃ"
+        },
+        {
+          "id": "w6",
+          "text": "अजं",
+          "iast": "ajaṃ"
+        },
+        {
+          "id": "w7",
+          "text": "भानुकोटिप्रकाशम्",
+          "iast": "bhānukoṭiprakāśam"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "त्रयःशूलनिर्मूलनं",
+          "iast": "trayaḥśūlanirmūlanaṃ"
+        },
+        {
+          "id": "w9",
+          "text": "शूलपाणिं",
+          "iast": "śūlapāṇiṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w10",
+          "text": "भजेऽहं",
+          "iast": "bhaje'haṃ"
+        },
+        {
+          "id": "w11",
+          "text": "भवानीपतिं",
+          "iast": "bhavānīpatiṃ"
+        },
+        {
+          "id": "w12",
+          "text": "भावगम्यम्",
+          "iast": "bhāvagamyam"
+        }
+      ],
+      "end": "॥ ५ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w4"],
+      "iast": "para-īśaṃ",
+      "type": "karmadhāraya",
+      "vigraha": "परः च असौ ईशः च, तम्",
+      "meaning": {
+        "en": "the supreme Lord",
+        "hi": "परमेश्वर"
+      },
+      "note": {
+        "en": "para 'highest' qualifies īśa 'lord' (karmadhāraya); a + ī merge into e (guṇa sandhi).",
+        "hi": "पर 'सर्वोच्च' ईश 'स्वामी' का विशेषण है (कर्मधारय); अ + ई मिलकर ए बनते हैं (गुण सन्धि)।"
+      }
+    },
+    "c2": {
+      "members": ["w5"],
+      "iast": "a-khaṇḍaṃ",
+      "type": "nañ-tatpuruṣa",
+      "vigraha": "न खण्डः, तम्",
+      "meaning": {
+        "en": "whole, not broken into parts",
+        "hi": "अखण्ड, जिसके टुकड़े नहीं"
+      },
+      "note": {
+        "en": "The negative a- joined to the adjective khaṇḍa 'broken'.",
+        "hi": "निषेधवाचक अ- और विशेषण खण्ड 'टूटा हुआ' का समास।"
+      }
+    },
+    "c3": {
+      "members": ["w6"],
+      "iast": "a-jaṃ",
+      "type": "nañ-tatpuruṣa",
+      "vigraha": "न जः, तम् (न जायते इति)",
+      "meaning": {
+        "en": "unborn",
+        "hi": "अजन्मा"
+      },
+      "note": {
+        "en": "The negative a- joined to ja 'born' (from √jan).",
+        "hi": "निषेधवाचक अ- और ज 'जन्मा हुआ' (√जन् से) का समास।"
+      }
+    },
+    "c4": {
+      "members": ["w7"],
+      "iast": "bhānu-koṭi-prakāśam",
+      "type": "bahuvrīhi",
+      "structure": "((bhānu-koṭi)-prakāśa)",
+      "vigraha": "भानूनां कोटिः भानुकोटिः, भानुकोटेः इव प्रकाशः यस्य सः, तम्",
+      "meaning": {
+        "en": "(Him, i.e. Śiva) whose light is like that of ten million suns",
+        "hi": "(उन, अर्थात् शिव को) जिनका प्रकाश करोड़ों सूर्यों जैसा है"
+      },
+      "note": {
+        "en": "bhānu-koṭi 'ten million suns' is a ṣaṣṭhī tatpuruṣa; with prakāśa 'light' it forms a bahuvrīhi describing Śiva, with the comparison 'like' understood.",
+        "hi": "भानु-कोटि 'करोड़ों सूर्य' षष्ठी तत्पुरुष है; प्रकाश के साथ यह शिव का वर्णन करने वाला बहुव्रीहि बनता है, जिसमें 'जैसा' का भाव समझा जाता है।"
+      }
+    },
+    "c5": {
+      "members": ["w8"],
+      "iast": "trayaḥ-śūla-nirmūlanaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "structure": "((trayaḥ-śūla)-nirmūlana)",
+      "vigraha": "त्रयाणां शूलानां निर्मूलनः, तम्",
+      "meaning": {
+        "en": "the one who uproots the three pains",
+        "hi": "तीनों पीड़ाओं को जड़ से उखाड़ने वाले"
+      },
+      "note": {
+        "en": "trayaḥ-śūla 'the three pains' is a dvigu standing before a further member; nirmūlana 'uprooter' (MW m.) is the head. trayaḥ keeps its full plural form inside the compound where tri- is the rule (MW: trayas- only before decads), an irregular (ārṣa) usage.",
+        "hi": "त्रयः-शूल 'तीन पीड़ाएँ' उत्तरपद वाला द्विगु है; निर्मूलन 'उखाड़ने वाला' प्रधान पद है। समास में नियमतः त्रि- आता है (त्रयस्- केवल दहाइयों से पहले), पर यहाँ त्रयः पूरा रूप रखता है: यह आर्ष प्रयोग है।"
+      }
+    },
+    "c6": {
+      "members": ["w9"],
+      "iast": "śūla-pāṇiṃ",
+      "type": "bahuvrīhi",
+      "vigraha": "शूलं पाणौ यस्य सः, तम्",
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who holds the trident in His hand",
+        "hi": "(उन, अर्थात् शिव को) जिनके हाथ में त्रिशूल है"
+      },
+      "note": {
+        "en": "A bahuvrīhi with the members in different cases (śūlaṃ pāṇau); MW lists śūla-pāṇi as a name of Rudra-Śiva.",
+        "hi": "व्यधिकरण बहुव्रीहि (शूलं पाणौ); शब्दकोश में शूलपाणि रुद्र-शिव का नाम है।"
+      }
+    },
+    "c7": {
+      "members": ["w11"],
+      "iast": "bhavānī-patiṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "भवान्याः पतिः, तम्",
+      "meaning": {
+        "en": "the husband of Bhavānī",
+        "hi": "भवानी के पति"
+      },
+      "note": {
+        "en": "ṣaṣṭhī tatpuruṣa: bhavānyāḥ patiḥ.",
+        "hi": "षष्ठी तत्पुरुष: भवान्याः पतिः।"
+      }
+    },
+    "c8": {
+      "members": ["w12"],
+      "iast": "bhāva-gamyam",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā",
+      "vigraha": "भावेन गम्यः, तम्",
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is reached through loving feeling",
+        "hi": "(उन, अर्थात् शिव को) जो भाव से पाए जाते हैं"
+      },
+      "note": {
+        "en": "tṛtīyā tatpuruṣa: bhāvena gamyaḥ, 'reachable by bhāva'. gamya is √gam + yat.",
+        "hi": "तृतीया तत्पुरुष: भावेन गम्यः, 'भाव से प्राप्य'। गम्य = √गम् + यत्।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1"],
+      "sa": "प्रचण्डम्",
+      "iast": "pracaṇḍam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "प्रचण्ड", "iast": "pracaṇḍa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p2",
+      "words": ["w2"],
+      "sa": "प्रकृष्टम्",
+      "iast": "prakṛṣṭam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "प्रकृष्ट", "iast": "prakṛṣṭa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p3",
+      "words": ["w3"],
+      "sa": "प्रगल्भम्",
+      "iast": "pragalbham",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "प्रगल्भ", "iast": "pragalbha" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p4",
+      "words": ["w4"],
+      "sa": "परेशम्",
+      "iast": "pareśam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "परेश", "iast": "pareśa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p5",
+      "words": ["w5"],
+      "sa": "अखण्डम्",
+      "iast": "akhaṇḍam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "अखण्ड", "iast": "akhaṇḍa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p6",
+      "words": ["w6"],
+      "sa": "अजम्",
+      "iast": "ajam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "अज", "iast": "aja" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p7",
+      "words": ["w7"],
+      "sa": "भानुकोटिप्रकाशम्",
+      "iast": "bhānukoṭiprakāśam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "भानुकोटिप्रकाश", "iast": "bhānukoṭiprakāśa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p8",
+      "words": ["w8"],
+      "sa": "त्रयःशूलनिर्मूलनम्",
+      "iast": "trayaḥśūlanirmūlanam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "त्रयःशूलनिर्मूलन", "iast": "trayaḥśūlanirmūlana" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p9",
+      "words": ["w9"],
+      "sa": "शूलपाणिम्",
+      "iast": "śūlapāṇim",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "शूलपाणि", "iast": "śūlapāṇi" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    },
+    {
+      "id": "p10",
+      "words": ["w10"],
+      "sa": "भजे",
+      "iast": "bhaje",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": { "sa": "भज्", "iast": "bhaj", "gana": 1 },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p11",
+      "words": ["w10"],
+      "sa": "अहम्",
+      "iast": "aham",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "अस्मद्", "iast": "asmad" },
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p10"
+    },
+    {
+      "id": "p12",
+      "words": ["w11"],
+      "sa": "भवानीपतिम्",
+      "iast": "bhavānīpatim",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "भवानीपति", "iast": "bhavānīpati" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p10"
+    },
+    {
+      "id": "p13",
+      "words": ["w12"],
+      "sa": "भावगम्यम्",
+      "iast": "bhāvagamyam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "भावगम्य", "iast": "bhāvagamya" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p12"
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": ["p11", "p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8", "p9", "p13", "p12", "p10"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "The fierce one," },
+          { "refs": ["w2"], "text": "the most excellent," },
+          { "refs": ["w3"], "text": "the bold," },
+          { "refs": ["w4"], "text": "the supreme Lord," }
+        ],
+        [
+          { "refs": ["w5"], "text": "whole," },
+          { "refs": ["w6"], "text": "unborn," },
+          { "refs": ["w7"], "text": "shining like ten million suns," }
+        ],
+        [
+          { "refs": ["w8"], "text": "who pulls up the three pains by the roots," },
+          { "refs": ["w9"], "text": "who holds the trident in His hand:" }
+        ],
+        [
+          { "refs": ["w10"], "text": "I worship" },
+          { "refs": ["w11"], "text": "Bhavānī's husband, Śiva," },
+          { "refs": ["w12"], "text": "who is reached through loving feeling." }
+        ]
+      ],
+      "bhavartha": "The verse gathers Śiva's might into one breath: He is fierce, most excellent, bold, the supreme Lord, whole and unborn, shining like ten million suns. He holds the trident (śūla) in His hand and pulls up by the roots the three pains (also called śūla). The singer worships this Lord, Bhavānī's husband, who is reached through loving feeling."
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "प्रचण्ड," },
+          { "refs": ["w2"], "text": "सबसे श्रेष्ठ," },
+          { "refs": ["w3"], "text": "निडर," },
+          { "refs": ["w4"], "text": "परमेश्वर," }
+        ],
+        [
+          { "refs": ["w5"], "text": "अखण्ड," },
+          { "refs": ["w6"], "text": "अजन्मा," },
+          { "refs": ["w7"], "text": "करोड़ों सूर्यों जैसी ज्योति वाले," }
+        ],
+        [
+          { "refs": ["w8"], "text": "तीनों तरह की पीड़ाओं को जड़ से उखाड़ने वाले," },
+          { "refs": ["w9"], "text": "हाथ में त्रिशूल लिए हुए," }
+        ],
+        [
+          { "refs": ["w12"], "text": "प्रेम-भाव से पाए जाने वाले" },
+          { "refs": ["w11"], "text": "भवानीपति (शिव) को" },
+          { "refs": ["w10"], "text": "मैं भजता हूँ।" }
+        ]
+      ],
+      "bhavartha": "यह श्लोक शिव के सारे बल को एक साँस में कह देता है: वे प्रचण्ड हैं, सबसे श्रेष्ठ, निडर, परमेश्वर, अखण्ड और अजन्मा, और करोड़ों सूर्यों जैसे दमकते हैं। उनके हाथ में त्रिशूल (शूल) है, और वे तीनों पीड़ाओं (जिन्हें भी शूल कहते हैं) को जड़ से उखाड़ देते हैं। गायक भवानी के पति उन शिव को भजता है, जो प्रेम-भाव से पाए जाते हैं।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1", "w2", "w3", "w4"],
+      "kind": "sound",
+      "body": {
+        "en": "Say the first line aloud: *pra-caṇḍaṃ, pra-kṛṣṭaṃ, pra-galbhaṃ, pareśaṃ*. Three words open on the same *pra-*, the fourth on *pa-*, and the line rolls forward like a drumroll. The *pra-* adds force: *caṇḍa* is already fierce, *pra-caṇḍa* is fierce beyond measure. Then comes bold, and at the end of the run the word the others lead up to: *para-īśa*, the highest Lord.",
+        "hi": "पहली पंक्ति ज़ोर से बोलिए: *प्र-चण्डं, प्र-कृष्टं, प्र-गल्भं, परेशं*। तीन शब्द एक ही *प्र-* से शुरू होते हैं, चौथा *प-* से, और पंक्ति नगाड़े की थाप-सी आगे लुढ़कती है। *प्र-* ज़ोर बढ़ाता है: *चण्ड* अपने-आप में उग्र है, *प्र-चण्ड* हद से ज़्यादा उग्र। फिर आता है निडर, और इस दौड़ के अन्त में वह शब्द जिसकी ओर बाकी सब ले जाते हैं: *पर-ईश*, सबसे ऊँचे स्वामी।"
+      },
+      "citations": [
+        {
+          "source": "gitapress-ramcharitmanas",
+          "locator": "Uttarakāṇḍa, p. 1011, stanza 5",
+          "quote": "प्रचंडं प्रकृष्टं प्रगल्भं परेशं"
+        },
+        {
+          "source": "mw-canda",
+          "locator": "MW caṇḍa, p. 383",
+          "quote": "fierce, violent, cruel, impetuous"
+        },
+        {
+          "source": "mw-pracanda",
+          "locator": "MW pra-caṇḍa, p. 656",
+          "quote": "excessively violent, impetuous, furious, fierce"
+        },
+        {
+          "source": "mw-pragalbha",
+          "locator": "MW pra-galbha, p. 656",
+          "quote": "bold, confident, resolute, brave"
+        },
+        {
+          "source": "mw-paresha",
+          "locator": "MW pareśa, p. 588",
+          "quote": "the highest lord"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": ["w8", "w9"],
+      "kind": "wordplay",
+      "body": {
+        "en": "One word, two sharp things. *Śūla* is a spike, Śiva's trident, and it is also a sharp pain, grief. This line uses it both ways: He pulls up by the roots the three *śūlas*, the three kinds of pain, and He is *śūla-pāṇi*, the one with the *śūla* in His hand. The three pains are those of the body, those sent by fate or the gods, and those that come from the world around us. Three prongs in His hand, three pains uprooted.",
+        "hi": "एक शब्द, दो नुकीली चीज़ें। *शूल* भाला है, शिव का त्रिशूल, और तीखी पीड़ा, दुःख भी। यह पंक्ति दोनों अर्थ लेती है: वे तीनों *शूलों*, यानी तीन तरह की पीड़ाओं को जड़ से उखाड़ते हैं, और वे *शूल-पाणि* हैं, जिनके हाथ में *शूल* है। तीन पीड़ाएँ हैं दैहिक (शरीर की), दैविक (भाग्य या देवों से आई) और भौतिक (आसपास के जगत से)। हाथ में तीन नोकें, और तीन पीड़ाएँ जड़ से गायब।"
+      },
+      "citations": [
+        {
+          "source": "mw-shula",
+          "locator": "MW śūla, p. 1086",
+          "quote": "any sharp instrument or pointed dart, lance, pike, spear (esp. the trident of Śiva)"
+        },
+        {
+          "source": "mw-shula",
+          "locator": "MW śūla, p. 1086",
+          "quote": "pain, grief, sorrow"
+        },
+        {
+          "source": "sanskritdocuments-rudra8",
+          "locator": "verse 5, Hindi bhāvārtha",
+          "quote": "(दैहिक, दैविक, भौतिक आदि) तीनों प्रकार के शूलों (दुःखों) को निर्मूल करनेवाले"
+        },
+        {
+          "source": "gitapress-ramcharitmanas",
+          "locator": "Uttarakāṇḍa, p. 1011, stanza 5, Hindi translation",
+          "quote": "हाथमें त्रिशूल धारण किये"
+        },
+        {
+          "source": "mw-shulapani",
+          "locator": "MW śūla-pāṇi, p. 1086",
+          "quote": "N. of Rudra Śiva"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a3",
+      "refs": ["w12"],
+      "kind": "context",
+      "body": {
+        "en": "*Bhāva-gamya*: reached through *bhāva*, the feeling of the heart. *Gamya* is 'that can be reached'; the same word can also mean 'grasped by the mind'. The story around the hymn shows it happen. When the teacher ends this song for his cursed pupil ([the story](#v1-a1)), all-knowing Śiva hears the plea and sees the brahmin's love (*anurāga*), and a voice in the temple says: ask for a boon.",
+        "hi": "*भाव-गम्य*: *भाव*, यानी हृदय की अनुभूति से पाए जाने वाले। *गम्य* का अर्थ है 'जिस तक पहुँचा जा सके'; यही शब्द 'मन से जाना जा सकने वाला' भी हो सकता है। स्तोत्र के चारों ओर की कथा यह होते हुए दिखाती है। जब गुरु अपने शापित शिष्य के लिए यह गान पूरा करते हैं ([कथा](#v1-a1)), तो सर्वज्ञ शिव विनती सुनते हैं और ब्राह्मण का *अनुराग* देखते हैं, और मन्दिर में आकाशवाणी होती है: वर माँगो।"
+      },
+      "citations": [
+        {
+          "source": "ramcharitmanas-uttarakanda-104-108",
+          "locator": "Uttarakāṇḍa, dohā 108 (ka)",
+          "quote": "सुनि बिनती सर्बग्य सिव देखि बिप्र अनुरागु"
+        },
+        {
+          "source": "ramcharitmanas-uttarakanda-104-108",
+          "locator": "Uttarakāṇḍa, dohā 108 (ka), Hindi translation",
+          "quote": "हे द्विजश्रेष्ठ! वर माँगो"
+        },
+        {
+          "source": "gitapress-ramcharitmanas",
+          "locator": "Uttarakāṇḍa, p. 1011, stanza 5, Hindi translation",
+          "quote": "भाव (प्रेम) के द्वारा प्राप्त होनेवाले"
+        },
+        {
+          "source": "mw-gamya",
+          "locator": "MW gamya, p. 348",
+          "quote": "approachable, accessible, passable, attainable"
+        },
+        {
+          "source": "mw-bhavagamya",
+          "locator": "MW bhāva-gamya, p. 754",
+          "quote": "to be (or being) conceived by the mind"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "words": {
+    "w1": {
+      "padaccheda": [{ "sa": "प्रचण्डम्", "iast": "pracaṇḍam" }],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the p of the next word: pracaṇḍam prakṛṣṭam → pracaṇḍaṃ prakṛṣṭaṃ.",
+            "hi": "अगले शब्द के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रचण्डम् प्रकृष्टम् → प्रचण्डं प्रकृष्टं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रचण्ड",
+          "iast": "pracaṇḍa",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "प्रचण्ड", "iast": "pracaṇḍa" },
+          "sense": {
+            "dict": "mw",
+            "headword": "pracaṇḍa",
+            "gloss": "excessively violent, impetuous, furious, fierce, terrible"
+          },
+          "meaning": { "en": "fierce", "hi": "प्रचण्ड" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is fierce",
+        "hi": "प्रचण्ड (शिव को)"
+      },
+      "notes": {
+        "en": "pra- intensifies caṇḍa 'fierce' (MW: excessively violent). The Hindi translation adds (रुद्ररूप), 'in His Rudra form'.",
+        "hi": "प्र- 'चण्ड' (उग्र) के भाव को और तीव्र करता है। हिन्दी अनुवाद में (रुद्ररूप) जोड़ा गया है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pracanda", "mw-canda", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w2": {
+      "padaccheda": [{ "sa": "प्रकृष्टम्", "iast": "prakṛṣṭam" }],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the p of pragalbham: prakṛṣṭam → prakṛṣṭaṃ.",
+            "hi": "प्रगल्भम् के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रकृष्टम् → प्रकृष्टं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रकृष्ट",
+          "iast": "prakṛṣṭa",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "कृष्",
+            "iast": "kṛṣ",
+            "gana": 1,
+            "prefixes": ["pra"],
+            "gloss": { "en": "to draw, to pull", "hi": "खींचना" }
+          },
+          "formation": "pra + √kṛṣ + kta (past participle): 'drawn forth', hence 'raised above, eminent'",
+          "sense": {
+            "dict": "mw",
+            "headword": "prakṛṣṭa",
+            "gloss": "superior, distinguished, eminent"
+          },
+          "meaning": { "en": "excellent", "hi": "श्रेष्ठ" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is the most excellent",
+        "hi": "सबसे श्रेष्ठ (शिव को)"
+      },
+      "confidence": "high",
+      "sources": ["mw-prakrshta", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w3": {
+      "padaccheda": [{ "sa": "प्रगल्भम्", "iast": "pragalbham" }],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the p of pareśam: pragalbham → pragalbhaṃ.",
+            "hi": "परेशम् के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रगल्भम् → प्रगल्भं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रगल्भ",
+          "iast": "pragalbha",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "गल्भ्",
+            "iast": "galbh",
+            "gana": 1,
+            "prefixes": ["pra"],
+            "gloss": { "en": "to be bold", "hi": "निडर होना" }
+          },
+          "formation": "pra + √galbh 'to be bold'",
+          "sense": {
+            "dict": "mw",
+            "headword": "pragalbha",
+            "gloss": "bold, confident, resolute, brave, strong, able"
+          },
+          "meaning": { "en": "bold", "hi": "निडर" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is bold and fearless",
+        "hi": "निडर, तेजस्वी (शिव को)"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "radiant, full of energy", "hi": "तेजस्वी" },
+          "note": "gitapress-ramcharitmanas and sanskritdocuments-rudra8 (Hindi) render तेजस्वी; sanskritdocuments-rudra8 (English) 'intrepid', shlokam-rudrashtakam 'bold' and MW 'bold, confident' support the reading chosen."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-pragalbha", "mw-galbh", "sanskritdocuments-rudra8", "shlokam-rudrashtakam", "gitapress-ramcharitmanas"]
+    },
+    "w4": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "पर", "iast": "para" },
+        { "sa": "ईशम्", "iast": "īśam" }
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "a + ī → e",
+          "explanation": {
+            "en": "The final a of para and the initial ī of īśa merge into e: para + īśa → pareśa.",
+            "hi": "पर का अन्तिम 'अ' और ईश का 'ई' मिलकर 'ए' बन जाते हैं: पर + ईश → परेश।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m → ṃ at the line end",
+          "explanation": {
+            "en": "The line ends here, so pareśam is not joined to akhaṇḍam in the next line; the final m is written as anusvāra, as at a pause.",
+            "hi": "यहाँ पंक्ति समाप्त होती है, इसलिए परेशम् अगली पंक्ति के अखण्डम् से नहीं जुड़ता; अन्तिम 'म्' विराम की तरह अनुस्वार लिखा गया है।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "पर",
+          "iast": "para",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "पर", "iast": "para" },
+          "sense": { "dict": "mw", "headword": "para", "gloss": "highest, supreme, chief" },
+          "meaning": { "en": "supreme", "hi": "परम" }
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "ईश", "iast": "īśa" },
+          "sense": { "dict": "mw", "headword": "īśa", "gloss": "a ruler, master, lord" },
+          "meaning": { "en": "lord", "hi": "स्वामी" }
+        }
+      ],
+      "meaning": {
+        "en": "the supreme Lord, i.e. Śiva",
+        "hi": "परमेश्वर, अर्थात् शिव (को)"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "MW gives pareśa as a name of Brahmā or Viṣṇu; here, as in all the translations, it is Śiva, the Lord being praised.",
+        "hi": "शब्दकोश में परेश ब्रह्मा या विष्णु का नाम है; यहाँ, सब अनुवादों की तरह, यह स्तुति किए जा रहे शिव हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-paresha", "mw-para-n", "mw-isha", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w5": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "अ", "iast": "a" },
+        { "sa": "खण्डम्", "iast": "khaṇḍam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m kept apart before a vowel, written ṃ",
+          "explanation": {
+            "en": "Strictly, akhaṇḍam ajam would join into akhaṇḍamajam, and one printing has it so. Most witnesses keep the words apart with ṃ, which the rhythm of the line needs.",
+            "hi": "नियम से अखण्डम् अजम् मिलकर अखण्डमजम् बनते, और एक छपाई में ऐसा है भी। अधिकतर पाठ शब्दों को अलग रखकर अनुस्वार लिखते हैं, जो पंक्ति की लय के लिए ज़रूरी है।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "अ",
+          "iast": "a",
+          "pos": "indeclinable",
+          "meaning": { "en": "not", "hi": "नहीं" }
+        },
+        {
+          "sa": "खण्ड",
+          "iast": "khaṇḍa",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "खण्ड", "iast": "khaṇḍa" },
+          "sense": { "dict": "mw", "headword": "khaṇḍa", "gloss": "broken, having chasms or gaps or breaks" },
+          "meaning": { "en": "broken", "hi": "खण्डित" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is whole, without parts",
+        "hi": "अखण्ड (शिव को), जिनके टुकड़े नहीं"
+      },
+      "literal": { "en": "not broken", "hi": "जो टूटा नहीं" },
+      "aside": {
+        "en": "*Khaṇḍa* is a piece or a broken bit; *a-khaṇḍa* is whole, all of one piece. He cannot be divided up.",
+        "hi": "*खण्ड* यानी टुकड़ा; *अ-खण्ड* यानी पूरा, एक ही टुकड़े का। उन्हें बाँटा नहीं जा सकता।"
+      },
+      "notes": {
+        "en": "sanskritdocuments-rudra8 prints परेशमखण्डमजं, joining across the line break; that reading breaks the meter (text report). Same words either way.",
+        "hi": "sanskritdocuments-rudra8 में परेशमखण्डमजं छपा है, पंक्ति की सीमा पार जोड़कर; उससे छन्द टूटता है। शब्द दोनों में वही हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-akhanda", "mw-khanda", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w6": {
+      "compound": "c3",
+      "padaccheda": [
+        { "sa": "अ", "iast": "a" },
+        { "sa": "जम्", "iast": "jam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the bh of bhānu: ajam → ajaṃ.",
+            "hi": "भानु के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अजम् → अजं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "अ",
+          "iast": "a",
+          "pos": "indeclinable",
+          "meaning": { "en": "not", "hi": "नहीं" }
+        },
+        {
+          "sa": "ज",
+          "iast": "ja",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "जन्",
+            "iast": "jan",
+            "gana": 4,
+            "gloss": { "en": "to be born", "hi": "जन्म लेना" }
+          },
+          "formation": "√jan + ḍa",
+          "sense": { "dict": "mw", "headword": "ja", "gloss": "born or descended from, produced or caused by" },
+          "meaning": { "en": "born", "hi": "जन्मा" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is unborn",
+        "hi": "अजन्मा (शिव को)"
+      },
+      "aside": {
+        "en": "*A-ja*, 'not born': He has no birth and so no beginning; He has been there from all eternity.",
+        "hi": "*अ-ज*, 'जो जन्मा नहीं': उनका जन्म नहीं, इसलिए आरम्भ भी नहीं; वे सदा से हैं।"
+      },
+      "notes": {
+        "en": "MW 2. a-ja: 'not born, existing from all eternity', also a name of Śiva. Not aja 'goat'.",
+        "hi": "शब्दकोश: अ-ज 'अजन्मा, अनादि', शिव का नाम भी। 'बकरा' वाला अज यहाँ नहीं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-aja", "mw-ja", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w7": {
+      "compound": "c4",
+      "padaccheda": [
+        { "sa": "भानु", "iast": "bhānu" },
+        { "sa": "कोटि", "iast": "koṭi" },
+        { "sa": "प्रकाशम्", "iast": "prakāśam" }
+      ],
+      "components": [
+        {
+          "sa": "भानु",
+          "iast": "bhānu",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "भानु", "iast": "bhānu" },
+          "sense": { "dict": "mw", "headword": "bhānu", "gloss": "the sun" },
+          "meaning": { "en": "sun", "hi": "सूर्य" }
+        },
+        {
+          "sa": "कोटि",
+          "iast": "koṭi",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "कोटि", "iast": "koṭi" },
+          "sense": { "dict": "mw", "headword": "koṭi", "gloss": "a Krore or ten millions" },
+          "meaning": { "en": "ten million", "hi": "करोड़" }
+        },
+        {
+          "sa": "प्रकाश",
+          "iast": "prakāśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "प्रकाश", "iast": "prakāśa" },
+          "sense": { "dict": "mw", "headword": "prakāśa", "gloss": "clearness, brightness, splendour, lustre, light" },
+          "meaning": { "en": "light", "hi": "प्रकाश" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who shines like ten million suns",
+        "hi": "करोड़ों सूर्यों जैसे प्रकाश वाले (शिव को)"
+      },
+      "literal": {
+        "en": "having the light of ten million suns",
+        "hi": "करोड़ सूर्यों का प्रकाश जिनका है"
+      },
+      "aside": {
+        "en": "*Koṭi* is ten million, a crore: the poet's way of saying 'countless'. [Verse 3](#v3-a1) gave Him the beauty of millions of love-gods; here it is the light of millions of suns.",
+        "hi": "*कोटि* यानी करोड़: कवि का 'अनगिनत' कहने का ढंग। [तीसरे श्लोक](#v3-a1) में उनकी सुन्दरता करोड़ों कामदेवों जैसी थी; यहाँ प्रकाश करोड़ों सूर्यों जैसा है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhanu", "mw-koti", "mw-prakasha", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w8": {
+      "compound": "c5",
+      "padaccheda": [
+        { "sa": "त्रयः", "iast": "trayaḥ" },
+        { "sa": "शूल", "iast": "śūla" },
+        { "sa": "निर्मूलनम्", "iast": "nirmūlanam" }
+      ],
+      "sandhi": [
+        {
+          "name": "visarga",
+          "rule": "ḥ + ś → ḥ ś (or śś)",
+          "explanation": {
+            "en": "Before ś the final ḥ of trayaḥ may stay as it is (or become ś); the text keeps it: trayaḥ + śūla → trayaḥśūla.",
+            "hi": "'श' से पहले त्रयः का विसर्ग वैसा ही रह सकता है (या 'श्' बन सकता है); पाठ उसे बनाए रखता है: त्रयः + शूल → त्रयःशूल।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the ś of śūlapāṇim: nirmūlanam → nirmūlanaṃ.",
+            "hi": "शूलपाणिम् के 'श' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: निर्मूलनम् → निर्मूलनं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "त्रयः",
+          "iast": "trayaḥ",
+          "pos": "numeral",
+          "root": { "kind": "pratipadika", "sa": "त्रि", "iast": "tri" },
+          "sense": { "dict": "mw", "headword": "trayas", "gloss": "pl. of tri" },
+          "meaning": { "en": "three", "hi": "तीन" }
+        },
+        {
+          "sa": "शूल",
+          "iast": "śūla",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "शूल", "iast": "śūla" },
+          "sense": { "dict": "mw", "headword": "śūla", "gloss": "pain, grief, sorrow" },
+          "meaning": { "en": "pain", "hi": "पीड़ा" }
+        },
+        {
+          "sa": "निर्मूलन",
+          "iast": "nirmūlana",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "मूल", "iast": "mūla" },
+          "formation": "nis + mūla 'root' → nirmūlaya- 'to uproot' + ana (the one who does it)",
+          "sense": { "dict": "mw", "headword": "nirmūlana", "gloss": "an uprooter" },
+          "meaning": { "en": "uprooter", "hi": "उखाड़ने वाले" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who pulls up the three pains by the roots",
+        "hi": "तीनों पीड़ाओं को जड़ से उखाड़ने वाले (शिव को)"
+      },
+      "literal": {
+        "en": "the uprooter of the three pains",
+        "hi": "तीन शूलों का निर्मूलन करने वाले"
+      },
+      "aside": {
+        "en": "*Trayaḥ* is the full word 'three'. Joined to another word, 'three' is normally *tri-*, and *tri-śūla* is simply 'trident'.",
+        "hi": "*त्रयः* 'तीन' का पूरा रूप है। किसी शब्द से जुड़ने पर 'तीन' प्रायः *त्रि-* होता है, और *त्रि-शूल* का अर्थ बस 'त्रिशूल' है।"
+      },
+      "notes": {
+        "en": "trayaḥ inside a compound is irregular (ārṣa); MW allows trayas- only before decads. greenmesg-rudrashtakam and shlokam-rudrashtakam print त्र्यः, a typo; K B S read त्रयःशूल, G spaces it त्रयः शूल. sanskritdocuments-rudra8 names the three pains दैहिक, दैविक, भौतिक; greenmesg-rudrashtakam instead reads the trident's prongs as uprooting the bonds of the three guṇas.",
+        "hi": "समास के भीतर त्रयः आर्ष प्रयोग है; शब्दकोश त्रयस्- केवल दहाइयों से पहले मानता है। greenmesg और shlokam में त्र्यः छपा है, जो छपाई की भूल है। sanskritdocuments तीन शूलों को दैहिक, दैविक, भौतिक बताता है; greenmesg त्रिशूल की तीन नोकों से तीन गुणों के बन्धन उखड़ने की बात कहता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "who uproots the bonds of the three guṇas",
+            "hi": "तीन गुणों के बन्धन उखाड़ने वाले"
+          },
+          "note": "greenmesg-rudrashtakam; gitapress-ramcharitmanas, sanskritdocuments-rudra8 and shlokam-rudrashtakam read the three kinds of pain or grief."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-trayas", "mw-tri", "mw-shula", "mw-nirmulana", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam", "greenmesg-rudrashtakam"]
+    },
+    "w9": {
+      "compound": "c6",
+      "padaccheda": [
+        { "sa": "शूल", "iast": "śūla" },
+        { "sa": "पाणिम्", "iast": "pāṇim" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the bh of bhaje: śūlapāṇim → śūlapāṇiṃ.",
+            "hi": "भजे के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: शूलपाणिम् → शूलपाणिं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "शूल",
+          "iast": "śūla",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "शूल", "iast": "śūla" },
+          "sense": { "dict": "mw", "headword": "śūla", "gloss": "spear (esp. the trident of Śiva)" },
+          "meaning": { "en": "trident", "hi": "त्रिशूल" }
+        },
+        {
+          "sa": "पाणि",
+          "iast": "pāṇi",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "पाणि", "iast": "pāṇi" },
+          "sense": { "dict": "mw", "headword": "pāṇi", "gloss": "the hand" },
+          "meaning": { "en": "hand", "hi": "हाथ" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who holds the trident in His hand",
+        "hi": "हाथ में त्रिशूल धारण करने वाले (शिव को)"
+      },
+      "literal": {
+        "en": "trident-handed",
+        "hi": "शूल जिनके हाथ में है"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-shulapani", "mw-shula", "mw-pani", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w10": {
+      "padaccheda": [
+        { "sa": "भजे", "iast": "bhaje" },
+        { "sa": "अहम्", "iast": "aham" }
+      ],
+      "sandhi": [
+        {
+          "name": "pūrvarūpa",
+          "rule": "e + a → e'",
+          "explanation": {
+            "en": "After e the initial a of aham drops out, marked by the sign ऽ: bhaje + aham → bhaje'ham.",
+            "hi": "'ए' के बाद अहम् का 'अ' लुप्त हो जाता है, जिसे ऽ चिह्न से दिखाते हैं: भजे + अहम् → भजेऽहम्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the bh of bhavānī: bhaje'ham → bhaje'haṃ.",
+            "hi": "भवानी के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भजेऽहम् → भजेऽहं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": { "en": "to honour, to adore", "hi": "भजना, आराधना करना" }
+          },
+          "formation": "laṭ, ātmanepada, first person singular",
+          "sense": { "dict": "mw", "headword": "bhaj", "gloss": "to serve, honour, revere, love, adore" },
+          "meaning": { "en": "worship", "hi": "भजता हूँ" }
+        },
+        {
+          "sa": "अहम्",
+          "iast": "aham",
+          "pos": "pronoun",
+          "root": { "kind": "pratipadika", "sa": "अस्मद्", "iast": "asmad" },
+          "meaning": { "en": "I", "hi": "मैं" }
+        }
+      ],
+      "meaning": {
+        "en": "I worship",
+        "hi": "मैं भजता हूँ"
+      },
+      "notes": {
+        "en": "bhaje already means 'I worship'; aham 'I' is added for emphasis. K, B and W write भजेहं without the avagraha sign; G, S and E have भजेऽहं. Same words.",
+        "hi": "भजे का अर्थ ही 'मैं भजता हूँ' है; अहम् 'मैं' ज़ोर देने के लिए है। K, B, W में अवग्रह के बिना भजेहं है; G, S, E में भजेऽहं। शब्द वही हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhaj", "mw-aham", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w11": {
+      "compound": "c7",
+      "padaccheda": [
+        { "sa": "भवानी", "iast": "bhavānī" },
+        { "sa": "पतिम्", "iast": "patim" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the bh of bhāva: bhavānīpatim → bhavānīpatiṃ.",
+            "hi": "भाव के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भवानीपतिम् → भवानीपतिं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भवानी",
+          "iast": "bhavānī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "भवानी", "iast": "bhavānī" },
+          "sense": { "dict": "mw", "headword": "bhavānī", "gloss": "N. of a goddess identified in later times with Pārvatī" },
+          "meaning": { "en": "Bhavānī (Pārvatī)", "hi": "भवानी (पार्वती)" }
+        },
+        {
+          "sa": "पति",
+          "iast": "pati",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "पति", "iast": "pati" },
+          "sense": { "dict": "mw", "headword": "pati", "gloss": "a husband" },
+          "meaning": { "en": "husband", "hi": "पति" }
+        }
+      ],
+      "meaning": {
+        "en": "the husband of Bhavānī, i.e. Śiva",
+        "hi": "भवानी के पति, अर्थात् शिव (को)"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "Bhavānī is Pārvatī, Śiva's wife, in her gentle, loving form.",
+        "hi": "भवानी पार्वती हैं, शिव की पत्नी, अपने सौम्य और स्नेहमय रूप में।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhavanipati", "mw-bhavani", "mw-pati", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    },
+    "w12": {
+      "compound": "c8",
+      "padaccheda": [
+        { "sa": "भाव", "iast": "bhāva" },
+        { "sa": "गम्यम्", "iast": "gamyam" }
+      ],
+      "components": [
+        {
+          "sa": "भाव",
+          "iast": "bhāva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "gloss": { "en": "to be, to become", "hi": "होना" }
+          },
+          "formation": "√bhū + ghañ",
+          "sense": { "dict": "mw", "headword": "bhāva", "gloss": "any state of mind or body, way of thinking or feeling, sentiment" },
+          "meaning": { "en": "love", "hi": "प्रेम-भाव" }
+        },
+        {
+          "sa": "गम्य",
+          "iast": "gamya",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "गम्",
+            "iast": "gam",
+            "gana": 1,
+            "gloss": { "en": "to go, to reach", "hi": "जाना, पहुँचना" }
+          },
+          "formation": "√gam + yat (fit to be ...)",
+          "sense": { "dict": "mw", "headword": "gamya", "gloss": "approachable, accessible, passable, attainable" },
+          "meaning": { "en": "reachable", "hi": "प्राप्य" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is reached through loving feeling",
+        "hi": "प्रेम-भाव से पाए जाने वाले (शिव को)"
+      },
+      "literal": {
+        "en": "reachable by feeling",
+        "hi": "भाव से प्राप्य"
+      },
+      "notes": {
+        "en": "The translations all take bhāva as love (G: भाव (प्रेम)). MW's only citation of bhāva-gamya is 'to be conceived by the mind'.",
+        "hi": "सब अनुवाद भाव को प्रेम मानते हैं (गीता प्रेस: भाव (प्रेम))। शब्दकोश में भावगम्य का अर्थ 'मन से जानने योग्य' है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "who can be grasped by the mind", "hi": "मन से जाने जा सकने वाले" },
+          "note": "MW bhāva-gamya (Megh.); gitapress-ramcharitmanas, sanskritdocuments-rudra8 and shlokam-rudrashtakam read 'through love'."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-bhavagamya", "mw-bhava", "mw-gamya", "gitapress-ramcharitmanas", "sanskritdocuments-rudra8", "shlokam-rudrashtakam"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      { "date": "2026-11-24", "by": "ai", "action": "Drafted from evidence pack." }
+    ]
+  },
+  "_new_concepts": {
+    "tapa-traya": {
+      "name": { "en": "The three pains", "hi": "तीन ताप" },
+      "description": {
+        "en": "Suffering is counted in three kinds: pain of the body, pain sent by fate or the gods, and pain from the world around us. The hymn calls them the three śūlas, the same word as Śiva's trident, and praises Him as the one who pulls them up by the roots.",
+        "hi": "दुःख तीन तरह के गिने जाते हैं: शरीर का (दैहिक), भाग्य या देवों से आया (दैविक), और आसपास के जगत से (भौतिक)। स्तोत्र इन्हें तीन शूल कहता है, वही शब्द जो शिव के त्रिशूल के लिए है, और शिव को इन्हें जड़ से उखाड़ने वाला बताता है।"
+      }
+    },
+    "bhava-bhakti": {
+      "name": { "en": "Reached through love", "hi": "भाव से प्राप्त" },
+      "description": {
+        "en": "The Lord who is fierce, supreme and bright as countless suns is reached through bhāva, the loving feeling of the heart. The story around the hymn shows it: Śiva answers when He sees the teacher's love.",
+        "hi": "जो प्रभु प्रचण्ड, परमेश्वर और अनगिनत सूर्यों जैसे तेजस्वी हैं, वे भाव, यानी हृदय के प्रेम से पाए जाते हैं। स्तोत्र की कथा यही दिखाती है: गुरु का अनुराग देखकर शिव उत्तर देते हैं।"
+      }
+    }
+  }
+}

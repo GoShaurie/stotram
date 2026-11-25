@@ -1,0 +1,12 @@
+{
+  "check": "T4.1",
+  "fields_hash": "9ea0f5dcb615443f",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w5.components[0].meaning",
+      "message": "mada glossed 'rut, frenzy'; MW supports it, but shlokam and sanskritdocuments say 'intoxicated' and vyakhya 'मतवाला'. Only 'pride' is recorded as an alternative.",
+      "suggested_fix": "'rut, intoxication, frenzy', or add an alternative 'of an intoxicated elephant' citing shlokam and sanskritdocuments."
+    }
+  ]
+}

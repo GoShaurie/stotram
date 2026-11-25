@@ -1,0 +1,12 @@
+{
+  "check": "T4.7",
+  "fields_hash": "063d7e814c18a044",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.hi.lines[0][3]",
+      "message": "prabandha: EN \"unbroken mass\" vs HI \"घने पुंज\" (dense); the component gloss and MW stress continuity.",
+      "suggested_fix": "अटूट पुंज"
+    }
+  ]
+}

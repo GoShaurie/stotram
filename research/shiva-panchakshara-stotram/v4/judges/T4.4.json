@@ -1,0 +1,12 @@
+{
+  "check": "T4.4",
+  "fields_hash": "4285b153f765ef1c",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w7.notes",
+      "message": "w7 śivāya has epithet: true, but its visible meaning is just 'to Śiva' / 'शिव को' and it has no notes. The sense 'The Auspicious one' (mw-shiva.md, MW p. 1074,1) appears only in components[0].sense.gloss. The rubric lets a common name pass when a note explains its meaning once. This refrain does not play on the name's meaning, so this is acceptable if an earlier verse (e.g. v1) already carries that note. That can't be checked from this bundle, so a human should confirm it.",
+      "suggested_fix": "If no earlier verse explains the name, add notes.en: \"Śiva means 'the auspicious one'.\" and notes.hi: \"शिव का अर्थ है 'मंगलमय, कल्याणकारी'।\""
+    }
+  ]
+}

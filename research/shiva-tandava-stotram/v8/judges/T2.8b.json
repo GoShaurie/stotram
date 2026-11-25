@@ -1,0 +1,12 @@
+{
+  "check": "T2.8b",
+  "fields_hash": "0069d1eee317b63e",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c2.type",
+      "message": "Raised again independently: typed upapada, but dhara = √dhṛ + ac (3.1.134) makes it a ṣaṣṭhī tatpuruṣa in strict Pāṇinian terms. Pick a label and make it match the formation.",
+      "suggested_fix": "type tatpuruṣa, subtype ṣaṣṭhī, vigraha निलिम्पनिर्झर्याः धरः"
+    }
+  ]
+}

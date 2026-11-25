@@ -1,0 +1,42 @@
+[
+ {
+  "check": "T3.5",
+  "status": "flag",
+  "message": "'a bare rock': 'bare' isn't in dṛṣad (MW: rock, large stone); HI says just पत्थर.",
+  "path": "translations.en.lines[0][3].text",
+  "suggested_fix": "'for a rock and a richly coloured couch,'",
+  "severity": "blocker",
+  "tier": 3,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T3.5",
+  "status": "flag",
+  "message": "'Only with a mind that even … can he truly worship' adds a condition; the verse lists the two hopes side by side (EN and HI).",
+  "path": "translations.en.bhavartha",
+  "suggested_fix": "EN 'and so, even-minded, worship Sadāśiva.' HI 'और तब, सम मन से, सदाशिव को भजे।'",
+  "severity": "blocker",
+  "tier": 3,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.5",
+  "status": "flag",
+  "message": "Raised independently a second time: 'only … truly worship' adds a condition the verse doesn't state (EN and HI).",
+  "path": "translations.en.bhavartha",
+  "suggested_fix": "'He asks when, with a mind that even, he will worship Sadāśiva.' / 'वह पूछता है कि ऐसे सम मन से वह कब सदाशिव को भजेगा।'",
+  "severity": "major",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.9",
+  "status": "flag",
+  "message": "Calls a blade of grass a person ('Then come persons: … a plain blade of grass beside a lotus-eyed beauty').",
+  "path": "annotations.a3.body",
+  "suggested_fix": "'Then the pairs turn mostly to persons: …' (HI too)",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ }
+]

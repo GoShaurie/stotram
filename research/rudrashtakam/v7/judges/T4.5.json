@@ -1,0 +1,12 @@
+{
+  "check": "T4.5",
+  "fields_hash": "18679ca1b94a22a0",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a4.body",
+      "message": "a4 states as plain fact that sarva-bhūta-adhivāsa is both 'the Lord inside every being' and 'the home of all beings'; most translations give one sense and c3's note calls them separate readings.",
+      "suggested_fix": "Hedge: 'can be heard both ways'; soften 'and holding them all'."
+    }
+  ]
+}

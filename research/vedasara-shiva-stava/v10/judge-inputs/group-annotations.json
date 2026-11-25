@@ -1,0 +1,550 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.9": "checks/judges/T4.9.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-vedasarast",
+        "name": "sanskritdocuments.org — Vedasara Shiva Stotram (vedasarast.itx); read from the Wayback copy of 2025-07-22",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250722112755/https://sanskritdocuments.org/doc_shiva/vedasarast.html"
+      },
+      {
+        "id": "shlokam-vedasara-shiva-stava",
+        "name": "shlokam.org — Vedasara Shiva Stava (English translation and word meanings; Devanagari copies sanskritdocuments)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/vedasara-shiva-stava.htm"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. 71–73",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n82/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, pp. 464–465; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/464/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 26–29, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 52–55, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "brihat-stotra-ratnakar-wikisource",
+        "name": "बृहत्स्तोत्ररत्नाकर (Bṛhatstotraratnākara) vol. 1 (1953), pp. 251–252, as transcribed on Sanskrit Wikisource",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/वेदसारशिवस्तवः"
+      },
+      {
+        "id": "mw-pati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pati' (SLP1 key: pati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pati"
+      },
+      {
+        "id": "mw-eka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'eka' (SLP1 key: eka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=eka"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-pashu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paśu' (SLP1 key: paSu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paSu"
+      },
+      {
+        "id": "mw-pashupati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paśupati' (SLP1 key: paSupati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paSupati"
+      },
+      {
+        "id": "mw-mahesha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśa' (SLP1 key: maheSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSa"
+      },
+      {
+        "id": "linga-purana-1-72",
+        "name": "Liṅga Purāṇa 1.72",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "kurma-purana-1-30",
+        "name": "Kūrma Purāṇa 1.30",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "ramayana-bala-1-43",
+        "name": "Vālmīki Rāmāyaṇa, Bāla Kāṇḍa 43",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mahanarayana-upanishad-17-23",
+        "name": "Mahānārāyaṇa Upaniṣad 17–23",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "taittiriya-upanishad-3-1",
+        "name": "Taittirīya Upaniṣad 3.1",
+        "kind": "text",
+        "ancient": true,
+        "note": "The 'mind' step (3.4) of the Bhṛgu story is told from memory; 3.1–3.3 and 3.5–3.6 were checked. Confirm before review."
+      },
+      {
+        "id": "shvetashvatara-upanishad",
+        "name": "Śvetāśvatara Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mw-jagat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jagat' (SLP1 key: jagat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jagat"
+      },
+      {
+        "id": "mw-shambhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śambhu' (SLP1 key: SamBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SamBu"
+      },
+      {
+        "id": "mw-shula",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūla' (SLP1 key: SUla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUla"
+      },
+      {
+        "id": "mw-as",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'as' (SLP1 key: as)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=as"
+      },
+      {
+        "id": "mw-shulapani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūlapāṇi' (SLP1 key: SUlapARi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUlapARi"
+      },
+      {
+        "id": "mw-pani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāṇi' (SLP1 key: pARi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pARi"
+      },
+      {
+        "id": "mw-etad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'etad' (SLP1 key: etad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=etad"
+      },
+      {
+        "id": "mw-gauri",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaurī' (SLP1 key: gOrI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gOrI"
+      },
+      {
+        "id": "mw-karuna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'karuṇā' (SLP1 key: karuRA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=karuRA"
+      },
+      {
+        "id": "mw-karunamaya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'karuṇāmaya' (SLP1 key: karuRAmaya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=karuRAmaya"
+      },
+      {
+        "id": "mw-kashi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāśī' (SLP1 key: kASI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kASI"
+      },
+      {
+        "id": "mw-nashin",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nāśin' (SLP1 key: nASin)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nASin"
+      },
+      {
+        "id": "mw-pashupasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paśupāśa' (SLP1 key: paSupASa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paSupASa"
+      },
+      {
+        "id": "mw-tvam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tvaṃ' (SLP1 key: tvaM)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tvaM"
+      },
+      {
+        "id": "mw-han",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'han' (SLP1 key: han)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=han"
+      },
+      {
+        "id": "mw-maheshvara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśvara' (SLP1 key: maheSvara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSvara"
+      },
+      {
+        "id": "mw-pa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pā' (SLP1 key: pA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pA"
+      },
+      {
+        "id": "mw-pasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāśa' (SLP1 key: pASa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pASa"
+      },
+      {
+        "id": "mw-vidha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vidhā' (SLP1 key: viDA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viDA"
+      },
+      {
+        "id": "mw-dha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhā' (SLP1 key: DA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DA"
+      },
+      {
+        "id": "mw-gauripati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaurīpati' (SLP1 key: gOrIpati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gOrIpati"
+      },
+      {
+        "id": "mw-kaashi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāśi' (SLP1 key: kASi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kASi"
+      },
+      {
+        "id": "mw-kashipati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāśipati' (SLP1 key: kASipati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kASipati"
+      },
+      {
+        "id": "mw-uma",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'umā' (SLP1 key: umA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=umA"
+      }
+    ]
+  },
+  "verse": {
+    "id": "v10",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "शम्भो",
+            "iast": "śambho"
+          },
+          {
+            "id": "w2",
+            "text": "महेश",
+            "iast": "maheśa"
+          },
+          {
+            "id": "w3",
+            "text": "करुणामय",
+            "iast": "karuṇāmaya"
+          },
+          {
+            "id": "w4",
+            "text": "शूलपाणे",
+            "iast": "śūlapāṇe"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "गौरीपते",
+            "iast": "gaurīpate"
+          },
+          {
+            "id": "w6",
+            "text": "पशुपते",
+            "iast": "paśupate"
+          },
+          {
+            "id": "w7",
+            "text": "पशुपाशनाशिन्",
+            "iast": "paśupāśanāśin"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "काशीपते",
+            "iast": "kāśīpate"
+          },
+          {
+            "id": "w9",
+            "text": "करुणया",
+            "iast": "karuṇayā"
+          },
+          {
+            "id": "w10",
+            "text": "जगदेतदेक",
+            "iast": "jagadetadeka"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w11",
+            "text": "स्त्वं",
+            "iast": "stvaṃ"
+          },
+          {
+            "id": "w12",
+            "text": "हंसि",
+            "iast": "haṃsi"
+          },
+          {
+            "id": "w13",
+            "text": "पासि",
+            "iast": "pāsi"
+          },
+          {
+            "id": "w14",
+            "text": "विदधासि",
+            "iast": "vidadhāsi"
+          },
+          {
+            "id": "w15",
+            "text": "महेश्वरोऽसि",
+            "iast": "maheśvaro'si"
+          }
+        ],
+        "end": "॥ १० ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w5",
+          "w6"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Husband and herdsman, side by side. *Gaurī*, 'the shining goddess', is Pārvatī, Śiva's wife; *Paśupati* is the Lord of all beings ([verse 1](#v1-a1)). The pair is old. In the Rāmāyaṇa, when Śiva comes to King Bhagīratha to say He will take the falling Gaṅgā on His head, the poet calls Him *umāpatiḥ paśupatī*, Umā's husband, Lord of beings. The Mahānārāyaṇa bows to Him the same way: *umāpataye paśupataye namo namaḥ*.",
+          "hi": "पति और पशुपालक, एक साथ। *गौरी*, 'उज्ज्वल देवी', शिव की पत्नी पार्वती हैं; *पशुपति* सब जीवों के स्वामी हैं ([पहला श्लोक](#v1-a1))। यह जोड़ी पुरानी है। रामायण में जब शिव राजा भगीरथ से कहने आते हैं कि वे उतरती गंगा को अपने सिर पर धारण करेंगे, तब कवि उन्हें *उमापतिः पशुपती* कहता है: उमा के पति, जीवों के स्वामी। महानारायण उपनिषद् भी उन्हें इसी तरह प्रणाम करता है: *उमापतये पशुपतये नमो नमः*।"
+        },
+        "citations": [
+          {
+            "source": "ramayana-bala-1-43",
+            "locator": "Rāmāyaṇa 1.43.2",
+            "quote": "उमापति: पशुपती राजानमिदमब्रवीत्"
+          },
+          {
+            "source": "ramayana-bala-1-43",
+            "locator": "Rāmāyaṇa 1.43.3",
+            "quote": "शिरसा धारयिष्यामि शैलराजसुतामहम्"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Up. anuvāka 22",
+            "quote": "अम्बिकापतय उमापतये पशुपतये नमो नमः"
+          },
+          {
+            "source": "mw-gauri",
+            "locator": "MW gaurī, p. 370,1",
+            "quote": "Śiva's wife Pārvatī"
+          },
+          {
+            "source": "mw-uma",
+            "locator": "MW umā, p. 217,1",
+            "quote": "wife of the god Śiva; also called Pārvatī and Durgā"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w7"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Verse 1 opened with the old name *Paśupati*, Lord of the tethered ([verse 1](#v1-a1)). This word adds what that Lord does with the tether. *Pāśa* is the rope or noose that ties an animal, and *nāśin* is 'the one who destroys': He cuts the rope. A herdsman ties his cattle; this Lord sets His own free. The Liṅga Purāṇa sums up the Paśupati story in nearly the same words: Rudra is *paśupati* and *paśupāśa-vimocaka*, the one who frees beings from the rope.",
+          "hi": "पहला श्लोक पुराने नाम *पशुपति* से खुला था: बँधे हुए जीवों के स्वामी ([पहला श्लोक](#v1-a1))। यह शब्द बताता है कि वे स्वामी उस रस्सी का क्या करते हैं। *पाश* वह रस्सी या फंदा है जिससे पशु बाँधा जाता है, और *नाशिन्* का अर्थ है 'नष्ट करने वाला': वे रस्सी काट देते हैं। ग्वाला अपने पशुओं को बाँधता है; ये स्वामी अपने जीवों को छुड़ाते हैं। लिङ्ग पुराण पशुपति की कथा को लगभग इन्हीं शब्दों में समेटता है: रुद्र *पशुपति* भी हैं और *पशुपाश-विमोचक* भी, जीवों को बन्धन से छुड़ाने वाले।"
+        },
+        "citations": [
+          {
+            "source": "linga-purana-1-72",
+            "locator": "Liṅga Purāṇa 1.72.43",
+            "quote": "paśupāśavimocakaḥ"
+          },
+          {
+            "source": "mw-pasha",
+            "locator": "MW pāśa, p. 623,3",
+            "quote": "a snare, trap, noose, tie, bond, cord"
+          },
+          {
+            "source": "mw-nashin",
+            "locator": "MW nāśin, p. 538,1",
+            "quote": "ifc. destroying, removing"
+          },
+          {
+            "source": "mw-pashupasha",
+            "locator": "MW paśu-pāśa, p. 611,3",
+            "quote": "the chains which fetter the individual soul"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w8"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "The Kūrma Purāṇa tells a story of Kāśī's Lord, set in Vārāṇasī. A demon turned himself into an elephant and came to kill the Brahmins who worshipped Śiva there every day. To protect them, three-eyed Mahādeva rose out of the liṅga, killed it with His trident and wore its skin ([verse 1](#verse-1)). So that liṅga is called Kṛttivāseśvara, the Lord clothed in hide, and the same chapter says that there, freedom comes in a single birth.",
+          "hi": "कूर्म पुराण काशी के स्वामी की एक कथा कहता है, जो वाराणसी में घटती है। एक दैत्य हाथी बनकर उन ब्राह्मणों को मारने आया जो वहाँ प्रतिदिन शिव की उपासना करते थे। उनकी रक्षा के लिए त्रिनेत्र महादेव लिङ्ग से प्रकट हुए, त्रिशूल से उसे मारा और उसकी खाल ओढ़ ली ([पहला श्लोक](#verse-1))। इसीलिए वह लिङ्ग कृत्तिवासेश्वर कहलाता है, खाल ओढ़ने वाले ईश्वर; और उसी अध्याय के अनुसार वहाँ एक ही जन्म में मुक्ति मिलती है।"
+        },
+        "citations": [
+          {
+            "source": "kurma-purana-1-30",
+            "locator": "Kūrma Purāṇa 1.30.13",
+            "quote": "etāni guhyaliṅgāni vārāṇasyāṃ dvijottamāḥ"
+          },
+          {
+            "source": "kurma-purana-1-30",
+            "locator": "Kūrma Purāṇa 1.30.16",
+            "quote": "asmin sthāne purā daityo hastī bhūtvā bhavāntikam"
+          },
+          {
+            "source": "kurma-purana-1-30",
+            "locator": "Kūrma Purāṇa 1.30.17",
+            "quote": "teṣāṃ liṅgānmahādevaḥ prādurāsīt trilocanaḥ"
+          },
+          {
+            "source": "kurma-purana-1-30",
+            "locator": "Kūrma Purāṇa 1.30.18",
+            "quote": "hatvā gajākṛtiṃ daityaṃ śūlenāvajñayā haraḥ"
+          },
+          {
+            "source": "kurma-purana-1-30",
+            "locator": "Kūrma Purāṇa 1.30.22",
+            "quote": "ekena janmanā mokṣaḥ kṛttivāse tu labhyate"
+          },
+          {
+            "source": "mw-kaashi",
+            "locator": "MW kāśi, p. 280,2",
+            "quote": "N. of a celebrated city and place of pilgrimage"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w9",
+          "w10",
+          "w11",
+          "w12",
+          "w13",
+          "w14"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Look at the order: *haṃsi pāsi vidadhāsi*, You destroy, You protect, You create. The hymn has named these three works before, in the Upaniṣad's order, birth first ([verse 5](#v5-a3)); here the ending comes first. And one word stands in front of all three: *karuṇayā*, out of compassion, so even the destroying falls under kindness. *Ekaḥ tvam*, You alone, echoes the Śvetāśvatara: there is one Rudra, no second, who makes the worlds, guards them and draws them back in at the end.",
+          "hi": "क्रम देखिए: *हंसि पासि विदधासि*, आप संहार करते हैं, पालन करते हैं, सृजन करते हैं। स्तोत्र ये तीन काम पहले भी कह चुका है, उपनिषद् के क्रम में, जन्म पहले ([पाँचवाँ श्लोक](#v5-a3)); यहाँ अन्त पहले आता है। और तीनों के आगे एक शब्द खड़ा है: *करुणया*, करुणा से; यानी संहार भी करुणा के भीतर है। *एकः त्वम्*, एकमात्र आप, श्वेताश्वतर उपनिषद् की गूँज है: रुद्र एक ही हैं, दूसरा कोई नहीं; वही लोकों को रचते हैं, उनकी रक्षा करते हैं और अन्त में उन्हें समेट लेते हैं।"
+        },
+        "citations": [
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Up. 3.2",
+            "quote": "एको हि रुद्रो न द्वितीयाय तस्थुर्"
+          },
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Up. 3.2",
+            "quote": "संचुकोचान्तकाले संसृज्य विश्वा भुवनानि गोपाः"
+          },
+          {
+            "source": "taittiriya-upanishad-3-1",
+            "locator": "Taittirīya Up. 3.1.1",
+            "quote": "यतो वा इमानि भूतानि जायन्ते"
+          },
+          {
+            "source": "mw-karuna",
+            "locator": "MW karuṇā, p. 255,3",
+            "quote": "pity, compassion"
+          },
+          {
+            "source": "mw-han",
+            "locator": "MW √han, p. 1287,2",
+            "quote": "to smite, slay, hit, kill, mar, destroy"
+          },
+          {
+            "source": "mw-pa",
+            "locator": "MW 3. √pā, p. 613,2",
+            "quote": "to watch, keep, preserve"
+          },
+          {
+            "source": "mw-vidha",
+            "locator": "MW vi-√dhā, p. 967,2",
+            "quote": "to form, create, build, establish, found"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1046 @@
+{
+  "group": "meaning",
+  "checks": {
+    "T4.2": "checks/judges/T4.2.md",
+    "T4.3": "checks/judges/T4.3.md",
+    "T4.4": "checks/judges/T4.4.md"
+  },
+  "stotram": {
+    "id": "rudrashtakam",
+    "title": {
+      "sa": "रुद्राष्टकम्",
+      "iast": "Rudrāṣṭakam",
+      "en": "Rudrashtakam",
+      "hi": "रुद्राष्टकम्"
+    },
+    "deities": [
+      "shiva"
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v9",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "रुद्राष्टकमिदं",
+            "iast": "rudrāṣṭakamidaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "प्रोक्तं",
+            "iast": "proktaṃ"
+          },
+          {
+            "id": "w3",
+            "text": "विप्रेण",
+            "iast": "vipreṇa"
+          },
+          {
+            "id": "w4",
+            "text": "हरतोषये",
+            "iast": "haratoṣaye"
+          }
+        ],
+        "end": "।",
+        "pada_count": 2
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "ये",
+            "iast": "ye"
+          },
+          {
+            "id": "w6",
+            "text": "पठन्ति",
+            "iast": "paṭhanti"
+          },
+          {
+            "id": "w7",
+            "text": "नरा",
+            "iast": "narā"
+          },
+          {
+            "id": "w8",
+            "text": "भक्त्या",
+            "iast": "bhaktyā"
+          },
+          {
+            "id": "w9",
+            "text": "तेषां",
+            "iast": "teṣāṃ"
+          },
+          {
+            "id": "w10",
+            "text": "शम्भुः",
+            "iast": "śambhuḥ"
+          },
+          {
+            "id": "w11",
+            "text": "प्रसीदति",
+            "iast": "prasīdati"
+          }
+        ],
+        "end": "॥ ९ ॥",
+        "pada_count": 2
+      }
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w1"
+        ],
+        "iast": "rudra-aṣṭakam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "रुद्रस्य अष्टकम्",
+        "meaning": {
+          "en": "a set of eight verses for Rudra",
+          "hi": "रुद्र की आठ श्लोकों वाली स्तुति"
+        },
+        "note": {
+          "en": "rudra 'Rudra, Śiva' + aṣṭaka 'a set of eight': the eight-stanza hymn belonging to Rudra. The two a's merge into one long ā (rudra + aṣṭaka → rudrāṣṭaka).",
+          "hi": "रुद्र + अष्टक 'आठ का समूह': रुद्र का आठ श्लोकों वाला स्तोत्र। दोनों 'अ' मिलकर एक लम्बा 'आ' बनते हैं (रुद्र + अष्टक → रुद्राष्टक)।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w4"
+        ],
+        "iast": "hara-toṣaye",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "हरस्य तोषाय",
+        "meaning": {
+          "en": "for the pleasure of Hara, i.e. Śiva",
+          "hi": "हर, अर्थात् शिव, की प्रसन्नता के लिए"
+        },
+        "note": {
+          "en": "hara 'Hara, Śiva' + toṣa 'pleasure, contentment': Hara's pleasure. The ending -aye gives the sense 'for'; the regular form would be haratoṣāya.",
+          "hi": "हर 'शिव' + तोष 'प्रसन्नता': हर की प्रसन्नता। अन्त का '-अये' 'के लिए' का अर्थ देता है; नियमित रूप हरतोषाय होता।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "रुद्राष्टकम्",
+        "iast": "rudrāṣṭakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "रुद्राष्टक",
+            "iast": "rudrāṣṭaka"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p3"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w1"
+        ],
+        "sa": "इदम्",
+        "iast": "idam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "इदम्",
+            "iast": "idam"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p1"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w2"
+        ],
+        "sa": "प्रोक्तम्",
+        "iast": "proktam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "प्रोक्त",
+            "iast": "prokta"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "वच्",
+              "iast": "vac",
+              "gana": 2
+            },
+            "prefixes": [
+              "pra"
+            ],
+            "suffix": "kta"
+          }
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w3"
+        ],
+        "sa": "विप्रेण",
+        "iast": "vipreṇa",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विप्र",
+            "iast": "vipra"
+          },
+          "gender": "masculine",
+          "case": "instrumental",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p3"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w4"
+        ],
+        "sa": "हरतोषये",
+        "iast": "haratoṣaye",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "हरतोष",
+            "iast": "haratoṣa"
+          },
+          "gender": "masculine",
+          "case": "dative",
+          "number": "singular"
+        },
+        "irregular": {
+          "note": "Ārṣa form: the regular dative of haratoṣa is haratoṣāya; every witness reads haratoṣaye, listed among the hymn's ārṣa usages (sanskritdocuments-rudra8). The regular form would also make the 7th syllable of this even pāda heavy."
+        },
+        "role": "sampradāna",
+        "head": "p3"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w5"
+        ],
+        "sa": "ये",
+        "iast": "ye",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "यद्",
+            "iast": "yad"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "plural"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w6"
+        ],
+        "sa": "पठन्ति",
+        "iast": "paṭhanti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "पठ्",
+            "iast": "paṭh",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "plural",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w7"
+        ],
+        "sa": "नराः",
+        "iast": "narāḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नर",
+            "iast": "nara"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "plural"
+        },
+        "role": "kartā",
+        "head": "p7"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w8"
+        ],
+        "sa": "भक्त्या",
+        "iast": "bhaktyā",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भक्ति",
+            "iast": "bhakti"
+          },
+          "gender": "feminine",
+          "case": "instrumental",
+          "number": "singular"
+        },
+        "role": "karaṇa",
+        "head": "p7"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w9"
+        ],
+        "sa": "तेषाम्",
+        "iast": "teṣām",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "gender": "masculine",
+          "case": "genitive",
+          "number": "plural"
+        },
+        "role": "sambandha",
+        "head": "p12"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w10"
+        ],
+        "sa": "शम्भुः",
+        "iast": "śambhuḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शम्भु",
+            "iast": "śambhu"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p12"
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w11"
+        ],
+        "sa": "प्रसीदति",
+        "iast": "prasīdati",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "सद्",
+            "iast": "sad",
+            "gana": 1
+          },
+          "prefixes": [
+            "pra"
+          ],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      }
+    ],
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "रुद्राष्टकम्",
+            "iast": "rudrāṣṭakam"
+          },
+          {
+            "sa": "इदम्",
+            "iast": "idam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of rudra and the first a of aṣṭaka merge into one long ā: rudra + aṣṭaka → rudrāṣṭaka.",
+              "hi": "रुद्र का अन्तिम 'अ' और अष्टक का पहला 'अ' मिलकर लम्बा 'आ' बनते हैं: रुद्र + अष्टक → रुद्राष्टक।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m stays m before the vowel of idam (written joined), and the m of idam becomes anusvāra (ṃ) before the p of proktam: rudrāṣṭakam idam → rudrāṣṭakamidaṃ.",
+              "hi": "इदम् के स्वर से पहले अन्तिम 'म्' वैसा ही रहता है (जुड़कर लिखा जाता है), और प्रोक्तम् के 'प' से पहले इदम् का 'म्' अनुस्वार (ं) बन जाता है: रुद्राष्टकम् इदम् → रुद्राष्टकमिदं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "रुद्र",
+            "iast": "rudra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "रुद्र",
+              "iast": "rudra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "rudra",
+              "gloss": "'Roarer or Howler', N. of the god of tempests"
+            },
+            "meaning": {
+              "en": "Rudra",
+              "hi": "रुद्र"
+            }
+          },
+          {
+            "sa": "अष्टक",
+            "iast": "aṣṭaka",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अष्टक",
+              "iast": "aṣṭaka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṣṭaka",
+              "gloss": "a whole consisting of eight parts"
+            },
+            "meaning": {
+              "en": "set of eight",
+              "hi": "अष्टक"
+            }
+          },
+          {
+            "sa": "इदम्",
+            "iast": "idam",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इदम्",
+              "iast": "idam"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "idam",
+              "gloss": "this, this here, referring to something near the speaker"
+            },
+            "meaning": {
+              "en": "this",
+              "hi": "यह"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "this Rudrāṣṭakam, the hymn of eight verses to Rudra, i.e. Śiva",
+          "hi": "यह रुद्राष्टक, रुद्र अर्थात् शिव की आठ श्लोकों वाली स्तुति"
+        },
+        "notes": {
+          "en": "Two words written as one: rudrāṣṭakam 'the Rudrāṣṭaka' and idam 'this'. The hymn names itself.",
+          "hi": "दो शब्द एक साथ लिखे गए हैं: रुद्राष्टकम् और इदम् 'यह'। स्तोत्र यहाँ अपना नाम स्वयं लेता है।"
+        },
+        "aside": {
+          "en": "The name counts the stanzas: eight in a long, rolling meter, then this short four-line closing verse in a different, simpler meter.",
+          "hi": "नाम ही श्लोकों की गिनती है: आठ लम्बे, लहराते छन्द में, फिर यह छोटा, चार चरणों वाला समापन-श्लोक, जो दूसरे, सरल छन्द में है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-rudra",
+          "mw-ashtaka",
+          "mw-idam",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "belvedere-1926-ramcharitmanas"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "प्रोक्तम्",
+            "iast": "proktam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the v of vipreṇa: proktam → proktaṃ.",
+              "hi": "विप्रेण के 'व' से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: प्रोक्तम् → प्रोक्तं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रोक्त",
+            "iast": "prokta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वच्",
+              "iast": "vac",
+              "gana": 2,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to speak, to proclaim",
+                "hi": "कहना, बोलना"
+              }
+            },
+            "formation": "pra + √vac + kta (past participle; vac → uk, pra + ukta → prokta)",
+            "sense": {
+              "dict": "mw",
+              "headword": "prokta",
+              "gloss": "said, spoken, spoken to, addressed"
+            },
+            "meaning": {
+              "en": "spoken",
+              "hi": "कहा गया"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "was spoken, was uttered",
+          "hi": "कहा गया"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-prokta",
+          "mw-pravac",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "विप्रेण",
+            "iast": "vipreṇa"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विप्र",
+            "iast": "vipra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विप्र",
+              "iast": "vipra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vipra",
+              "gloss": "a Brāhman"
+            },
+            "meaning": {
+              "en": "brāhmaṇa",
+              "hi": "ब्राह्मण"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "by the brāhmaṇa, i.e. the pupil's teacher",
+          "hi": "ब्राह्मण द्वारा, अर्थात् शिष्य के गुरु द्वारा"
+        },
+        "notes": {
+          "en": "The -eṇa ending means 'by'. The n turns to ṇ because an r comes earlier in the word (vipra + ina → vipreṇa).",
+          "hi": "'-एण' अन्त 'के द्वारा' का अर्थ देता है। शब्द में पहले 'र' होने से 'न' 'ण' बन जाता है (विप्रेण)।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "by the wise (one)",
+              "hi": "ज्ञानी द्वारा"
+            },
+            "note": "greenmesg-rudrashtakam and shlokam-rudrashtakam render 'by the Wise', an older sense MW records (inspired, wise). gitapress-ramcharitmanas (ब्राह्मणद्वारा) and sanskritdocuments-rudra8 ('by the Brahmana') read it as the brāhmaṇa of the narrative, the teacher."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vipra",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "ramcharitmanas-uttarakanda-104-108",
+          "greenmesg-rudrashtakam"
+        ]
+      },
+      "w4": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "हर",
+            "iast": "hara"
+          },
+          {
+            "sa": "तोषये",
+            "iast": "toṣaye"
+          }
+        ],
+        "components": [
+          {
+            "sa": "हर",
+            "iast": "hara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हृ",
+              "iast": "hṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to take away",
+                "hi": "हरना, ले जाना"
+              }
+            },
+            "formation": "√hṛ + ac (agent noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "hara",
+              "gloss": "'Seizer', 'Destroyer', N. of Śiva"
+            },
+            "meaning": {
+              "en": "Hara",
+              "hi": "हर"
+            }
+          },
+          {
+            "sa": "तोष",
+            "iast": "toṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "तुष्",
+              "iast": "tuṣ",
+              "gana": 4,
+              "gloss": {
+                "en": "to be pleased",
+                "hi": "प्रसन्न होना"
+              }
+            },
+            "formation": "√tuṣ + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "toṣa",
+              "gloss": "satisfaction, contentment, pleasure, joy"
+            },
+            "meaning": {
+              "en": "pleasure",
+              "hi": "प्रसन्नता"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to please Hara, i.e. Śiva",
+          "hi": "हर, अर्थात् शिव, को प्रसन्न करने के लिए"
+        },
+        "literal": {
+          "en": "for the pleasure of Hara",
+          "hi": "हर की प्रसन्नता के लिए"
+        },
+        "notes": {
+          "en": "The regular form for 'for Hara's pleasure' is haratoṣāya; every witness has haratoṣaye, which is accepted as a sage's licence (ārṣa). Hara, 'the one who takes away', is a name of Śiva.",
+          "hi": "'हर की प्रसन्नता के लिए' का नियमित रूप हरतोषाय है; सभी पाठों में हरतोषये है, जिसे आर्ष प्रयोग माना जाता है। हर, 'हर लेने वाले', शिव का नाम है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-hara",
+          "mw-tosha",
+          "sanskritdocuments-rudra8",
+          "gitapress-ramcharitmanas",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "ये",
+            "iast": "ye"
+          }
+        ],
+        "components": [
+          {
+            "sa": "ये",
+            "iast": "ye",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "यद्",
+              "iast": "yad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "yad",
+              "gloss": "who, which, what, whichever, whatever"
+            },
+            "meaning": {
+              "en": "who",
+              "hi": "जो"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(those) who, i.e. the people",
+          "hi": "जो (लोग)"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-yad",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "पठन्ति",
+            "iast": "paṭhanti"
+          }
+        ],
+        "components": [
+          {
+            "sa": "पठन्ति",
+            "iast": "paṭhanti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पठ्",
+              "iast": "paṭh",
+              "gana": 1,
+              "gloss": {
+                "en": "to recite, to read aloud",
+                "hi": "पढ़ना, पाठ करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "paṭh",
+              "gloss": "to read or repeat aloud, to recite, rehearse"
+            },
+            "meaning": {
+              "en": "recite",
+              "hi": "पढ़ते हैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(they) recite",
+          "hi": "पढ़ते हैं, पाठ करते हैं"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-path",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "नराः",
+            "iast": "narāḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga-lopa",
+            "rule": "āḥ + voiced consonant → ā",
+            "explanation": {
+              "en": "After a long ā the final ḥ drops before the bh of bhaktyā: narāḥ + bhaktyā → narā bhaktyā.",
+              "hi": "लम्बे 'आ' के बाद अन्तिम विसर्ग भक्त्या के 'भ' से पहले लुप्त हो जाता है: नराः + भक्त्या → नरा भक्त्या।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नर",
+            "iast": "nara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नर",
+              "iast": "nara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nara",
+              "gloss": "a man, a male, a person (pl. men, people)"
+            },
+            "meaning": {
+              "en": "people",
+              "hi": "मनुष्य"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "people",
+          "hi": "मनुष्य, लोग"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nara",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "भक्त्या",
+            "iast": "bhaktyā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भक्ति",
+            "iast": "bhakti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to share, to worship",
+                "hi": "बाँटना, भजना"
+              }
+            },
+            "formation": "√bhaj + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhakti",
+              "gloss": "attachment, devotion, fondness for, devotion to"
+            },
+            "meaning": {
+              "en": "devotion",
+              "hi": "भक्ति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "with devotion",
+          "hi": "भक्ति से, भक्तिपूर्वक"
+        },
+        "aside": {
+          "en": "Bhakti comes from a root meaning 'to share': the oldest sense is a portion, a share. Here it means loving devotion.",
+          "hi": "भक्ति उस धातु से है जिसका अर्थ 'बाँटना' है: सबसे पुराना अर्थ है हिस्सा, भाग। यहाँ इसका अर्थ प्रेम-भरी श्रद्धा है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhakti",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "तेषाम्",
+            "iast": "teṣām"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the ś of śambhuḥ: teṣām → teṣāṃ.",
+              "hi": "शम्भुः के 'श' से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: तेषाम् → तेषां।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "तेषाम्",
+            "iast": "teṣām",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "meaning": {
+              "en": "them",
+              "hi": "उन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "with them, i.e. those who recite",
+          "hi": "उन पर, अर्थात् पाठ करने वालों पर"
+        },
+        "literal": {
+          "en": "of them",
+          "hi": "उनका"
+        },
+        "notes": {
+          "en": "The form means 'of them'; with prasīdati it marks the people toward whom the favour turns, 'pleased with them, gracious to them'.",
+          "hi": "रूप का अर्थ 'उनका' है; प्रसीदति के साथ यह उन लोगों को बताता है जिन पर कृपा होती है: 'उन पर प्रसन्न'।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-tad",
+          "mw-prasad",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "शम्भुः",
+            "iast": "śambhuḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शम्भु",
+            "iast": "śambhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शम्भु",
+              "iast": "śambhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śambhu",
+              "gloss": "N. of Śiva"
+            },
+            "meaning": {
+              "en": "Śambhu",
+              "hi": "शम्भु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Śambhu, i.e. Śiva",
+          "hi": "शम्भु, अर्थात् शिव"
+        },
+        "literal": {
+          "en": "the one who brings happiness",
+          "hi": "कल्याण देने वाले"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-shambhu",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "प्रसीदति",
+            "iast": "prasīdati"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रसीदति",
+            "iast": "prasīdati",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "सद्",
+              "iast": "sad",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to become pleased, to be gracious",
+                "hi": "प्रसन्न होना, कृपा करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-sad",
+              "gloss": "to become satisfied or pleased or glad, be gracious or kind (with gen. 'to favour')"
+            },
+            "meaning": {
+              "en": "is pleased",
+              "hi": "प्रसन्न होते हैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "is pleased, is gracious",
+          "hi": "प्रसन्न होते हैं, कृपा करते हैं"
+        },
+        "notes": {
+          "en": "pra + √sad, whose present stem is sīd- (sīdati). The same root as the teacher's plea prasīda 'be pleased' in verse 6.",
+          "hi": "प्र + √सद्, जिसका वर्तमान रूप 'सीद्-' (सीदति) से बनता है। छठे श्लोक की गुरु की पुकार 'प्रसीद' (प्रसन्न हों) भी इसी धातु से है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prasad",
+          "mw-sid",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "2a565e9e160b5515",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines",
+      "message": "Lines 1-3 grammatical but stilted: 'for people,' sits loose between clauses after 'they'.",
+      "suggested_fix": "line 2: 'people find, here in this world or the next,' / line 3: 'so long, no happiness, no peace, no end of torment.'"
+    }
+  ]
+}

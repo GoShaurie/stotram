@@ -1,0 +1,12 @@
+{
+  "check": "T3.5",
+  "fields_hash": "fdb7aba1e9c8efca",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.bhavartha",
+      "message": "'...and still He is dear' (HI 'फिर भी वे प्रिय हैं') reads a contrast no pada states; evidence links priyam to śaṅkaram ('प्रिय है क्योंकि शंकर है'). Mild interpretive addition; human to decide.",
+      "suggested_fix": "Drop 'still' / 'फिर भी'."
+    }
+  ]
+}

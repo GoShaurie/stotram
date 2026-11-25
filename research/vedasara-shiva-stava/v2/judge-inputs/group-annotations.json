@@ -1,0 +1,544 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.9": "checks/judges/T4.9.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-vedasarast",
+        "name": "sanskritdocuments.org — Vedasara Shiva Stotram (vedasarast.itx); read from the Wayback copy of 2025-07-22",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250722112755/https://sanskritdocuments.org/doc_shiva/vedasarast.html"
+      },
+      {
+        "id": "shlokam-vedasara-shiva-stava",
+        "name": "shlokam.org — Vedasara Shiva Stava (English translation and word meanings; Devanagari copies sanskritdocuments)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/vedasara-shiva-stava.htm"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. 71–73",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n82/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, pp. 464–465; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/464/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 26–29, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 52–55, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "brihat-stotra-ratnakar-wikisource",
+        "name": "बृहत्स्तोत्ररत्नाकर (Bṛhatstotraratnākara) vol. 1 (1953), pp. 251–252, as transcribed on Sanskrit Wikisource",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/वेदसारशिवस्तवः"
+      },
+      {
+        "id": "mw-nasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nāśa' (SLP1 key: nASa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nASa"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-mahesha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśa' (SLP1 key: maheSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSa"
+      },
+      {
+        "id": "mw-pancavaktra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcavaktra' (SLP1 key: paYcavaktra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcavaktra"
+      },
+      {
+        "id": "mw-prabhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prabhu' (SLP1 key: praBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=praBu"
+      },
+      {
+        "id": "mw-sada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sadā' (SLP1 key: sadA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sadA"
+      },
+      {
+        "id": "mw-suresha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sureśa' (SLP1 key: sureSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sureSa"
+      },
+      {
+        "id": "mw-trinetra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'trinetra' (SLP1 key: trinetra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=trinetra"
+      },
+      {
+        "id": "mw-vibhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhu' (SLP1 key: viBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBu"
+      },
+      {
+        "id": "mw-vibhuu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhū' (SLP1 key: viBU)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBU"
+      },
+      {
+        "id": "mw-virupaksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'virūpākṣa' (SLP1 key: virUpAkza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=virUpAkza"
+      },
+      {
+        "id": "mw-vishvanatha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśvanātha' (SLP1 key: viSvanATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSvanATa"
+      },
+      {
+        "id": "mw-aksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'akṣa' (SLP1 key: akza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=akza"
+      },
+      {
+        "id": "mw-ananda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ānanda' (SLP1 key: Ananda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Ananda"
+      },
+      {
+        "id": "mw-anga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṅga' (SLP1 key: aNga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aNga"
+      },
+      {
+        "id": "mw-araati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'arāti' (SLP1 key: arAti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=arAti"
+      },
+      {
+        "id": "mw-arka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'arka' (SLP1 key: arka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=arka"
+      },
+      {
+        "id": "mw-bhusha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhūṣā' (SLP1 key: BUzA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BUzA"
+      },
+      {
+        "id": "mw-id",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īḍ' (SLP1 key: Iq)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Iq"
+      },
+      {
+        "id": "mw-indu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'indu' (SLP1 key: indu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=indu"
+      },
+      {
+        "id": "mw-maha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahā' (SLP1 key: mahA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahA"
+      },
+      {
+        "id": "mw-natha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nātha' (SLP1 key: nATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nATa"
+      },
+      {
+        "id": "mw-netra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'netra' (SLP1 key: netra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=netra"
+      },
+      {
+        "id": "mw-pancan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcan' (SLP1 key: paYcan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcan"
+      },
+      {
+        "id": "mw-sura",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sura' (SLP1 key: sura)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sura"
+      },
+      {
+        "id": "mw-vahni",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vahni' (SLP1 key: vahni)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vahni"
+      },
+      {
+        "id": "mw-vaktra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vaktra' (SLP1 key: vaktra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vaktra"
+      },
+      {
+        "id": "mw-vibhuti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhūti' (SLP1 key: viBUti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBUti"
+      },
+      {
+        "id": "mw-virupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'virūpa' (SLP1 key: virUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=virUpa"
+      },
+      {
+        "id": "mw-vishva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśva' (SLP1 key: viSva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSva"
+      },
+      {
+        "id": "mahabharata-karna-8-24",
+        "name": "Mahābhārata, Karṇaparvan 8.24",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "kurma-purana-2-5",
+        "name": "Kūrma Purāṇa 2.5 (Īśvara Gītā)",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "bhagavata-8-7",
+        "name": "Bhāgavata Purāṇa 8.7",
+        "kind": "text",
+        "ancient": true,
+        "note": "In the Nīlakaṇṭha theme story, Śiva's words to Bhavānī and the snake-rope detail are told from memory; only 8.7.42–43 was checked. Confirm before review."
+      },
+      {
+        "id": "mahanarayana-upanishad-17-23",
+        "name": "Mahānārāyaṇa Upaniṣad 17–23",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "shiva-purana-vidyeshvara",
+        "name": "Śiva Purāṇa, Vidyeśvara Saṃhitā",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "vimalananda-mahanarayana",
+        "name": "Mahānārāyaṇopaniṣad, translated with notes by Swami Vimalananda, Sri Ramakrishna Math, Madras, 1986",
+        "kind": "translation",
+        "url": "https://archive.org/details/qmhp-mahanarayana-upanishad-by-swami-vimalananda-sanskr"
+      }
+    ]
+  },
+  "verse": {
+    "id": "v2",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "महेशं",
+            "iast": "maheśaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "सुरेशं",
+            "iast": "sureśaṃ"
+          },
+          {
+            "id": "w3",
+            "text": "सुरारातिनाशं",
+            "iast": "surārātināśaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "विभुं",
+            "iast": "vibhuṃ"
+          },
+          {
+            "id": "w5",
+            "text": "विश्वनाथं",
+            "iast": "viśvanāthaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "विभूत्यङ्गभूषम्",
+            "iast": "vibhūtyaṅgabhūṣam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "विरूपाक्षमिन्द्वर्कवह्नित्रिनेत्रं",
+            "iast": "virūpākṣamindvarkavahnitrinetraṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "सदानन्दमीडे",
+            "iast": "sadānandamīḍe"
+          },
+          {
+            "id": "w9",
+            "text": "प्रभुं",
+            "iast": "prabhuṃ"
+          },
+          {
+            "id": "w10",
+            "text": "पञ्चवक्त्रम्",
+            "iast": "pañcavaktram"
+          }
+        ],
+        "end": "॥ २ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w3"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Most printings read *surārāti-nāśa*: *arāti* is an enemy, so Śiva destroys the enemies of the gods, the demons. The Mahābhārata tells one such deed: in anger, for the good of the three worlds, Maheśvara burns the demons' triple city, Tripura, to the last. Other printings read *surārārti-nāśa*, the one who ends the gods' pain (*ārti*), and translate it that way. Both scan the same; the difference is a foe or a sorrow.",
+          "hi": "अधिकतर मुद्रित पाठों में *सुरारातिनाश* है: *अराति* यानी शत्रु, तो शिव देवताओं के शत्रुओं, असुरों, का नाश करते हैं। महाभारत ऐसा एक कर्म बताता है: तीनों लोकों के हित के लिए क्रोधित महेश्वर असुरों के तीन नगर, त्रिपुर, को पूरा जला देते हैं। कुछ मुद्रित पाठों में *सुरारार्तिनाश* है, यानी देवताओं की पीड़ा (*आर्ति*) मिटाने वाले, और उनका अनुवाद भी यही है। छन्द दोनों में एक-सा है; अन्तर बस शत्रु और दुःख का है।"
+        },
+        "citations": [
+          {
+            "source": "sanskritdocuments-vedasarast",
+            "locator": "verse ॥ २॥",
+            "quote": "महेशं सुरेशं सुरारातिनाशं"
+          },
+          {
+            "source": "vanivilas-1910-works-17",
+            "locator": "p. 71, verse ॥ २ ॥",
+            "quote": "महेशं सुरेशं सुरारातिनाशं"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 464, verse ॥ २ ॥",
+            "quote": "महेशं सुरेशं सुरारातिनाशं"
+          },
+          {
+            "source": "brihat-stotra-ratnakar-wikisource",
+            "locator": "p. 251, verse २",
+            "quote": "महेशं सुरेशं सुरारातिनाशं"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 26, verse ॥ २ ॥",
+            "quote": "महेशं सुरेशं सुरारार्तिनाशं"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 26, verse ॥ २ ॥, Hindi translation",
+            "quote": "देवदुःखदलन"
+          },
+          {
+            "source": "mw-araati",
+            "locator": "MW a-rāti, p. 87",
+            "quote": "m. an enemy"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata 8.24.121",
+            "quote": "evaṃ tat tripuraṃ dagdhaṃ dānavāś cāpy aśeṣataḥ"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata 8.24.121",
+            "quote": "maheśvareṇa kruddhena trailokyasya hitaiṣiṇā"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w6"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Vibhūti* is the ash Śiva smears on His body, the ash His devotees wear in imitation of Him. Yet the same word also means might, splendour and glory. So the ornament on His body is both: plain ash, and His greatness.\n\nAnd ash is what fire leaves behind. The Bhāgavata tells that at the end of time sparks from His own eye burn the whole world to ash. He wears what remains when everything else is gone.",
+          "hi": "*विभूति* वह भस्म है जिसे शिव अपने शरीर पर मलते हैं, और जिसे भक्त उन्हीं की तरह लगाते हैं। पर यही शब्द शक्ति, वैभव और महिमा भी है। इसलिए उनके अंगों का आभूषण दोनों है: साधारण राख भी, और उनकी महिमा भी।\n\nऔर राख वही है जो आग के बाद बचती है। भागवत बताता है कि समय के अन्त में उन्हीं के नेत्र की चिनगारियाँ पूरे संसार को भस्म कर देती हैं। वे वही धारण करते हैं जो सब कुछ मिट जाने के बाद बचता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-vibhuti",
+            "locator": "MW vi-bhūti, p. 979",
+            "quote": "with which Śiva is said to smear his body, and hence used in imitation of him by devotees"
+          },
+          {
+            "source": "mw-vibhuti",
+            "locator": "MW vi-bhūti, p. 978",
+            "quote": "manifestation of might, great power, superhuman power"
+          },
+          {
+            "source": "mw-vibhuti",
+            "locator": "MW vi-bhūti, p. 979",
+            "quote": "splendour, glory, magnificence"
+          },
+          {
+            "source": "bhagavata-8-7",
+            "locator": "Bhāgavata Purāṇa 8.7.32",
+            "quote": "वह्निस्फुलिङ्गशिखया भसितं न वेद"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w7"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "*Virūpākṣa* means 'with eyes unlike any other's'. *Virūpa* is odd, uncommon: Śiva has three eyes, an odd number, the third on His forehead. The line then names the three: moon, sun and fire. In the Kūrma Purāṇa, sages see Rudra in the sky with sun, moon and fire for eyes; the Bhāgavata hears the three eyes as the three qualities that make up all of nature. The lights of night, day and flame look out from one face.",
+          "hi": "*विरूपाक्ष* यानी 'ऐसे नेत्रों वाले जो किसी और जैसे नहीं'। *विरूप* का अर्थ है विषम, अनोखा: शिव के तीन नेत्र हैं, विषम संख्या, और तीसरा माथे पर। पंक्ति आगे तीनों के नाम देती है: चन्द्रमा, सूर्य और अग्नि। कूर्म पुराण में ऋषि आकाश में रुद्र को देखते हैं, जिनके नेत्र सूर्य, चन्द्र और अग्नि हैं; भागवत तीन नेत्रों को प्रकृति के तीन गुण कहता है। रात, दिन और ज्वाला की रोशनी एक ही मुख से देखती है।"
+        },
+        "citations": [
+          {
+            "source": "mw-virupaksha",
+            "locator": "MW vi-rūpākṣa, p. 984",
+            "quote": "as represented with an odd number of eyes, one being in his forehead"
+          },
+          {
+            "source": "kurma-purana-2-5",
+            "locator": "Kūrma Purāṇa 2.5.7",
+            "quote": "tameva mocakaṃ rudramākāśe dadṛśuḥ param"
+          },
+          {
+            "source": "kurma-purana-2-5",
+            "locator": "Kūrma Purāṇa 2.5.9",
+            "quote": "daṇḍapāṇiṃ trayīnetraṃ sūryasomāgnilocanam"
+          },
+          {
+            "source": "bhagavata-8-7",
+            "locator": "Bhāgavata Purāṇa 8.7.30",
+            "quote": "नेत्रत्रयं सत्त्वरजस्तमांसि"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 23",
+            "quote": "ऊर्ध्वरेतं विरूपाक्षं विश्वरूपाय वै नमो नमः"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w10"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Picture Śiva with five faces: four turned to the four directions, the fifth looking up. Each face has its own Vedic prayer, and the Mahānārāyaṇa Upaniṣad gives all five in a row: *Sadyojāta*, *Vāmadeva*, *Aghora*, *Tatpuruṣa*, *Īśāna*. The Bhāgavata says it in one line: His five faces are the five sacred chants. The Śiva Purāṇa's meditation verse sees Him just as this verse does, five-faced and three-eyed.",
+          "hi": "शिव के पाँच मुखों का चित्र बनाइए: चार मुख चारों दिशाओं की ओर, और पाँचवाँ ऊपर की ओर। हर मुख का अपना वैदिक मन्त्र है, और महानारायण उपनिषद् पाँचों को क्रम से देता है: *सद्योजात*, *वामदेव*, *अघोर*, *तत्पुरुष*, *ईशान*। भागवत यही बात एक पंक्ति में कहता है: उनके पाँच मुख पाँच पवित्र मन्त्र हैं। शिव पुराण का ध्यान-श्लोक भी उन्हें ठीक ऐसे ही देखता है: पाँच मुख और तीन नेत्र।"
+        },
+        "citations": [
+          {
+            "source": "vimalananda-mahanarayana",
+            "locator": "Mahānārāyaṇopaniṣad, tr. Swami Vimalananda (1986), note to section 17",
+            "quote": "five faces turned towards the four quarters and up"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 17",
+            "quote": "सद्योजातं प्रपद्यामि"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 18",
+            "quote": "वामदेवाय नमो ज्येष्ठाय नमः"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 19",
+            "quote": "अघोरेभ्योऽथ घोरेभ्यो घोरघोरतरेभ्यः"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 20",
+            "quote": "तत्पुरुषाय विद्महे महादेवाय धीमहि"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 21",
+            "quote": "ईशानः सर्वविद्यानामीश्वरः सर्वभूतानां"
+          },
+          {
+            "source": "bhagavata-8-7",
+            "locator": "Bhāgavata Purāṇa 8.7.29",
+            "quote": "मुखानि पञ्चोपनिषदस्तवेश"
+          },
+          {
+            "source": "shiva-purana-vidyeshvara",
+            "locator": "Śiva Purāṇa 1.20.52",
+            "quote": "pañcavaktraṃtrinetram"
+          },
+          {
+            "source": "mw-pancavaktra",
+            "locator": "MW pañca-vaktra, p. 577",
+            "quote": "N. of Śiva"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ]
+  }
+}

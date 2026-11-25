@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "66868c558badca88",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "verse.annotations.a1.body.hi",
+      "message": "\"यही तीन चिह्न यह श्लोक पुकारता है\" reads like a word-for-word copy of the English \"the same three marks this verse calls out\". In Hindi, पुकारना is used for calling a person or a name, not marks, so the sentence sounds slightly stilted. The rest of the English and Hindi (line translations, bhavartha, annotations, word meanings, asides, notes) is natural and spelled correctly.",
+      "suggested_fix": "यह श्लोक भी इन्हीं तीन चिह्नों से उन्हें पुकारता है।"
+    }
+  ]
+}

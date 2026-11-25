@@ -1,0 +1,402 @@
+{
+  "stotram": "shiva-panchakshara-stotram",
+  "verse": "v2",
+  "date": "2026-11-24",
+  "summary": {
+    "blockers_failed": 0,
+    "majors_failed": 0,
+    "minors_failed": 0,
+    "flags": 6,
+    "skipped": 0,
+    "judges_pending": 0,
+    "penalty": 0,
+    "exit_ready": true
+  },
+  "results": [
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.2",
+      "status": "flag",
+      "message": "Text lock not yet confirmed by a human.",
+      "path": "lock.confirmed_by",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.10",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "TOOL"
+    },
+    {
+      "check": "T1.8",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'mandākinīsalilacandanacarcitāya' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p1",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'nandīśvarapramathanāthamaheśvarāya' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p2",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "flag",
+      "message": "'mandārapuṣpabahupuṣpasupūjitāya' is not in Vidyut's lexicon; nothing to compare",
+      "path": "p3",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.4a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.5a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.10a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8b",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9a",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9c",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8b",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T2.9b",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.4",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.6",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.2",
+      "status": "flag",
+      "message": "mw-mandara gives two senses that could fit here: 'the coral tree, Erythrina Indica (also regarded as one of the 5 trees of paradise or Svarga)' and 'a white variety of Calotropis Gigantea'. The data picks the coral tree. That reading is defensible, since it pairs well with the heavenly Mandākinī in pāda 1. But the white Calotropis (madār/āk) flower is the one actually offered in Śiva worship, and neither gitapress-stotraratnavali nor sanskritdocuments-panch says which plant is meant. The data does not record the second sense. A human should decide whether to note it.",
+      "path": "words.w3.components[0].sense",
+      "suggested_fix": "Keep 'coral tree', and add a short note or alternative mentioning the white Calotropis (madār) sense listed in mw-mandara, which is the flower commonly offered to Śiva.",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.4",
+      "status": "flag",
+      "message": "w7 śivāya is marked epithet: true, but its only gloss is 'to Śiva'. No note explains the name. The meaning 'The Auspicious one' (mw-shiva) appears only in components[0].sense.gloss, which is not visible text. The rubric's pass case is a note saying the name means 'the auspicious one'. This is a refrain word, so that note may already be in v1; it cannot be checked from this bundle.",
+      "path": "words.w7.notes",
+      "suggested_fix": "If v1 does not already explain the name, add to words.w7.notes: en 'Śiva means \"the auspicious one\".' / hi 'शिव का अर्थ है \"मंगलमय, कल्याणकारी\"।'",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.5",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.10",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    }
+  ]
+}

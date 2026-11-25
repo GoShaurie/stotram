@@ -1,0 +1,44 @@
+[
+ {
+  "status": "fail",
+  "path": "words.w2.components[0].sense.gloss",
+  "message": "w2 is meant as the emphatic particle: its meaning is 'truly, indeed' and the note says 'Here an emphatic particle'. But the cited dictionary sense is the causal one, 'for, because, on account of'. mw-hi.md has a separate sense that fits this line: '[p. 1297,3] : indeed, assuredly, surely, of course, certainly'. vyakhya-sts-16.md ('निश्चित ही') and shlokam-shiva-tandava.md ('indeed') also read it as emphatic here. The causal sense belongs to w16, the second hi in line 4. As it stands, the cited sense contradicts the meaning given for w2.",
+  "suggested_fix": "Set words.w2.components[0].sense.gloss to \"indeed, assuredly, surely, certainly\" (MW hi, p. 1297,3). Keep 'for, because' only on w16.",
+  "check": "T4.2"
+ },
+ {
+  "status": "fail",
+  "path": "translations.hi.lines[0]",
+  "message": "The HI line 1 reads 'जो मनुष्य इस यहाँ इस प्रकार कहे गए, उत्तम से भी उत्तम स्तोत्र का...'. Putting 'इस' (w1) right before 'यहाँ इस प्रकार' doubles the इस and breaks the noun phrase, so the Hindi reads as stilted.",
+  "suggested_fix": "Move the w1 segment after the w3 participle segment: 'जो मनुष्य यहाँ इस प्रकार कहे गए | इस | उत्तम से भी उत्तम | स्तोत्र का | नित्य | पाठ, | स्मरण और कथन करता है,' (split the w3 segment so that w1 can sit between its two parts).",
+  "check": "T4.8"
+ },
+ {
+  "status": "fail",
+  "path": "annotations.a1.body",
+  "message": "a1 says every witness puts this verse 'just before the pūjāvasānasamaye verse'. None of the v16 evidence excerpts (sanskritdocuments-shivtand.md, sa-wikisource-shivatandava.md, ramakrishna-math-mantrapushpam.md, shlokam-shiva-tandava.md, sanskritdocuments-shivtand-meaning.md) contains the following verse or the word पूजावसानसमये. The notes in those files say only '13 verses + 2 phalaśruti' or '17 verses'. None of a1's citations supports the placement claim, and a1 does not link to the v17 annotation.",
+  "suggested_fix": "Link the claim to the v17 annotation (e.g. '[the pūjāvasānasamaye verse](#v17-a1)'), or reword it to what this verse's excerpts show: 'it comes second-to-last; sanskritdocuments.org and Sanskrit Wikisource number it 16, while the Ramakrishna Math print and shlokam.org, which print 13 verses plus two closing verses, number it 14.' Make the same change in body.hi.",
+  "check": "T4.9"
+ },
+ {
+  "status": "flag",
+  "path": "translations.en.lines[1][1]",
+  "message": "EN and HI read santatam (w8) differently. The EN segment 'that does not lapse' makes santatam describe the purity ('purity that does not lapse'). HI 'वह निरन्तर ... विशुद्धि को प्राप्त होता है' keeps it as an adverb of the verb ('continually attains'), which matches padas.p14 (kriyā-viśeṣaṇa, head p13) and vyakhya-sts-16 (सन्ततम् = सदैव, निरंतर; anvaya 'सन्ततं विशुद्धिं एति'). The two bhāvārthas agree with each other ('the purity stays' / 'शुद्धि टिकी रहती है'), so the gap is only in the line translations, but no alternative is recorded for it.",
+  "suggested_fix": "Make the EN line adverbial, e.g. 'continually reaches purity;' with refs w8 on 'continually'. Or record the 'lasting purity' reading as an alternative on w8.",
+  "check": "T4.7"
+ },
+ {
+  "status": "flag",
+  "path": "translations.en.lines[2]",
+  "message": "'he gains, and swiftly, deep devotion to Hara, the Guru, and goes to no other end.' The parenthetical 'and swiftly,' wedged between the verb and its object reads awkwardly.",
+  "suggested_fix": "e.g. 'he swiftly gains deep devotion to Hara, the Guru, and goes to no other end.' (w11 'swiftly' segment placed before w12 'gains').",
+  "check": "T4.8"
+ },
+ {
+  "status": "flag",
+  "path": "annotations.a5.body",
+  "message": "'The grammar and the context decide it' claims more than the evidence supports. mw-vimohana.md gives only 'confusion, perplexity' and 'the art of confusing or bewildering'. mw-muh.md gives the causative as 'to stupefy, bewilder'. Nothing in the evidence shows that vi- grammatically reverses moha. The 'removal of delusion' reading comes from the commentaries (vyakhya-sts-16.md, shlokam-shiva-tandava.md, sanskritdocuments-shivtand-meaning.md) and from the context, not from the grammar. Also, the 'echo of the name' rests on vyakhya.org's Hindi idiom 'हर लेने वाला'. That is the commentator's wording, and the annotation half-presents it as a feature of the Sanskrit.",
+  "suggested_fix": "Change to 'The commentaries and the context decide it' (Hindi: 'टीकाएँ और प्रसंग यही तय करते हैं'). Frame the Hara echo as vyakhya.org's own play on words, e.g. 'vyakhya.org's Hindi plays on the name: it says Śaṅkara's contemplation हर लेता है, takes away, the delusion…'.",
+  "check": "T4.9"
+ }
+]

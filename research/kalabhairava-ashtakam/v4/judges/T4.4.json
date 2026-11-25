@@ -1,0 +1,11 @@
+{
+  "check": "T4.4",
+  "fields_hash": "efca8c4e4d20f9b0",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "",
+      "message": "Outside this check: words.w8.sources lists mw-kala and mw-bhairava, and words.w8.components[].sense cites MW 'kāla' (black; time) and 'bhairava' (N. of a form of Śiva; frightful, terrible), but neither file is in research/kalabhairava-ashtakam/v4/sources/. Only mw-kalabhairava.md is there ('a form of Bhairava'). The breakdown of the name in w8.notes looks right by standard lexicography, but the evidence folder doesn't back it. A human should add the excerpts or confirm the sources."
+    }
+  ]
+}

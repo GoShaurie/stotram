@@ -1,0 +1,1541 @@
+{
+  "group": "translation",
+  "checks": {
+    "T3.5": "checks/judges/T3.5.md",
+    "T4.6": "checks/judges/T4.6.md",
+    "T4.7": "checks/judges/T4.7.md",
+    "T4.8": "checks/judges/T4.8.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    }
+  },
+  "verse": {
+    "id": "v7",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "करालभालपट्टिका",
+            "iast": "karālabhālapaṭṭikā"
+          },
+          {
+            "id": "w2",
+            "text": "धगद्धगद्धगज्ज्वल",
+            "iast": "dhagaddhagaddhagajjvala"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "द्धनञ्जयाहुतीकृत",
+            "iast": "ddhanañjayāhutīkṛta"
+          },
+          {
+            "id": "w4",
+            "text": "प्रचण्डपञ्चसायके",
+            "iast": "pracaṇḍapañcasāyake"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "धराधरेन्द्रनन्दिनी",
+            "iast": "dharādharendranandinī"
+          },
+          {
+            "id": "w6",
+            "text": "कुचाग्रचित्रपत्रक",
+            "iast": "kucāgracitrapatraka"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "प्रकल्पनैकशिल्पिनि",
+            "iast": "prakalpanaikaśilpini"
+          },
+          {
+            "id": "w8",
+            "text": "त्रिलोचने",
+            "iast": "trilocane"
+          },
+          {
+            "id": "w9",
+            "text": "रतिर्मम",
+            "iast": "ratirmama"
+          }
+        ],
+        "end": "॥ ७ ॥"
+      }
+    ],
+    "adhyahara": [
+      {
+        "id": "x1",
+        "sa": "भूयात्",
+        "iast": "bhūyāt",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1
+          },
+          "lakara": "āśīrliṅ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null,
+        "meaning": {
+          "en": "may (it) be, may (it) remain",
+          "hi": "हो, बनी रहे"
+        }
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Two small questions sit in the first word. First, the forehead: most witnesses read *bhāla*, but shlokam.org prints *phāla*. Monier-Williams records *phāla* as another spelling of, or a scribal slip for, *bhāla*, 'the forehead', so the sense stays the same.\n\nSecond, what is *karāla*, 'dreadful, formidable'? The compound places it beside the forehead-plate (*bhāla-paṭṭikā*; MW's *paṭṭikā* is a tablet or plate), and the Samskrit Academy word-gloss reads it that way. The vyakhya.org commentator instead hears it as describing the fire, the terror of the flame that is about to consume Kāma. Inside one long compound both readings can stand: the forehead is dreadful because of what burns on it.",
+          "hi": "पहले ही शब्द में दो छोटे प्रश्न हैं। पहला, माथा: अधिकतर पाठ *भाल* पढ़ते हैं, पर shlokam.org *फाल* छापता है। मोनियर-विलियम्स *फाल* को *भाल* (माथा) की दूसरी वर्तनी या लिपिक की भूल के रूप में दर्ज करते हैं, इसलिए अर्थ नहीं बदलता।\n\nदूसरा, *कराल* (भयंकर, विकराल) किसका विशेषण है? समास में यह ललाट-पटल (*भाल-पट्टिका*; कोश में *पट्टिका* = पटिया, पट्ट) के साथ आता है, और संस्कृत अकादमी का शब्दार्थ इसे ऐसे ही पढ़ता है। vyakhya.org के व्याख्याकार इसे अग्नि का विशेषण मानते हैं, उस ज्वाला की भयंकरता, जो कामदेव को भस्म करने वाली है। एक लम्बे समास के भीतर दोनों पाठ सम्भव हैं: माथा इसीलिए भयंकर है कि उस पर आग जल रही है।"
+        },
+        "citations": [
+          {
+            "source": "mw-phala",
+            "locator": "MW phāla, p. 717",
+            "quote": "= (or w.r. for) bhāla, the forehead"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 7, word-meanings",
+            "quote": "phālapaṭṭikā"
+          },
+          {
+            "source": "mw-karala",
+            "locator": "MW karāla, p. 255",
+            "quote": "formidable, dreadful, terrible"
+          },
+          {
+            "source": "mw-pattika",
+            "locator": "MW paṭṭikā, p. 579",
+            "quote": "a tablet, plate"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 7, word-meanings",
+            "quote": "dreadful-forehead-flat area"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, व्याख्या",
+            "quote": "श्लोक में कराल शब्द अग्नि की भयंकरता का परिचायक है"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w2"
+        ],
+        "kind": "sound",
+        "body": {
+          "en": "The fire of [verse 2](#v2-a3) is back, and with the same sound: *dhagad-dhagad-dhagaj*. Monier-Williams lists *dhagaddhag-iti* as an imitative word, 'crack! crack!', and the vyakhya.org gloss turns it into the Hindi *dhadhak dhadhak kar*, flaring again and again. Then comes the participle *jvalat*, 'blazing' (√jval).\n\nWatch where its last letter went. The display word ends *jvala*, yet the next line begins *ddh-*. The final t of *jvalat* has become d before the dh of *dhanañjaya*, and it is printed across the pāda break. So the word is not *jvala*, 'flame', standing alone: the doubled consonant shows a participle running straight into the word for fire.",
+          "hi": "[दूसरे श्लोक](#v2-a3) की आग लौट आई है, और उसी ध्वनि के साथ: *धगद्-धगद्-धगज्*। मोनियर-विलियम्स *धगद्धग्-इति* को अनुकरण-शब्द मानते हैं, अर्थ \"चट! चट!\", और vyakhya.org इसका अर्थ *धधक धधक कर* देता है। इसके बाद कृदन्त *ज्वलत्* आता है, 'धधकता हुआ' (√ज्वल्)।\n\nध्यान दें कि उसका अन्तिम अक्षर कहाँ गया। प्रदर्शित शब्द *ज्वल* पर समाप्त होता है, पर अगली पंक्ति *द्ध-* से शुरू होती है। *ज्वलत्* का अन्तिम 'त्' *धनञ्जय* के 'ध' से पहले 'द्' बन गया है और चरण की सीमा के पार छपा है। इसलिए यह अकेला *ज्वल* (ज्वाला) नहीं है: दोहरा व्यंजन बताता है कि कृदन्त सीधे अग्नि के नाम से जुड़ा है।"
+        },
+        "citations": [
+          {
+            "source": "mw-dhagaddhagiti",
+            "locator": "MW dhagaddhag-iti, p. 508",
+            "quote": "crack! crack!"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, शब्दार्थ",
+            "quote": "धगद्धगद्धगद्ध = धधक धधक कर"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, पदच्छेद",
+            "quote": "ज्वलत् = जलती हुई"
+          },
+          {
+            "source": "mw-jval",
+            "locator": "MW √jval, p. 428",
+            "quote": "to burn brightly, blaze, glow, shine"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w3",
+          "w4"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "This is the burning of Kāma. The vyakhya.org commentary recalls the story: the god of love set out to break Śiva's penance, and Śiva in anger opened the third eye in his forehead, whose flame turned Kāma to ash at once.\n\nThe poet tells it as a sacrifice. *Dhanañjaya*, best known as a name of Arjuna, here means fire, a sense MW records, and *āhutī-kṛ* is to offer something as an oblation: Kāma becomes the offering poured into that fire. He is *pracaṇḍa*, fierce, and *pañca-sāyaka*, 'the one with five arrows'. His arrows are flowers, and the commentator names them: lotus, aśoka, mango blossom, jasmine and blue lotus. They are so well known that, MW notes, *sāyaka* can stand for the number five.",
+          "hi": "यह कामदहन है। vyakhya.org की व्याख्या कथा याद दिलाती है: कामदेव शिव की तपस्या भंग करने चले, और क्रुद्ध शिव ने अपने ललाट का तीसरा नेत्र खोल दिया, जिसकी ज्वाला ने कामदेव को उसी क्षण भस्म कर दिया।\n\nकवि इसे यज्ञ की तरह कहता है। *धनञ्जय* अर्जुन के नाम के रूप में अधिक प्रसिद्ध है, पर यहाँ इसका अर्थ अग्नि है, जो कोश में दर्ज है; और *आहुती-कृ* का अर्थ है किसी को आहुति बनाकर अर्पित करना: कामदेव उसी अग्नि में डाली गई आहुति बन जाते हैं। वे *प्रचण्ड* हैं और *पञ्च-सायक*, 'पाँच बाणों वाले'। उनके बाण फूलों के हैं, जिनके नाम व्याख्याकार गिनाते हैं: अरविन्द, अशोक, आम्र-मंजरी, नवमल्लिका और नीलोत्पल। ये इतने प्रसिद्ध हैं कि कोश के अनुसार *सायक* शब्द पाँच की संख्या का प्रतीक भी है।"
+        },
+        "citations": [
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, व्याख्या",
+            "quote": "अपने भालस्थ तीसरे नेत्र को खोल दिया"
+          },
+          {
+            "source": "mw-dhanamjaya",
+            "locator": "MW dhanaṃ-jaya, p. 508",
+            "quote": "m. fire, Kāṭh."
+          },
+          {
+            "source": "mw-ahutikr",
+            "locator": "MW āhutī-√kṛ, p. 162",
+            "quote": "to offer as an oblation"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, व्याख्या",
+            "quote": "अरविन्दमशोकं च आम्रं च नवमल्लिका, नीलोत्पलं च पंचैते पंचबाणस्य सायका:"
+          },
+          {
+            "source": "mw-sayaka",
+            "locator": "MW sāyaka, p. 1207",
+            "quote": "from the 5 arrows of the god of love"
+          },
+          {
+            "source": "mw-pancabana",
+            "locator": "MW pañca-bāṇa, p. 576",
+            "quote": "N. of the god of love"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w5",
+          "w6",
+          "w7"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Straight after burning the god of desire, the verse shows Śiva as a lover. The daughter of the mountain-king (*dharādharendra*, MW's name for the Himālaya; see [verse 3](#v3-a1)) is Pārvatī, and Śiva is the one artist without equal (*eka-śilpin*) at drawing *citra-patraka* on her breast. MW explains *pattraka* as *pattra-bhaṅga*: decorative streaks drawn in musk and other fragrant pastes over face and body.\n\nThe pairing is the point. The vyakhya.org commentary insists that Indian thought ranks Kāma as a god, not a demon, and that desire which nourishes devotion to Śiva earns a place among the aims of life. The fire of the third eye burns Kāma; it does not abolish love.",
+          "hi": "कामदेव को भस्म करने के ठीक बाद श्लोक शिव को प्रेमी के रूप में दिखाता है। पर्वतराज (*धराधरेन्द्र*, कोश में हिमालय का नाम; देखें [तीसरा श्लोक](#v3-a1)) की पुत्री पार्वती हैं, और शिव उनके वक्ष पर *चित्र-पत्रक* बनाने वाले अनुपम कलाकार (*एक-शिल्पी*) हैं। कोश *पत्त्रक* को *पत्त्र-भङ्ग* बताता है: कस्तूरी आदि सुगन्धित लेपों से मुख और शरीर पर खींची गई सजावटी रेखाएँ।\n\nयह जोड़ी ही बात है। vyakhya.org की व्याख्या ज़ोर देकर कहती है कि भारतीय चिन्तन काम को देवता मानता है, असुर नहीं, और जो काम शिव-भाव को पुष्ट करे वह पुरुषार्थों में स्थान पाता है। तीसरे नेत्र की अग्नि कामदेव को जलाती है, प्रेम को मिटाती नहीं।"
+        },
+        "citations": [
+          {
+            "source": "mw-dharadharendra",
+            "locator": "MW dharā-dharendra, p. 510",
+            "quote": "N. of Himālaya"
+          },
+          {
+            "source": "mw-shilpin",
+            "locator": "MW śilpin, p. 1074",
+            "quote": "an artificer, artisan, craftsman, artist"
+          },
+          {
+            "source": "mw-pattraka",
+            "locator": "MW pattraka, p. 581",
+            "quote": "= pattra-bhaṅga, L."
+          },
+          {
+            "source": "mw-pattrabhanga",
+            "locator": "MW pattra-bhaṅga, p. 581",
+            "quote": "a decoration consisting in lines or streaks drawn on the face and body"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, व्याख्या",
+            "quote": "भारतीय आध्यात्मिकता काम को देवता की श्रेणी में रखती है न कि असुर की"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, व्याख्या",
+            "quote": "शिव भाव को पुष्ट करने वाला काम पुरुषार्थ का स्थान पाता है"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w8",
+          "w9"
+        ],
+        "kind": "grammar",
+        "body": {
+          "en": "The verse closes on the refrain of [verse 2](#v2-a5): *trilocane ratir mama*. Every description of Śiva again stands in the locative (*-sāyake*, *-śilpini*, *trilocane*), because *rati*, delight or fondness, takes its object in that case.\n\nThe name chosen is pointed. *Tri-locana*, 'three-eyed', is a bahuvrīhi, 'he who has three eyes', and the third of them is the very eye whose fire consumed Kāma in the first half; the vyakhya.org commentary, citing Sudarshan Singh Chakra, calls that eye the true home of fire. There is no verb: the vyakhya.org anvaya supplies *bhūyāt*, the benedictive 'may it be'. In *ratir mama* the visarga of *ratiḥ* turns into r before the voiced m.",
+          "hi": "श्लोक [दूसरे श्लोक](#v2-a5) की टेक पर समाप्त होता है: *त्रिलोचने रतिर्मम*। शिव के सभी विशेषण फिर सप्तमी में हैं (*-सायके*, *-शिल्पिनि*, *त्रिलोचने*), क्योंकि *रति* (प्रीति, लगाव) का विषय सप्तमी में आता है।\n\nनाम सोच-समझकर चुना गया है। *त्रि-लोचन*, 'तीन नेत्रों वाला', बहुव्रीहि है, और तीसरा नेत्र वही है जिसकी आग ने पूर्वार्ध में कामदेव को भस्म किया; vyakhya.org की व्याख्या सुदर्शन सिंह 'चक्र' को उद्धृत करते हुए उसी नेत्र को अग्नि का वास्तविक घर कहती है। श्लोक में क्रिया नहीं है: vyakhya.org का अन्वय *भूयात्* (आशीर्लिङ्, 'हो') जोड़ता है। *रतिर्मम* में *रतिः* का विसर्ग घोष 'म' से पहले 'र्' बन जाता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-rati",
+            "locator": "MW rati, p. 867",
+            "quote": "delight in, fondness for (loc. or comp."
+          },
+          {
+            "source": "mw-trilocana",
+            "locator": "MW tri-locana, p. 460",
+            "quote": "three-eyed (Śiva)"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, व्याख्या",
+            "quote": "उनका तृतीय नेत्र ही अग्नि का वास्तविक आवास है"
+          },
+          {
+            "source": "vyakhya-sts-7",
+            "locator": "श्लोक ७, अन्वय",
+            "quote": "मम रति: ( भूयात् )"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1",
+          "w2",
+          "w3",
+          "w4"
+        ],
+        "sa": "करालभालपट्टिकाधगद्धगद्धगज्ज्वलद्धनञ्जयाहुतीकृतप्रचण्डपञ्चसायके",
+        "iast": "karālabhālapaṭṭikādhagaddhagaddhagajjvaladdhanañjayāhutīkṛtapracaṇḍapañcasāyake",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "करालभालपट्टिकाधगद्धगद्धगज्ज्वलद्धनञ्जयाहुतीकृतप्रचण्डपञ्चसायक",
+            "iast": "karālabhālapaṭṭikādhagaddhagaddhagajjvaladdhanañjayāhutīkṛtapracaṇḍapañcasāyaka"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p3"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w5",
+          "w6",
+          "w7"
+        ],
+        "sa": "धराधरेन्द्रनन्दिनीकुचाग्रचित्रपत्रकप्रकल्पनैकशिल्पिनि",
+        "iast": "dharādharendranandinīkucāgracitrapatrakaprakalpanaikaśilpini",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "धराधरेन्द्रनन्दिनीकुचाग्रचित्रपत्रकप्रकल्पनैकशिल्पिन्",
+            "iast": "dharādharendranandinīkucāgracitrapatrakaprakalpanaikaśilpin"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p3"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w8"
+        ],
+        "sa": "त्रिलोचने",
+        "iast": "trilocane",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "त्रिलोचन",
+            "iast": "trilocana"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "adhikaraṇa",
+        "head": "p4"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w9"
+        ],
+        "sa": "रतिः",
+        "iast": "ratiḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "रति",
+            "iast": "rati"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "x1"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w9"
+        ],
+        "sa": "मम",
+        "iast": "mama",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अस्मद्",
+            "iast": "asmad"
+          },
+          "case": "genitive",
+          "number": "singular"
+        },
+        "role": "sambandha",
+        "head": "p4"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "May"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "my love"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "dwell"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "in the Three-eyed One,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "who made"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "the fierce god of the five arrows"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "an offering in the fire"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "that blazes, crackling dhagad-dhagad-dhagad,"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "on the dreadful plate of His forehead,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "and who is the one peerless artist at drawing"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "bright leaf-patterns on the breast"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "of the mountain-king's daughter."
+            }
+          ]
+        ],
+        "bhavartha": "The fire on Śiva's forehead, already crackling in verse 2, here does its most famous deed: Kāma, the fierce archer with five flower-arrows, is taken into it like an oblation and burnt away. Yet the same Śiva bends over Pārvatī, daughter of the Himālaya, and with an artist's care paints delicate leaf-patterns on her breast. The poet asks that his love stay fixed on this three-eyed god, who destroys desire and is also the tenderest of lovers."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "जिनके विकराल ललाट-पटल पर"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "धग्-धग्-धग् करती धधकती"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "अग्नि में"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "प्रचण्ड पंचबाण कामदेव"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "आहुति बन गया,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "जो पर्वतराज की पुत्री (पार्वती) के"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "वक्ष पर रंग-बिरंगी पत्र-रचना"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "करने वाले अनुपम शिल्पी हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "उन त्रिनेत्र (शिव) में"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "मेरी प्रीति"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "बनी रहे।"
+            }
+          ]
+        ],
+        "bhavartha": "शिव के माथे की जो आग दूसरे श्लोक में चटक रही थी, वह यहाँ अपना सबसे प्रसिद्ध काम करती है: फूलों के पाँच बाणों वाला प्रचण्ड धनुर्धर कामदेव उसमें आहुति की तरह डाला जाता है और जलकर राख हो जाता है। फिर भी वही शिव हिमालय की पुत्री पार्वती के पास झुककर, किसी कलाकार की तरह, उनके वक्ष पर कोमल पत्र-रचना बनाते हैं। कवि चाहता है कि उसका प्रेम इन्हीं त्रिनेत्र शिव में टिका रहे, जो काम को भस्म भी करते हैं और सबसे कोमल प्रेमी भी हैं।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "कराल",
+            "iast": "karāla"
+          },
+          {
+            "sa": "भाल",
+            "iast": "bhāla"
+          },
+          {
+            "sa": "पट्टिका",
+            "iast": "paṭṭikā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कराल",
+            "iast": "karāla",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कराल",
+              "iast": "karāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "karāla",
+              "gloss": "formidable, dreadful, terrible"
+            },
+            "meaning": {
+              "en": "dreadful, formidable",
+              "hi": "विकराल, भयंकर"
+            }
+          },
+          {
+            "sa": "भाल",
+            "iast": "bhāla",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भाल",
+              "iast": "bhāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhāla",
+              "gloss": "the forehead, brow"
+            },
+            "meaning": {
+              "en": "forehead",
+              "hi": "माथा, ललाट"
+            }
+          },
+          {
+            "sa": "पट्टिका",
+            "iast": "paṭṭikā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पट्टिका",
+              "iast": "paṭṭikā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "paṭṭikā",
+              "gloss": "a tablet, plate"
+            },
+            "meaning": {
+              "en": "flat surface, plate",
+              "hi": "पटल, समतल भाग"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "on the dreadful flat of the forehead",
+          "hi": "विकराल ललाट-पटल पर"
+        },
+        "literal": {
+          "en": "the dreadful forehead-plate",
+          "hi": "भयंकर माथे की पटिया"
+        },
+        "notes": {
+          "en": "The same image as lalāṭa-paṭṭa in verse 2, with the synonyms bhāla and paṭṭikā. Inside the compound it gives the place where the fire burns. vyakhya.org applies karāla to the fire rather than the forehead. shlokam.org reads phāla for bhāla; MW gives phāla as an equivalent of (or slip for) bhāla. No sandhi at the joins.",
+          "hi": "दूसरे श्लोक के ललाट-पट्ट वाला ही चित्र, पर्याय भाल और पट्टिका के साथ। समास में यह बताता है कि आग कहाँ जल रही है। vyakhya.org 'कराल' को माथे के बजाय अग्नि का विशेषण मानता है। shlokam.org 'भाल' के स्थान पर 'फाल' पढ़ता है; कोश में फाल को भाल का समानार्थी (या उसकी भूल) बताया गया है। जोड़ों पर कोई सन्धि नहीं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(the fire, dreadful) on the forehead-plate",
+              "hi": "ललाट-पटल पर (भयंकर अग्नि)"
+            },
+            "note": "vyakhya-sts-7 says karāla shows the dreadfulness of the fire; sanskritdocuments-shivtand-meaning and shlokam-shiva-tandava attach it to the forehead."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-karala",
+          "mw-bhala",
+          "mw-pattika",
+          "mw-phala",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "धगत्",
+            "iast": "dhagat"
+          },
+          {
+            "sa": "धगत्",
+            "iast": "dhagat"
+          },
+          {
+            "sa": "धगत्",
+            "iast": "dhagat"
+          },
+          {
+            "sa": "ज्वलत्",
+            "iast": "jvalat"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + dh → d + dh",
+            "explanation": {
+              "en": "Final t becomes the voiced d before the voiced dh: dhagat + dhagat → dhagaddhagat (twice).",
+              "hi": "अन्तिम 'त्' आगे के घोष 'ध' के कारण 'द्' बन जाता है: धगत् + धगत् → धगद्धगत् (दो बार)।"
+            }
+          },
+          {
+            "name": "jaśtva",
+            "rule": "t + j → j + j",
+            "explanation": {
+              "en": "The last dhagat's t becomes j before the j of jvalat: dhagat + jvalat → dhagajjvalat.",
+              "hi": "अन्तिम धगत् का 'त्' ज्वलत् के 'ज' से पहले 'ज्' बन जाता है: धगत् + ज्वलत् → धगज्ज्वलत्।"
+            }
+          },
+          {
+            "name": "jaśtva",
+            "rule": "t + dh → d + dh",
+            "explanation": {
+              "en": "The final t of jvalat becomes d before the dh of dhanañjaya (next display word), and that d is printed at the start of the next line: jvalat + dhanañjaya → jvaladdhanañjaya.",
+              "hi": "ज्वलत् का अन्तिम 'त्' धनञ्जय (अगला शब्द) के 'ध' से पहले 'द्' बन जाता है, और यह 'द्' अगली पंक्ति के आरम्भ में छपा है: ज्वलत् + धनञ्जय → ज्वलद्धनञ्जय।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "धगत्",
+            "iast": "dhagat",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "dhagaddhag-iti",
+              "gloss": "(onomat.) crack! crack!"
+            },
+            "meaning": {
+              "en": "onomatopoeia for the crackle of fire",
+              "hi": "आग की चटक का अनुकरण-शब्द"
+            }
+          },
+          {
+            "sa": "ज्वलत्",
+            "iast": "jvalat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ज्वल्",
+              "iast": "jval",
+              "gana": 1,
+              "gloss": {
+                "en": "to burn brightly, to blaze",
+                "hi": "जलना, धधकना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "jval",
+              "gloss": "to burn brightly, blaze, glow, shine"
+            },
+            "meaning": {
+              "en": "blazing",
+              "hi": "धधकती हुई"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "blazing with a crackling dhagad-dhagad-dhagad",
+          "hi": "धग्-धग्-धग् करती धधकती"
+        },
+        "notes": {
+          "en": "Anukaraṇa (onomatopoeia) repeated three times, as in verse 2, then the participle jvalat qualifying the fire (dhanañjaya, w3). The display word ends in jvala only because the final consonant of jvalat, turned to d, is printed with the next line; vyakhya.org splits it as ज्वलत्. Reading jvala 'flame' (MW) as a separate noun would leave the following ddh- unexplained.",
+          "hi": "अनुकरण-शब्द, दूसरे श्लोक की तरह तीन बार, फिर कृदन्त ज्वलत्, जो अग्नि (धनञ्जय, w3) का विशेषण है। प्रदर्शित शब्द 'ज्वल' पर इसलिए समाप्त होता है कि ज्वलत् का अन्तिम व्यंजन 'द्' बनकर अगली पंक्ति में छपा है; vyakhya.org इसे ज्वलत् ही अलग करता है। 'ज्वल' (ज्वाला) को अलग संज्ञा मानने पर आगे का 'द्ध-' समझ में नहीं आता।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dhagaddhagiti",
+          "mw-jval",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "धनञ्जय",
+            "iast": "dhanañjaya"
+          },
+          {
+            "sa": "आहुतीकृत",
+            "iast": "āhutīkṛta"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + ā → ā",
+            "explanation": {
+              "en": "Final a of dhanañjaya and initial ā of āhutīkṛta merge into one long ā: dhanañjaya + āhutīkṛta → dhanañjayāhutīkṛta.",
+              "hi": "धनञ्जय का अन्तिम 'अ' और आहुतीकृत का आरम्भिक 'आ' मिलकर एक दीर्घ 'आ' बनते हैं: धनञ्जय + आहुतीकृत → धनञ्जयाहुतीकृत।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "धनञ्जय",
+            "iast": "dhanañjaya",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "धनञ्जय",
+              "iast": "dhanañjaya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dhanaṃjaya",
+              "gloss": "fire"
+            },
+            "meaning": {
+              "en": "fire",
+              "hi": "अग्नि"
+            }
+          },
+          {
+            "sa": "आहुति",
+            "iast": "āhuti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हु",
+              "iast": "hu",
+              "gana": 3,
+              "prefixes": [
+                "ā"
+              ],
+              "gloss": {
+                "en": "to offer into the fire",
+                "hi": "अग्नि में हवन करना"
+              }
+            },
+            "formation": "ā + √hu + ktin (action noun); lengthened to āhutī by cvi before √kṛ",
+            "sense": {
+              "dict": "mw",
+              "headword": "ā-huti",
+              "gloss": "offering oblations with fire to the deities"
+            },
+            "meaning": {
+              "en": "oblation, offering",
+              "hi": "आहुति, हवि"
+            }
+          },
+          {
+            "sa": "कृत",
+            "iast": "kṛta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to make, to do",
+                "hi": "करना, बनाना"
+              }
+            },
+            "formation": "kta (past passive participle); āhutī-kṛta 'made into an oblation' (cvi)",
+            "sense": {
+              "dict": "mw",
+              "headword": "āhutī-kṛ",
+              "gloss": "to offer as an oblation"
+            },
+            "meaning": {
+              "en": "made (into)",
+              "hi": "बनाया गया"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "made an offering in the fire",
+          "hi": "अग्नि में आहुति बना दिया गया"
+        },
+        "literal": {
+          "en": "fire-made-into-an-oblation",
+          "hi": "अग्नि में आहुति किया हुआ"
+        },
+        "notes": {
+          "en": "The leading d of the display word belongs to jvalat (w2). dhanañjaya is fire here, not Arjuna (another MW sense). āhutī-kṛta is a cvi formation: something not an oblation is made into one. The relation of fire to the oblation is taken as locative, 'offered in the fire' (dhanañjaye āhutīkṛtaḥ).",
+          "hi": "प्रदर्शित शब्द का आरम्भिक 'द्' ज्वलत् (w2) का है। धनञ्जय यहाँ अग्नि है, अर्जुन नहीं (जो कोश का दूसरा अर्थ है)। आहुती-कृत च्वि-प्रयोग है: जो आहुति नहीं था, उसे आहुति बना दिया गया। अग्नि और आहुति का सम्बन्ध सप्तमी का माना गया है: 'अग्नि में आहुति किया गया' (धनञ्जये आहुतीकृतः)।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(Kāma) whom the fire made its oblation",
+              "hi": "(कामदेव) जिसे अग्नि ने आहुति बना लिया"
+            },
+            "note": "vyakhya-sts-7 glosses धनञ्जय as 'अग्नि ने' (agentive) and says the fire took Kāma as its oblation; the sense of the verse is the same."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-dhanamjaya",
+          "mw-ahuti",
+          "mw-ahutikr",
+          "mw-krta",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w4": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "प्रचण्ड",
+            "iast": "pracaṇḍa"
+          },
+          {
+            "sa": "पञ्च",
+            "iast": "pañca"
+          },
+          {
+            "sa": "सायके",
+            "iast": "sāyake"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रचण्ड",
+            "iast": "pracaṇḍa",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रचण्ड",
+              "iast": "pracaṇḍa"
+            },
+            "formation": "pra (intensive) + caṇḍa",
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-caṇḍa",
+              "gloss": "excessively violent, impetuous, furious, fierce"
+            },
+            "meaning": {
+              "en": "fierce, irresistible",
+              "hi": "प्रचण्ड, दुर्दम"
+            }
+          },
+          {
+            "sa": "पञ्च",
+            "iast": "pañca",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पञ्चन्",
+              "iast": "pañcan"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pañcan",
+              "gloss": "five"
+            },
+            "meaning": {
+              "en": "five",
+              "hi": "पाँच"
+            }
+          },
+          {
+            "sa": "सायक",
+            "iast": "sāyaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सायक",
+              "iast": "sāyaka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sāyaka",
+              "gloss": "a missile, arrow"
+            },
+            "meaning": {
+              "en": "arrow",
+              "hi": "बाण"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the fierce god of the five arrows, Kāma",
+          "hi": "प्रचण्ड पंचबाण कामदेव"
+        },
+        "literal": {
+          "en": "the fierce one who has five arrows",
+          "hi": "पाँच बाणों वाला प्रचण्ड"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "pañca-sāyaka 'he who has five arrows' is a bahuvrīhi naming Kāma, like MW's pañca-bāṇa. The ending -e is the locative of the whole compound w1–w4 (describing Śiva), not 'in the arrows'; shlokam.org's gloss 'sāyake: arrows' gives only the member meaning.",
+          "hi": "पञ्च-सायक 'जिसके पाँच बाण हैं' कामदेव का नाम बताने वाला बहुव्रीहि है, जैसे कोश का पञ्च-बाण। अन्त का '-ए' पूरे समास w1–w4 (जो शिव का वर्णन है) की सप्तमी है, 'बाणों में' नहीं; shlokam.org का 'सायके: बाण' केवल पद का अर्थ देता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-pracanda",
+          "mw-pancan",
+          "mw-sayaka",
+          "mw-pancabana",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w5": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "धराधर",
+            "iast": "dharādhara"
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra"
+          },
+          {
+            "sa": "नन्दिनी",
+            "iast": "nandinī"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + i → e",
+            "explanation": {
+              "en": "Final a of dharādhara and initial i of indra combine into e: dharādhara + indra → dharādharendra.",
+              "hi": "धराधर का अन्तिम 'अ' और इन्द्र का 'इ' मिलकर 'ए' बनते हैं: धराधर + इन्द्र → धराधरेन्द्र।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "धराधर",
+            "iast": "dharādhara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "धराधर",
+              "iast": "dharādhara"
+            },
+            "meaning": {
+              "en": "mountain (lit. 'earth-bearer')",
+              "hi": "पर्वत (शाब्दिक: धरा को धारण करने वाला)"
+            }
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इन्द्र",
+              "iast": "indra"
+            },
+            "meaning": {
+              "en": "lord, chief (at the end of a compound)",
+              "hi": "राजा, श्रेष्ठ (समास के अन्त में)"
+            }
+          },
+          {
+            "sa": "नन्दिनी",
+            "iast": "nandinī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नन्दिनी",
+              "iast": "nandinī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nandinī",
+              "gloss": "a daughter"
+            },
+            "meaning": {
+              "en": "daughter",
+              "hi": "पुत्री"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the daughter of the mountain-king, Pārvatī",
+          "hi": "पर्वतराज (हिमालय) की पुत्री पार्वती"
+        },
+        "literal": {
+          "en": "the daughter of the lord of earth-bearers",
+          "hi": "धराधरों के राजा की पुत्री"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "MW gives dharādharendra, 'mountain-king', as a name of the Himālaya, so his daughter is Pārvatī (as vyakhya.org glosses). The same phrase opens verse 3. MW's own entry for dharādhara alone records it as a name of Viṣṇu; here the mountain sense is required.",
+          "hi": "कोश में धराधरेन्द्र, 'पर्वतराज', हिमालय का नाम है, इसलिए उनकी पुत्री पार्वती हैं (जैसा vyakhya.org बताता है)। यही पद तीसरे श्लोक के आरम्भ में भी है। कोश में अकेले 'धराधर' की प्रविष्टि विष्णु का नाम देती है; यहाँ पर्वत का अर्थ ही अपेक्षित है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dharadharendra",
+          "mw-dharadhara",
+          "mw-nandini",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w6": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "कुच",
+            "iast": "kuca"
+          },
+          {
+            "sa": "अग्र",
+            "iast": "agra"
+          },
+          {
+            "sa": "चित्र",
+            "iast": "citra"
+          },
+          {
+            "sa": "पत्रक",
+            "iast": "patraka"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "Final a of kuca and initial a of agra merge into long ā: kuca + agra → kucāgra.",
+              "hi": "कुच का अन्तिम 'अ' और अग्र का 'अ' मिलकर दीर्घ 'आ' बनते हैं: कुच + अग्र → कुचाग्र।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कुच",
+            "iast": "kuca",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कुच",
+              "iast": "kuca"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kuca",
+              "gloss": "the female breast"
+            },
+            "meaning": {
+              "en": "breast",
+              "hi": "वक्ष, स्तन"
+            }
+          },
+          {
+            "sa": "अग्र",
+            "iast": "agra",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अग्र",
+              "iast": "agra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "agra",
+              "gloss": "foremost point or part; tip"
+            },
+            "meaning": {
+              "en": "tip, front",
+              "hi": "अग्रभाग"
+            }
+          },
+          {
+            "sa": "चित्र",
+            "iast": "citra",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "चित्र",
+              "iast": "citra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "citra",
+              "gloss": "bright, clear, bright-coloured"
+            },
+            "meaning": {
+              "en": "colourful, ornate",
+              "hi": "रंग-बिरंगा, विचित्र"
+            }
+          },
+          {
+            "sa": "पत्रक",
+            "iast": "patraka",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पत्रक",
+              "iast": "patraka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pattraka",
+              "gloss": "= pattra-bhaṅga"
+            },
+            "meaning": {
+              "en": "leaf-pattern, decorative lines painted on the body",
+              "hi": "पत्र-रचना, शरीर पर बनाई सजावटी रेखाएँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "bright leaf-patterns on the breast",
+          "hi": "वक्ष पर रंग-बिरंगी पत्र-रचना"
+        },
+        "literal": {
+          "en": "colourful leaf-designs on the tip of the breast",
+          "hi": "कुच के अग्रभाग पर रंगीन पत्र-रचना"
+        },
+        "notes": {
+          "en": "MW spells the word pattraka and notes that pattra is sometimes spelt patra; one of its senses is pattra-bhaṅga, ornamental streaks painted on face and body with musk and similar scents. vyakhya.org explains चित्रपत्रक as पत्र-रचना, varied painting on the limbs.",
+          "hi": "कोश में यह शब्द 'पत्त्रक' लिखा है और बताया है कि 'पत्त्र' कभी-कभी 'पत्र' भी लिखा जाता है; इसका एक अर्थ पत्त्र-भङ्ग है, यानी कस्तूरी जैसे सुगन्धित लेपों से मुख और शरीर पर बनाई सजावटी रेखाएँ। vyakhya.org 'चित्रपत्रक' को पत्र-रचना, अंगों पर विविध चित्रकारी बताता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kuca",
+          "mw-kucagra",
+          "mw-agra",
+          "mw-citra",
+          "mw-pattraka",
+          "mw-pattrabhanga",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w7": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "प्रकल्पन",
+            "iast": "prakalpana"
+          },
+          {
+            "sa": "एक",
+            "iast": "eka"
+          },
+          {
+            "sa": "शिल्पिनि",
+            "iast": "śilpini"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "vṛddhi",
+            "rule": "a + e → ai",
+            "explanation": {
+              "en": "Final a of prakalpana and initial e of eka combine into ai: prakalpana + eka → prakalpanaika.",
+              "hi": "प्रकल्पन का अन्तिम 'अ' और एक का 'ए' मिलकर 'ऐ' बनते हैं: प्रकल्पन + एक → प्रकल्पनैक।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रकल्पन",
+            "iast": "prakalpana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कॢप्",
+              "iast": "kḷp",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to arrange, to produce, to create",
+                "hi": "रचना, बनाना, व्यवस्थित करना"
+              }
+            },
+            "formation": "pra + √kḷp + lyuṭ (action noun)",
+            "meaning": {
+              "en": "drawing, fashioning",
+              "hi": "रचना, बनाना"
+            }
+          },
+          {
+            "sa": "एक",
+            "iast": "eka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "एक",
+              "iast": "eka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "eka",
+              "gloss": "single of its kind, unique, singular, chief, pre-eminent, excellent"
+            },
+            "meaning": {
+              "en": "sole, unrivalled",
+              "hi": "एकमात्र, अद्वितीय"
+            }
+          },
+          {
+            "sa": "शिल्पिन्",
+            "iast": "śilpin",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिल्प",
+              "iast": "śilpa"
+            },
+            "formation": "śilpa + ini (possessive)",
+            "sense": {
+              "dict": "mw",
+              "headword": "śilpin",
+              "gloss": "an artificer, artisan, craftsman, artist"
+            },
+            "meaning": {
+              "en": "artist, craftsman",
+              "hi": "शिल्पी, कलाकार"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(in Him who is) the one peerless artist at drawing (them)",
+          "hi": "(उन में जो इसकी) रचना करने वाले अनुपम शिल्पी हैं"
+        },
+        "literal": {
+          "en": "the sole artist in the fashioning",
+          "hi": "रचना में एकमात्र शिल्पी"
+        },
+        "notes": {
+          "en": "śilpini is the masculine locative singular of śilpin, ending the compound w5–w7 and agreeing with trilocane; it is not the feminine śilpinī. MW's two senses of prakalpana (placing in; supplying) do not fit; the verse uses it for making or drawing, as vyakhya.org and shlokam.org ('creation') read it. A split prakalpa + naika ('not one, many') is possible on the letters but gives no sense; all witnesses read eka, 'only'.",
+          "hi": "शिल्पिनि शिल्पिन् का पुंलिंग सप्तमी एकवचन है, जो समास w5–w7 को समाप्त करता है और त्रिलोचने से मेल खाता है; यह स्त्रीलिंग 'शिल्पिनी' नहीं है। कोश के प्रकल्पन के दोनों अर्थ (रखना; मिलाना) यहाँ नहीं बैठते; श्लोक इसे रचना या चित्र बनाने के अर्थ में लेता है, जैसा vyakhya.org और shlokam.org ('creation') पढ़ते हैं। अक्षरों के अनुसार 'प्रकल्प + नैक' (अनेक) विभाजन सम्भव है, पर उससे अर्थ नहीं बनता; सभी स्रोत 'एक' (एकमात्र) पढ़ते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-klp",
+          "mw-eka",
+          "mw-shilpin",
+          "mw-naika",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w8": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "त्रि",
+            "iast": "tri"
+          },
+          {
+            "sa": "लोचने",
+            "iast": "locane"
+          }
+        ],
+        "components": [
+          {
+            "sa": "त्रि",
+            "iast": "tri",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "त्रि",
+              "iast": "tri"
+            },
+            "meaning": {
+              "en": "three",
+              "hi": "तीन"
+            }
+          },
+          {
+            "sa": "लोचन",
+            "iast": "locana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लोचन",
+              "iast": "locana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "locana",
+              "gloss": "the eye"
+            },
+            "meaning": {
+              "en": "eye",
+              "hi": "नेत्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "in the Three-eyed One, Śiva",
+          "hi": "त्रिनेत्र (शिव) में"
+        },
+        "literal": {
+          "en": "in him who has three eyes",
+          "hi": "जिनके तीन नेत्र हैं, उन में"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Locative singular masculine of trilocana, the object of rati. Vidyut also offers feminine and neuter dual forms and a feminine vocative; none fits, since the word names Śiva and agrees with the two masculine locative compounds before it.",
+          "hi": "त्रिलोचन का पुंलिंग सप्तमी एकवचन, जो रति का विषय है। Vidyut स्त्रीलिंग और नपुंसक द्विवचन तथा स्त्रीलिंग सम्बोधन भी सुझाता है; कोई नहीं बैठता, क्योंकि शब्द शिव का नाम है और पहले के दोनों पुंलिंग सप्तमी समासों से मेल खाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-trilocana",
+          "mw-locana",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "रतिः",
+            "iast": "ratiḥ"
+          },
+          {
+            "sa": "मम",
+            "iast": "mama"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "iḥ + voiced consonant → ir",
+            "explanation": {
+              "en": "The visarga after i becomes r before the voiced m of mama: ratiḥ + mama → ratirmama.",
+              "hi": "'इ' के बाद का विसर्ग 'मम' के घोष 'म' से पहले 'र्' बन जाता है: रतिः + मम → रतिर्मम।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "रति",
+            "iast": "rati",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "रम्",
+              "iast": "ram",
+              "gana": 1,
+              "gloss": {
+                "en": "to delight in",
+                "hi": "रमना, आनन्द लेना"
+              }
+            },
+            "formation": "√ram + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "rati",
+              "gloss": "pleasure, enjoyment, delight in, fondness for (loc. or comp.)"
+            },
+            "meaning": {
+              "en": "delight, loving attachment",
+              "hi": "प्रीति, अनुराग"
+            }
+          },
+          {
+            "sa": "मम",
+            "iast": "mama",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mama",
+              "gloss": "gen. sg. of 1st pers. pron."
+            },
+            "meaning": {
+              "en": "my, of me",
+              "hi": "मेरी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "my love",
+          "hi": "मेरी प्रीति"
+        },
+        "notes": {
+          "en": "The refrain of verse 2. rati here is fondness for, with its object in the locative (trilocane and the two compounds); MW's erotic sense does not apply, despite the Kāma imagery around it.",
+          "hi": "दूसरे श्लोक की टेक। यहाँ रति का अर्थ 'में प्रीति, लगाव' है, जिसका विषय सप्तमी में है (त्रिलोचने और दोनों समास); आसपास कामदेव का प्रसंग होने पर भी कोश का काम-सम्बन्धी अर्थ यहाँ लागू नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-rati",
+          "mw-mama",
+          "vyakhya-sts-7",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      }
+    }
+  }
+}

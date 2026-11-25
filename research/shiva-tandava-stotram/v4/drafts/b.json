@@ -1,0 +1,1096 @@
+{
+  "id": "v4",
+  "number": 4,
+  "kind": "verse",
+  "lines": [
+    {
+      "words": [
+        { "id": "w1", "text": "जटाभुजङ्गपिङ्गल", "iast": "jaṭābhujaṅgapiṅgala" },
+        { "id": "w2", "text": "स्फुरत्फणामणिप्रभा", "iast": "sphuratphaṇāmaṇiprabhā" }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        { "id": "w3", "text": "कदम्बकुङ्कुमद्रव", "iast": "kadambakuṅkumadrava" },
+        { "id": "w4", "text": "प्रलिप्तदिग्वधूमुखे", "iast": "praliptadigvadhūmukhe" }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        { "id": "w5", "text": "मदान्धसिन्धुर", "iast": "madāndhasindhura" },
+        { "id": "w6", "text": "स्फुरत्त्वगुत्तरीयमेदुरे", "iast": "sphurattvaguttarīyamedure" }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        { "id": "w7", "text": "मनो", "iast": "mano" },
+        { "id": "w8", "text": "विनोदमद्भुतं", "iast": "vinodamadbhutaṃ" },
+        { "id": "w9", "text": "बिभर्तु", "iast": "bibhartu" },
+        { "id": "w10", "text": "भूतभर्तरि", "iast": "bhūtabhartari" }
+      ],
+      "end": "॥ ४ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1", "w2", "w3", "w4"],
+      "iast": "jaṭā-bhujaṅga-piṅgala-sphurat-phaṇā-maṇi-prabhā-kadamba-kuṅkuma-drava-pralipta-dik-vadhū-mukhe",
+      "type": "bahuvrīhi",
+      "subtype": "with a rūpaka inside: the gem-glow is identified with the turmeric-and-saffron paste (prabhā eva kadamba-kuṅkuma-dravaḥ)",
+      "structure": "(((((((jaṭā-bhujaṅga)-((piṅgala-sphurat)-phaṇā))-maṇi)-prabhā)-((kadamba-kuṅkuma)-drava))-pralipta)-((dik-vadhū)-mukha))",
+      "vigraha": "जटासु भुजङ्गानां पिङ्गलासु स्फुरन्तीषु फणासु ये मणयः तेषां प्रभा एव कदम्बकुङ्कुमद्रवः, तेन प्रलिप्तानि दिग्वधूनां मुखानि येन, तस्मिन्",
+      "meaning": {
+        "en": "in Him by whom the faces of the brides of the quarters are smeared with the glow of the gems on the tawny, flashing hoods of the serpents in His matted hair, as if with a liquid paste of turmeric and saffron",
+        "hi": "उनमें, जिनकी जटाओं के सर्पों के पीले-भूरे, चमकते फनों की मणियों की आभा ने, हल्दी और केसर के घोल की तरह, दिशा-रूपी वधुओं के मुख लीप दिए हैं"
+      },
+      "note": {
+        "en": "One compound of fourteen members running across the pāda break (…prabhā- / kadamba…), with a single case ending at the end (-mukhe, locative). Inside it, jaṭā-bhujaṅga 'the serpents in the matted hair' own the piṅgala-sphurat-phaṇā 'tawny, flashing hoods', whose maṇi 'gems' give off prabhā 'radiance'. By rūpaka that radiance is the kadamba-kuṅkuma-drava, a liquid paste of turmeric and saffron, with which the dig-vadhū-mukha 'faces of the brides of the quarters' are pralipta 'smeared'. The whole is a bahuvrīhi describing Śiva, so it is masculine locative, agreeing with bhūtabhartari at the end of the verse.",
+        "hi": "चौदह पदों का एक समास, जो चरण की सीमा पार करता है (…प्रभा- / कदम्ब…); विभक्ति केवल अन्त में है (-मुखे, सप्तमी)। इसके भीतर जटा-भुजङ्ग 'जटाओं के सर्प' के पिङ्गल-स्फुरत्-फणा 'पीले-भूरे, चमकते फन' हैं, जिनकी मणियों से प्रभा 'आभा' निकलती है। रूपक से यही आभा कदम्ब-कुङ्कुम-द्रव, यानी हल्दी और केसर का घोल है, जिससे दिग्वधू-मुख 'दिशा-रूपी वधुओं के मुख' प्रलिप्त 'लीपे गए' हैं। पूरा समास शिव का वर्णन करने वाला बहुव्रीहि है, इसलिए पुल्लिंग सप्तमी में है और श्लोक के अन्त के 'भूतभर्तरि' से मेल खाता है।"
+      }
+    },
+    "c2": {
+      "members": ["w5", "w6"],
+      "iast": "mada-andha-sindhura-sphurat-tvak-uttarīya-medure",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā (…-uttarīyeṇa meduraḥ), with a rūpaka karmadhāraya tvag-uttarīya 'the hide as upper garment' inside",
+      "structure": "(((((mada-andha)-sindhura)-(sphurat-tvak))-uttarīya)-medura)",
+      "vigraha": "मदेन अन्धस्य सिन्धुरस्य स्फुरन्ती त्वक् एव उत्तरीयम्, तेन मेदुरः, तस्मिन्",
+      "meaning": {
+        "en": "in Him who is thickly mantled in the gleaming hide of a rut-blinded elephant, worn as an upper garment",
+        "hi": "उनमें, जो मद से अन्धे हाथी की चमकती खाल का उत्तरीय घना ओढ़े हुए हैं"
+      },
+      "note": {
+        "en": "mada-andha 'blind with rut' qualifies sindhura 'elephant'; its sphurat-tvak 'gleaming hide' is, by rūpaka, an uttarīya 'upper garment'. The last member medura 'thick with, full of' takes that garment as its instrument: thickly covered with it. The compound ends in an adjective, masculine locative, and qualifies bhūtabhartari. See annotation a3 for the variant sindhurāsura-tvak.",
+        "hi": "मद-अन्ध 'मद से अन्धा' सिन्धुर 'हाथी' का विशेषण है; उसकी स्फुरत्-त्वक् 'चमकती खाल' रूपक से उत्तरीय 'ऊपर ओढ़ने का वस्त्र' है। अन्तिम पद मेदुर 'से भरा, घना' इसी वस्त्र को साधन बनाता है: उससे घना ढका हुआ। समास विशेषण पर समाप्त होता है, पुल्लिंग सप्तमी में है और 'भूतभर्तरि' का विशेषण है। दूसरे पाठ 'सिन्धुरासुर-त्वक्' के लिए टिप्पणी a3 देखें।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1", "w2", "w3", "w4"],
+      "sa": "जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभाकदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे",
+      "iast": "jaṭābhujaṅgapiṅgalasphuratphaṇāmaṇiprabhākadambakuṅkumadravapraliptadigvadhūmukhe",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभाकदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुख",
+          "iast": "jaṭābhujaṅgapiṅgalasphuratphaṇāmaṇiprabhākadambakuṅkumadravapraliptadigvadhūmukha"
+        },
+        "gender": "masculine",
+        "case": "locative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p2",
+      "words": ["w5", "w6"],
+      "sa": "मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे",
+      "iast": "madāndhasindhurasphurattvaguttarīyamedure",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुर",
+          "iast": "madāndhasindhurasphurattvaguttarīyamedura"
+        },
+        "gender": "masculine",
+        "case": "locative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p3",
+      "words": ["w7"],
+      "sa": "मनः",
+      "iast": "manaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "मनस्", "iast": "manas" },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p6"
+    },
+    {
+      "id": "p4",
+      "words": ["w8"],
+      "sa": "विनोदम्",
+      "iast": "vinodam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "विनोद", "iast": "vinoda" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p6"
+    },
+    {
+      "id": "p5",
+      "words": ["w8"],
+      "sa": "अद्भुतम्",
+      "iast": "adbhutam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "अद्भुत", "iast": "adbhuta" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p4"
+    },
+    {
+      "id": "p6",
+      "words": ["w9"],
+      "sa": "बिभर्तु",
+      "iast": "bibhartu",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": { "sa": "भृ", "iast": "bhṛ", "gana": 3 },
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p7",
+      "words": ["w10"],
+      "sa": "भूतभर्तरि",
+      "iast": "bhūtabhartari",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "भूतभर्तृ", "iast": "bhūtabhartṛ" },
+        "gender": "masculine",
+        "case": "locative",
+        "number": "singular"
+      },
+      "role": "adhikaraṇa",
+      "head": "p6"
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "मे",
+      "iast": "me",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "अस्मद्", "iast": "asmad" },
+        "case": "genitive",
+        "number": "singular"
+      },
+      "role": "sambandha",
+      "head": "p3",
+      "meaning": {
+        "en": "my (supplied: whose mind is meant)",
+        "hi": "मेरा (अध्याहृत: किसका मन)"
+      }
+    }
+  ],
+  "anvaya": ["p1", "p2", "p7", "x1", "p3", "p5", "p4", "p6"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w9"], "text": "May" },
+          { "refs": ["x1"], "text": "my" },
+          { "refs": ["w7"], "text": "mind" },
+          { "refs": ["w9"], "text": "hold" },
+          { "refs": ["w8"], "text": "a wondrous delight" },
+          { "refs": ["w10"], "text": "in the Lord who sustains all beings," }
+        ],
+        [
+          { "refs": ["w1", "w2"], "text": "in whose matted hair the serpents lift tawny, flashing hoods," },
+          { "refs": ["w2"], "text": "and the glow of the gems on them," },
+          { "refs": ["w3"], "text": "like a liquid paste of turmeric and saffron," },
+          { "refs": ["w4"], "text": "has smeared the faces of the brides of the quarters;" }
+        ],
+        [
+          { "refs": ["w6"], "text": "who goes thickly mantled in the gleaming hide" },
+          { "refs": ["w5"], "text": "of an elephant blind with rut," },
+          { "refs": ["w6"], "text": "worn as His upper garment." }
+        ]
+      ],
+      "bhavartha": "The verse paints Śiva's radiance before it prays. The serpents coiled in His matted hair raise tawny, glittering hoods, and the gems on those hoods throw out a yellow light so rich that the horizons look like brides whose faces have been rubbed with turmeric and saffron. Across His shoulders hangs the glossy hide of a rut-maddened elephant, worn as a heavy upper cloth. Only in the last line does the wish come: may the poet's mind find a wondrous delight in this Lord who upholds every living being."
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w1", "w2"], "text": "जिनकी जटाओं में बसे सर्पों के पीले-भूरे, चमकते फनों पर जड़ी" },
+          { "refs": ["w2"], "text": "मणियों की आभा" },
+          { "refs": ["w3"], "text": "हल्दी और केसर के घोल की तरह" },
+          { "refs": ["w4"], "text": "दिशा-रूपी वधुओं के मुखों पर लिप गई है," }
+        ],
+        [
+          { "refs": ["w5"], "text": "मद से अन्धे हाथी की" },
+          { "refs": ["w6"], "text": "चमकती खाल का उत्तरीय जो घना ओढ़े हुए हैं," }
+        ],
+        [
+          { "refs": ["w10"], "text": "ऐसे, सब प्राणियों को धारण करने वाले प्रभु में" },
+          { "refs": ["x1"], "text": "मेरा" },
+          { "refs": ["w7"], "text": "मन" },
+          { "refs": ["w8"], "text": "अद्भुत आनन्द" },
+          { "refs": ["w9"], "text": "धारण करे।" }
+        ]
+      ],
+      "bhavartha": "प्रार्थना से पहले श्लोक शिव की दीप्ति का चित्र बनाता है। उनकी जटाओं में लिपटे सर्प अपने पीले-भूरे, झिलमिलाते फन उठाए हैं, और उन फनों की मणियों से ऐसी सुनहरी रोशनी फैलती है कि चारों ओर का क्षितिज उन दुल्हनों जैसा लगता है जिनके चेहरों पर हल्दी और केसर मली गई हो। उनके कन्धों पर मद में अन्धे हाथी की चिकनी, चमकती खाल भारी ओढ़नी बनकर पड़ी है। इच्छा केवल अन्तिम पंक्ति में आती है: हर प्राणी को सँभालने वाले इन प्रभु में कवि का मन अद्भुत आनन्द पाए।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1", "w2"],
+      "kind": "mythology",
+      "body": {
+        "en": "Whose serpents are these? The text says only *bhujaṅga*, serpent, living in the *jaṭā*, the matted locks. The vyakhya.org commentary names it: Vāsuki, the great jewel-bearing serpent who is Mahādeva's ornament, the same serpent tradition sees at His neck in [verse 1](#v1-a2). It explains the name too: of the serpent kings, Śeṣa became Viṣṇu's couch and Vāsuki became Śiva's ornament, so a 'king of serpents' on Śiva is not Śeṣa.\n\nThe picture is one of light. A *phaṇā* is a serpent's spread hood; on it sits a *maṇi*, a gem, whose *prabhā*, radiance, is *piṅgala*: tawny, yellow, gold-coloured. The commentary watches that yellow light flood the quarters.",
+        "hi": "ये सर्प किसके हैं? पाठ केवल *भुजङ्ग* (सर्प) कहता है, जो *जटा* में रहता है। vyakhya.org की व्याख्या उसका नाम बताती है: वासुकि, मणि धारण करने वाला महासर्प, जो महादेव का आभूषण है; [पहले श्लोक](#v1-a2) में गले के सर्प को भी परम्परा यही मानती है। व्याख्या कारण भी समझाती है: नागराजों में शेष विष्णु की शय्या बने और वासुकि शिव का आभूषण, इसलिए शिव पर 'सर्पराज' पढ़कर उसे शेष न समझें।\n\nपूरा चित्र प्रकाश का है। *फणा* सर्प का फैला हुआ फन है; उस पर *मणि* है, और उसकी *प्रभा* (आभा) *पिङ्गल* है, यानी भूरी-पीली, सुनहरी। व्याख्या इसी पीली रोशनी को दिशाओं पर छाते हुए देखती है।"
+      },
+      "citations": [
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, व्याख्या (para. 2)",
+          "quote": "मणिधारी महासर्प वासुकि वस्तुत: महादेव के आभूषण हैं"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, व्याख्या (para. 2)",
+          "quote": "शेषनाग श्रीविष्णु की शैय्या बन कर धन्य हुए तथा वासुकि शिवजी का आभूषण बन कर"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, शब्दार्थ",
+          "quote": "जटा + भुजंग = जटा से लिपटा हुआ सर्प"
+        },
+        {
+          "source": "mw-phana",
+          "locator": "MW phaṇa, p. 716",
+          "quote": "the expanded hood or neck of a serpent"
+        },
+        {
+          "source": "mw-mani",
+          "locator": "MW maṇi, p. 774",
+          "quote": "a jewel, gem, pearl"
+        },
+        {
+          "source": "mw-prabha",
+          "locator": "MW prabhā, p. 683",
+          "quote": "light, splendour, radiance"
+        },
+        {
+          "source": "mw-pingala",
+          "locator": "MW piṅgala, p. 624",
+          "quote": "reddish-brown, tawny, yellow, gold-coloured"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, व्याख्या (para. 1)",
+          "quote": "मणि के प्रगाढ़ पीले प्रकाश की दीप्ति से दिशाएं उद्भासित हो रही हैं"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": ["w3", "w4"],
+      "kind": "context",
+      "body": {
+        "en": "Here the light turns into make-up. The quarters of the sky are women: *dig-vadhū*, 'bride of the quarters', which Monier-Williams equates with *dik-kanyā*, a quarter of the sky deified as a young girl. The yellow gem-glow of the first line is the paste rubbed on their faces, and the whole horizon turns gold. vyakhya.org draws the same picture: the quarter is called a *digvadhū*, a lovely woman with her face anointed.\n\nWhat the paste is made of depends on *kadamba*. vyakhya.org reads turmeric, a sense MW records from the lexicographers, which pairs naturally with *kuṅkuma*, saffron. shlokam.org takes the Kadamba tree, whose blossoms MW calls orange-coloured. MW's neuter *kadamba*, 'a multitude', would give 'a mass of saffron liquid' instead.",
+        "hi": "यहाँ रोशनी श्रृंगार बन जाती है। आकाश की दिशाएँ स्त्रियाँ हैं: *दिग्वधू*, 'दिशा-रूपी वधू'; मोनियर-विलियम्स इसे *दिक्कन्या* के बराबर रखते हैं, यानी दिशा जिसे युवती के रूप में देवी माना गया। पहली पंक्ति की पीली मणि-आभा ही उनके चेहरों पर मला गया लेप है, और पूरा क्षितिज सुनहरा हो उठता है। vyakhya.org भी यही चित्र बनाता है: दिशा को *दिग्वधू* कहा गया, एक सुन्दरी जिसके मुख पर लेप लगा है।\n\nलेप किस चीज़ का है, यह *कदम्ब* पर टिका है। vyakhya.org इसे हल्दी पढ़ता है; मोनियर-विलियम्स यह अर्थ कोशकारों से देते हैं, और *कुङ्कुम* (केसर) के साथ यह जोड़ी स्वाभाविक है। shlokam.org कदम्ब का पेड़ लेता है, जिसके फूल मोनियर-विलियम्स के अनुसार नारंगी रंग के होते हैं। नपुंसक *कदम्ब* का अर्थ 'समूह' भी है, तब अर्थ होगा 'केसर के घोल का ढेर'।"
+      },
+      "citations": [
+        {
+          "source": "mw-digvadhu",
+          "locator": "MW dig-vadhū → dik-kanyā, pp. 477–480",
+          "quote": "a quarter of the sky deified as a young virgin"
+        },
+        {
+          "source": "mw-digvadhu",
+          "locator": "MW vadhū, p. 917",
+          "quote": "a bride or newly-married woman, young wife, spouse, any wife or woman"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, व्याख्या (para. 1)",
+          "quote": "दिशा को दिग्वधू कहा"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, शब्दार्थ",
+          "quote": "कदम्ब = हरिद्रा (हल्दी)"
+        },
+        {
+          "source": "mw-kadamba",
+          "locator": "MW kadamba m., p. 247",
+          "quote": "turmeric, L."
+        },
+        {
+          "source": "mw-kunkuma",
+          "locator": "MW kuṅkuma, p. 287",
+          "quote": "saffron (Crocus sativus, the plant and the pollen of the flowers)"
+        },
+        {
+          "source": "shlokam-shiva-tandava",
+          "locator": "verse 4, word-meanings",
+          "quote": "Kadamba tree"
+        },
+        {
+          "source": "mw-kadamba",
+          "locator": "MW kadamba m., p. 247",
+          "quote": "a tree with orange-coloured fragrant blossoms"
+        },
+        {
+          "source": "mw-kadamba",
+          "locator": "MW kadamba n., p. 247",
+          "quote": "a multitude, assemblage, collection, troop, herd"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w5", "w6"],
+      "kind": "variant",
+      "body": {
+        "en": "Two readings divide this line. Most witnesses gathered here, the Ramakrishna Math print among them, read *sindhura-sphurat-tvak*, 'the gleaming hide of the elephant'. Sanskrit Wikisource reads *sindhurāsura-tvak*, 'the hide of the elephant-demon', and sanskritdocuments.org prints that in parentheses as its alternative. Both keep the strict short-long beat of the pāda, so the meter cannot choose.\n\nThe demon reading names the story: Śiva killed Gajāsura and wore his skin. vyakhya.org prints *sphurat*, yet still explains the cloak as Gajāsura's hide, and reads *madāndha* as blind with pride in his own strength rather than with an elephant's rut. Its gloss of *medura*, 'fat, fleshy', makes the cloak heavy and glossy; shlokam.org just says 'wearing'.",
+        "hi": "इस पंक्ति में दो पाठ मिलते हैं। यहाँ जुटाए गए अधिकतर स्रोत, रामकृष्ण मठ की छपी प्रति समेत, *सिन्धुर-स्फुरत्-त्वक्* पढ़ते हैं: 'हाथी की चमकती खाल'। संस्कृत विकिस्रोत *सिन्धुरासुर-त्वक्* पढ़ता है: 'गज-रूपी असुर की खाल', और sanskritdocuments.org इसे कोष्ठक में दूसरे पाठ के रूप में छापता है। दोनों पाठ चरण की लघु-गुरु लय को ज्यों का त्यों रखते हैं, इसलिए छन्द से फ़ैसला नहीं होता।\n\nअसुर वाला पाठ कथा का नाम ले लेता है: शिव ने गजासुर को मारकर उसकी खाल ओढ़ी। vyakhya.org पाठ में *स्फुरत्* छापता है, फिर भी उत्तरीय को गजासुर की खाल बताता है, और *मदान्ध* को हाथी की मस्ती से नहीं, अपने बल के घमंड से अन्धा पढ़ता है। उसका *मेदुर* का अर्थ 'मोटा-मांसल' है, जिससे यह ओढ़नी भारी और चिकनी लगती है; shlokam.org बस 'पहने हुए' कहता है।"
+      },
+      "citations": [
+        {
+          "source": "ramakrishna-math-mantrapushpam",
+          "locator": "p. 468, verse ४",
+          "quote": "मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे"
+        },
+        {
+          "source": "sa-wikisource-shivatandava",
+          "locator": "॥४॥",
+          "quote": "मदान्धसिन्धुरासुरत्वगुत्तरीयमेदुरे"
+        },
+        {
+          "source": "sanskritdocuments-shivtand",
+          "locator": "verse 4, line 3",
+          "quote": "मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे (सिन्धुरासुरत्व)"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, भावार्थ",
+          "quote": "शिवजी ने मदान्ध गजासुर के चर्म का उत्तरीय (पटुका) ओढ़ा हुआ है"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, व्याख्या (para. 3)",
+          "quote": "जो महादेव द्वारा मारा गया"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, व्याख्या (para. 3)",
+          "quote": "उसे अपने बल व पराक्रम का बहुत मद था"
+        },
+        {
+          "source": "mw-mada",
+          "locator": "MW mada, p. 777",
+          "quote": "rut (esp. of an elephant)"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, शब्दार्थ",
+          "quote": "मेदुर = मेदयुक्त अर्थात् मोटा-मांसल"
+        },
+        {
+          "source": "shlokam-shiva-tandava",
+          "locator": "verse 4, word-meanings",
+          "quote": "medura:wearing"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a4",
+      "refs": ["w7", "w8", "w9", "w10"],
+      "kind": "wordplay",
+      "body": {
+        "en": "Listen to the last line: *bibhartu* … *bhūta-bhartari*. Both words come from √bhṛ, 'to bear, carry, hold'. A *bhartṛ* is one who bears or maintains, so the prayer is that the mind may *bear* a wondrous delight in the One who *bears* all beings.\n\n*Bhūta* has two faces as well. It is any living being, and vyakhya.org reads the Lord who nourishes all creatures; it is also a spirit or ghost, and shlokam.org's footnote allows the mythical beings who guard Kailāsa. The opening *mano vinodam* repeats the close of verse 3, but the verb moves from *etu*, 'may it reach', to *bibhartu*, 'may it hold' ([verse 3](#v3-a5)).",
+        "hi": "अन्तिम पंक्ति सुनिए: *बिभर्तु* … *भूत-भर्तरि*। दोनों शब्द √भृ से बने हैं, जिसका अर्थ है 'धारण करना, उठाना, थामना'। *भर्ता* वह है जो धारण या पालन करता है; इसलिए प्रार्थना यह बनती है कि जो सब प्राणियों को धारण करता है, उसमें मन अद्भुत आनन्द को धारण करे।\n\n*भूत* के भी दो रूप हैं। एक, कोई भी जीव: vyakhya.org इसी अर्थ में सब प्राणियों का पालन-पोषण करने वाले प्रभु पढ़ता है। दूसरा, आत्मा या प्रेत: shlokam.org की टिप्पणी कैलास की रक्षा करने वाले अलौकिक प्राणियों का अर्थ भी स्वीकार करती है। पंक्ति का आरम्भ *मनो विनोदम्* तीसरे श्लोक के अन्त को दोहराता है, पर क्रिया *एतु* ('पहुँचे') से बदलकर *बिभर्तु* ('धारण करे') हो जाती है ([तीसरा श्लोक](#v3-a5))।"
+      },
+      "citations": [
+        {
+          "source": "mw-bhr",
+          "locator": "MW 1. √bhṛ, p. 764",
+          "quote": "to bear, carry, convey, hold"
+        },
+        {
+          "source": "mw-bhutabhartr",
+          "locator": "MW bhartṛ, p. 748",
+          "quote": "one who bears or carries or maintains"
+        },
+        {
+          "source": "mw-bhutabhartr",
+          "locator": "MW bhūta-bhartṛ, p. 762",
+          "quote": "lord of beings or spirits"
+        },
+        {
+          "source": "mw-bhutabhartr",
+          "locator": "MW bhūta n., p. 761",
+          "quote": "that which is or exists, any living being"
+        },
+        {
+          "source": "mw-bhutabhartr",
+          "locator": "MW bhūta n., p. 761",
+          "quote": "a spirit (good or evil), the ghost of a deceased person"
+        },
+        {
+          "source": "vyakhya-sts-4",
+          "locator": "श्लोक ४, शब्दार्थ",
+          "quote": "भूतभर्तरि = सब प्राणियों का भरण-पोषण करने वाले"
+        },
+        {
+          "source": "shlokam-shiva-tandava",
+          "locator": "verse 4, translation footnote",
+          "quote": "can be taken to mean as souls or mythical beings guarding Kailasa"
+        },
+        {
+          "source": "sa-wikisource-shivatandava",
+          "locator": "॥४॥",
+          "quote": "मनो विनोदमद्भुतं बिभर्तु भूतभर्तरि"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "जटा", "iast": "jaṭā" },
+        { "sa": "भुजङ्ग", "iast": "bhujaṅga" },
+        { "sa": "पिङ्गल", "iast": "piṅgala" }
+      ],
+      "components": [
+        {
+          "sa": "जटा",
+          "iast": "jaṭā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "जटा", "iast": "jaṭā" },
+          "meaning": { "en": "matted hair, matted locks", "hi": "जटा" }
+        },
+        {
+          "sa": "भुजङ्ग",
+          "iast": "bhujaṅga",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "भुजङ्ग", "iast": "bhujaṅga" },
+          "meaning": { "en": "serpent (lit. 'one that moves in curves')", "hi": "सर्प (जो टेढ़ा चलता है)" }
+        },
+        {
+          "sa": "पिङ्गल",
+          "iast": "piṅgala",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "पिङ्गल", "iast": "piṅgala" },
+          "sense": { "dict": "mw", "headword": "piṅgala", "gloss": "reddish-brown, tawny, yellow, gold-coloured" },
+          "meaning": { "en": "tawny, golden-yellow", "hi": "पीला-भूरा, सुनहरा" }
+        }
+      ],
+      "meaning": {
+        "en": "of the serpents in (His) matted hair, (their) tawny (hoods)",
+        "hi": "जटाओं में बसे सर्पों के पीले-भूरे (फन)"
+      },
+      "notes": {
+        "en": "jaṭā-bhujaṅga 'the serpents in the matted locks' (saptamī tatpuruṣa: jaṭāsu bhujaṅgāḥ). piṅgala is read with the hoods that follow (piṅgala-sphurat-phaṇā, 'tawny, flashing hoods'), as in the Samskrit Academy translation ('snake with reddish brown hood'). The pāda break and display split fall after piṅgala only for layout; it belongs with w2. MW also lists piṅgala as a kind of snake and the name of a Nāga, but here it is the colour word. No sandhi at the joins; Vidyut offers no split for this display word.",
+        "hi": "जटा-भुजङ्ग 'जटाओं में रहने वाले सर्प' (सप्तमी तत्पुरुष: जटासु भुजङ्गाः)। पिङ्गल को आगे के फनों के साथ पढ़ा गया है (पिङ्गल-स्फुरत्-फणा, 'पीले-भूरे, चमकते फन'), जैसा संस्कृत अकादमी का अनुवाद करता है ('snake with reddish brown hood')। प्रदर्शन में शब्द यहाँ केवल सुविधा के लिए टूटा है; पिङ्गल का सम्बन्ध w2 से है। मोनियर-विलियम्स पिङ्गल को एक सर्प-जाति और एक नाग का नाम भी बताते हैं, पर यहाँ यह रंग-वाचक है। जोड़ों पर कोई सन्धि नहीं; Vidyut इस शब्द का कोई विभाजन नहीं देता।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(the) golden-yellow (glow of the gems) of the serpent in the matted hair",
+            "hi": "जटा के सर्प (की मणियों की) सुनहली-पीली (आभा)"
+          },
+          "note": "vyakhya-sts-4 glosses पिंगल = 'पीताभ सुनहली' and in its anvaya and bhāvārtha gives the colour to the gem's glow (मणि की सुनहली-पीत प्रभा) rather than to the hoods; sanskritdocuments-shivtand-meaning ('snake with reddish brown hood') gives it to the hood. The picture is nearly the same."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-pingala", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "स्फुरत्", "iast": "sphurat" },
+        { "sa": "फणा", "iast": "phaṇā" },
+        { "sa": "मणि", "iast": "maṇi" },
+        { "sa": "प्रभा", "iast": "prabhā" }
+      ],
+      "components": [
+        {
+          "sa": "स्फुरत्",
+          "iast": "sphurat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "स्फुर्",
+            "iast": "sphur",
+            "gana": 6,
+            "gloss": { "en": "to flash, to glitter", "hi": "चमकना, स्फुरित होना" }
+          },
+          "formation": "śatṛ (present active participle)",
+          "sense": { "dict": "mw", "headword": "sphur", "gloss": "to flash, glitter, gleam, glisten, twinkle, sparkle" },
+          "meaning": { "en": "flashing, glittering", "hi": "चमकता हुआ" }
+        },
+        {
+          "sa": "फणा",
+          "iast": "phaṇā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "फणा", "iast": "phaṇā" },
+          "sense": { "dict": "mw", "headword": "phaṇa", "gloss": "(also f. ā) the expanded hood or neck of a serpent" },
+          "meaning": { "en": "a serpent's spread hood", "hi": "सर्प का फैला हुआ फन" }
+        },
+        {
+          "sa": "मणि",
+          "iast": "maṇi",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "मणि", "iast": "maṇi" },
+          "sense": { "dict": "mw", "headword": "maṇi", "gloss": "a jewel, gem, pearl" },
+          "meaning": { "en": "gem, jewel", "hi": "मणि, रत्न" }
+        },
+        {
+          "sa": "प्रभा",
+          "iast": "prabhā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भा",
+            "iast": "bhā",
+            "gana": 2,
+            "prefixes": ["pra"],
+            "gloss": { "en": "to shine", "hi": "चमकना" }
+          },
+          "formation": "pra + √bhā + aṅ (feminine action noun)",
+          "sense": { "dict": "mw", "headword": "prabhā", "gloss": "light, splendour, radiance" },
+          "meaning": { "en": "radiance, glow", "hi": "आभा, प्रभा" }
+        }
+      ],
+      "meaning": {
+        "en": "the glow of the gems on (their) flashing hoods",
+        "hi": "चमकते फनों पर जड़ी मणियों की आभा"
+      },
+      "notes": {
+        "en": "sphurat 'flashing' (present participle of √sphur) qualifies phaṇā 'spread hood'; the maṇi 'gems' sit on those hoods, and their prabhā 'radiance' is the head of this stretch of the compound. That radiance is what smears the horizons in the next line, where the compound runs on (…prabhā- / kadamba…). No sandhi at the joins: t stays t before ph.",
+        "hi": "स्फुरत् 'चमकता' (√स्फुर् का वर्तमान कृदन्त) फणा 'फैले फन' का विशेषण है; मणियाँ इन्हीं फनों पर हैं, और उनकी प्रभा 'आभा' समास के इस भाग का मुख्य पद है। यही आभा अगली पंक्ति में दिशाओं को लीपती है, जहाँ समास आगे चलता है (…प्रभा- / कदम्ब…)। जोड़ों पर कोई सन्धि नहीं: 'फ' से पहले 'त्' वैसा ही रहता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-sphur", "mw-phana", "mw-mani", "mw-prabha", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w3": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "कदम्ब", "iast": "kadamba" },
+        { "sa": "कुङ्कुम", "iast": "kuṅkuma" },
+        { "sa": "द्रव", "iast": "drava" }
+      ],
+      "components": [
+        {
+          "sa": "कदम्ब",
+          "iast": "kadamba",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "कदम्ब", "iast": "kadamba" },
+          "sense": { "dict": "mw", "headword": "kadamba", "gloss": "turmeric, L." },
+          "meaning": { "en": "turmeric", "hi": "हल्दी" }
+        },
+        {
+          "sa": "कुङ्कुम",
+          "iast": "kuṅkuma",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "कुङ्कुम", "iast": "kuṅkuma" },
+          "sense": { "dict": "mw", "headword": "kuṅkuma", "gloss": "saffron" },
+          "meaning": { "en": "saffron", "hi": "केसर, कुंकुम" }
+        },
+        {
+          "sa": "द्रव",
+          "iast": "drava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "द्रु",
+            "iast": "dru",
+            "gana": 1,
+            "gloss": { "en": "to run, to flow", "hi": "बहना, दौड़ना" }
+          },
+          "formation": "√dru + ap (action noun)",
+          "sense": { "dict": "mw", "headword": "drava", "gloss": "juice, essence, decoction" },
+          "meaning": { "en": "liquid, liquid paste", "hi": "घोल, द्रव" }
+        }
+      ],
+      "meaning": {
+        "en": "(as) a liquid paste of turmeric and saffron",
+        "hi": "हल्दी और केसर के घोल (की तरह)"
+      },
+      "literal": {
+        "en": "the liquid of turmeric and saffron",
+        "hi": "हल्दी और केसर का द्रव"
+      },
+      "notes": {
+        "en": "kadamba-kuṅkuma is a dvandva, 'turmeric and saffron'; with drava 'liquid' it is the paste made from them (ṣaṣṭhī tatpuruṣa). By rūpaka the gem-glow of w2 is this paste: prabhā eva kadamba-kuṅkuma-dravaḥ. The turmeric sense of kadamba follows vyakhya.org (कदम्ब = हरिद्रा) and is listed by MW, marked as a lexicographers' sense (L.). No sandhi at the joins.",
+        "hi": "कदम्ब-कुङ्कुम द्वन्द्व है, 'हल्दी और केसर'; द्रव 'घोल' के साथ यह उनसे बना लेप है (षष्ठी तत्पुरुष)। रूपक से w2 की मणि-आभा ही यह लेप है: प्रभा एव कदम्बकुङ्कुमद्रवः। कदम्ब का 'हल्दी' अर्थ vyakhya.org (कदम्ब = हरिद्रा) से लिया गया है; मोनियर-विलियम्स भी इसे कोशकारों के अर्थ (L.) के रूप में देते हैं। जोड़ों पर कोई सन्धि नहीं।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "the liquid saffron of kadamba blossoms",
+            "hi": "कदम्ब के फूलों और केसर का द्रव"
+          },
+          "note": "shlokam-shiva-tandava glosses kadamba as 'Kadamba tree' (MW: a tree with orange-coloured fragrant blossoms)."
+        },
+        {
+          "reading": {
+            "en": "a mass of liquid saffron",
+            "hi": "केसर के घोल का ढेर"
+          },
+          "note": "MW kadamba n. 'a multitude, assemblage'. sanskritdocuments-shivtand-meaning glosses the stretch 'variegated-red dye-melting', which may reflect a mixture or collective sense."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-kadamba", "mw-kunkuma", "mw-drava", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w4": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "प्रलिप्त", "iast": "pralipta" },
+        { "sa": "दिग्वधू", "iast": "digvadhū" },
+        { "sa": "मुखे", "iast": "mukhe" }
+      ],
+      "components": [
+        {
+          "sa": "प्रलिप्त",
+          "iast": "pralipta",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "लिप्",
+            "iast": "lip",
+            "gana": 6,
+            "prefixes": ["pra"],
+            "gloss": { "en": "to smear, to anoint", "hi": "लीपना, लेप करना" }
+          },
+          "formation": "pra + √lip + kta (past passive participle)",
+          "sense": { "dict": "mw", "headword": "lip", "gloss": "to smear, besmear, anoint with (instr.)" },
+          "meaning": { "en": "smeared, anointed", "hi": "लीपा हुआ, लेप किया हुआ" }
+        },
+        {
+          "sa": "दिग्वधू",
+          "iast": "digvadhū",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "दिग्वधू", "iast": "digvadhū" },
+          "sense": { "dict": "mw", "headword": "dig-vadhū", "gloss": "= dik-kanyā: a quarter of the sky deified as a young virgin" },
+          "meaning": { "en": "the quarters of the sky pictured as brides", "hi": "दिशा-रूपी वधू" }
+        },
+        {
+          "sa": "मुख",
+          "iast": "mukha",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "मुख", "iast": "mukha" },
+          "meaning": { "en": "face", "hi": "मुख, चेहरा" }
+        }
+      ],
+      "meaning": {
+        "en": "(in Him by whom) the faces of the brides of the quarters are smeared",
+        "hi": "(उनमें, जिनके कारण) दिशा-रूपी वधुओं के मुख लीपे गए हैं"
+      },
+      "literal": {
+        "en": "having the faces of the quarter-women smeared",
+        "hi": "दिशा-स्त्रियों के लीपे हुए मुखों वाले"
+      },
+      "notes": {
+        "en": "dig-vadhū is diś 'quarter' + vadhū 'bride, young woman': the ś of diś becomes k at the end of the member and then voiced g before the v of vadhū (dik + vadhū → digvadhū). pralipta comes from pra + √lip, 'smeared'. The locative -e belongs to the whole bahuvrīhi w1–w4; it is masculine because it describes bhūtabhartari, even though mukha itself is neuter.",
+        "hi": "दिग्-वधू = दिश् 'दिशा' + वधू 'दुल्हन, युवती': दिश् का 'श्' पद के अन्त में 'क्' और फिर 'व' (वधू) से पहले घोष 'ग्' बनता है (दिक् + वधू → दिग्वधू)। प्रलिप्त प्र + √लिप् से है, 'लीपा हुआ'। सप्तमी '-ए' पूरे बहुव्रीहि w1–w4 की है; यह 'भूतभर्तरि' का वर्णन करता है, इसलिए पुल्लिंग है, यद्यपि 'मुख' स्वयं नपुंसक है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pralipta", "mw-digvadhu", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w5": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "मद", "iast": "mada" },
+        { "sa": "अन्ध", "iast": "andha" },
+        { "sa": "सिन्धुर", "iast": "sindhura" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of mada and the initial a of andha merge into one long ā: mada + andha → madāndha.",
+            "hi": "मद का अन्तिम 'अ' और अन्ध का आरम्भिक 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: मद + अन्ध → मदान्ध।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "मद",
+          "iast": "mada",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "मद्",
+            "iast": "mad",
+            "gana": 4,
+            "gloss": { "en": "to be intoxicated, to rejoice", "hi": "मत्त होना" }
+          },
+          "formation": "√mad + ap (action noun)",
+          "sense": { "dict": "mw", "headword": "mada", "gloss": "lust, ruttishness, rut (esp. of an elephant)" },
+          "meaning": { "en": "rut, frenzy", "hi": "मद, मस्ती" }
+        },
+        {
+          "sa": "अन्ध",
+          "iast": "andha",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "अन्ध", "iast": "andha" },
+          "sense": { "dict": "mw", "headword": "andha", "gloss": "blind" },
+          "meaning": { "en": "blind", "hi": "अन्धा" }
+        },
+        {
+          "sa": "सिन्धुर",
+          "iast": "sindhura",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "सिन्धुर", "iast": "sindhura" },
+          "sense": { "dict": "mw", "headword": "sindhura", "gloss": "an elephant" },
+          "meaning": { "en": "elephant", "hi": "हाथी" }
+        }
+      ],
+      "meaning": {
+        "en": "of an elephant blind with rut",
+        "hi": "मद से अन्धे हाथी की"
+      },
+      "notes": {
+        "en": "mada-andha 'blind with mada' is a tṛtīyā tatpuruṣa (madena andhaḥ), qualifying sindhura 'elephant'. An elephant's mada is its rut, when fluid runs from its temples (MW). Vidyut's split madāndha + sindhura agrees.",
+        "hi": "मद-अन्ध 'मद से अन्धा' तृतीया तत्पुरुष है (मदेन अन्धः), जो सिन्धुर 'हाथी' का विशेषण है। हाथी का मद उसकी मस्ती का समय है, जब उसकी कनपटियों से रस बहता है (मोनियर-विलियम्स)। Vidyut का विभाजन 'मदान्ध + सिन्धुर' इससे मेल खाता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "of the elephant(-demon) blind with pride",
+            "hi": "घमंड में अन्धे गज(-असुर) की"
+          },
+          "note": "vyakhya-sts-4 glosses मदान्ध as 'मद या घमंड में अंधा' and identifies the elephant as Gajāsura, proud of his strength (MW mada also 'pride, arrogance'). See annotation a3."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-mada", "mw-andha", "mw-sindhura", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w6": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "स्फुरत्", "iast": "sphurat" },
+        { "sa": "त्वक्", "iast": "tvak" },
+        { "sa": "उत्तरीय", "iast": "uttarīya" },
+        { "sa": "मेदुरे", "iast": "medure" }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "k + vowel → g + vowel",
+          "explanation": {
+            "en": "The c of tvac becomes k at the end of a compound member, then the voiced g before the vowel u of uttarīya: tvak + uttarīya → tvaguttarīya.",
+            "hi": "त्वच् का 'च्' समास के पद के अन्त में 'क्' बनता है, फिर आगे के स्वर 'उ' (उत्तरीय) के कारण घोष 'ग्': त्वक् + उत्तरीय → त्वगुत्तरीय।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "स्फुरत्",
+          "iast": "sphurat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "स्फुर्",
+            "iast": "sphur",
+            "gana": 6,
+            "gloss": { "en": "to flash, to glitter", "hi": "चमकना, स्फुरित होना" }
+          },
+          "formation": "śatṛ (present active participle)",
+          "sense": { "dict": "mw", "headword": "sphur", "gloss": "to flash, glitter, gleam, glisten, twinkle, sparkle" },
+          "meaning": { "en": "gleaming", "hi": "चमकता हुआ" }
+        },
+        {
+          "sa": "त्वच्",
+          "iast": "tvac",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "त्वच्", "iast": "tvac" },
+          "sense": { "dict": "mw", "headword": "2. tvac", "gloss": "skin (of men, serpents &c.), hide (of goats, cows &c.)" },
+          "meaning": { "en": "hide, skin", "hi": "खाल, चर्म" }
+        },
+        {
+          "sa": "उत्तरीय",
+          "iast": "uttarīya",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "उत्तरीय", "iast": "uttarīya" },
+          "sense": { "dict": "mw", "headword": "uttarīya", "gloss": "an upper or outer garment" },
+          "meaning": { "en": "upper garment, shawl", "hi": "उत्तरीय, ओढ़ने का वस्त्र" }
+        },
+        {
+          "sa": "मेदुर",
+          "iast": "medura",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "मेदुर", "iast": "medura" },
+          "sense": { "dict": "mw", "headword": "medura", "gloss": "thick with, full of (instr. or comp.)" },
+          "meaning": { "en": "thickly covered with", "hi": "से घना ढका, भरा-पूरा" }
+        }
+      ],
+      "meaning": {
+        "en": "(in Him who is) thickly mantled in (its) gleaming hide worn as an upper garment",
+        "hi": "(उनमें, जो) उसकी चमकती खाल का उत्तरीय घना ओढ़े हुए हैं"
+      },
+      "literal": {
+        "en": "thick with an upper garment that is the gleaming hide",
+        "hi": "चमकती खाल-रूपी उत्तरीय से घने"
+      },
+      "notes": {
+        "en": "sphurat-tvak 'the gleaming hide' (of the elephant in w5) is identified with an uttarīya 'upper garment' (rūpaka), and medura 'thick with, full of' takes that garment as its instrument. The locative -e belongs to the whole compound w5–w6, masculine, qualifying bhūtabhartari. Vidyut offers no split for this display word; the reading of the line is disputed (see annotation a3).",
+        "hi": "स्फुरत्-त्वक् 'चमकती खाल' (w5 के हाथी की) को उत्तरीय 'ओढ़ने का वस्त्र' कहा गया है (रूपक), और मेदुर 'से घना, से भरा' इसी वस्त्र को साधन बनाता है। सप्तमी '-ए' पूरे समास w5–w6 की है, पुल्लिंग, और 'भूतभर्तरि' का विशेषण है। Vidyut इस शब्द का कोई विभाजन नहीं देता; पंक्ति का पाठ विवादित है (टिप्पणी a3 देखें)।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(wearing a) fat, glossy upper garment of the rippling hide",
+            "hi": "लहराती खाल का मोटा-मांसल, चिकना उत्तरीय (ओढ़े)"
+          },
+          "note": "vyakhya-sts-4 glosses स्फुरत् here as 'लहराता हुआ' (fluttering) and मेदुर as 'मेदयुक्त अर्थात् मोटा-मांसल' (MW medura 'fat; smooth, soft, unctuous'). shlokam-shiva-tandava glosses medura 'wearing', sanskritdocuments-shivtand-meaning 'covered'."
+        },
+        {
+          "reading": {
+            "en": "sindhurāsura-tvak: the hide of the elephant-demon",
+            "hi": "सिन्धुरासुर-त्वक्: गजासुर की खाल"
+          },
+          "note": "Variant read by sa-wikisource-shivatandava and printed in parentheses by sanskritdocuments-shivtand. See annotation a3."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-sphur", "mw-tvac", "mw-uttariya", "mw-medura", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w7": {
+      "padaccheda": [
+        { "sa": "मनः", "iast": "manaḥ" }
+      ],
+      "sandhi": [
+        {
+          "name": "visarga (utva)",
+          "rule": "aḥ + voiced consonant → o",
+          "explanation": {
+            "en": "Final -aḥ becomes -o before a voiced consonant, here the v of vinodam (next display word): manaḥ + vinodam → mano vinodam.",
+            "hi": "घोष व्यंजन से पहले अन्तिम '-अः' '-ओ' बन जाता है, यहाँ अगले शब्द विनोदम् के 'व' के कारण: मनः + विनोदम् → मनो विनोदम्।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "मनस्",
+          "iast": "manas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "dhatu",
+            "sa": "मन्",
+            "iast": "man",
+            "gana": 4,
+            "gloss": { "en": "to think", "hi": "सोचना, मानना" }
+          },
+          "formation": "√man + asun (uṇādi)",
+          "meaning": { "en": "mind", "hi": "मन" }
+        }
+      ],
+      "meaning": { "en": "mind", "hi": "मन" },
+      "notes": {
+        "en": "Nominative singular of the neuter manas, the subject of bibhartu, exactly as in verse 3 (mano vinodam etu). Vidyut's lexicon lists vocatives of manu and garbled 'manaū' forms; a vocative is impossible here (no one is addressed, and bibhartu needs a third-person subject), so they are not followed.",
+        "hi": "नपुंसक मनस् का प्रथमा एकवचन, 'बिभर्तु' का कर्ता, ठीक तीसरे श्लोक की तरह (मनो विनोदमेतु)। Vidyut 'मनु' के सम्बोधन और कुछ अशुद्ध 'manaū' रूप देता है; यहाँ सम्बोधन सम्भव नहीं (किसी को पुकारा नहीं गया, और 'बिभर्तु' को प्रथम पुरुष कर्ता चाहिए), इसलिए वे नहीं लिए गए।"
+      },
+      "confidence": "high",
+      "sources": ["vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w8": {
+      "padaccheda": [
+        { "sa": "विनोदम्", "iast": "vinodam" },
+        { "sa": "अद्भुतम्", "iast": "adbhutam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m of adbhutam becomes anusvāra before the consonant b of the next word, bibhartu: adbhutam + bibhartu → adbhutaṃ bibhartu. Between vinodam and adbhutam the m stays m, since a vowel follows.",
+            "hi": "अद्भुतम् का अन्तिम 'म्' अगले शब्द बिभर्तु के व्यंजन 'ब' से पहले अनुस्वार बन जाता है: अद्भुतम् + बिभर्तु → अद्भुतं बिभर्तु। विनोदम् और अद्भुतम् के बीच 'म्' वैसा ही रहता है, क्योंकि आगे स्वर है।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विनोद",
+          "iast": "vinoda",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नुद्",
+            "iast": "nud",
+            "gana": 6,
+            "prefixes": ["vi"],
+            "gloss": { "en": "to push, to drive away", "hi": "धकेलना, दूर करना" }
+          },
+          "formation": "vi + √nud + ghañ (action noun)",
+          "sense": { "dict": "mw", "headword": "vi-noda", "gloss": "diversion, sport, pastime, pleasure" },
+          "meaning": { "en": "delight, diversion", "hi": "आनन्द, बहलाव" }
+        },
+        {
+          "sa": "अद्भुत",
+          "iast": "adbhuta",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "अद्भुत", "iast": "adbhuta" },
+          "sense": { "dict": "mw", "headword": "adbhuta", "gloss": "supernatural, wonderful, marvellous" },
+          "meaning": { "en": "wondrous, marvellous", "hi": "अद्भुत, अनूठा" }
+        }
+      ],
+      "meaning": {
+        "en": "a wondrous delight",
+        "hi": "अद्भुत आनन्द"
+      },
+      "notes": {
+        "en": "Two padas in one display word: vinodam, the object of bibhartu, and adbhutam, its adjective (both masculine accusative singular). Vidyut offers no split; the split vinodam + adbhutam is that of vyakhya.org (विनोदं + अद्भुतम्) and shlokam.org.",
+        "hi": "एक शब्द में दो पद: विनोदम्, 'बिभर्तु' का कर्म, और अद्भुतम्, उसका विशेषण (दोनों पुल्लिंग द्वितीया एकवचन)। Vidyut कोई विभाजन नहीं देता; 'विनोदम् + अद्भुतम्' विभाजन vyakhya.org (विनोदं + अद्भुतम्) और shlokam.org का है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vinoda", "mw-adbhuta", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w9": {
+      "padaccheda": [
+        { "sa": "बिभर्तु", "iast": "bibhartu" }
+      ],
+      "components": [
+        {
+          "sa": "बिभर्तु",
+          "iast": "bibhartu",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भृ",
+            "iast": "bhṛ",
+            "gana": 3,
+            "gloss": { "en": "to bear, to hold, to support", "hi": "धारण करना, पालन करना" }
+          },
+          "sense": { "dict": "mw", "headword": "1. bhṛ", "gloss": "to bear i.e. contain, possess, have, keep" },
+          "meaning": { "en": "may (it) hold, may (it) bear", "hi": "धारण करे" }
+        }
+      ],
+      "meaning": {
+        "en": "may (it) hold",
+        "hi": "धारण करे"
+      },
+      "notes": {
+        "en": "Third person singular imperative (loṭ, parasmaipada) of √bhṛ in the reduplicating third class (bibharti), 'may it bear, hold'. Vidyut's lexicon gives the same analysis; its splits bibha + ṛtu and bibhā + ṛtu are artefacts. The subject is manaḥ and the object vinodam, as in vyakhya.org's bhāvārtha (मेरा मन … अद्भुत आनन्द को पाता रहे) and shlokam.org ('may bear').",
+        "hi": "√भृ (जुहोत्यादि गण, बिभर्ति) का लोट् लकार, प्रथम पुरुष एकवचन, परस्मैपद: 'धारण करे'। Vidyut का कोश यही विश्लेषण देता है; उसके 'bibha + ṛtu' और 'bibhā + ṛtu' विभाजन निरर्थक हैं। कर्ता मनः है और कर्म विनोदम्, जैसा vyakhya.org के भावार्थ (मेरा मन … अद्भुत आनन्द को पाता रहे) और shlokam.org ('may bear') में है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "may (He) fill (my mind with wondrous delight)",
+            "hi": "(वे मेरे मन को अद्भुत आनन्द से) भर दें"
+          },
+          "note": "vyakhya-sts-4's word gloss spells it विभर्तु = 'भर दें', and its vyākhyā makes Bhūtanātha the subject who fills the mind (MW bhṛ also 'to fill'). Not followed: bhūtabhartari is locative, so the Lord cannot be the grammatical subject, and the commentary's own bhāvārtha keeps the mind as subject. sanskritdocuments-shivtand-meaning renders 'may it seek'."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-bhr", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w10": {
+      "padaccheda": [
+        { "sa": "भूतभर्तरि", "iast": "bhūtabhartari" }
+      ],
+      "components": [
+        {
+          "sa": "भूत",
+          "iast": "bhūta",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "gloss": { "en": "to be, to become", "hi": "होना" }
+          },
+          "formation": "√bhū + kta",
+          "sense": { "dict": "mw", "headword": "bhūta", "gloss": "that which is or exists, any living being" },
+          "meaning": { "en": "living being", "hi": "प्राणी, जीव" }
+        },
+        {
+          "sa": "भर्तृ",
+          "iast": "bhartṛ",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भृ",
+            "iast": "bhṛ",
+            "gana": 3,
+            "gloss": { "en": "to bear, to support", "hi": "धारण करना, पालन करना" }
+          },
+          "formation": "√bhṛ + tṛc (agent noun)",
+          "sense": { "dict": "mw", "headword": "bhartṛ", "gloss": "a preserver, protector, maintainer, chief, lord, master" },
+          "meaning": { "en": "sustainer, lord", "hi": "पालनहार, स्वामी" }
+        }
+      ],
+      "meaning": {
+        "en": "in the Lord who sustains all beings (Śiva)",
+        "hi": "सब प्राणियों का पालन करने वाले प्रभु (शिव) में"
+      },
+      "literal": {
+        "en": "in the bearer of beings",
+        "hi": "प्राणियों को धारण करने वाले में"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "bhūtānāṃ bhartā, 'the bearer or sustainer of beings' (ṣaṣṭhī tatpuruṣa); MW lists bhūta-bhartṛ as a name of Śiva, 'lord of beings or spirits'. Locative singular of the ṛ-stem, the place in which the mind is to hold its delight; the two long compounds of the verse qualify it, which is why they are masculine locatives. Vidyut gives exactly this analysis (bhūtabhartṛ, masculine, locative, singular).",
+        "hi": "भूतानां भर्ता, 'प्राणियों को धारण करने या पालने वाला' (षष्ठी तत्पुरुष); मोनियर-विलियम्स 'भूतभर्तृ' को शिव का नाम बताते हैं, 'प्राणियों या भूत-प्रेतों के स्वामी'। ऋकारान्त शब्द का सप्तमी एकवचन: वह जिसमें मन को आनन्द धारण करना है। श्लोक के दोनों लम्बे समास इसी के विशेषण हैं, इसलिए वे पुल्लिंग सप्तमी में हैं। Vidyut ठीक यही विश्लेषण देता है (भूतभर्तृ, पुल्लिंग, सप्तमी, एकवचन)।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "in the lord of the spirits (Śiva's ghostly attendants)",
+            "hi": "भूत-गणों के स्वामी में"
+          },
+          "note": "MW bhūta also 'a spirit (good or evil), the ghost of a deceased person'; shlokam-shiva-tandava's footnote allows 'souls or mythical beings guarding Kailasa'. vyakhya-sts-4 and sanskritdocuments-shivtand-meaning read 'all living beings'."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-bhutabhartr", "vyakhya-sts-4", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      { "date": "2026-10-20", "by": "ai", "action": "Drafted from evidence pack." }
+    ]
+  }
+}

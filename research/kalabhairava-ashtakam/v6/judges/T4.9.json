@@ -1,0 +1,18 @@
+{
+  "check": "T4.9",
+  "fields_hash": "dacc31efe2c496ac",
+  "findings": [
+    {
+      "status": "fail",
+      "path": "annotations.a2.body.en",
+      "message": "'The fangs are usually taken as Death's' goes further than the evidence. Of the three translations the note itself cites, only gitapress-shiv-stotra-ratnakar.md takes the fangs as Kāla's ('कालके भयंकर दाँतोंसे मोक्ष दिलानेवाले'). greenmesg-kalabhairava.md ('Whose Large Terrible Fangs Liberate us') and shlokam-kalabhairava.md ('by His fearsome fangs He grants liberation') take them as His own. Nothing in the evidence shows that the Death reading is the usual one. The Hindi ('प्रायः ये दाँत मृत्यु के माने जाते हैं') makes the same over-claim.",
+      "suggested_fix": "EN: 'The Gita Press translation takes the fangs as Death's: right after breaking Death's pride, He pulls us out of Death's jaws. Other translations hear them as His own fangs, which set us free.' HI: 'गीता प्रेस के अनुवाद में ये दाँत काल के हैं: ... अन्य अनुवादों में ये उनके अपने दाँत हैं, जो हमें छुड़ाते हैं।'"
+    },
+    {
+      "status": "flag",
+      "path": "annotations.a2.body.en",
+      "message": "The bhīṣaṇam reading comes only from sanskritdocuments-shivarahasya-kalabhairava.md. That is a separate Śivarahasya recension, and the source says so itself. Its line reads 'करालं दंष्ट्रभीषणं', with karālaṃ as a separate word, not karāladaṃṣṭra-bhīṣaṇam. The note presents bhīṣaṇam as an ordinary variant of this line and glosses it 'fearsome with terrible fangs', so the reader is not told where it comes from or how the line differs. The citation locator is correct. A human should decide whether to say it comes from the related Śivarahasya version, in line with ancient-only citations.",
+      "suggested_fix": "…or, in the Śivarahasya version of the hymn, *karālaṃ daṃṣṭra-bhīṣaṇam*, 'terrible, fearsome with fangs', the fangs are plainly His own."
+    }
+  ]
+}

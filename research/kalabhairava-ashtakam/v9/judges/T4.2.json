@@ -1,0 +1,12 @@
+{
+  "check": "T4.2",
+  "fields_hash": "f61d3a7938ee8fbc",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w5.components[2].sense",
+      "message": "The sādhana component is given as a neuter noun meaning 'means', and the compound's vigraha 'तयोः साधनम्' reads it the same way. But sense.gloss quotes the first adjective sense in MW, 'leading straight to a goal, guiding well, furthering' (mf(ī/ā)n., RV). mw-sadhana.md has a neuter-noun sense that matches the chosen meaning exactly: 'any means of effecting or accomplishing, any agent or instrument ... requisite for (gen. or comp.)'. The meaning is right for this line, but the cited sense comes from a different entry than the one the word is used in.",
+      "suggested_fix": "Set sense.gloss to the MW neuter sense: 'any means of effecting or accomplishing, any agent or instrument ..., an expedient, requisite for (gen. or comp.)'."
+    }
+  ]
+}

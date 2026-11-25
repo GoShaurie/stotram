@@ -1,0 +1,12 @@
+{
+  "check": "T2.8b",
+  "fields_hash": "3e8110ec74ab09dd",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c6.vigraha",
+      "message": "The vigraha puts members and whole in the masculine (गुणागारः, संसारपारः, असौ, तम्) but mw-agara.md gives āgāra as n., w8 components list āgāra and pāra as neuter, and p10 tags the compound neuter accusative. Human should decide which gender is intended.",
+      "suggested_fix": "Neuter: गुणानाम् आगारम् गुणागारम्, संसारस्य पारम् संसारपारम्; गुणागारं च तत् संसारपारं च. Or make p10 masculine and say so in the note."
+    }
+  ]
+}

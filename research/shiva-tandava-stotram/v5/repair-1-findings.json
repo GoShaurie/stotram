@@ -1,0 +1,32 @@
+[
+ {
+  "check": "T4.8b",
+  "status": "fail",
+  "message": "श्रृ is never correct: शृंगार, शृंखला, शृंग",
+  "path": "annotations.a2.body.hi",
+  "suggested_fix": "श्लोक कहीं नहीं कहता कि देवता झुकते हैं; यह बात पराग कह देता है। मोनियर-विलियम्स",
+  "severity": "minor",
+  "tier": 4,
+  "method": "CODE"
+ },
+ {
+  "check": "T4.9",
+  "status": "fail",
+  "message": "Glosses mālā as 'the band' / 'बन्धन'; the cited mw-mala gives wreath, garland, crown (also string, row, series), and vyakhya and shlokam say garland. The gloss goes beyond the source.",
+  "path": "annotations.a3.body",
+  "suggested_fix": "Call it the garland (माला) that ties up the jūṭa; drop 'band' / 'बन्धन'.",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.9",
+  "status": "fail",
+  "message": "a4 says shlokam.org reads śriyai, but no citation points to shlokam-shiva-tandava (the excerpt does support it).",
+  "path": "annotations.a4.citations",
+  "suggested_fix": "Add {\"source\": \"shlokam-shiva-tandava\", \"locator\": \"verse ॥ ५ ॥, line 4\", \"quote\": \"श्रियै चिराय जायतां\"}.",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ }
+]

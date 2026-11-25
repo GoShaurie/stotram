@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "a3b99eba4e774301",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a5.body",
+      "message": "Claims verse 2 asked that love rest in Śiva, linking #v2-a5, but has no citation and the v3 evidence holds no verse-2 excerpt.",
+      "suggested_fix": "Accept the internal link as support, or cite the verse-2 text."
+    }
+  ]
+}

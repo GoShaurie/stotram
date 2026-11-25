@@ -1,0 +1,12 @@
+{
+  "check": "T2.8b",
+  "fields_hash": "438be3f8b2df8c78",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c1.vigraha",
+      "message": "Bahuvrīhi is right, but the vigraha has two agents: '…भया निपीतः' plus 'येन तत्'. With bhā as agent, the relative should be यस्य/यस्मिन्; or keep येन and treat bhā as the means.",
+      "suggested_fix": "…स्फुलिङ्गानां भया निपीतः पञ्चसायकः यस्य (यस्मिन्) तत्"
+    }
+  ]
+}

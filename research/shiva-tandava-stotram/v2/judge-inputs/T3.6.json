@@ -1,0 +1,275 @@
+{
+  "check": "T3.6",
+  "rubric": "checks/judges/T3.6.md",
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    }
+  },
+  "verse": {
+    "id": "v2",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "जटाकटाह",
+            "iast": "jaṭākaṭāha"
+          },
+          {
+            "id": "w2",
+            "text": "सम्भ्रमभ्रमन्",
+            "iast": "sambhramabhraman"
+          },
+          {
+            "id": "w3",
+            "text": "निलिम्पनिर्झरी",
+            "iast": "nilimpanirjharī"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "विलोलवीचिवल्लरी",
+            "iast": "vilolavīcivallarī"
+          },
+          {
+            "id": "w5",
+            "text": "विराजमानमूर्द्धनि",
+            "iast": "virājamānamūrddhani"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w6",
+            "text": "धगद्धगद्धगज्",
+            "iast": "dhagaddhagaddhagaj"
+          },
+          {
+            "id": "w7",
+            "text": "ज्वलल्",
+            "iast": "jvalal"
+          },
+          {
+            "id": "w8",
+            "text": "ललाटपट्टपावके",
+            "iast": "lalāṭapaṭṭapāvake"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "किशोरचन्द्रशेखरे",
+            "iast": "kiśoracandraśekhare"
+          },
+          {
+            "id": "w10",
+            "text": "रतिः",
+            "iast": "ratiḥ"
+          },
+          {
+            "id": "w11",
+            "text": "प्रतिक्षणं",
+            "iast": "pratikṣaṇaṃ"
+          },
+          {
+            "id": "w12",
+            "text": "मम",
+            "iast": "mama"
+          }
+        ],
+        "end": "॥ २ ॥"
+      }
+    ],
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1",
+          "w2",
+          "w3",
+          "w4",
+          "w5"
+        ],
+        "sa": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरीविलोलवीचिवल्लरीविराजमानमूर्द्धनि",
+        "iast": "jaṭākaṭāhasambhramabhramannilimpanirjharīvilolavīcivallarīvirājamānamūrddhani",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरीविलोलवीचिवल्लरीविराजमानमूर्द्धन्",
+            "iast": "jaṭākaṭāhasambhramabhramannilimpanirjharīvilolavīcivallarīvirājamānamūrddhan"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "x2"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w6",
+          "w7",
+          "w8"
+        ],
+        "sa": "धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके",
+        "iast": "dhagaddhagaddhagajjvalallalāṭapaṭṭapāvake",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "धगद्धगद्धगज्ज्वलल्ललाटपट्टपावक",
+            "iast": "dhagaddhagaddhagajjvalallalāṭapaṭṭapāvaka"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "x2"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w9"
+        ],
+        "sa": "किशोरचन्द्रशेखरे",
+        "iast": "kiśoracandraśekhare",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "किशोरचन्द्रशेखर",
+            "iast": "kiśoracandraśekhara"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "x2"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w10"
+        ],
+        "sa": "रतिः",
+        "iast": "ratiḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "रति",
+            "iast": "rati"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "x1"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w11"
+        ],
+        "sa": "प्रतिक्षणम्",
+        "iast": "pratikṣaṇam",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w12"
+        ],
+        "sa": "मम",
+        "iast": "mama",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अस्मद्",
+            "iast": "asmad"
+          },
+          "case": "genitive",
+          "number": "singular"
+        },
+        "role": "sambandha",
+        "head": "p4"
+      }
+    ],
+    "adhyahara": [
+      {
+        "id": "x1",
+        "sa": "भवतु",
+        "iast": "bhavatu",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1
+          },
+          "lakara": "loṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null,
+        "meaning": {
+          "en": "may (it) be, may (it) remain",
+          "hi": "हो, बनी रहे"
+        }
+      },
+      {
+        "id": "x2",
+        "sa": "शिवे",
+        "iast": "śive",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "adhikaraṇa",
+        "head": "p4",
+        "meaning": {
+          "en": "in Śiva (the one all three descriptions qualify)",
+          "hi": "शिव में (जिनके ये तीनों विशेषण हैं)"
+        }
+      }
+    ],
+    "anvaya": [
+      "p1",
+      "p2",
+      "p3",
+      "x2",
+      "p6",
+      "p4",
+      "p5",
+      "x1"
+    ]
+  }
+}

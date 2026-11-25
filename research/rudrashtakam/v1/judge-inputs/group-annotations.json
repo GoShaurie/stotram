@@ -1,0 +1,1623 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "rudrashtakam",
+    "title": {
+      "sa": "रुद्राष्टकम्",
+      "iast": "Rudrāṣṭakam",
+      "en": "Rudrashtakam",
+      "hi": "रुद्राष्टकम्"
+    },
+    "attribution": {
+      "en": "Composed by Gosvāmī Tulsīdās, in the Uttarakāṇḍa of his Rāmcaritmānas.",
+      "hi": "गोस्वामी तुलसीदास द्वारा रचित, उनके रामचरितमानस के उत्तरकाण्ड में।"
+    },
+    "sources": [
+      {
+        "id": "gitapress-ramcharitmanas",
+        "name": "श्रीरामचरितमानस, Gita Press, Gorakhpur, pp. 1011–1012, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      },
+      {
+        "id": "kashiraj-ramcharitmanas",
+        "name": "Rāmcaritmānas, critical edition ed. Viśvanāth Prasād Miśra, Kāśirāj Trust, p. 443; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/fCfi_ram-charit-manas-of-tulsi-das-ed-by-viswanath-prasad-mishra-ramesh-chandra-dev"
+      },
+      {
+        "id": "belvedere-1926-ramcharitmanas",
+        "name": "Rāmcaritmānas, Belvedere Press, Prayag, 1926, pp. 427–428; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/in.ernet.dli.2015.343673"
+      },
+      {
+        "id": "sanskritdocuments-rudra8",
+        "name": "sanskritdocuments.org — Rudrashtakam (rudra8); Wayback copy of 2025-08-08",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20250808093835/https://sanskritdocuments.org/doc_shiva/rudra8.html"
+      },
+      {
+        "id": "greenmesg-rudrashtakam",
+        "name": "greenmesg.org — Rudrashtakam (line-by-line English); Wayback copy of 2026-08-12",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20260812050406/https://www.greenmesg.org/stotras/shiva/rudrashtakam.php"
+      },
+      {
+        "id": "shlokam-rudrashtakam",
+        "name": "shlokam.org — Rudrashtakam (translation with word meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/rudrashtakam/"
+      },
+      {
+        "id": "wikisource-sa-rudrashtakam",
+        "name": "Sanskrit Wikisource — रुद्राष्टकम् (comparison only; many typing slips)",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/रुद्राष्टकम्"
+      },
+      {
+        "id": "mw-aham",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aham' (SLP1 key: aham)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aham"
+      },
+      {
+        "id": "mw-akasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ākāśa' (SLP1 key: AkASa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AkASa"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-brahmaveda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'brahmaveda' (SLP1 key: brahmaveda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=brahmaveda"
+      },
+      {
+        "id": "mw-cid",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'cid' (SLP1 key: cid)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=cid"
+      },
+      {
+        "id": "mw-ishana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśāna' (SLP1 key: ISAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISAna"
+      },
+      {
+        "id": "mw-nam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nam' (SLP1 key: nam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nam"
+      },
+      {
+        "id": "mw-nija",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nija' (SLP1 key: nija)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nija"
+      },
+      {
+        "id": "mw-nirguna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirguṇa' (SLP1 key: nirguRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirguRa"
+      },
+      {
+        "id": "mw-niriha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirīha' (SLP1 key: nirIha)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirIha"
+      },
+      {
+        "id": "mw-nirvana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirvāṇa' (SLP1 key: nirvARa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirvARa"
+      },
+      {
+        "id": "mw-rupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rūpa' (SLP1 key: rUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rUpa"
+      },
+      {
+        "id": "mw-svarupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'svarūpa' (SLP1 key: svarUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=svarUpa"
+      },
+      {
+        "id": "mw-vasa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vāsa' (SLP1 key: vAsa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vAsa"
+      },
+      {
+        "id": "mw-vibhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhu' (SLP1 key: viBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBu"
+      },
+      {
+        "id": "mw-vyapaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vyāpaka' (SLP1 key: vyApaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vyApaka"
+      },
+      {
+        "id": "mw-brahman",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'brahman' (SLP1 key: brahman)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=brahman"
+      },
+      {
+        "id": "mw-guna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'guṇa' (SLP1 key: guRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=guRa"
+      },
+      {
+        "id": "mw-iha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īhā' (SLP1 key: IhA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=IhA"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-nirvikalpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirvikalpa' (SLP1 key: nirvikalpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirvikalpa"
+      },
+      {
+        "id": "mw-veda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'veda' (SLP1 key: veda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=veda"
+      },
+      {
+        "id": "mw-vikalpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vikalpa' (SLP1 key: vikalpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vikalpa"
+      },
+      {
+        "id": "ramcharitmanas-uttarakanda-104-108",
+        "name": "Śrīrāmacaritamānasa, Uttarakāṇḍa, the narrative frame of the Rudrāṣṭaka (Kākabhuśuṇḍi tells Garuḍa about his former birth), Gita Press, Gorakhpur edition, with its Hindi translation. Same scan as `gitapress-ramcharitmanas`. Lines marked [image] were read from the page images (pp. 1009, 1010, 1012); lines marked [OCR] are from the archive.org OCR of p. 1008 and were not checked against the image.",
+        "kind": "text",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v1",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "नमामीशमीशान",
+            "iast": "namāmīśamīśāna"
+          },
+          {
+            "id": "w2",
+            "text": "निर्वाणरूपं",
+            "iast": "nirvāṇarūpaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "विभुं",
+            "iast": "vibhuṃ"
+          },
+          {
+            "id": "w4",
+            "text": "व्यापकं",
+            "iast": "vyāpakaṃ"
+          },
+          {
+            "id": "w5",
+            "text": "ब्रह्मवेदस्वरूपम्",
+            "iast": "brahmavedasvarūpam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w6",
+            "text": "निजं",
+            "iast": "nijaṃ"
+          },
+          {
+            "id": "w7",
+            "text": "निर्गुणं",
+            "iast": "nirguṇaṃ"
+          },
+          {
+            "id": "w8",
+            "text": "निर्विकल्पं",
+            "iast": "nirvikalpaṃ"
+          },
+          {
+            "id": "w9",
+            "text": "निरीहं",
+            "iast": "nirīhaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w10",
+            "text": "चिदाकाशमाकाशवासं",
+            "iast": "cidākāśamākāśavāsaṃ"
+          },
+          {
+            "id": "w11",
+            "text": "भजेऽहम्",
+            "iast": "bhaje'ham"
+          }
+        ],
+        "end": "॥ १ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "This hymn is a plea on someone else's behalf. In the *Rāmacaritamānasa*, a proud pupil sat chanting Śiva's name in His temple when his teacher came in, and he did not get up to bow. The kind teacher let it pass; Śiva did not. A voice from the sky cursed the pupil to become a snake.\n\nThe teacher fell flat before Śiva, joined his hands and sang these eight verses. So the hymn's first word, *namāmi*, 'I bow', is the very bow the pupil refused.",
+          "hi": "यह स्तोत्र किसी दूसरे के लिए की गई विनती है। *रामचरितमानस* में एक अभिमानी शिष्य शिव-मन्दिर में शिव-नाम जप रहा था, तभी उसके गुरु आए, पर उसने उठकर प्रणाम नहीं किया। दयालु गुरु ने कुछ नहीं कहा, पर शिव यह सह न सके। आकाशवाणी ने शिष्य को सर्प बन जाने का शाप दिया।\n\nगुरु ने शिव के सामने दण्डवत् किया, हाथ जोड़े और ये आठ श्लोक गाए। इसलिए स्तोत्र का पहला शब्द *नमामि*, 'मैं प्रणाम करता हूँ', ठीक वही प्रणाम है जो शिष्य ने नहीं किया था।"
+        },
+        "citations": [
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa, dohā 106 (ka)",
+            "quote": "गुर आयउ अभिमान तें उठि नहिं कीन्ह प्रनाम"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa, dohā 106 (kha)",
+            "quote": "सो दयाल नहिं कहेउ कछु उर न रोष लवलेस"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa 107, caupāī 1",
+            "quote": "मंदिर माझ भई नभबानी"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa 107, caupāī 4",
+            "quote": "सर्प होहि खल मल मति ब्यापी"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa, dohā 107 (kha)",
+            "quote": "करि दंडवत सप्रेम द्विज सिव सन्मुख कर जोरि"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, between dohā 107 (kha) and dohā 108 (ka), stanza 1",
+            "quote": "नमामीशमीशान निर्वाणरूपं"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w2"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Is *Īśāna* a name being called out, or part of a description? Most printings leave a space after it, *namāmīśam īśāna nirvāṇarūpaṃ*: 'I bow to the Lord, O Īśāna, whose form is liberation', so the singer pauses to call Śiva by name. The text is also found joined, *…īśānanirvāṇarūpaṃ*, one long description: 'I bow to the Lord, the Ruler whose form is liberation.' Either way it is Śiva who is bowed to; the space decides whether He is addressed or described.",
+          "hi": "*ईशान* पुकारा गया नाम है या वर्णन का हिस्सा? अधिकतर पाठों में इसके बाद स्थान छोड़ा गया है, *नमामीशमीशान निर्वाणरूपं*: 'हे ईशान! मैं उन स्वामी को नमन करता हूँ जिनका स्वरूप मोक्ष है', यानी गायक रुककर शिव को नाम से पुकारता है। पाठ जुड़ा हुआ भी मिलता है, *…ईशाननिर्वाणरूपं*, जो एक लम्बा वर्णन बन जाता है: 'मोक्ष-स्वरूप शासक स्वामी को मैं नमन करता हूँ।' दोनों में प्रणाम शिव को ही है; स्थान केवल यह तय करता है कि उन्हें पुकारा गया है या वर्णित किया गया है।"
+        },
+        "citations": [
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 1, line 1",
+            "quote": "नमामीशमीशान निर्वाणरूपं"
+          },
+          {
+            "source": "belvedere-1926-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 427, stanza 1, line 1",
+            "quote": "नमामीशमीशान निर्वाणरूपम्"
+          },
+          {
+            "source": "greenmesg-rudrashtakam",
+            "locator": "verse 1, line 1",
+            "quote": "नमामीशमीशान निर्वाणरूपं"
+          },
+          {
+            "source": "kashiraj-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, p. 443, line 1",
+            "quote": "नमामीशमीशाननिर्वाणरूपं"
+          },
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "verse 1",
+            "quote": "नमामीशमीशाननिर्वाणरूपं"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w7",
+          "w8",
+          "w9"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Three words in a row begin with *nir-*, 'without': without qualities (*guṇa*), without division (*vikalpa*), without desire (*īhā*). The qualities are the three strands, *sattva*, *rajas* and *tamas*, that belong to the world of change, and Śiva stands outside them all.\n\nYet the sentence ends 'I worship You' (*bhaje'ham*). The singer cannot describe this Lord by a single quality, and still turns to Him in love.",
+          "hi": "लगातार तीन शब्द *निर्-* यानी 'रहित' से शुरू होते हैं: गुणों से रहित (*गुण*), भेद से रहित (*विकल्प*), इच्छा से रहित (*ईहा*)। ये गुण वे तीन धागे हैं, *सत्त्व*, *रज* और *तम*, जो बदलती माया के हैं, और शिव इन सबसे परे हैं।\n\nफिर भी वाक्य 'मैं आपको भजता हूँ' (*भजेऽहम्*) पर समाप्त होता है। गायक इन स्वामी को एक भी गुण से बता नहीं सकता, फिर भी प्रेम से उन्हीं की ओर मुड़ता है।"
+        },
+        "citations": [
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "verse 1, English meaning",
+            "quote": "beyod the Gunas - Sattva, Rajas, Tamas"
+          },
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "verse 1, Hindi bhāvārtha",
+            "quote": "तीनों गुणों से रहित"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 1, Hindi translation",
+            "quote": "भेदरहित, इच्छारहित"
+          },
+          {
+            "source": "mw-nirvikalpa",
+            "locator": "MW nir-vikalpa, p. 542",
+            "quote": "free from change or differences"
+          },
+          {
+            "source": "mw-niriha",
+            "locator": "MW nir-īha, p. 540",
+            "quote": "motionless, inactive, desireless"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 1, Hindi translation",
+            "quote": "मायिक"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w10"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "Two skies in one word. *Cid-ākāśa* is a sky made of consciousness: awareness as wide, empty and clear as open space. Then comes *ākāśa-vāsa*, and *vāsa* can mean a garment or a home. Read one way, Śiva wears the sky as His only clothes, the sky-clad (*digambara*) Lord; read the other, the sky is where He lives. The sky within and the sky outside meet in Him.",
+          "hi": "एक शब्द में दो आकाश। *चिद्-आकाश* चेतना से बना आकाश है: ऐसी जागरूकता जो खुले आकाश की तरह विशाल, खाली और निर्मल है। फिर आता है *आकाश-वास*, और *वास* का अर्थ वस्त्र भी है और घर भी। एक अर्थ में शिव आकाश को ही वस्त्र बनाकर ओढ़ते हैं, वे दिगम्बर हैं; दूसरे अर्थ में आकाश उनका निवास है। भीतर का आकाश और बाहर का आकाश उन्हीं में मिलते हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-vasa",
+            "locator": "MW 2. vāsa, p. 947",
+            "quote": "a garment, dress, clothes (mc. for vāsas)"
+          },
+          {
+            "source": "mw-vasa",
+            "locator": "MW 3. vāsa, p. 947",
+            "quote": "abiding, dwelling, residence"
+          },
+          {
+            "source": "mw-akasha",
+            "locator": "MW ā-kāśa, p. 127",
+            "quote": "the ether, sky or atmosphere"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 1, Hindi translation",
+            "quote": "आकाशको ही वस्त्ररूपमें धारण करनेवाले दिगम्बर"
+          },
+          {
+            "source": "shlokam-rudrashtakam",
+            "locator": "verse 1, word meanings",
+            "quote": "आकाशवासं (ākāśavāsaṃ) – sky-dwelling"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "I bow to the Lord, O Īśāna,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "whose very form is liberation,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "the mighty one,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "present everywhere,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "whose own form is Brahman and the Veda."
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "Resting in Your own being,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "free of all qualities,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "free of all division,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "free of desire,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "the sky of consciousness, clothed in the sky itself:"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "I worship"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "You."
+            }
+          ]
+        ],
+        "bhavartha": "The hymn opens with a bow. The singer calls Śiva Īśāna, the Ruler, and bows to Him as liberation itself: mighty, present everywhere, Brahman and the Veda in His own form. Then he turns to worship. Śiva rests in His own being, untouched by any quality, any division or any desire. He is a sky made of pure awareness, and He wears the open sky itself as His clothes."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "हे ईशान! मैं उन स्वामी को नमन करता हूँ"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "जिनका स्वरूप ही मोक्ष है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "जो समर्थ हैं,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "सर्वत्र व्याप्त हैं,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "और ब्रह्म तथा वेद जिनका स्वरूप हैं।"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "अपने स्वरूप में स्थित,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "गुणों से रहित,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "भेद से रहित,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "इच्छा से रहित,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "चेतना-रूपी आकाश, आकाश को ही वस्त्र की तरह ओढ़ने वाले"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "आपको"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "मैं भजता हूँ।"
+            }
+          ]
+        ],
+        "bhavartha": "स्तोत्र प्रणाम से शुरू होता है। गायक शिव को ईशान, यानी शासक, कहकर पुकारता है और उन्हें प्रणाम करता है जो स्वयं मोक्ष हैं: समर्थ, सर्वत्र व्याप्त, ब्रह्म और वेद जिनका अपना रूप हैं। फिर वह भजन की ओर मुड़ता है। शिव अपने ही स्वरूप में स्थित हैं; न कोई गुण, न कोई भेद, न कोई इच्छा उन्हें छूती है। वे शुद्ध चेतना से बना आकाश हैं, और खुला आकाश ही उनका वस्त्र है।"
+      }
+    },
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "नमामि",
+            "iast": "namāmi"
+          },
+          {
+            "sa": "ईशम्",
+            "iast": "īśam"
+          },
+          {
+            "sa": "ईशान",
+            "iast": "īśāna"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "i + ī → ī",
+            "explanation": {
+              "en": "The final i of namāmi and the first ī of īśam merge into one long ī: namāmi + īśam → namāmīśam.",
+              "hi": "नमामि का अन्तिम 'इ' और ईशम् का 'ई' मिलकर एक दीर्घ 'ई' बन जाते हैं: नमामि + ईशम् → नमामीशम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नमामि",
+            "iast": "namāmi",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नम्",
+              "iast": "nam",
+              "gana": 1,
+              "gloss": {
+                "en": "to bow",
+                "hi": "झुकना, नमन करना"
+              }
+            },
+            "formation": "√nam, present tense, 'I'",
+            "sense": {
+              "dict": "mw",
+              "headword": "nam",
+              "gloss": "to bend or bow, to bow to"
+            },
+            "meaning": {
+              "en": "I bow",
+              "hi": "नमन करता हूँ"
+            }
+          },
+          {
+            "sa": "ईश",
+            "iast": "īśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईश",
+              "iast": "īśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "īśa",
+              "gloss": "a ruler, master, lord"
+            },
+            "meaning": {
+              "en": "Lord",
+              "hi": "स्वामी"
+            }
+          },
+          {
+            "sa": "ईशान",
+            "iast": "īśāna",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ईश्",
+              "iast": "īś",
+              "gana": 2,
+              "gloss": {
+                "en": "to rule",
+                "hi": "शासन करना"
+              }
+            },
+            "formation": "√īś + śānac ('ruling')",
+            "sense": {
+              "dict": "mw",
+              "headword": "īśāna",
+              "gloss": "a ruler, master, one of the older names of Śiva-Rudra"
+            },
+            "meaning": {
+              "en": "O Īśāna",
+              "hi": "हे ईशान"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I bow to the Lord, O Īśāna (Śiva)",
+          "hi": "हे ईशान (शिव)! मैं स्वामी को नमन करता हूँ"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "*Īśāna*, 'the Ruler', is one of Śiva's oldest names. As *Īśa* He is also lord of the north-east direction.",
+          "hi": "*ईशान*, यानी 'शासक', शिव के सबसे पुराने नामों में से है। *ईश* के रूप में वे ईशान दिशा (उत्तर-पूर्व) के स्वामी भी हैं।"
+        },
+        "notes": {
+          "en": "Three padas in one display word: namāmi (first person present of √nam), īśam (the object, 'the Lord') and īśāna (a calling-out, 'O Īśāna'). īśāna is the present participle of √īś 'to rule', used as a name of Śiva. The m of īśam simply joins the following vowel; no change there. Where the text is printed joined (īśānanirvāṇarūpaṃ), īśāna becomes the first member of the next word's compound; see the variant note.",
+          "hi": "एक शब्द में तीन पद: नमामि (√नम् का उत्तम पुरुष, वर्तमान), ईशम् (कर्म, 'स्वामी को') और ईशान (सम्बोधन, 'हे ईशान')। ईशान √ईश् 'शासन करना' का वर्तमान कृदन्त है, जो शिव का नाम बन गया। ईशम् का म् आगे के स्वर से बस जुड़ जाता है, कोई परिवर्तन नहीं। जहाँ पाठ जुड़ा छपा है (ईशाननिर्वाणरूपं), वहाँ ईशान अगले समास का पहला पद बन जाता है; पाठभेद टिप्पणी देखें।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "I bow to the Lord, the Ruler whose form is liberation",
+              "hi": "मोक्ष-स्वरूप शासक स्वामी को मैं नमन करता हूँ"
+            },
+            "note": "kashiraj-ramcharitmanas and sanskritdocuments-rudra8 print नमामीशमीशाननिर्वाणरूपं joined, making īśāna part of a compound with nirvāṇarūpa; gitapress, belvedere and greenmesg space it as a vocative."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-nam",
+          "mw-isha",
+          "mw-ishana",
+          "gitapress-ramcharitmanas",
+          "shlokam-rudrashtakam",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "निर्वाण",
+            "iast": "nirvāṇa"
+          },
+          {
+            "sa": "रूपम्",
+            "iast": "rūpam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (vibhum): rūpam → rūpaṃ.",
+              "hi": "अगले शब्द (विभुम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: रूपम् → रूपं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निर्वाण",
+            "iast": "nirvāṇa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वा",
+              "iast": "vā",
+              "gana": 2,
+              "prefixes": [
+                "nis"
+              ],
+              "gloss": {
+                "en": "to blow",
+                "hi": "बहना, फूँकना"
+              }
+            },
+            "formation": "nis + √vā + kta ('blown out')",
+            "sense": {
+              "dict": "mw",
+              "headword": "nirvāṇa",
+              "gloss": "final emancipation from matter and re-union with the Supreme Spirit"
+            },
+            "meaning": {
+              "en": "liberation",
+              "hi": "मोक्ष"
+            }
+          },
+          {
+            "sa": "रूप",
+            "iast": "rūpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "रूप",
+              "iast": "rūpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "rūpa",
+              "gloss": "form, shape, figure"
+            },
+            "meaning": {
+              "en": "form",
+              "hi": "स्वरूप"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(the Lord, i.e. Śiva) whose very form is liberation",
+          "hi": "(उन स्वामी, अर्थात् शिव को) जिनका स्वरूप ही मोक्ष है"
+        },
+        "literal": {
+          "en": "having nirvāṇa as form",
+          "hi": "निर्वाण जिसका रूप है"
+        },
+        "aside": {
+          "en": "*Nirvāṇa* first means 'blown out', like a lamp. Here it is the deep calm of final freedom, and the Lord is that freedom itself.",
+          "hi": "*निर्वाण* का पहला अर्थ है 'बुझ जाना', जैसे दीपक। यहाँ यह अन्तिम मुक्ति की गहरी शान्ति है, और स्वामी स्वयं वही मुक्ति हैं।"
+        },
+        "notes": {
+          "en": "Describes īśam, the Lord bowed to. Gita Press renders it मोक्षस्वरूप.",
+          "hi": "ईशम् (जिन्हें प्रणाम है) का विशेषण। गीता प्रेस का अनुवाद: मोक्षस्वरूप।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nirvana",
+          "mw-rupa",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "विभुम्",
+            "iast": "vibhum"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the v of vyāpakam: vibhum → vibhuṃ.",
+              "hi": "व्यापकम् के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: विभुम् → विभुं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "विभु",
+            "iast": "vibhu",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to be, to arise",
+                "hi": "होना"
+              }
+            },
+            "formation": "vi + √bhū + ḍu",
+            "sense": {
+              "dict": "mw",
+              "headword": "vibhu",
+              "gloss": "mighty, powerful, excellent, great"
+            },
+            "meaning": {
+              "en": "mighty",
+              "hi": "समर्थ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(the Lord, i.e. Śiva,) the mighty one",
+          "hi": "(स्वामी, अर्थात् शिव,) जो समर्थ हैं"
+        },
+        "notes": {
+          "en": "vibhu has two main senses, 'everywhere present' and 'mighty, lord'. With vyāpaka 'pervading' right after it, 'mighty' avoids saying the same thing twice; sanskritdocuments' Hindi has समर्थ.",
+          "hi": "विभु के दो मुख्य अर्थ हैं: 'सर्वत्र विद्यमान' और 'समर्थ, प्रभु'। ठीक बाद में व्यापक आता है, इसलिए दोहराव से बचने के लिए 'समर्थ' लिया गया है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "all-pervading, present everywhere",
+              "hi": "सर्वव्यापी, सर्वत्र विद्यमान"
+            },
+            "note": "MW's first sense; shlokam-rudrashtakam glosses vibhuṃ 'all-pervading'. gitapress keeps विभु untranslated."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vibhu",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "व्यापकम्",
+            "iast": "vyāpakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the b of brahma: vyāpakam → vyāpakaṃ.",
+              "hi": "ब्रह्म के 'ब' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: व्यापकम् → व्यापकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "व्यापक",
+            "iast": "vyāpaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "आप्",
+              "iast": "āp",
+              "gana": 5,
+              "prefixes": [
+                "vi",
+                "ā"
+              ],
+              "gloss": {
+                "en": "to reach, to pervade",
+                "hi": "पहुँचना, व्याप्त होना"
+              }
+            },
+            "formation": "vi + ā + √āp + ṇvul (one who does the action)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vyāpaka",
+              "gloss": "pervading, diffusive, comprehensive, widely spreading"
+            },
+            "meaning": {
+              "en": "pervading",
+              "hi": "व्यापक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(the Lord, i.e. Śiva,) present everywhere",
+          "hi": "(स्वामी, अर्थात् शिव,) जो सर्वत्र व्याप्त हैं"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vyapaka",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w5": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "ब्रह्म",
+            "iast": "brahma"
+          },
+          {
+            "sa": "वेद",
+            "iast": "veda"
+          },
+          {
+            "sa": "स्वरूपम्",
+            "iast": "svarūpam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "ब्रह्मन्",
+            "iast": "brahman",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ब्रह्मन्",
+              "iast": "brahman"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "brahman",
+              "gloss": "the one self-existent impersonal Spirit, the Absolute"
+            },
+            "meaning": {
+              "en": "Brahman",
+              "hi": "ब्रह्म"
+            }
+          },
+          {
+            "sa": "वेद",
+            "iast": "veda",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "विद्",
+              "iast": "vid",
+              "gana": 2,
+              "gloss": {
+                "en": "to know",
+                "hi": "जानना"
+              }
+            },
+            "formation": "√vid + ghañ",
+            "sense": {
+              "dict": "mw",
+              "headword": "veda",
+              "gloss": "knowledge, true or sacred knowledge or lore"
+            },
+            "meaning": {
+              "en": "Veda",
+              "hi": "वेद"
+            }
+          },
+          {
+            "sa": "स्वरूप",
+            "iast": "svarūpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "स्वरूप",
+              "iast": "svarūpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "svarūpa",
+              "gloss": "one's own form or shape"
+            },
+            "meaning": {
+              "en": "own form",
+              "hi": "स्वरूप"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(the Lord, i.e. Śiva,) whose own form is Brahman and the Veda",
+          "hi": "(स्वामी, अर्थात् शिव,) ब्रह्म और वेद जिनका स्वरूप हैं"
+        },
+        "notes": {
+          "en": "Read as brahma + veda 'Brahman and the Veda', as Gita Press does (ब्रह्म और वेदस्वरूप). Gita Press, Belvedere and Wikisource print the words apart (ब्रह्म वेदस्वरूपं), which gives the same two senses as separate words: 'Brahman, whose form is the Veda'.",
+          "hi": "ब्रह्म + वेद, 'ब्रह्म और वेद', जैसा गीता प्रेस का अनुवाद है (ब्रह्म और वेदस्वरूप)। गीता प्रेस, बेलवेडियर और विकिस्रोत इन्हें अलग छापते हैं (ब्रह्म वेदस्वरूपं), जिससे वही दोनों अर्थ अलग शब्दों में मिलते हैं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whose form is the knowledge of Brahman found in the Vedas",
+              "hi": "वेदों में निहित ब्रह्म-ज्ञान जिनका स्वरूप है"
+            },
+            "note": "greenmesg-rudrashtakam reads brahma-veda as knowledge of Brahman; MW brahmaveda also lists 'knowledge of Brahmă' (W.)."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-brahman",
+          "mw-veda",
+          "mw-svarupa",
+          "mw-brahmaveda",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "निजम्",
+            "iast": "nijam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the n of nirguṇam: nijam → nijaṃ.",
+              "hi": "निर्गुणम् के 'न' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: निजम् → निजं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निज",
+            "iast": "nija",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "जन्",
+              "iast": "jan",
+              "gana": 4,
+              "prefixes": [
+                "ni"
+              ],
+              "gloss": {
+                "en": "to be born",
+                "hi": "उत्पन्न होना"
+              }
+            },
+            "formation": "ni + √jan + ḍa ('born within')",
+            "sense": {
+              "dict": "mw",
+              "headword": "nija",
+              "gloss": "innate, native"
+            },
+            "meaning": {
+              "en": "own",
+              "hi": "अपना"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(You, i.e. Śiva,) resting in Your own being",
+          "hi": "(आप, अर्थात् शिव,) जो अपने स्वरूप में स्थित हैं"
+        },
+        "literal": {
+          "en": "one's own, innate",
+          "hi": "अपना, सहज"
+        },
+        "notes": {
+          "en": "nija 'own, innate' stands here for one who abides in his own nature; Gita Press: निजस्वरूपमें स्थित. It qualifies the supplied tvām, the object of bhaje.",
+          "hi": "निज 'अपना, सहज' यहाँ उसके लिए है जो अपने स्वरूप में स्थित है; गीता प्रेस: निजस्वरूपमें स्थित। यह अध्याहृत त्वाम् (भजे का कर्म) का विशेषण है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "free and self-revealed",
+              "hi": "स्वतंत्र एवं स्वयं प्रकट होने वाले"
+            },
+            "note": "sanskritdocuments-rudra8's Hindi bhāvārtha: स्वतंत्र एवं स्वयं प्रकट होनेवाले."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-nija",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w7": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "निर्गुणम्",
+            "iast": "nirguṇam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the n of nirvikalpam: nirguṇam → nirguṇaṃ.",
+              "hi": "निर्विकल्पम् के 'न' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: निर्गुणम् → निर्गुणं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निर्",
+            "iast": "nir",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "without",
+              "hi": "रहित"
+            }
+          },
+          {
+            "sa": "गुण",
+            "iast": "guṇa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गुण",
+              "iast": "guṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "guṇa",
+              "gloss": "a quality, peculiarity, attribute or property"
+            },
+            "meaning": {
+              "en": "qualities",
+              "hi": "गुण"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(You, i.e. Śiva,) free of all qualities",
+          "hi": "(आप, अर्थात् शिव,) जो गुणों से रहित हैं"
+        },
+        "notes": {
+          "en": "MW: 'devoid of all qualities or properties', said of the Supreme Being. The guṇas meant are sattva, rajas and tamas (sanskritdocuments); Gita Press adds मायिक, the qualities of māyā.",
+          "hi": "मोनियर-विलियम्स: सब गुणों से रहित, परमात्मा के लिए। यहाँ गुण सत्त्व, रज और तम हैं; गीता प्रेस इन्हें मायिक गुण कहती है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-nirguna",
+          "mw-guna",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w8": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "निर्विकल्पम्",
+            "iast": "nirvikalpam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the n of nirīham: nirvikalpam → nirvikalpaṃ.",
+              "hi": "निरीहम् के 'न' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: निर्विकल्पम् → निर्विकल्पं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निर्",
+            "iast": "nir",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "without",
+              "hi": "रहित"
+            }
+          },
+          {
+            "sa": "विकल्प",
+            "iast": "vikalpa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कॢप्",
+              "iast": "kḷp",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to arrange, to divide",
+                "hi": "कल्पना करना, बाँटना"
+              }
+            },
+            "formation": "vi + √kḷp + ghañ",
+            "sense": {
+              "dict": "mw",
+              "headword": "vikalpa",
+              "gloss": "variation, combination, variety, diversity, manifoldness"
+            },
+            "meaning": {
+              "en": "division",
+              "hi": "भेद"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(You, i.e. Śiva,) free of all division",
+          "hi": "(आप, अर्थात् शिव,) जो भेद से रहित हैं"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "beyond all doubt or wavering",
+              "hi": "संशय से रहित, अटल"
+            },
+            "note": "MW nirvikalpa also: 'admitting no doubt, not wavering'; shlokam glosses 'without alternatives'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-nirvikalpa",
+          "mw-vikalpa",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w9": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "निरीहम्",
+            "iast": "nirīham"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the c of cidākāśam: nirīham → nirīhaṃ.",
+              "hi": "चिदाकाशम् के 'च' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: निरीहम् → निरीहं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निर्",
+            "iast": "nir",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "without",
+              "hi": "रहित"
+            }
+          },
+          {
+            "sa": "ईहा",
+            "iast": "īhā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ईह्",
+              "iast": "īh",
+              "gana": 1,
+              "gloss": {
+                "en": "to strive for, to wish",
+                "hi": "चेष्टा करना, चाहना"
+              }
+            },
+            "formation": "√īh + a + ṭāp",
+            "sense": {
+              "dict": "mw",
+              "headword": "īhā",
+              "gloss": "request, desire, wish"
+            },
+            "meaning": {
+              "en": "desire",
+              "hi": "इच्छा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(You, i.e. Śiva,) free of desire",
+          "hi": "(आप, अर्थात् शिव,) जो इच्छा से रहित हैं"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "still, free of all effort",
+              "hi": "निश्चेष्ट, स्थिर"
+            },
+            "note": "MW nirīha also 'motionless, inactive'; īhā is both effort and wish."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-niriha",
+          "mw-iha",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "चित्",
+            "iast": "cit"
+          },
+          {
+            "sa": "आकाशम्",
+            "iast": "ākāśam"
+          },
+          {
+            "sa": "आकाश",
+            "iast": "ākāśa"
+          },
+          {
+            "sa": "वासम्",
+            "iast": "vāsam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + ā → d + ā",
+            "explanation": {
+              "en": "Final t becomes the voiced d before a vowel: cit + ākāśam → cidākāśam.",
+              "hi": "स्वर से पहले अन्तिम 'त्' घोष 'द्' बन जाता है: चित् + आकाशम् → चिदाकाशम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra (ṃ) before the bh of bhaje: vāsam → vāsaṃ.",
+              "hi": "भजे के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: वासम् → वासं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "चित्",
+            "iast": "cit",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "चित्",
+              "iast": "cit"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "cid",
+              "gloss": "in comp. for cit"
+            },
+            "meaning": {
+              "en": "consciousness",
+              "hi": "चेतना"
+            }
+          },
+          {
+            "sa": "आकाश",
+            "iast": "ākāśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "आकाश",
+              "iast": "ākāśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ākāśa",
+              "gloss": "the ether, sky or atmosphere"
+            },
+            "meaning": {
+              "en": "sky",
+              "hi": "आकाश"
+            }
+          },
+          {
+            "sa": "वास",
+            "iast": "vāsa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वस्",
+              "iast": "vas",
+              "gana": 2,
+              "gloss": {
+                "en": "to wear",
+                "hi": "पहनना"
+              }
+            },
+            "formation": "√vas + ghañ",
+            "sense": {
+              "dict": "mw",
+              "headword": "vāsa",
+              "gloss": "a garment, dress, clothes (mc. for vāsas)"
+            },
+            "meaning": {
+              "en": "garment",
+              "hi": "वस्त्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(You, i.e. Śiva,) the sky of consciousness, who wear the sky itself as clothing, that is, wear nothing but the open sky",
+          "hi": "(आप, अर्थात् शिव,) जो चेतना-रूपी आकाश हैं और आकाश को ही वस्त्र की तरह ओढ़ते हैं, अर्थात् दिगम्बर हैं"
+        },
+        "notes": {
+          "en": "Two padas: cidākāśam (cit + ākāśa, 'the sky that is consciousness') and ākāśavāsam ('whose garment is the sky'). Both qualify the supplied tvām. The m of cidākāśam simply joins the next vowel.",
+          "hi": "दो पद: चिदाकाशम् (चित् + आकाश, 'चेतना-रूपी आकाश') और आकाशवासम् ('आकाश ही जिनका वस्त्र है')। दोनों अध्याहृत त्वाम् के विशेषण हैं। चिदाकाशम् का म् आगे के स्वर से बस जुड़ जाता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "who dwells in the sky",
+              "hi": "आकाश में निवास करने वाले"
+            },
+            "note": "vāsa as 'dwelling' (MW 3. vāsa); shlokam-rudrashtakam: 'sky-dwelling'; greenmesg: 'abides in the sky of the Chidakasha'."
+          },
+          {
+            "reading": {
+              "en": "who covers even the sky",
+              "hi": "आकाश को भी ढक लेने वाले"
+            },
+            "note": "gitapress-ramcharitmanas and sanskritdocuments-rudra8 give this as a second reading in brackets."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-cid",
+          "mw-akasha",
+          "mw-vasa",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "pūrvarūpa",
+            "rule": "e + a → e'",
+            "explanation": {
+              "en": "After a final e, an initial a is dropped and marked with an avagraha (ऽ): bhaje + aham → bhaje'ham.",
+              "hi": "अन्तिम 'ए' के बाद आने वाला 'अ' लुप्त होकर अवग्रह (ऽ) से दिखाया जाता है: भजे + अहम् → भजेऽहम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to worship, to adore",
+                "hi": "भजना, आराधना करना"
+              }
+            },
+            "formation": "√bhaj, present tense, 'I'",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "worship",
+              "hi": "भजता हूँ"
+            }
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "meaning": {
+              "en": "I",
+              "hi": "मैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "bhaje is the first person present of √bhaj in its middle (ātmanepada) form. Kāśirāja, Belvedere and Wikisource write भजेहं without the avagraha; same reading.",
+          "hi": "भजे √भज् का उत्तम पुरुष, वर्तमान, आत्मनेपद रूप है। काशिराज, बेलवेडियर और विकिस्रोत अवग्रह के बिना भजेहं लिखते हैं; पाठ वही है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "mw-aham",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      }
+    }
+  }
+}

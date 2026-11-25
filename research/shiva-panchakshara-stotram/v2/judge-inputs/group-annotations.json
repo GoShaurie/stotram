@@ -1,0 +1,1226 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "shiva-panchakshara-stotram",
+    "title": {
+      "sa": "शिवपञ्चाक्षरस्तोत्रम्",
+      "iast": "Śivapañcākṣarastotram",
+      "en": "Shiva Panchakshara Stotram",
+      "hi": "शिव पञ्चाक्षर स्तोत्र"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Ādi Śaṅkarācārya.",
+      "hi": "परम्परा से आदि शंकराचार्य द्वारा रचित माना जाता है।"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-panch",
+        "name": "sanskritdocuments.org — Shiva Panchakshara Stotram (panch.itx, Anand Hudli; 5 verses + phalaśruti, English translation); read from the Wayback copy of 2025-08-01",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20250801111702/https://sanskritdocuments.org/doc_shiva/panch.html"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. [119]–120; Sanskrit Wikisource transcribes the same pages",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n129/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, p. 459; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/459/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 33–34, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "sringeri-shiva-panchakshara",
+        "name": "Sri Sringeri Sharada Peetham (sringeri.net) — Shiva Panchakshara Stotram",
+        "kind": "text",
+        "url": "https://www.sringeri.net/stotras/shivastotrani/shiva-panchakshara-stotram"
+      },
+      {
+        "id": "stotranidhi-shiva-panchakshara",
+        "name": "stotranidhi.com — Shiva Panchakshara Stotram (Sanskrit); probably descends from the 1910 Vani Vilas text",
+        "kind": "text",
+        "url": "https://stotranidhi.com/shiva-panchakshara-stotram-in-sanskrit/"
+      },
+      {
+        "id": "mw-maheshvara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśvara' (SLP1 key: maheSvara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSvara"
+      },
+      {
+        "id": "mw-namas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'namas' (SLP1 key: namas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=namas"
+      },
+      {
+        "id": "mw-shiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śiva' (SLP1 key: Siva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Siva"
+      },
+      {
+        "id": "mw-kara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāra' (SLP1 key: kAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAra"
+      },
+      {
+        "id": "mw-tad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tad' (SLP1 key: tad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tad"
+      },
+      {
+        "id": "mw-candana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'candana' (SLP1 key: candana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=candana"
+      },
+      {
+        "id": "mw-carcita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'carcita' (SLP1 key: carcita)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=carcita"
+      },
+      {
+        "id": "mw-makara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'makāra' (SLP1 key: makAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=makAra"
+      },
+      {
+        "id": "mw-mandakini",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mandākinī' (SLP1 key: mandAkinI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mandAkinI"
+      },
+      {
+        "id": "mw-mandarapushpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mandārapuṣpa' (SLP1 key: mandArapuzpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mandArapuzpa"
+      },
+      {
+        "id": "mw-nandishvara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nandīśvara' (SLP1 key: nandISvara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nandISvara"
+      },
+      {
+        "id": "mw-pramathanatha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pramathanātha' (SLP1 key: pramaTanATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pramaTanATa"
+      },
+      {
+        "id": "mw-salila",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'salila' (SLP1 key: salila)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=salila"
+      },
+      {
+        "id": "mw-supujita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'supūjita' (SLP1 key: supUjita)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=supUjita"
+      },
+      {
+        "id": "mw-mandara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mandāra' (SLP1 key: mandAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mandAra"
+      },
+      {
+        "id": "mw-nandin",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nandin' (SLP1 key: nandin)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nandin"
+      },
+      {
+        "id": "mw-natha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nātha' (SLP1 key: nATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nATa"
+      },
+      {
+        "id": "mw-pramatha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pramatha' (SLP1 key: pramaTa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pramaTa"
+      },
+      {
+        "id": "mw-pujita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pūjita' (SLP1 key: pUjita)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pUjita"
+      },
+      {
+        "id": "mw-pushpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'puṣpa' (SLP1 key: puzpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=puzpa"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v2",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "मन्दाकिनीसलिलचन्दनचर्चिताय",
+            "iast": "mandākinīsalilacandanacarcitāya"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w2",
+            "text": "नन्दीश्वरप्रमथनाथमहेश्वराय",
+            "iast": "nandīśvarapramathanāthamaheśvarāya"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "मन्दारपुष्पबहुपुष्पसुपूजिताय",
+            "iast": "mandārapuṣpabahupuṣpasupūjitāya"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "तस्मै",
+            "iast": "tasmai"
+          },
+          {
+            "id": "w5",
+            "text": "मकाराय",
+            "iast": "makārāya"
+          },
+          {
+            "id": "w6",
+            "text": "नमः",
+            "iast": "namaḥ"
+          },
+          {
+            "id": "w7",
+            "text": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "end": "॥ २ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "*Mandākinī*, 'she who flows slowly', is a name of the Gaṅgā as she runs in heaven. Her water and *candana*, sandal paste, are laid over Śiva: *carcita* means 'coated, anointed'.\n\nPut this beside [verse 1](#v1-a3), where His only body-paint was ash. Now a worshipper's offerings cover Him: water from the river of heaven, and sandal, a perfume so prized that its name came to mean 'the best of its kind'.",
+          "hi": "*मन्दाकिनी*, 'धीरे बहने वाली', स्वर्ग में बहती गंगा का नाम है। उसका जल और *चन्दन* का लेप शिव पर लगा है: *चर्चित* यानी 'लिपा हुआ, अभिषिक्त'।\n\nइसे [पहले श्लोक](#v1-a3) के साथ रखिए, जहाँ उनका एकमात्र लेप भस्म था। अब भक्त की भेंटें उन्हें ढकती हैं: स्वर्ग की नदी का जल, और चन्दन, इतनी कीमती सुगन्ध कि उसका नाम ही 'सर्वश्रेष्ठ' का पर्याय बन गया।"
+        },
+        "citations": [
+          {
+            "source": "mw-mandakini",
+            "locator": "MW mandākinī, p. 788",
+            "quote": "going or streaming slowly"
+          },
+          {
+            "source": "mw-mandakini",
+            "locator": "MW mandākinī, p. 788",
+            "quote": "the heavenly Ganges"
+          },
+          {
+            "source": "mw-carcita",
+            "locator": "MW carcita, p. 390",
+            "quote": "smeared with, covered with"
+          },
+          {
+            "source": "mw-candana",
+            "locator": "MW candana, p. 386",
+            "quote": "held in high estimation as perfumes"
+          },
+          {
+            "source": "mw-candana",
+            "locator": "MW candana, p. 386",
+            "quote": "a term for anything which is the most excellent of its kind"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 33, verse 2, Hindi translation",
+            "quote": "गंगाजल और चन्दनसे जिनकी अर्चा हुई है"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w2"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "Three titles, one Lord. *Nandīśvara*, 'Lord of Nandī', is a name of Śiva: Nandī is the chief of His attendants, and the name of His bull too. *Pramatha-nātha* is 'master of the *pramathas*', literally 'tormentors', the wild hosts of spirits that attend Him. Then *Maheśvara*, the great Lord.\n\nThe line moves outward: from His closest servant, to His unruly crowd, to the plain title of greatness.",
+          "hi": "तीन उपाधियाँ, एक ही स्वामी। *नन्दीश्वर*, 'नन्दी के स्वामी', शिव का नाम है: नन्दी उनके सेवकों में प्रमुख हैं, और यही नाम उनके बैल का भी है। *प्रमथ-नाथ* यानी '*प्रमथों* के नाथ'; *प्रमथ* का शाब्दिक अर्थ है 'सताने वाले', वे उग्र गण जो उनकी सेवा में रहते हैं। फिर *महेश्वर*, महान् स्वामी।\n\nपंक्ति बाहर की ओर बढ़ती है: सबसे निकट के सेवक से, उनकी उद्दण्ड भीड़ तक, और फिर महानता की सीधी उपाधि तक।"
+        },
+        "citations": [
+          {
+            "source": "mw-nandishvara",
+            "locator": "MW nandīśvara, p. 527",
+            "quote": "N. of Śiva"
+          },
+          {
+            "source": "mw-nandishvara",
+            "locator": "MW nandīśvara, p. 527",
+            "quote": "N. of the chief of Ś˚'s attendants"
+          },
+          {
+            "source": "mw-nandin",
+            "locator": "MW nandin, p. 527",
+            "quote": "of Śiva's bull"
+          },
+          {
+            "source": "mw-pramatha",
+            "locator": "MW pra-matha, p. 685",
+            "quote": "N. of a class of demons attending on Śiva"
+          },
+          {
+            "source": "mw-pramathanatha",
+            "locator": "MW pramatha-nātha, p. 685",
+            "quote": "lord of the Pramathas"
+          },
+          {
+            "source": "mw-maheshvara",
+            "locator": "MW maheśvara, p. 802",
+            "quote": "a great lord, sovereign, chief"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 33, verse 2, Hindi translation",
+            "quote": "उन नन्दीके अधिपति प्रमथगणोंके स्वामी महेश्वर"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w3"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "The *mandāra* is the coral tree, counted among the five trees of heaven. So the verse surrounds Śiva's worship with heaven's own gifts: the river of heaven in its first line, the flower of heaven in its third.\n\n*Su-pūjita* is 'well worshipped': not with one flower but with many, mandāra blossoms and *bahu-puṣpa*, 'many flowers', besides.",
+          "hi": "*मन्दार* मूँगे का पेड़ है, जिसे स्वर्ग के पाँच वृक्षों में गिना जाता है। इस तरह श्लोक शिव की पूजा को स्वर्ग की ही भेंटों से घेरता है: पहली पंक्ति में स्वर्ग की नदी, तीसरी में स्वर्ग का फूल।\n\n*सु-पूजित* यानी 'भली-भाँति पूजित': एक फूल से नहीं, अनेक से; मन्दार के फूल, और साथ में *बहु-पुष्प*, 'बहुत-से फूल'।"
+        },
+        "citations": [
+          {
+            "source": "mw-mandara",
+            "locator": "MW mandāra, p. 788",
+            "quote": "the coral tree, Erythrina Indica (also regarded as one of the 5 trees of paradise or Svarga)"
+          },
+          {
+            "source": "mw-supujita",
+            "locator": "MW su-pūjita, p. 1228",
+            "quote": "highly honoured"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "verse 2, translation",
+            "quote": "who is worshiped with mandAra and many other kinds of flowers"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w5"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "The verse opens with *ma* (*ma*-ndākinī), the second sound of *na-maḥ śi-vā-ya*, so its refrain names *ma-kāra*, the letter *ma* ([verse 1](#v1-a5)).\n\nThe refrain is also found as *makāra-mahitāya*, 'honoured with the letter *ma*'. That reading gives the last line the same long beat as the other three; *makārāya* cuts it short, to the refrain every other verse uses. Most printings have *makārāya*, as here.",
+          "hi": "श्लोक *म* से शुरू होता है (*म*-न्दाकिनी), जो *न-मः शि-वा-य* की दूसरी ध्वनि है, इसलिए इसकी टेक *म-कार*, यानी 'म' अक्षर, का नाम लेती है ([पहला श्लोक](#v1-a5))।\n\nटेक *मकार-महिताय* रूप में भी मिलती है, 'जो म-अक्षर से सम्मानित हैं'। उस पाठ से अन्तिम पंक्ति की लय बाकी तीन जितनी लम्बी हो जाती है; *मकाराय* उसे छोटा कर देता है, बाकी सब श्लोकों की टेक जैसा। अधिकतर मुद्रित पाठों में *मकाराय* है, और यहाँ भी।"
+        },
+        "citations": [
+          {
+            "source": "vanivilas-1910-works-17",
+            "locator": "p. [119], verse 2",
+            "quote": "तस्मै मकारमहिताय नमः शिवाय"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "verse 2",
+            "quote": "तस्मै मकाराय नमः शिवाय"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "verse 2",
+            "quote": "मकारमहिताय"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 459, verse 2",
+            "quote": "तस्मै मकाराय नमः शिवाय"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 33, verse 2",
+            "quote": "तस्मै ‘म’ काराय नमः शिवाय"
+          },
+          {
+            "source": "sringeri-shiva-panchakshara",
+            "locator": "verse 2",
+            "quote": "तस्मै मकाराय नमः शिवाय"
+          },
+          {
+            "source": "stotranidhi-shiva-panchakshara",
+            "locator": "verse 2",
+            "quote": "तस्मै मकाराय नमः शिवाय"
+          },
+          {
+            "source": "mw-makara",
+            "locator": "MW 1. ma-kāra, p. 771",
+            "quote": "the letter or sound ma"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "To Him anointed with the water of the Mandākinī, the heavenly Gaṅgā, and with sandal paste,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "the Lord of Nandī, the master of the pramathas, the great Lord,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "well worshipped with mandāra flowers and many other flowers:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "to Him,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "the syllable ma,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "to Śiva,"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "let there be"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "salutation."
+            }
+          ]
+        ],
+        "bhavartha": "Śiva is anointed with the water of the Mandākinī, the heavenly Gaṅgā, and with sandal paste, and worshipped with mandāra flowers and many others. He is the Lord of Nandī, the master of the pramathas, the great Lord. The poet bows to Him as the sound ma, the second syllable of the prayer namaḥ śivāya."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "मन्दाकिनी (स्वर्ग-गंगा) के जल और चन्दन से जिनका लेपन हुआ है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "जो नन्दी के स्वामी, प्रमथगणों के नाथ और महेश्वर हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "मन्दार के फूलों और अनेक अन्य फूलों से जिनकी भली-भाँति पूजा हुई है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "उन"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "'म'-कार रूपी"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "शिव को"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "नमस्कार"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "है।"
+            }
+          ]
+        ],
+        "bhavartha": "शिव पर मन्दाकिनी, यानी स्वर्ग-गंगा, का जल और चन्दन लगाया गया है, और मन्दार तथा अनेक अन्य फूलों से उनकी पूजा हुई है। वे नन्दी के स्वामी, प्रमथगणों के नाथ और महेश्वर हैं। कवि उन्हें 'म' अक्षर के रूप में प्रणाम करता है, जो 'नमः शिवाय' मन्त्र का दूसरा अक्षर है।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "मन्दाकिनी",
+            "iast": "mandākinī"
+          },
+          {
+            "sa": "सलिल",
+            "iast": "salila"
+          },
+          {
+            "sa": "चन्दन",
+            "iast": "candana"
+          },
+          {
+            "sa": "चर्चिताय",
+            "iast": "carcitāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "मन्दाकिनी",
+            "iast": "mandākinī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मन्दाकिनी",
+              "iast": "mandākinī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mandākinī",
+              "gloss": "the heavenly Ganges"
+            },
+            "meaning": {
+              "en": "the heavenly Gaṅgā",
+              "hi": "स्वर्ग-गंगा"
+            }
+          },
+          {
+            "sa": "सलिल",
+            "iast": "salila",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सलिल",
+              "iast": "salila"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "salila",
+              "gloss": "water"
+            },
+            "meaning": {
+              "en": "water",
+              "hi": "जल"
+            }
+          },
+          {
+            "sa": "चन्दन",
+            "iast": "candana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "चन्दन",
+              "iast": "candana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "candana",
+              "gloss": "sandal (the tree, wood, or the unctuous preparation of the wood)"
+            },
+            "meaning": {
+              "en": "sandal paste",
+              "hi": "चन्दन"
+            }
+          },
+          {
+            "sa": "चर्चित",
+            "iast": "carcita",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "चर्च्",
+              "iast": "carc",
+              "gana": 10
+            },
+            "formation": "√carc + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "carcita",
+              "gloss": "smeared with, covered with"
+            },
+            "meaning": {
+              "en": "anointed",
+              "hi": "लिपा हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is anointed with the water of the Mandākinī and with sandal paste",
+          "hi": "(उन को, अर्थात् शिव को) जिन पर मन्दाकिनी का जल और चन्दन लगाया गया है"
+        },
+        "literal": {
+          "en": "(to him) smeared with Mandākinī-water and sandal",
+          "hi": "(उन को) जो मन्दाकिनी-जल और चन्दन से लिपे हैं"
+        },
+        "notes": {
+          "en": "Mandākinī, 'the slow-flowing', is the Gaṅgā of heaven. carcita means 'smeared, covered with'. No sandhi at any join.",
+          "hi": "मन्दाकिनी, 'धीरे बहने वाली', स्वर्ग की गंगा है। चर्चित का अर्थ है 'लिपा हुआ, ढका हुआ'। किसी जोड़ पर सन्धि नहीं है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-mandakini",
+          "mw-salila",
+          "mw-candana",
+          "mw-carcita",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w2": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "नन्दि",
+            "iast": "nandi"
+          },
+          {
+            "sa": "ईश्वर",
+            "iast": "īśvara"
+          },
+          {
+            "sa": "प्रमथ",
+            "iast": "pramatha"
+          },
+          {
+            "sa": "नाथ",
+            "iast": "nātha"
+          },
+          {
+            "sa": "महा",
+            "iast": "mahā"
+          },
+          {
+            "sa": "ईश्वराय",
+            "iast": "īśvarāya"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "i + ī → ī",
+            "explanation": {
+              "en": "The final i of nandi and the first ī of īśvara merge into a long ī: nandi + īśvara → nandīśvara.",
+              "hi": "नन्दि का अन्तिम 'इ' और ईश्वर का पहला 'ई' मिलकर दीर्घ 'ई' बन जाते हैं: नन्दि + ईश्वर → नन्दीश्वर।"
+            }
+          },
+          {
+            "name": "guṇa",
+            "rule": "ā + ī → e",
+            "explanation": {
+              "en": "The final ā of mahā and the first ī of īśvara merge into e: mahā + īśvara → maheśvara.",
+              "hi": "महा का अन्तिम 'आ' और ईश्वर का पहला 'ई' मिलकर 'ए' बन जाते हैं: महा + ईश्वर → महेश्वर।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नन्दिन्",
+            "iast": "nandin",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नन्दिन्",
+              "iast": "nandin"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nandin",
+              "gloss": "N. of an attendant of Śiva"
+            },
+            "meaning": {
+              "en": "Nandī",
+              "hi": "नन्दी"
+            }
+          },
+          {
+            "sa": "ईश्वर",
+            "iast": "īśvara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईश्वर",
+              "iast": "īśvara"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "स्वामी"
+            }
+          },
+          {
+            "sa": "प्रमथ",
+            "iast": "pramatha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रमथ",
+              "iast": "pramatha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pramatha",
+              "gloss": "N. of a class of demons attending on Śiva"
+            },
+            "meaning": {
+              "en": "pramathas (His attendants)",
+              "hi": "प्रमथगण"
+            }
+          },
+          {
+            "sa": "नाथ",
+            "iast": "nātha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नाथ",
+              "iast": "nātha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nātha",
+              "gloss": "a protector, patron, possessor, owner, lord"
+            },
+            "meaning": {
+              "en": "master",
+              "hi": "नाथ"
+            }
+          },
+          {
+            "sa": "महत्",
+            "iast": "mahat",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "महत्",
+              "iast": "mahat"
+            },
+            "meaning": {
+              "en": "great",
+              "hi": "महान्"
+            }
+          },
+          {
+            "sa": "ईश्वर",
+            "iast": "īśvara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईश्वर",
+              "iast": "īśvara"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "ईश्वर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) the Lord of Nandī, the master of the pramathas, the great Lord",
+          "hi": "(उन को, अर्थात् शिव को) जो नन्दी के स्वामी, प्रमथगणों के नाथ और महेश्वर हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "nandin loses its final n at the front of a compound (nandi-). Nandīśvara can also name Nandī himself, the chief attendant; read that way, the line is 'the great Lord, master of Nandīśvara and the pramathas'. The sense is the same picture: Śiva at the head of His followers.",
+          "hi": "समास के आरम्भ में नन्दिन् का अन्तिम 'न्' हट जाता है (नन्दि-)। नन्दीश्वर स्वयं नन्दी का भी नाम है, जो प्रमुख सेवक हैं; उस अर्थ में पंक्ति होगी 'नन्दीश्वर और प्रमथों के नाथ, महेश्वर'। चित्र वही रहता है: अपने अनुचरों के अगुआ शिव।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(to Him) the great Lord, master of Nandīśvara and the pramathas",
+              "hi": "(उन को) जो नन्दीश्वर और प्रमथों के नाथ, महेश्वर हैं"
+            },
+            "note": "mw-nandishvara also gives nandīśvara as 'N. of the chief of Ś˚'s attendants'; gitapress-stotraratnavali and sanskritdocuments-panch both take it as 'Lord of Nandī'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-nandishvara",
+          "mw-nandin",
+          "mw-pramatha",
+          "mw-pramathanatha",
+          "mw-natha",
+          "mw-maheshvara",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w3": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "मन्दार",
+            "iast": "mandāra"
+          },
+          {
+            "sa": "पुष्प",
+            "iast": "puṣpa"
+          },
+          {
+            "sa": "बहु",
+            "iast": "bahu"
+          },
+          {
+            "sa": "पुष्प",
+            "iast": "puṣpa"
+          },
+          {
+            "sa": "सु",
+            "iast": "su"
+          },
+          {
+            "sa": "पूजिताय",
+            "iast": "pūjitāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "मन्दार",
+            "iast": "mandāra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मन्दार",
+              "iast": "mandāra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mandāra",
+              "gloss": "the coral tree, Erythrina Indica"
+            },
+            "meaning": {
+              "en": "coral tree",
+              "hi": "मन्दार"
+            }
+          },
+          {
+            "sa": "पुष्प",
+            "iast": "puṣpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुष्प",
+              "iast": "puṣpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "puṣpa",
+              "gloss": "a flower, blossom"
+            },
+            "meaning": {
+              "en": "flower",
+              "hi": "फूल"
+            }
+          },
+          {
+            "sa": "बहु",
+            "iast": "bahu",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "बहु",
+              "iast": "bahu"
+            },
+            "meaning": {
+              "en": "many",
+              "hi": "बहुत"
+            }
+          },
+          {
+            "sa": "पुष्प",
+            "iast": "puṣpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुष्प",
+              "iast": "puṣpa"
+            },
+            "meaning": {
+              "en": "flower",
+              "hi": "फूल"
+            }
+          },
+          {
+            "sa": "सु",
+            "iast": "su",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "well",
+              "hi": "भली-भाँति"
+            }
+          },
+          {
+            "sa": "पूजित",
+            "iast": "pūjita",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पूज्",
+              "iast": "pūj",
+              "gana": 10,
+              "gloss": {
+                "en": "to worship",
+                "hi": "पूजना"
+              }
+            },
+            "formation": "√pūj + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pūjita",
+              "gloss": "honoured, received or treated respectfully, worshipped, adored"
+            },
+            "meaning": {
+              "en": "worshipped",
+              "hi": "पूजित"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is well worshipped with mandāra flowers and many other flowers",
+          "hi": "(उन को, अर्थात् शिव को) जिनकी मन्दार के फूलों और अनेक अन्य फूलों से भली-भाँति पूजा हुई है"
+        },
+        "literal": {
+          "en": "(to him) well worshipped with mandāra-flowers and many flowers",
+          "hi": "(उन को) जो मन्दार-पुष्पों और बहुत-से पुष्पों से सुपूजित हैं"
+        },
+        "aside": {
+          "en": "Some printings read mandāra-mukhya, 'with the mandāra foremost': many flowers, the mandāra chief among them. The sense hardly changes.",
+          "hi": "कुछ मुद्रित पाठों में मन्दार-मुख्य है, 'मन्दार जिनमें प्रमुख है': अनेक फूल, उनमें मन्दार सबसे आगे। अर्थ लगभग वही रहता है।"
+        },
+        "notes": {
+          "en": "'Other' is understood: the many flowers are besides the mandāra. The text has मन्दारपुष्प; three of the six witnesses read मन्दारमुख्य (see alternatives).",
+          "hi": "'अन्य' समझा जाता है: बहुत-से फूल मन्दार के अतिरिक्त हैं। पाठ में मन्दारपुष्प है; मन्दारमुख्य पाठ भी मिलता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(to Him) well worshipped with many flowers, the mandāra foremost among them",
+              "hi": "(उन को) जिनकी अनेक फूलों से, जिनमें मन्दार प्रमुख है, भली-भाँति पूजा हुई है"
+            },
+            "note": "Reading मन्दारमुख्यबहुपुष्पसुपूजिताय in vanivilas-1910-works-17, sringeri-shiva-panchakshara and stotranidhi-shiva-panchakshara (3–3 split with A, C, D)."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-mandara",
+          "mw-mandarapushpa",
+          "mw-pushpa",
+          "mw-supujita",
+          "mw-pujita",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "तस्मै",
+            "iast": "tasmai"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तस्मै",
+            "iast": "tasmai",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "meaning": {
+              "en": "to Him",
+              "hi": "उनको"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to Him, i.e. Śiva (the one just described)",
+          "hi": "उन को, अर्थात् शिव को (जिनका अभी वर्णन हुआ)"
+        },
+        "notes": {
+          "en": "'To that one': it gathers up all the descriptions before it and hands them to the refrain. Vidyut's split tas + mai is not a real division; tasmai is a single form of tad.",
+          "hi": "'उनको': यह पहले के सारे वर्णन समेटकर टेक को सौंप देता है। Vidyut का विभाजन तस् + मै वास्तविक नहीं; तस्मै तद् का एक ही रूप है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tad",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "म",
+            "iast": "ma"
+          },
+          {
+            "sa": "काराय",
+            "iast": "kārāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "म",
+            "iast": "ma",
+            "pos": "syllable",
+            "meaning": {
+              "en": "ma (the sound)",
+              "hi": "'म' (ध्वनि)"
+            }
+          },
+          {
+            "sa": "कार",
+            "iast": "kāra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to make",
+                "hi": "करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāra",
+              "gloss": "the term used in designating a letter or sound"
+            },
+            "meaning": {
+              "en": "letter",
+              "hi": "अक्षर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(to Him, i.e. Śiva) who is the syllable ma",
+          "hi": "(उन को, अर्थात् शिव को) जो 'म' अक्षर-रूप हैं"
+        },
+        "literal": {
+          "en": "to the letter ma",
+          "hi": "'म' अक्षर को"
+        },
+        "notes": {
+          "en": "kāra after a sound names that sound as a letter. Here it names the ma of na-maḥ śi-vā-ya, with which this verse opens (ma-ndākinī). One printing reads makāramahitāya, 'honoured with the letter ma'; see the variant note.",
+          "hi": "किसी ध्वनि के बाद 'कार' उसे अक्षर के रूप में नाम देता है। यहाँ यह न-मः शि-वा-य के 'म' का नाम है, जिससे यह श्लोक आरम्भ होता है (म-न्दाकिनी)। एक मुद्रित पाठ में मकारमहिताय है, 'म-अक्षर से सम्मानित'; पाठभेद की टिप्पणी देखें।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(to Him) who is honoured with the letter ma",
+              "hi": "(उन को) जो 'म' अक्षर से सम्मानित हैं"
+            },
+            "note": "vanivilas-1910-works-17 reads मकारमहिताय, and sanskritdocuments-panch records it as a variation; A (main text), C, D, E and F read मकाराय. With मकारमहिताय pāda 4 is also vasantatilakā."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-makara",
+          "mw-kara",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "नमः",
+            "iast": "namaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "नमस्",
+            "iast": "namas",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नम्",
+              "iast": "nam",
+              "gana": 1,
+              "gloss": {
+                "en": "to bow",
+                "hi": "झुकना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "namas",
+              "gloss": "bow, obeisance, reverential salutation, adoration"
+            },
+            "meaning": {
+              "en": "salutation",
+              "hi": "नमस्कार"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "salutation, a bow",
+          "hi": "नमस्कार, प्रणाम"
+        },
+        "notes": {
+          "en": "namas takes the one it honours with the 'to' ending (śivāya, 'to Śiva'). No verb is written; 'let there be' (astu) is understood.",
+          "hi": "नमः के साथ जिसे प्रणाम किया जाता है उसका रूप 'को' वाला होता है (शिवाय, 'शिव को')। क्रिया लिखी नहीं है; 'हो' (अस्तु) समझा जाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-namas",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiva",
+              "gloss": "‘The Auspicious one’"
+            },
+            "meaning": {
+              "en": "Śiva",
+              "hi": "शिव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to Śiva",
+          "hi": "शिव को"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-shiva",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      }
+    }
+  }
+}

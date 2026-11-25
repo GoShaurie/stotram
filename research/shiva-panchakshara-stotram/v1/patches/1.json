@@ -1,0 +1,64 @@
+[
+  {
+    "op": "replace",
+    "path": "/verses/0/annotations/4/body/en",
+    "value": "Listen to how the verse begins: *nā*-gendra. Each of the five verses opens with one sound of *na-maḥ śi-vā-ya*, the five-syllable prayer to Śiva, and its refrain names that sound: here *na-kāra*, 'the letter *na*'.\n\nSo the refrain does more than greet Śiva. It calls Him the syllable itself: to Him who is *na*. Read the five verses in order and their opening sounds spell out the prayer, one at a time, while every last line says it whole."
+  },
+  {
+    "op": "replace",
+    "path": "/verses/0/annotations/4/body/hi",
+    "value": "श्लोक की शुरुआत सुनिए: *ना*-गेन्द्र। पाँचों श्लोक *न-मः शि-वा-य*, शिव के पाँच अक्षरों वाले मन्त्र, के एक-एक अक्षर से शुरू होते हैं, और उनकी टेक उसी अक्षर का नाम लेती है: यहाँ *न-कार*, यानी 'न' अक्षर।\n\nइसलिए टेक केवल शिव को प्रणाम नहीं करती, उन्हें स्वयं वह अक्षर कहती है: उन 'न'-रूपी को। पाँचों श्लोक क्रम से पढ़िए, तो उनके पहले अक्षर एक-एक करके मन्त्र बना देते हैं, और हर श्लोक की अन्तिम पंक्ति उसे पूरा कहती है।"
+  },
+  {
+    "op": "add",
+    "path": "/verses/0/annotations/4/citations/-",
+    "value": {
+      "source": "gitapress-stotraratnavali",
+      "locator": "pp. 33–34, vv. 1–6",
+      "quote": "तस्मै ‘य’ काराय नमः शिवाय"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/0/annotations/4/citations/-",
+    "value": {
+      "source": "gitapress-stotraratnavali",
+      "locator": "pp. 33–34, vv. 1–6",
+      "quote": "पञ्चाक्षरमिदं पुण्यं यः पठेच्छिवसन्निधौ"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/0/annotations/4/citations/-",
+    "value": {
+      "source": "stotram-text",
+      "locator": "vv. 1–6",
+      "quote": "तस्मै ‘म’ काराय नमः शिवाय"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/0/annotations/0/body/en",
+    "value": "A *hāra* is a necklace, a string of pearls such as a king might wear. Śiva's necklace is alive: the *nāgendra*, the king of snakes, coiled round His neck.\n\nThe verse keeps up this swap. Where a prince smooths on scented paste, Śiva wears ash; where a prince wears fine cloth, Śiva wears the open directions. Every royal ornament is there, but turned wild."
+  },
+  {
+    "op": "replace",
+    "path": "/verses/0/annotations/0/body/hi",
+    "value": "*हार* यानी गले का हार, मोतियों की लड़ी, जैसी कोई राजा पहनता हो। शिव का हार जीवित है: *नागेन्द्र*, साँपों का राजा, उनके गले में लिपटा है।\n\nश्लोक यही अदला-बदली आगे भी करता है। जहाँ राजा सुगन्धित लेप लगाता है, वहाँ शिव भस्म मलते हैं; जहाँ राजा महीन वस्त्र पहनता है, वहाँ शिव खुली दिशाओं को ओढ़ते हैं। हर राजसी गहना यहाँ है, पर जंगली रूप में।"
+  },
+  {
+    "op": "replace",
+    "path": "/verses/0/words/w7/meaning/en",
+    "value": "(to Him, i.e. Śiva) who is clothed only by the directions, i.e. sky-clad, naked"
+  },
+  {
+    "op": "replace",
+    "path": "/verses/0/words/w7/meaning/hi",
+    "value": "(उनको, अर्थात् शिव को) दिशाएँ ही जिनके वस्त्र हैं, अर्थात् जो निर्वस्त्र हैं"
+  },
+  {
+    "op": "replace",
+    "path": "/verses/0/translations/hi/lines/1/0/text",
+    "value": "भस्म ही जिनके शरीर का लेप है,"
+  }
+]

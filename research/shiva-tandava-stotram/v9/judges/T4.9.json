@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "b4aa15a1dbaca402",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a2.body",
+      "message": "Says the Ramakrishna print starts line 2 with valambi; it actually hyphenates prabhā-valambi mid-line (breaks after रुचि-). shlokam and vyakhya do start line 2 with valambi.",
+      "suggested_fix": "'The Ramakrishna Math print hyphenates prabhā-valambi, and shlokam.org and vyakhya.org start line 2 with valambi…' (HI to match)"
+    }
+  ]
+}

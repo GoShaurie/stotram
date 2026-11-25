@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "1f2c85da55037464",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a1.body",
+      "message": "The note says 'some printings spell vṛnda as bṛnda. Most have vṛnda, as here.' (Hindi: 'अधिकतर में वृन्द है'). Because this comes right after the bṛnda sentence, readers will take 'vṛnda' to mean the spelling with व. The six cited witnesses do not support that. Only A (sanskritdocuments-panch.md) and D (gitapress-stotraratnavali.md) have वृन्द. B (vanivilas-1910-works-17.md) and F (stotranidhi-shiva-panchakshara.md) have बृन्द. C (ramakrishna-math-mantrapushpam.md) has बाल and E (sringeri-shiva-panchakshara.md) has अरविन्द. So the व spelling is in 2 of 6, which is not 'most'. The claim is true only if both spellings are counted as one word, which makes 4 of 6 (text-report.md, Verse 3, item 1). That count is stronger than the note's wording makes clear, so a human should check it.",
+      "suggested_fix": "EN: 'Most witnesses have this word, vṛnda (or bṛnda), as here; the v-spelling used here is the standard one.' HI: 'अधिकतर पाठों में यही शब्द (वृन्द या बृन्द) है, जैसा यहाँ; यहाँ मानक वर्तनी वृन्द ली गई है।'"
+    }
+  ]
+}

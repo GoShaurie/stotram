@@ -1,0 +1,1224 @@
+{
+  "id": "v4",
+  "number": 4,
+  "kind": "verse",
+  "concepts": [
+    "panchakshara-mantra",
+    "shiva-supreme-lord"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "वसिष्ठकुम्भोद्भवगौतमार्य",
+          "iast": "vasiṣṭhakumbhodbhavagautamārya"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w2",
+          "text": "मुनीन्द्रदेवार्चितशेखराय",
+          "iast": "munīndradevārcitaśekharāya"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "चन्द्रार्कवैश्वानरलोचनाय",
+          "iast": "candrārkavaiśvānaralocanāya"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w4",
+          "text": "तस्मै",
+          "iast": "tasmai"
+        },
+        {
+          "id": "w5",
+          "text": "वकाराय",
+          "iast": "vakārāya"
+        },
+        {
+          "id": "w6",
+          "text": "नमः",
+          "iast": "namaḥ"
+        },
+        {
+          "id": "w7",
+          "text": "शिवाय",
+          "iast": "śivāya"
+        }
+      ],
+      "end": "॥ ४ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": [
+        "w1",
+        "w2"
+      ],
+      "iast": "vasiṣṭha-kumbha-udbhava-gautama-ārya-muni-indra-deva-arcita-śekharāya",
+      "type": "bahuvrīhi",
+      "structure": "(((((vasiṣṭha-(kumbha-udbhava)-gautama)-(ārya-(muni-indra)))-deva)-arcita)-śekhara)",
+      "vigraha": "वसिष्ठकुम्भोद्भवगौतमाः आर्याः मुनीन्द्राः, देवाः च, तैः अर्चितः शेखरः यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him whose crown is worshipped by Vasiṣṭha, Agastya the pot-born and Gautama, noble great sages, and by the gods",
+        "hi": "उन (शिव) को, जिनके मस्तक की पूजा वसिष्ठ, घड़े से जन्मे अगस्त्य और गौतम, इन श्रेष्ठ मुनिवरों ने और देवताओं ने की है"
+      },
+      "note": {
+        "en": "One compound running across the pāda break, as in verse 3. The three names Vasiṣṭha, kumbha-udbhava 'the pot-born' (Agastya) and Gautama are the ārya munīndras, 'noble great sages'; they and the deva 'gods' are the ones who have worshipped (arcita) the śekhara 'crown of the head'. Only the last word carries the 'to' ending, so the whole compound is a title of Śiva.",
+        "hi": "एक ही समास, जो तीसरे श्लोक की तरह चरण की सीमा पार करता है। तीन नाम, वसिष्ठ, कुम्भ-उद्भव 'घड़े से जन्मे' (अगस्त्य) और गौतम, ही आर्य मुनीन्द्र 'श्रेष्ठ मुनिवर' हैं; वे और देव 'देवता' शेखर 'मस्तक' के पूजक (अर्चित) हैं। 'को' वाला अन्त केवल अन्तिम शब्द पर है, इसलिए पूरा समास शिव की उपाधि है।"
+      }
+    },
+    "c2": {
+      "members": [
+        "w3"
+      ],
+      "iast": "candra-arka-vaiśvānara-locanāya",
+      "type": "bahuvrīhi",
+      "structure": "((candra-arka-vaiśvānara)-locana)",
+      "vigraha": "चन्द्रः अर्कः वैश्वानरः च लोचनानि यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him whose eyes are the moon, the sun and fire",
+        "hi": "उन (शिव) को, जिनकी आँखें चन्द्रमा, सूर्य और अग्नि हैं"
+      },
+      "note": {
+        "en": "candra 'moon', arka 'sun' and vaiśvānara 'fire' are listed side by side; with locana 'eye' they describe the one whose eyes they are, Śiva.",
+        "hi": "चन्द्र 'चन्द्रमा', अर्क 'सूर्य' और वैश्वानर 'अग्नि' बराबर रखे गए हैं; लोचन 'नेत्र' के साथ ये उनका वर्णन करते हैं जिनके ये नेत्र हैं, अर्थात् शिव।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": [
+        "w1",
+        "w2"
+      ],
+      "sa": "वसिष्ठकुम्भोद्भवगौतमार्यमुनीन्द्रदेवार्चितशेखराय",
+      "iast": "vasiṣṭhakumbhodbhavagautamāryamunīndradevārcitaśekharāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "वसिष्ठकुम्भोद्भवगौतमार्यमुनीन्द्रदेवार्चितशेखर",
+          "iast": "vasiṣṭhakumbhodbhavagautamāryamunīndradevārcitaśekhara"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p6"
+    },
+    {
+      "id": "p2",
+      "words": [
+        "w3"
+      ],
+      "sa": "चन्द्रार्कवैश्वानरलोचनाय",
+      "iast": "candrārkavaiśvānaralocanāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "चन्द्रार्कवैश्वानरलोचन",
+          "iast": "candrārkavaiśvānaralocana"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p6"
+    },
+    {
+      "id": "p3",
+      "words": [
+        "w4"
+      ],
+      "sa": "तस्मै",
+      "iast": "tasmai",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "तद्",
+          "iast": "tad"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p6"
+    },
+    {
+      "id": "p4",
+      "words": [
+        "w5"
+      ],
+      "sa": "वकाराय",
+      "iast": "vakārāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "वकार",
+          "iast": "vakāra"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p6"
+    },
+    {
+      "id": "p5",
+      "words": [
+        "w6"
+      ],
+      "sa": "नमः",
+      "iast": "namaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "नमस्",
+          "iast": "namas"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "x1"
+    },
+    {
+      "id": "p6",
+      "words": [
+        "w7"
+      ],
+      "sa": "शिवाय",
+      "iast": "śivāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "शिव",
+          "iast": "śiva"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "sampradāna",
+      "head": "p5"
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अस्तु",
+      "iast": "astu",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "अस्",
+          "iast": "as",
+          "gana": 2
+        },
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null,
+      "meaning": {
+        "en": "let (it) be",
+        "hi": "हो"
+      }
+    }
+  ],
+  "anvaya": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p6",
+    "p5",
+    "x1"
+  ],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "He who, by Vasiṣṭha, Agastya the pot-born and Gautama, the noble"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "great sages, and by the gods, is worshipped on the crown of His head,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "whose eyes are the moon, the sun and fire:"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "to Him,"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "the syllable va,"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "to Śiva,"
+          },
+          {
+            "refs": [
+              "x1"
+            ],
+            "text": "let there be"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "salutation."
+          }
+        ]
+      ],
+      "bhavartha": "Great sages, Vasiṣṭha, Agastya who was born from a pot, and Gautama, and the gods as well, worship the crown of Śiva's head. The moon, the sun and fire are His eyes. The poet bows to Him as the sound va, the fourth syllable of the prayer namaḥ śivāya."
+    },
+    "hi": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "वसिष्ठ, घड़े से जन्मे अगस्त्य और गौतम, इन श्रेष्ठ"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "मुनिवरों और देवताओं द्वारा जिनका मस्तक पूजा गया है,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "जिनकी आँखें चन्द्रमा, सूर्य और अग्नि हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "उन"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "'व'-कार रूपी"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "शिव को"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "नमस्कार"
+          },
+          {
+            "refs": [
+              "x1"
+            ],
+            "text": "है।"
+          }
+        ]
+      ],
+      "bhavartha": "वसिष्ठ, घड़े से जन्मे अगस्त्य और गौतम, ये श्रेष्ठ मुनि, और देवता भी, शिव के मस्तक की पूजा करते हैं। उनकी आँखें चन्द्रमा, सूर्य और अग्नि हैं। कवि उन्हें 'व' अक्षर के रूप में प्रणाम करता है, जो 'नमः शिवाय' मन्त्र का चौथा अक्षर है।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": [
+        "w1"
+      ],
+      "kind": "mythology",
+      "body": {
+        "en": "Agastya is named here only by his birth: *kumbha-udbhava*, 'born from a pot'. The story is that he came into the world in a water-jar, a son of the gods Mitra and Varuṇa by the nymph Urvaśī.\n\nVasiṣṭha, named just before him, is called a son of that same pair, and 'jar-born' is a name for him too. Agastya is the small sage of huge deeds: he is said to have drunk up the ocean and made the Vindhya mountains bow down.",
+        "hi": "यहाँ अगस्त्य का नाम केवल उनके जन्म से लिया गया है: *कुम्भ-उद्भव*, 'घड़े से जन्मे'। कथा है कि वे जल के घड़े में जन्मे थे, अप्सरा उर्वशी से देवता मित्र और वरुण के पुत्र।\n\nउनसे ठीक पहले आए वसिष्ठ भी इसी जोड़ी के पुत्र कहे जाते हैं, और 'घड़े से जन्मे' नाम उनका भी है। अगस्त्य छोटे कद के पर बड़े कर्मों वाले ऋषि हैं: कहते हैं उन्होंने समुद्र पी लिया और विन्ध्य पर्वत को झुका दिया।"
+      },
+      "citations": [
+        {
+          "source": "mw-kumbhodbhava",
+          "locator": "MW kumbhodbhava, p. 293",
+          "quote": "N. of Agastya."
+        },
+        {
+          "source": "mw-kumbhayoni",
+          "locator": "MW kumbha-yoni, p. 293",
+          "quote": "‘born in a water-jar’, N. of Agastya"
+        },
+        {
+          "source": "mw-agasti",
+          "locator": "MW agasti, p. 4",
+          "quote": "said to have been the son of both Mitra and Varuṇa by Urvaśī; to have been born in a water-jar"
+        },
+        {
+          "source": "mw-agasti",
+          "locator": "MW agasti, p. 4",
+          "quote": "to have swallowed the ocean, and compelled the Vindhya mountains to prostrate themselves before him"
+        },
+        {
+          "source": "mw-vasishtha",
+          "locator": "MW vasiṣṭha, p. 930",
+          "quote": "he is called the son of the Apsaras Urvaśī by Mitra and Varuṇa"
+        },
+        {
+          "source": "mw-kumbhayoni",
+          "locator": "MW kumbha-yoni, p. 293",
+          "quote": "of Vasiṣṭha, L."
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 34, verse 4, Hindi translation",
+          "quote": "वसिष्ठ, अगस्त्य और गौतम आदि श्रेष्ठ मुनियोंने"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": [
+        "w3"
+      ],
+      "kind": "theology",
+      "body": {
+        "en": "Verse 1 called Him three-eyed ([tri-locana](#v1-a2)). Here the verse names the three: the moon, the sun and fire.\n\nThe word for fire is *vaiśvānara*, 'belonging to all people', the fire known and worshipped everywhere. So the light of the night, the light of the day and the fire all people share are His eyes.",
+        "hi": "पहले श्लोक ने उन्हें तीन नेत्रों वाला कहा था ([त्रि-लोचन](#v1-a2))। यहाँ श्लोक तीनों के नाम लेता है: चन्द्रमा, सूर्य और अग्नि।\n\nअग्नि के लिए शब्द है *वैश्वानर*, 'सब लोगों की', वह आग जो हर जगह जानी और पूजी जाती है। इस तरह रात का प्रकाश, दिन का प्रकाश और सबकी साझी आग, ये उनके नेत्र हैं।"
+      },
+      "citations": [
+        {
+          "source": "sanskritdocuments-panch",
+          "locator": "verse 4, translation",
+          "quote": "whose three eyes are the moon, sun and fire"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 34, verse 4, Hindi translation",
+          "quote": "चन्द्रमा, सूर्य और अग्नि जिनके नेत्र हैं"
+        },
+        {
+          "source": "mw-vaishvanara",
+          "locator": "MW vaiśvānara, p. 1027",
+          "quote": "relating or belonging to all men, omnipresent, known or worshipped, everywhere"
+        },
+        {
+          "source": "mw-vaishvanara",
+          "locator": "MW vaiśvānara, p. 1027",
+          "quote": "N. of Agni or Fire"
+        },
+        {
+          "source": "mw-trilocana",
+          "locator": "MW tri-locana, p. 460",
+          "quote": "three-eyed (Śiva)"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a3",
+      "refs": [
+        "w4",
+        "w5",
+        "w6",
+        "w7"
+      ],
+      "kind": "context",
+      "body": {
+        "en": "This verse opens with *va* (*va*-siṣṭha), the fourth sound of *na-maḥ śi-vā-ya*, so its refrain names *va-kāra*, the letter *va* ([verse 1](#v1-a5)).\n\nIn the prayer the sound is long, *vā*. The verse starts on the short *va*, and the refrain names the letter in that same plain form, so the first sound of the verse still points to the fourth syllable of the prayer.",
+        "hi": "यह श्लोक *व* (*व*-सिष्ठ) से शुरू होता है, जो *न-मः शि-वा-य* की चौथी ध्वनि है, इसलिए इसकी टेक *व-कार*, यानी 'व' अक्षर, का नाम लेती है ([पहला श्लोक](#v1-a5))।\n\nमन्त्र में यह ध्वनि दीर्घ है, *वा*। श्लोक छोटे *व* से शुरू होता है, और टेक भी अक्षर का नाम इसी सादे रूप में लेती है, इसलिए श्लोक की पहली ध्वनि फिर भी मन्त्र के चौथे अक्षर की ओर संकेत करती है।"
+      },
+      "citations": [
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 34, verse 4, Hindi translation",
+          "quote": "उन ‘व’ कारस्वरूप शिवको नमस्कार है"
+        },
+        {
+          "source": "sanskritdocuments-panch",
+          "locator": "verse 4, translation",
+          "quote": "who is represented by the syllable"
+        },
+        {
+          "source": "mw-vakara",
+          "locator": "MW va-kāra, p. 910",
+          "quote": "the letter or sound va"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "pp. 33–34, vv. 1–6",
+          "quote": "तस्मै ‘व’ काराय नमः शिवाय"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "वसिष्ठ",
+          "iast": "vasiṣṭha"
+        },
+        {
+          "sa": "कुम्भ",
+          "iast": "kumbha"
+        },
+        {
+          "sa": "उद्भव",
+          "iast": "udbhava"
+        },
+        {
+          "sa": "गौतम",
+          "iast": "gautama"
+        },
+        {
+          "sa": "आर्य",
+          "iast": "ārya"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "a + u → o",
+          "explanation": {
+            "en": "The final a of kumbha and the first u of udbhava merge into o: kumbha + udbhava → kumbhodbhava.",
+            "hi": "कुम्भ का अन्तिम 'अ' और उद्भव का पहला 'उ' मिलकर 'ओ' बन जाते हैं: कुम्भ + उद्भव → कुम्भोद्भव।"
+          }
+        },
+        {
+          "name": "savarṇadīrgha",
+          "rule": "a + ā → ā",
+          "explanation": {
+            "en": "The final a of gautama and the first ā of ārya merge into one long ā: gautama + ārya → gautamārya.",
+            "hi": "गौतम का अन्तिम 'अ' और आर्य का पहला 'आ' मिलकर एक दीर्घ 'आ' बन जाते हैं: गौतम + आर्य → गौतमार्य।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "वसिष्ठ",
+          "iast": "vasiṣṭha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "वसिष्ठ",
+            "iast": "vasiṣṭha"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "vasiṣṭha",
+            "gloss": "N. of a celebrated Vedic Ṛṣi or sage"
+          },
+          "meaning": {
+            "en": "Vasiṣṭha",
+            "hi": "वसिष्ठ"
+          }
+        },
+        {
+          "sa": "कुम्भ",
+          "iast": "kumbha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "कुम्भ",
+            "iast": "kumbha"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kumbha",
+            "gloss": "a jar, pitcher, water-pot"
+          },
+          "meaning": {
+            "en": "pot",
+            "hi": "घड़ा"
+          }
+        },
+        {
+          "sa": "उद्भव",
+          "iast": "udbhava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "prefixes": [
+              "ud"
+            ],
+            "gloss": {
+              "en": "to arise, to be born",
+              "hi": "उत्पन्न होना"
+            }
+          },
+          "formation": "ud + √bhū + ap (action noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "ud-bhava",
+            "gloss": "existence, generation, origin, production, birth"
+          },
+          "meaning": {
+            "en": "born",
+            "hi": "जन्मा"
+          }
+        },
+        {
+          "sa": "गौतम",
+          "iast": "gautama",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "गौतम",
+            "iast": "gautama"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "gautama",
+            "gloss": "patr. fr. Gotama"
+          },
+          "meaning": {
+            "en": "Gautama",
+            "hi": "गौतम"
+          }
+        },
+        {
+          "sa": "आर्य",
+          "iast": "ārya",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "आर्य",
+            "iast": "ārya"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ārya",
+            "gloss": "honourable, respectable, noble"
+          },
+          "meaning": {
+            "en": "noble",
+            "hi": "श्रेष्ठ"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva, whose crown is worshipped) by Vasiṣṭha, Agastya the pot-born and Gautama, the noble (great sages)",
+        "hi": "(उन को, अर्थात् शिव को, जिनके मस्तक की पूजा) वसिष्ठ, घड़े से जन्मे अगस्त्य और गौतम, इन श्रेष्ठ (मुनिवरों ने की है)"
+      },
+      "literal": {
+        "en": "Vasiṣṭha-pot-born-Gautama-noble",
+        "hi": "वसिष्ठ-कुम्भोद्भव-गौतम-श्रेष्ठ"
+      },
+      "aside": {
+        "en": "The text is also found as gautamādi, 'Gautama and other' great sages. The sense barely changes: either way three famous sages lead the worshippers.",
+        "hi": "पाठ गौतमादि, 'गौतम आदि' मुनिवर, के रूप में भी मिलता है। अर्थ लगभग वही रहता है: दोनों में तीन प्रसिद्ध मुनि पूजकों में सबसे आगे हैं।"
+      },
+      "notes": {
+        "en": "First half of the compound c1, which runs across the pāda break and ends in śekharāya (w2). kumbhodbhava, 'pot-born', is a name of Agastya; ārya 'noble' goes with munīndra in w2. One witness reads gautamādi; five read gautamārya. Vidyut's split ending in 'tam' is not a real division: the join is gautama + ārya.",
+        "hi": "समास c1 का पहला भाग, जो चरण की सीमा पार करके शेखराय (w2) पर समाप्त होता है। कुम्भोद्भव, 'घड़े से जन्मे', अगस्त्य का नाम है; आर्य 'श्रेष्ठ' w2 के मुनीन्द्र के साथ जाता है। एक साक्षी में गौतमादि है; पाँच में गौतमार्य। Vidyut का 'तम्' वाला विभाजन वास्तविक नहीं; जोड़ गौतम + आर्य है।"
+      },
+      "confidence": "medium",
+      "sources": [
+        "mw-vasishtha",
+        "mw-kumbha",
+        "mw-udbhava",
+        "mw-kumbhodbhava",
+        "mw-gautama",
+        "mw-arya",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch",
+        "sringeri-shiva-panchakshara"
+      ]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "मुनि",
+          "iast": "muni"
+        },
+        {
+          "sa": "इन्द्र",
+          "iast": "indra"
+        },
+        {
+          "sa": "देव",
+          "iast": "deva"
+        },
+        {
+          "sa": "अर्चित",
+          "iast": "arcita"
+        },
+        {
+          "sa": "शेखराय",
+          "iast": "śekharāya"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇadīrgha",
+          "rule": "i + i → ī",
+          "explanation": {
+            "en": "The final i of muni and the first i of indra merge into one long ī: muni + indra → munīndra.",
+            "hi": "मुनि का अन्तिम 'इ' और इन्द्र का पहला 'इ' मिलकर एक दीर्घ 'ई' बन जाते हैं: मुनि + इन्द्र → मुनीन्द्र।"
+          }
+        },
+        {
+          "name": "savarṇadīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of deva and the first a of arcita merge into one long ā: deva + arcita → devārcita.",
+            "hi": "देव का अन्तिम 'अ' और अर्चित का पहला 'अ' मिलकर एक दीर्घ 'आ' बन जाते हैं: देव + अर्चित → देवार्चित।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "मुनि",
+          "iast": "muni",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "मुनि",
+            "iast": "muni"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "muni",
+            "gloss": "a saint, sage, seer, ascetic"
+          },
+          "meaning": {
+            "en": "sage",
+            "hi": "मुनि"
+          }
+        },
+        {
+          "sa": "इन्द्र",
+          "iast": "indra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "इन्द्र",
+            "iast": "indra"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "munīndra",
+            "gloss": "‘chief of Munis’, a great sage or ascetic"
+          },
+          "meaning": {
+            "en": "chief",
+            "hi": "श्रेष्ठ"
+          }
+        },
+        {
+          "sa": "देव",
+          "iast": "deva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "देव",
+            "iast": "deva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "deva",
+            "gloss": "a deity, god"
+          },
+          "meaning": {
+            "en": "gods",
+            "hi": "देवता"
+          }
+        },
+        {
+          "sa": "अर्चित",
+          "iast": "arcita",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "अर्च्",
+            "iast": "arc",
+            "gana": 1,
+            "gloss": {
+              "en": "to honour, to worship",
+              "hi": "पूजना"
+            }
+          },
+          "formation": "√arc + kta (past passive participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "arcita",
+            "gloss": "honoured, worshipped, respected, saluted"
+          },
+          "meaning": {
+            "en": "worshipped",
+            "hi": "पूजित"
+          }
+        },
+        {
+          "sa": "शेखर",
+          "iast": "śekhara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "शेखर",
+            "iast": "śekhara"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "śekhara",
+            "gloss": "the top or crown of the head"
+          },
+          "meaning": {
+            "en": "crown",
+            "hi": "मस्तक"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) whose crown is worshipped by (these) noble great sages and by the gods",
+        "hi": "(उन को, अर्थात् शिव को) जिनके मस्तक की पूजा (इन) श्रेष्ठ मुनिवरों ने और देवताओं ने की है"
+      },
+      "literal": {
+        "en": "great-sage-god-worshipped-crowned",
+        "hi": "मुनीन्द्र-देव-पूजित-शेखर वाले को"
+      },
+      "notes": {
+        "en": "Second half of the compound c1 begun in w1; its 'to' ending belongs to the whole compound. munīndra, 'chief of sages', is taken as one word with ārya: the three named sages are the noble great sages. śekhara is the top of the head. Vidyut's splits devā + cita and the verb śekharāya ('to become a crest') are not right here: the joins are deva + arcita, and śekhara takes the 'to' ending.",
+        "hi": "w1 में शुरू हुए समास c1 का दूसरा भाग; इसका 'को' वाला अन्त पूरे समास का है। मुनीन्द्र, 'मुनियों में श्रेष्ठ', आर्य के साथ एक शब्द माना गया है: तीनों नामित ऋषि ही श्रेष्ठ मुनिवर हैं। शेखर सिर का ऊपरी भाग है। Vidyut के विभाजन देवा + चित और क्रिया शेखराय ('मुकुट बनना') यहाँ ठीक नहीं: जोड़ देव + अर्चित हैं, और शेखर पर 'को' वाला अन्त है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "by the sages, and by Indra and the gods",
+            "hi": "मुनियों ने, और इन्द्र तथा देवताओं ने"
+          },
+          "note": "gitapress-stotraratnavali's Hindi (इन्द्र आदि देवताओंने) and sanskritdocuments-panch ('Indra and other Gods') divide muni + indra-deva. munīndra 'great sage' (MW) is taken here because it pairs with ārya and the three named sages."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-muni",
+        "mw-munindra",
+        "mw-indra",
+        "mw-deva",
+        "mw-arcita",
+        "mw-arc",
+        "mw-shekhara",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w3": {
+      "compound": "c2",
+      "padaccheda": [
+        {
+          "sa": "चन्द्र",
+          "iast": "candra"
+        },
+        {
+          "sa": "अर्क",
+          "iast": "arka"
+        },
+        {
+          "sa": "वैश्वानर",
+          "iast": "vaiśvānara"
+        },
+        {
+          "sa": "लोचनाय",
+          "iast": "locanāya"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇadīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of candra and the first a of arka merge into one long ā: candra + arka → candrārka.",
+            "hi": "चन्द्र का अन्तिम 'अ' और अर्क का पहला 'अ' मिलकर एक दीर्घ 'आ' बन जाते हैं: चन्द्र + अर्क → चन्द्रार्क।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "चन्द्र",
+          "iast": "candra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "चन्द्र",
+            "iast": "candra"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "candra",
+            "gloss": "the moon"
+          },
+          "meaning": {
+            "en": "moon",
+            "hi": "चन्द्रमा"
+          }
+        },
+        {
+          "sa": "अर्क",
+          "iast": "arka",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "अर्क",
+            "iast": "arka"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "arka",
+            "gloss": "the sun"
+          },
+          "meaning": {
+            "en": "sun",
+            "hi": "सूर्य"
+          }
+        },
+        {
+          "sa": "वैश्वानर",
+          "iast": "vaiśvānara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "वैश्वानर",
+            "iast": "vaiśvānara"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "vaiśvānara",
+            "gloss": "N. of Agni or Fire"
+          },
+          "meaning": {
+            "en": "fire",
+            "hi": "अग्नि"
+          }
+        },
+        {
+          "sa": "लोचन",
+          "iast": "locana",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "लोचन",
+            "iast": "locana"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "locana",
+            "gloss": "‘organ of sight’, the eye"
+          },
+          "meaning": {
+            "en": "eye",
+            "hi": "नेत्र"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) whose eyes are the moon, the sun and fire",
+        "hi": "(उन को, अर्थात् शिव को) जिनकी आँखें चन्द्रमा, सूर्य और अग्नि हैं"
+      },
+      "literal": {
+        "en": "to the moon-sun-fire-eyed one",
+        "hi": "चन्द्र-सूर्य-अग्नि-नेत्र वाले को"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "The three things listed are His three eyes (tri-locana in verse 1). candrārka, 'moon and sun', is a pair in its own right; vaiśvānara is a name of fire, Agni.",
+        "hi": "गिनाई गई तीनों वस्तुएँ उनके तीन नेत्र हैं (पहले श्लोक में त्रिलोचन)। चन्द्रार्क, 'चन्द्रमा और सूर्य', अपने आप में एक जोड़ी है; वैश्वानर अग्नि का नाम है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-candra",
+        "mw-arka",
+        "mw-candrarka",
+        "mw-vaishvanara",
+        "mw-locana",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w4": {
+      "padaccheda": [
+        {
+          "sa": "तस्मै",
+          "iast": "tasmai"
+        }
+      ],
+      "components": [
+        {
+          "sa": "तस्मै",
+          "iast": "tasmai",
+          "pos": "pronoun",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "tad",
+            "gloss": "he, she, it, that, this"
+          },
+          "meaning": {
+            "en": "to Him",
+            "hi": "उनको"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "to Him, i.e. Śiva (the one just described)",
+        "hi": "उन को, अर्थात् शिव को (जिनका अभी वर्णन हुआ)"
+      },
+      "notes": {
+        "en": "'To that one': it gathers up all the descriptions before it and hands them to the refrain. Vidyut's split tas + mai is not a real division; tasmai is a single form of tad.",
+        "hi": "'उनको': यह पहले के सारे वर्णन समेटकर टेक को सौंप देता है। Vidyut का विभाजन तस् + मै वास्तविक नहीं; तस्मै तद् का एक ही रूप है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-tad",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w5": {
+      "padaccheda": [
+        {
+          "sa": "व",
+          "iast": "va"
+        },
+        {
+          "sa": "काराय",
+          "iast": "kārāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "व",
+          "iast": "va",
+          "pos": "syllable",
+          "meaning": {
+            "en": "va (the sound)",
+            "hi": "'व' (ध्वनि)"
+          }
+        },
+        {
+          "sa": "कार",
+          "iast": "kāra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "कृ",
+            "iast": "kṛ",
+            "gana": 8,
+            "gloss": {
+              "en": "to make",
+              "hi": "करना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "va-kāra",
+            "gloss": "the letter or sound va"
+          },
+          "meaning": {
+            "en": "letter",
+            "hi": "अक्षर"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who is the syllable va",
+        "hi": "(उन को, अर्थात् शिव को) जो 'व' अक्षर-रूप हैं"
+      },
+      "literal": {
+        "en": "to the letter va",
+        "hi": "'व' अक्षर को"
+      },
+      "notes": {
+        "en": "va + kāra, like śi-kāra in verse 3: kāra after a sound names that sound as a letter. This verse opens with va (va-siṣṭha). In the prayer na-maḥ śi-vā-ya the syllable is the long vā, but the refrain names the letter va.",
+        "hi": "व + कार, जैसे तीसरे श्लोक में शि-कार: किसी ध्वनि के बाद 'कार' उसे अक्षर के रूप में नाम देता है। यह श्लोक 'व' (व-सिष्ठ) से आरम्भ होता है। मन्त्र न-मः शि-वा-य में यह अक्षर दीर्घ 'वा' है, पर टेक 'व' अक्षर का नाम लेती है।"
+      },
+      "confidence": "medium",
+      "sources": [
+        "mw-vakara",
+        "mw-kara",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w6": {
+      "padaccheda": [
+        {
+          "sa": "नमः",
+          "iast": "namaḥ"
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नम्",
+            "iast": "nam",
+            "gana": 1,
+            "gloss": {
+              "en": "to bow",
+              "hi": "झुकना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "namas",
+            "gloss": "bow, obeisance, reverential salutation, adoration"
+          },
+          "meaning": {
+            "en": "salutation",
+            "hi": "नमस्कार"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "salutation, a bow",
+        "hi": "नमस्कार, प्रणाम"
+      },
+      "notes": {
+        "en": "namas takes the one it honours with the 'to' ending (śivāya, 'to Śiva'). No verb is written; 'let there be' (astu) is understood.",
+        "hi": "नमः के साथ जिसे प्रणाम किया जाता है उसका रूप 'को' वाला होता है (शिवाय, 'शिव को')। क्रिया लिखी नहीं है; 'हो' (अस्तु) समझा जाता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-namas",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w7": {
+      "padaccheda": [
+        {
+          "sa": "शिवाय",
+          "iast": "śivāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "शिव",
+          "iast": "śiva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "śiva",
+            "gloss": "‘The Auspicious one’"
+          },
+          "meaning": {
+            "en": "Śiva",
+            "hi": "शिव"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "to Śiva",
+        "hi": "शिव को"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": [
+        "mw-shiva",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-11-18",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  }
+}

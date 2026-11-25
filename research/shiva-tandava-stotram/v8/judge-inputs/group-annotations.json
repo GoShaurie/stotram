@@ -1,0 +1,1666 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Rāvaṇa, the king of Laṅkā and a devotee of Śiva.",
+      "hi": "परम्परा से लंकापति रावण द्वारा रचित माना जाता है, जो शिव के परम भक्त थे।"
+    },
+    "sources": [
+      {
+        "id": "mw-nilimpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nilimpa' (SLP1 key: nilimpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nilimpa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), ed. Swami Devarupananda, Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007 — शिवताण्डवस्तोत्रम् [15] (श्री रावण कृतम्); scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/468/mode/1up"
+      },
+      {
+        "id": "sa-wikisource-shivatandava",
+        "name": "विकिस्रोतः (Sanskrit Wikisource) — शिवताण्डवस्तोत्रम् (रावण); headed \"॥अथ सुसंशुद्धं रावणकृतशिवताण्डवस्तोत्रम्॥\"",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"
+      },
+      {
+        "id": "sanskritdocuments-shivtand-meaning",
+        "name": "sanskritdocuments.org — Shivatandava Stotra with meaning (shivTAND_meaning.itx); word-meanings and translation by Dr. Sarasvati Mohan and students, Samskrit Academy, San Jose CA",
+        "kind": "translation",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivTAND_meaning.html"
+      },
+      {
+        "id": "sanskritdocuments-shivtand",
+        "name": "sanskritdocuments.org — श्रीशिवताण्डवस्तोत्रम् रावणरचितम् (shivtAND.itx; transliterated and proofread by Girish Beeharry and Sushil D. Sharma; \"Extended version with 17 verses\")",
+        "kind": "text",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivtAND.html"
+      },
+      {
+        "id": "shlokam-shiva-tandava",
+        "name": "shlokam.org — Shiva Tandava Stotram (Devanagari, IAST, simplified roman, verse translation, word-meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/shiva-tandava-stotram.htm"
+      },
+      {
+        "id": "mw-bandhura",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bandhura' (SLP1 key: banDura)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=banDura&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-durdhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dur-dhara' (SLP1 key: durDara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=durDara&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-sphur",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√sphur' (SLP1 key: sPur)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sPur&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-sindhura",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sindhura' (SLP1 key: sinDura)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sinDura&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-shri",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śrī (3. śrī f.)' (SLP1 key: SrI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SrI&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "vyakhya-sts-8",
+        "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक ८ (Shloka 8 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+        "kind": "commentary",
+        "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-8/"
+      },
+      {
+        "id": "mw-dhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhara' (SLP1 key: Dara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Dara"
+      },
+      {
+        "id": "mw-dhuramdhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhuraṃdhara' (SLP1 key: DuraMDara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DuraMDara"
+      },
+      {
+        "id": "mw-kala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kalā' (SLP1 key: kalA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kalA"
+      },
+      {
+        "id": "mw-kamdhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kaṃdhara' (SLP1 key: kaMDara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kaMDara"
+      },
+      {
+        "id": "mw-krtti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kṛtti' (SLP1 key: kftti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kftti"
+      },
+      {
+        "id": "mw-kuhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kuhū' (SLP1 key: kuhU)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kuhU"
+      },
+      {
+        "id": "mw-megha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'megha' (SLP1 key: meGa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=meGa"
+      },
+      {
+        "id": "mw-navina",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'navīna' (SLP1 key: navIna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=navIna"
+      },
+      {
+        "id": "mw-nidhana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nidhāna' (SLP1 key: niDAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=niDAna"
+      },
+      {
+        "id": "mw-nilimpanirjhari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nilimpanirjharī' (SLP1 key: nilimpanirJarI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nilimpanirJarI"
+      },
+      {
+        "id": "mw-niruddha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'niruddha' (SLP1 key: nirudDa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirudDa"
+      },
+      {
+        "id": "mw-nishithini",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'niśīthinī' (SLP1 key: niSITinI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=niSITinI"
+      },
+      {
+        "id": "mw-sphurat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sphurat' (SLP1 key: sPurat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sPurat"
+      },
+      {
+        "id": "mw-tan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tan' (SLP1 key: tan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tan"
+      },
+      {
+        "id": "mw-baddha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'baddha' (SLP1 key: badDa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=badDa"
+      },
+      {
+        "id": "mw-jagat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jagat' (SLP1 key: jagat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jagat"
+      },
+      {
+        "id": "mw-kalanidhi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kalānidhi' (SLP1 key: kalAniDi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kalAniDi"
+      },
+      {
+        "id": "mw-krttivasas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kṛttivāsas' (SLP1 key: kfttivAsas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kfttivAsas"
+      },
+      {
+        "id": "mw-mandala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maṇḍala' (SLP1 key: maRqala)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maRqala"
+      },
+      {
+        "id": "mw-nirjhari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirjharī' (SLP1 key: nirJarI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirJarI"
+      },
+      {
+        "id": "mw-nishitha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'niśītha' (SLP1 key: niSITa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=niSITa"
+      },
+      {
+        "id": "mw-prabandha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prabandha' (SLP1 key: prabanDa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prabanDa"
+      },
+      {
+        "id": "mw-tamas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tamas' (SLP1 key: tamas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tamas"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v8",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "नवीनमेघमण्डली",
+            "iast": "navīnameghamaṇḍalī"
+          },
+          {
+            "id": "w2",
+            "text": "निरुद्धदुर्धरस्फुरत्",
+            "iast": "niruddhadurdharasphurat"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "कुहूनिशीथिनीतमः",
+            "iast": "kuhūniśīthinītamaḥ"
+          },
+          {
+            "id": "w4",
+            "text": "प्रबन्धबद्धकन्धरः",
+            "iast": "prabandhabaddhakandharaḥ"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "निलिम्पनिर्झरीधरस्",
+            "iast": "nilimpanirjharīdharas"
+          },
+          {
+            "id": "w6",
+            "text": "तनोतु",
+            "iast": "tanotu"
+          },
+          {
+            "id": "w7",
+            "text": "कृत्तिसिन्धुरः",
+            "iast": "kṛttisindhuraḥ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "कलानिधानबन्धुरः",
+            "iast": "kalānidhānabandhuraḥ"
+          },
+          {
+            "id": "w9",
+            "text": "श्रियं",
+            "iast": "śriyaṃ"
+          },
+          {
+            "id": "w10",
+            "text": "जगद्धुरन्धरः",
+            "iast": "jagaddhurandharaḥ"
+          }
+        ],
+        "end": "॥ ८ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2",
+          "w3"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Why is Śiva's neck so dark? The verse never names the poison, but the vyakhya.org commentary does: this is the throat of the poison-drinker, Nīlakaṇṭha, whose dark stain the poet compares to the deepest night there is.\n\nThe word chosen is exact. Monier-Williams gives *kuhū* as the new moon, and the commentary explains that of the two kinds of new-moon day, *kuhū* is the one on which not a single digit of the moon can be seen. On top of that moonless midnight (*niśīthinī*) the poet piles a ring of fresh rain-clouds (*navīna-megha-maṇḍalī*), so the darkness is doubled. Two lines later the same god is made lovely by the moon, the crescent of [verse 2](#v2-a4): darkness at the throat, light above.",
+          "hi": "शिव का कण्ठ इतना काला क्यों है? श्लोक विष का नाम नहीं लेता, पर vyakhya.org की व्याख्या लेती है: यह विषपायी नीलकण्ठ का कण्ठ है, जिसकी कालिमा को कवि सबसे गहरी रात से मिलाता है।\n\nशब्द सटीक चुना गया है। मोनियर-विलियम्स *कुहू* का अर्थ अमावस्या देते हैं, और व्याख्या बताती है कि अमावस्या के दो प्रकारों में *कुहू* वह है जिसमें चन्द्रमा की एक भी कला नहीं दिखती। उस चाँद-रहित आधी रात (*निशीथिनी*) पर कवि नए बादलों का घेरा (*नवीन-मेघ-मण्डली*) भी चढ़ा देता है, जिससे अन्धेरा दुगुना हो जाता है। दो पंक्ति बाद यही देवता चन्द्रमा से, [दूसरे श्लोक](#v2-a4) के बाल-चन्द्र से, सुशोभित हैं: कण्ठ पर अन्धकार, ऊपर प्रकाश।"
+        },
+        "citations": [
+          {
+            "source": "vyakhya-sts-8",
+            "locator": "श्लोक ८, व्याख्या",
+            "quote": "विषपायी भगवान नीलकंठ"
+          },
+          {
+            "source": "vyakhya-sts-8",
+            "locator": "श्लोक ८, व्याख्या",
+            "quote": "दूसरी जिसमें चन्द्र की एक भी कला नहीं दिखती है, उसे कुहू कहते हैं"
+          },
+          {
+            "source": "mw-kuhu",
+            "locator": "MW kuhū, p. 299",
+            "quote": "the new moon"
+          },
+          {
+            "source": "mw-nishithini",
+            "locator": "MW niśīthinī, p. 561",
+            "quote": "f. night"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w4"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Most witnesses read *prabandha-baddha*: the darkness is a *prabandha*, a continuous, unbroken stretch (one of Monier-Williams's senses), and it is *baddha*, bound or fixed, on the neck. sanskritdocuments.org prints a second reading in parentheses, *prabaddha-baddha*, and the vyakhya.org word-gloss follows that one, explaining *prabaddha* as tight, sturdy: a well-built neck rather than a mass of darkness. Its verse text has a garbled *prabadba-baddha*, so we keep *prabandha*.\n\nThe neck itself is *kandhara*, which MW takes as *kaṃ-dhara*, 'head-bearer': the part of the body whose job is to carry the head.",
+          "hi": "अधिकतर पाठ *प्रबन्ध-बद्ध* पढ़ते हैं: अन्धकार एक *प्रबन्ध* है, यानी लगातार, अटूट फैलाव (मोनियर-विलियम्स का एक अर्थ), और वह कण्ठ पर *बद्ध* (बँधा, टिका) है। sanskritdocuments.org कोष्ठक में दूसरा पाठ *प्रबद्ध-बद्ध* छापता है, और vyakhya.org का शब्दार्थ उसी को लेता है, *प्रबद्ध* का अर्थ 'कसा हुआ, गठीला' देकर: अन्धकार का पुंज नहीं, गठीला कण्ठ। उसके मूल पाठ में बिगड़ा हुआ *प्रबद्ब-बद्ध* है, इसलिए हम *प्रबन्ध* रखते हैं।\n\nकण्ठ के लिए शब्द *कन्धर* है, जिसे मोनियर-विलियम्स *कं-धर*, 'सिर को धारण करने वाला' मानते हैं: शरीर का वह अंग जो सिर उठाए रखता है।"
+        },
+        "citations": [
+          {
+            "source": "sa-wikisource-shivatandava",
+            "locator": "॥८॥",
+            "quote": "कुहूनिशीथिनीतमःप्रबन्धबद्धकन्धरः"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "॥ ८ ॥",
+            "quote": "त्कुहूनिशीथिनीतमः प्रबन्ध-"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse ॥ ८ ॥",
+            "quote": "कुहू निशीथिनी तमः प्रबन्ध बद्ध कन्धरः"
+          },
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 8, pāda 2",
+            "quote": "कुहूनिशीथिनीतमःप्रबन्धबद्धकन्धरः । (प्रबद्धबद्ध)"
+          },
+          {
+            "source": "vyakhya-sts-8",
+            "locator": "श्लोक ८, मूल पाठ",
+            "quote": "कुहूनिशीथिनीतमःप्रबद्बबद्धकन्धरः"
+          },
+          {
+            "source": "vyakhya-sts-8",
+            "locator": "श्लोक ८, शब्दार्थ",
+            "quote": "प्रबद्ध = कसा हुआ, गठीला"
+          },
+          {
+            "source": "mw-prabandha",
+            "locator": "MW pra-bandha, p. 683",
+            "quote": "an uninterrupted connection, continuous series"
+          },
+          {
+            "source": "mw-kamdhara",
+            "locator": "MW kaṃ-dhara, p. 250",
+            "quote": "the neck"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w7"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "The elephant hide of [verse 4](#v4-a3) returns. *Kṛtti* is skin or hide and *sindhura* an elephant, so *kṛtti-sindhura* is the one whose garment is an elephant's skin, a cousin of the old name *Kṛttivāsas*, 'covered with a skin', which Monier-Williams records for Rudra-Śiva.\n\nReaders split the word differently. shlokam.org connects it with the slaying of the elephant-demon Gajāsura; the Samskrit Academy gloss on sanskritdocuments.org gives 'skin-red', apparently hearing *sindūra*, vermilion. The vyakhya.org gloss, 'wearing the elephant hide', matches the dictionary senses of both members, and we follow it.",
+          "hi": "[चौथे श्लोक](#v4-a3) की गज-चर्म यहाँ फिर आती है। *कृत्ति* यानी खाल और *सिन्धुर* यानी हाथी, इसलिए *कृत्ति-सिन्धुर* वह है जिसका वस्त्र हाथी की खाल है; यह पुराने नाम *कृत्तिवासस्* ('खाल ओढ़े हुए') का सगा है, जिसे मोनियर-विलियम्स रुद्र-शिव का नाम बताते हैं।\n\nसब इस शब्द को एक जैसा नहीं पढ़ते। shlokam.org इसे गजासुर-वध से जोड़ता है; sanskritdocuments.org पर संस्कृत अकादमी का शब्दार्थ 'skin-red' देता है, मानो *सिन्दूर* सुना गया हो। vyakhya.org का अर्थ, 'गजचर्म धारण करने वाले', दोनों पदों के कोश-अर्थ से मेल खाता है, और हम उसी को लेते हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-krtti",
+            "locator": "MW kṛtti, p. 304",
+            "quote": "skin, hide"
+          },
+          {
+            "source": "mw-sindhura",
+            "locator": "MW sindhura, p. 1217",
+            "quote": "an elephant"
+          },
+          {
+            "source": "mw-krttivasas",
+            "locator": "MW kṛtti-vāsas, p. 304",
+            "quote": "‘covered with a skin’, N. of Rudra-Śiva"
+          },
+          {
+            "source": "vyakhya-sts-8",
+            "locator": "श्लोक ८, शब्दार्थ",
+            "quote": "कृत्तिसिन्धुरः = गजचर्म धारण करने वाले"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 8, translation",
+            "quote": "May He who killed the Gajasura with an elephant head"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 8, word-meanings",
+            "quote": "skin-red"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w8"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "The moon gets a new name here. A *kalā* is one digit of the moon, a sixteenth part of its disc, and *nidhāna* is a store or treasure-house, so *kalā-nidhāna* is the treasury of digits: the moon that holds them all. Monier-Williams records the near twin *kalā-nidhi* in the same sense.\n\nThe young crescent of [verse 2](#v2-a4) is here simply what makes Śiva *bandhura*, lovely, a word that also means 'adorned with' at the end of a compound. Set against the *kuhū* night of the first line, where not one digit shows, the full store of digits now shines on his head.",
+          "hi": "यहाँ चन्द्रमा को नया नाम मिलता है। *कला* चन्द्रमा का एक अंश है, उसके बिम्ब का सोलहवाँ भाग, और *निधान* भण्डार या खज़ाना, इसलिए *कला-निधान* कलाओं का भण्डार है: वह चन्द्रमा जिसमें सारी कलाएँ हैं। मोनियर-विलियम्स इसी अर्थ में इसका जुड़वाँ *कला-निधि* दर्ज करते हैं।\n\n[दूसरे श्लोक](#v2-a4) का बाल-चन्द्र यहाँ वह है जो शिव को *बन्धुर*, मनोहर, बनाता है; समास के अन्त में इस शब्द का अर्थ 'से सुशोभित' भी है। पहली पंक्ति की *कुहू* रात, जिसमें एक भी कला नहीं दिखती, उसके सामने अब कलाओं का पूरा भण्डार उनके सिर पर चमकता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-kala",
+            "locator": "MW kalā, p. 261",
+            "quote": "a digit or one-sixteenth of the moon's diameter"
+          },
+          {
+            "source": "mw-nidhana",
+            "locator": "MW ni-dhāna, p. 548",
+            "quote": "anything laid up, a store, hoard, treasure"
+          },
+          {
+            "source": "mw-kalanidhi",
+            "locator": "MW kalā-nidhi, p. 261",
+            "quote": "‘a treasure of digits’, the moon"
+          },
+          {
+            "source": "mw-bandhura",
+            "locator": "MW bandhura, p. 721",
+            "quote": "(ifc.) adorned with"
+          },
+          {
+            "source": "vyakhya-sts-8",
+            "locator": "श्लोक ८, शब्दार्थ",
+            "quote": "कलानिधान = चन्द्रकला के आश्रय-स्थान"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w9",
+          "w10"
+        ],
+        "kind": "sound",
+        "body": {
+          "en": "Read the ends of the last three pādas aloud: *kandharaḥ*, *sindhuraḥ*, *jagaddhurandharaḥ*, with *bandhuraḥ* and *-dharaḥ* inside the lines too. The verse rings on *-dharaḥ* and *-dhuraḥ*, and the last word gathers both: *dhuraṃ-dhara*, 'bearer of the yoke', a word Monier-Williams also lists as a name of Śiva. The neck that bears the head (*kaṃ-dhara*) and the god who bears the river (*-dhara*) end as the one who bears the world.\n\nThe only verb is *tanotu*, from √tan 'to stretch, spread, augment': may He spread *śrī*, prosperity and splendour. Compare the dative *śriyai* of [verse 5](#v5-a4).",
+          "hi": "अन्तिम तीन चरणों के अन्त ज़ोर से पढ़िए: *कन्धरः*, *सिन्धुरः*, *जगद्धुरन्धरः*, और पंक्तियों के भीतर *बन्धुरः* और *-धरः* भी। श्लोक *-धरः* और *-धुरः* पर गूँजता है, और अन्तिम शब्द दोनों को समेट लेता है: *धुरं-धर*, 'धुरा उठाने वाला', जिसे मोनियर-विलियम्स शिव का नाम भी बताते हैं। सिर को धारण करने वाला कण्ठ (*कं-धर*) और नदी को धारण करने वाले देवता (*-धर*) अन्त में जगत को धारण करने वाले बन जाते हैं।\n\nएकमात्र क्रिया *तनोतु* है, √तन् से, 'फैलाना, बढ़ाना': वे *श्री* (समृद्धि और शोभा) को बढ़ाएँ। [पाँचवें श्लोक](#v5-a4) की चतुर्थी *श्रियै* से तुलना कीजिए।"
+        },
+        "citations": [
+          {
+            "source": "mw-dhuramdhara",
+            "locator": "MW dhuraṃ-dhara, p. 517",
+            "quote": "bearing a yoke or a burden (lit. and fig.)"
+          },
+          {
+            "source": "mw-dhuramdhara",
+            "locator": "MW dhuraṃ-dhara, p. 517",
+            "quote": "N. of Śiva, Śivag."
+          },
+          {
+            "source": "mw-tan",
+            "locator": "MW √3. tan, p. 435",
+            "quote": "to put forth, show, manifest, display, augment"
+          },
+          {
+            "source": "mw-shri",
+            "locator": "MW 3. śrī, p. 1098",
+            "quote": "prosperity, welfare, good fortune"
+          },
+          {
+            "source": "vyakhya-sts-8",
+            "locator": "श्लोक ८, शब्दार्थ",
+            "quote": "धुरंधरः = भार वहन करने वाला, जगदाधार"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "May"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "He,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "whose neck is bound with the unbroken mass"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "of a new-moon midnight's darkness,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "unbearable, spreading, hemmed in"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "by gathering banks of fresh clouds;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "who bears the river of the gods;"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "who wears the elephant's hide;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "who is lovely with the moon, the store of digits;"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "and who carries the yoke of the world,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "increase"
+            },
+            {
+              "refs": [
+                "x2"
+              ],
+              "text": "our"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "fortune."
+            }
+          ]
+        ],
+        "bhavartha": "The prayer, traditionally Rāvaṇa's, turns from Śiva's head to his throat. The neck that, as the commentary explains, held the poison is as dark as a night with no moon at all, with fresh storm clouds piled on top. Yet this dark-throated god also carries the Gaṅgā, wraps himself in an elephant's hide, is made lovely by the moon, and holds up the whole world. The poet asks Him to make our good fortune grow."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "नए मेघों की घटाओं से"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "घिरे, असह्य और फैलते"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "अमावस की आधी रात के अन्धकार के"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "घने पुंज से जिनका कण्ठ बँधा है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "जो देवनदी गंगा को धारण करते हैं,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "जो गज-चर्म ओढ़े हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "जो चन्द्रमा से मनोहर हैं"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "और जो जगत का भार उठाते हैं,"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "वे (शिव)"
+            },
+            {
+              "refs": [
+                "x2"
+              ],
+              "text": "हमारी"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "श्री (समृद्धि) का"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "विस्तार करें।"
+            }
+          ]
+        ],
+        "bhavartha": "परम्परा से रावण की मानी जाने वाली यह स्तुति अब शिव के सिर से उनके कण्ठ पर आती है। व्याख्या के अनुसार विष धारण करने वाला वह कण्ठ ऐसा काला है जैसे बिना चाँद की अमावस की रात, जिस पर नए बादल और घिर आए हों। फिर भी यही नीलकण्ठ गंगा को धारण करते हैं, हाथी की खाल ओढ़ते हैं, चन्द्रमा से सुन्दर दिखते हैं और पूरे जगत का भार उठाते हैं। कवि उनसे विनती करता है कि वे हमारी श्री को बढ़ाएँ।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "नवीन",
+            "iast": "navīna"
+          },
+          {
+            "sa": "मेघ",
+            "iast": "megha"
+          },
+          {
+            "sa": "मण्डली",
+            "iast": "maṇḍalī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "नवीन",
+            "iast": "navīna",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नवीन",
+              "iast": "navīna"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "navīna",
+              "gloss": "new, fresh, young"
+            },
+            "meaning": {
+              "en": "new, fresh",
+              "hi": "नया, ताज़ा"
+            }
+          },
+          {
+            "sa": "मेघ",
+            "iast": "megha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मेघ",
+              "iast": "megha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "megha",
+              "gloss": "a cloud"
+            },
+            "meaning": {
+              "en": "cloud",
+              "hi": "मेघ, बादल"
+            }
+          },
+          {
+            "sa": "मण्डली",
+            "iast": "maṇḍalī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मण्डल",
+              "iast": "maṇḍala"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "maṇḍala",
+              "gloss": "a multitude, group, band, collection"
+            },
+            "meaning": {
+              "en": "ring, mass, gathering",
+              "hi": "घेरा, समूह"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "banks of fresh clouds",
+          "hi": "नए मेघों की घटा"
+        },
+        "literal": {
+          "en": "a ring of new clouds",
+          "hi": "नए बादलों का घेरा"
+        },
+        "notes": {
+          "en": "maṇḍalī is the feminine of maṇḍala, 'circle, group'; MW notes maṇḍalī as the form used in compounds. Its sense here is a massed circle of clouds, the instrument of niruddha (w2): the darkness is hemmed in by them. No sandhi at the joins.",
+          "hi": "मण्डली मण्डल ('घेरा, समूह') का स्त्रीलिंग रूप है; मोनियर-विलियम्स के अनुसार समास में यह रूप आता है। यहाँ अर्थ है बादलों का घना घेरा, जो निरुद्ध (w2) का करण है: अन्धकार उनसे घिरा है। जोड़ों पर कोई सन्धि नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-navina",
+          "mw-megha",
+          "mw-mandala",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "निरुद्ध",
+            "iast": "niruddha"
+          },
+          {
+            "sa": "दुर्धर",
+            "iast": "durdhara"
+          },
+          {
+            "sa": "स्फुरत्",
+            "iast": "sphurat"
+          }
+        ],
+        "components": [
+          {
+            "sa": "निरुद्ध",
+            "iast": "niruddha",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "रुध्",
+              "iast": "rudh",
+              "gana": 7,
+              "prefixes": [
+                "ni"
+              ],
+              "gloss": {
+                "en": "to obstruct, to hold back",
+                "hi": "रोकना, घेरना"
+              }
+            },
+            "formation": "ni + √rudh + kta (past passive participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "niruddha",
+              "gloss": "covered, veiled"
+            },
+            "meaning": {
+              "en": "hemmed in, covered",
+              "hi": "घिरा हुआ, ढका हुआ"
+            }
+          },
+          {
+            "sa": "दुर्धर",
+            "iast": "durdhara",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धृ",
+              "iast": "dhṛ",
+              "gana": 1,
+              "prefixes": [
+                "dur"
+              ],
+              "gloss": {
+                "en": "to hold, to bear",
+                "hi": "धारण करना, सहना"
+              }
+            },
+            "formation": "dur + √dhṛ + khal",
+            "sense": {
+              "dict": "mw",
+              "headword": "durdhara",
+              "gloss": "difficult to be carried or borne or suffered, unrestrainable, irresistible"
+            },
+            "meaning": {
+              "en": "hard to bear, irresistible",
+              "hi": "असह्य, दुस्सह"
+            }
+          },
+          {
+            "sa": "स्फुरत्",
+            "iast": "sphurat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्फुर्",
+              "iast": "sphur",
+              "gana": 6,
+              "gloss": {
+                "en": "to quiver, to flash, to spread out",
+                "hi": "फड़कना, चमकना, फैलना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "sphur",
+              "gloss": "become displayed or expanded"
+            },
+            "meaning": {
+              "en": "spreading, quivering",
+              "hi": "फैलता हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "hemmed in, hard to bear and spreading",
+          "hi": "घिरा हुआ, असह्य और फैलता हुआ"
+        },
+        "notes": {
+          "en": "Three qualifiers of the darkness (tamas, w3), all in stem form inside the compound. sphurat is the hardest: vyakhya.org gives both 'spreading' and 'shining', shlokam.org 'shining', sanskritdocuments.org 'striking'. For darkness, 'spreading' (MW: 'become displayed or expanded') fits best. The final t of sphurat stays unchanged before the k of kuhū.",
+          "hi": "अन्धकार (तमस्, w3) के तीन विशेषण, सभी समास के भीतर मूल रूप में। स्फुरत् सबसे कठिन है: vyakhya.org 'फैलता हुआ' और 'चमकता हुआ' दोनों देता है, shlokam.org 'shining', sanskritdocuments.org 'striking'। अन्धकार के लिए 'फैलता हुआ' सबसे उपयुक्त है। स्फुरत् का अन्तिम 'त्' कुहू के 'क' से पहले नहीं बदलता।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "hemmed in, unbearable and flashing",
+              "hi": "घिरा हुआ, असह्य और चमकता हुआ"
+            },
+            "note": "shlokam-shiva-tandava glosses sphurat as 'shining'; vyakhya-sts-8 gives फैलता हुआ, चमकता हुआ."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-niruddha",
+          "mw-durdhara",
+          "mw-sphur",
+          "mw-sphurat",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "कुहू",
+            "iast": "kuhū"
+          },
+          {
+            "sa": "निशीथिनी",
+            "iast": "niśīthinī"
+          },
+          {
+            "sa": "तमः",
+            "iast": "tamaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "s + p → ḥ + p",
+            "explanation": {
+              "en": "The final s of tamas becomes visarga before the p of prabandha (next display word): tamas + prabandha → tamaḥprabandha.",
+              "hi": "तमस् का अन्तिम 'स्' आगे के 'प' (प्रबन्ध) से पहले विसर्ग बन जाता है: तमस् + प्रबन्ध → तमःप्रबन्ध।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कुहू",
+            "iast": "kuhū",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कुहू",
+              "iast": "kuhū"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kuhū",
+              "gloss": "the new moon"
+            },
+            "meaning": {
+              "en": "the moonless new-moon day",
+              "hi": "अमावस्या (कुहू)"
+            }
+          },
+          {
+            "sa": "निशीथिनी",
+            "iast": "niśīthinī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निशीथिनी",
+              "iast": "niśīthinī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "niśīthinī",
+              "gloss": "night"
+            },
+            "meaning": {
+              "en": "night (cf. niśītha, midnight)",
+              "hi": "रात्रि, आधी रात"
+            }
+          },
+          {
+            "sa": "तमस्",
+            "iast": "tamas",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तमस्",
+              "iast": "tamas"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tamas",
+              "gloss": "darkness, gloom"
+            },
+            "meaning": {
+              "en": "darkness",
+              "hi": "अन्धकार"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the darkness of a new-moon midnight",
+          "hi": "अमावस की आधी रात का अन्धकार"
+        },
+        "notes": {
+          "en": "kuhū-niśīthinī 'the night of kuhū' is a ṣaṣṭhī tatpuruṣa, and that night's darkness (tamas) is again genitive. kuhū is the new moon on which no sliver of the moon is visible, the darkest night of the month. Some prints put a space after tamaḥ; the compound runs on regardless.",
+          "hi": "कुहू-निशीथिनी 'कुहू की रात' षष्ठी तत्पुरुष है, और उस रात का अन्धकार (तमस्) फिर षष्ठी सम्बन्ध से जुड़ता है। कुहू वह अमावस्या है जिसमें चन्द्रमा की कोई कला नहीं दिखती, महीने की सबसे अँधेरी रात। कुछ पाठ तमः के बाद जगह छोड़ते हैं; समास फिर भी आगे चलता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kuhu",
+          "mw-nishithini",
+          "mw-nishitha",
+          "mw-tamas",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w4": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "प्रबन्ध",
+            "iast": "prabandha"
+          },
+          {
+            "sa": "बद्ध",
+            "iast": "baddha"
+          },
+          {
+            "sa": "कन्धरः",
+            "iast": "kandharaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रबन्ध",
+            "iast": "prabandha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "बन्ध्",
+              "iast": "bandh",
+              "gana": 9,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to bind on, to fasten",
+                "hi": "बाँधना, कसना"
+              }
+            },
+            "formation": "pra + √bandh + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "prabandha",
+              "gloss": "an uninterrupted connection, continuous series, uninterruptedness"
+            },
+            "meaning": {
+              "en": "unbroken mass, continuous stretch",
+              "hi": "अटूट पुंज, लगातार फैलाव"
+            }
+          },
+          {
+            "sa": "बद्ध",
+            "iast": "baddha",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "बन्ध्",
+              "iast": "bandh",
+              "gana": 9,
+              "gloss": {
+                "en": "to bind, to tie",
+                "hi": "बाँधना"
+              }
+            },
+            "formation": "√bandh + kta (past passive participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "baddha",
+              "gloss": "bound, tied, fixed, fastened"
+            },
+            "meaning": {
+              "en": "bound, fixed",
+              "hi": "बँधा हुआ"
+            }
+          },
+          {
+            "sa": "कन्धर",
+            "iast": "kandhara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कन्धर",
+              "iast": "kandhara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kaṃdhara",
+              "gloss": "the neck"
+            },
+            "meaning": {
+              "en": "neck",
+              "hi": "कण्ठ, गर्दन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(He) whose neck is dark with a dense mass of (that) darkness",
+          "hi": "(वे) जिनका कण्ठ (उस) घने अन्धकार-सा काला है"
+        },
+        "notes": {
+          "en": "The nominative ending -aḥ belongs to the whole compound w1–w4, a bahuvrīhi describing Śiva. kandhara is kaṃ-dhara, 'head-bearer', in MW. The dark neck is that of Nīlakaṇṭha, stained by the poison he drank.",
+          "hi": "अन्तिम '-अः' (प्रथमा) पूरे समास w1–w4 की विभक्ति है, जो शिव का वर्णन करने वाला बहुव्रीहि है। मोनियर-विलियम्स में कन्धर = कं-धर, 'सिर को धारण करने वाला'। यह काला कण्ठ नीलकण्ठ का है, जिस पर पिए हुए विष का दाग है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whose neck is tightly knit and sturdy",
+              "hi": "जिनका कण्ठ कसा हुआ और गठीला है"
+            },
+            "note": "Reading prabaddha-baddha, printed as a variant by sanskritdocuments-shivtand and glossed by vyakhya-sts-8 (प्रबद्ध = कसा हुआ, गठीला)."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-prabandha",
+          "mw-baddha",
+          "mw-kamdhara",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ],
+        "literal": {
+          "en": "(He) whose neck is bound with an unbroken mass (of that darkness)",
+          "hi": "(वे) जिनका कण्ठ (उस अन्धकार के) घने पुंज से बँधा है"
+        }
+      },
+      "w5": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "निलिम्प",
+            "iast": "nilimpa"
+          },
+          {
+            "sa": "निर्झरी",
+            "iast": "nirjharī"
+          },
+          {
+            "sa": "धरः",
+            "iast": "dharaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "ḥ + t → s + t",
+            "explanation": {
+              "en": "The visarga of dharaḥ becomes s before the t of tanotu (next display word): dharaḥ + tanotu → dharas tanotu.",
+              "hi": "धरः का विसर्ग आगे के 'त' (तनोतु) से पहले 'स्' बन जाता है: धरः + तनोतु → धरस्तनोतु।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निलिम्प",
+            "iast": "nilimpa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निलिम्प",
+              "iast": "nilimpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nilimpa",
+              "gloss": "a god"
+            },
+            "meaning": {
+              "en": "a god",
+              "hi": "देवता"
+            }
+          },
+          {
+            "sa": "निर्झरी",
+            "iast": "nirjharī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निर्झरी",
+              "iast": "nirjharī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nirjharī",
+              "gloss": "a river"
+            },
+            "meaning": {
+              "en": "river",
+              "hi": "नदी"
+            }
+          },
+          {
+            "sa": "धर",
+            "iast": "dhara",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धृ",
+              "iast": "dhṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to hold, to bear",
+                "hi": "धारण करना"
+              }
+            },
+            "formation": "√dhṛ + ac (agent noun, at the end of a compound)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dhara",
+              "gloss": "holding, bearing, carrying, wearing"
+            },
+            "meaning": {
+              "en": "bearing, bearer",
+              "hi": "धारण करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "who bears the river of the gods (the Gaṅgā)",
+          "hi": "देवनदी गंगा को धारण करने वाले"
+        },
+        "literal": {
+          "en": "bearer of the river of the gods",
+          "hi": "देवताओं की नदी को धारण करने वाला"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "MW lists nilimpa-nirjharī as a name of the Gaṅgā; vyakhya.org renders the whole as गंगाधर. The display word ends in s because of visarga sandhi with tanotu. shlokam.org misdivides the line as nirjharīdharas + tanotu but glosses 'stanotu'; there is no such verb, and the s belongs to dharaḥ.",
+          "hi": "मोनियर-विलियम्स निलिम्प-निर्झरी को गंगा का नाम बताते हैं; vyakhya.org पूरे शब्द का अर्थ गंगाधर देता है। तनोतु के साथ विसर्ग सन्धि के कारण शब्द 'स्' पर समाप्त होता है। shlokam.org शब्दार्थ में 'स्तनोतु' लिखता है; ऐसी कोई क्रिया नहीं है, 'स्' धरः का है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nilimpanirjhari",
+          "mw-nilimpa",
+          "mw-nirjhari",
+          "mw-dhara",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "तनोतु",
+            "iast": "tanotu"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तनोतु",
+            "iast": "tanotu",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "तन्",
+              "iast": "tan",
+              "gana": 8,
+              "gloss": {
+                "en": "to stretch, to spread, to increase",
+                "hi": "फैलाना, बढ़ाना"
+              }
+            },
+            "formation": "√tan + loṭ, 3rd person singular, parasmaipada",
+            "sense": {
+              "dict": "mw",
+              "headword": "tan",
+              "gloss": "to put forth, show, manifest, display, augment"
+            },
+            "meaning": {
+              "en": "may (he) spread, increase",
+              "hi": "फैलाएँ, बढ़ाएँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "may (He) increase, bestow",
+          "hi": "विस्तार करें, बढ़ाएँ"
+        },
+        "literal": {
+          "en": "may he stretch out",
+          "hi": "फैलाए"
+        },
+        "notes": {
+          "en": "Imperative (loṭ) of √tan, eighth class: tan + u + tu, with u strengthened to o. The prayer is that Śiva spread and enlarge prosperity. vyakhya.org's word-gloss renders it 'रक्षा करें' (protect), but its commentary says 'विस्तार करें', which matches the verb.",
+          "hi": "√तन् (अष्टम गण) का लोट् रूप: तन् + उ + तु, जिसमें 'उ' गुण होकर 'ओ' बनता है। प्रार्थना है कि शिव श्री को फैलाएँ और बढ़ाएँ। vyakhya.org का शब्दार्थ 'रक्षा करें' देता है, पर उसकी व्याख्या 'विस्तार करें' कहती है, जो धातु के अनुरूप है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tan",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w7": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "कृत्ति",
+            "iast": "kṛtti"
+          },
+          {
+            "sa": "सिन्धुरः",
+            "iast": "sindhuraḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कृत्ति",
+            "iast": "kṛtti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कृत्ति",
+              "iast": "kṛtti"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kṛtti",
+              "gloss": "skin, hide"
+            },
+            "meaning": {
+              "en": "hide, skin garment",
+              "hi": "खाल, चर्म"
+            }
+          },
+          {
+            "sa": "सिन्धुर",
+            "iast": "sindhura",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सिन्धुर",
+              "iast": "sindhura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sindhura",
+              "gloss": "an elephant"
+            },
+            "meaning": {
+              "en": "elephant",
+              "hi": "हाथी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "who wears the elephant's hide",
+          "hi": "गज-चर्म ओढ़ने वाले"
+        },
+        "literal": {
+          "en": "having an elephant's hide",
+          "hi": "जिसके पास हाथी की खाल है"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Bahuvrīhi: sindhurasya kṛttiḥ yasya, 'he whose (garment) is the elephant's hide', with the members in reverse of the usual order. Compare the name Kṛttivāsas, 'clad in a hide'.",
+          "hi": "बहुव्रीहि: सिन्धुरस्य कृत्तिः यस्य, 'जिसका (वस्त्र) हाथी की खाल है'; पदों का क्रम सामान्य से उलटा है। तुलना करें: कृत्तिवासस्, 'खाल ओढ़े हुए'।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "red with the hide (taking sindhura as sindūra, vermilion)",
+              "hi": "खाल से लाल (सिन्धुर को सिन्दूर मानकर)"
+            },
+            "note": "sanskritdocuments-shivtand-meaning glosses 'skin-red'; shlokam-shiva-tandava links it to the slaying of Gajāsura. MW gives sindhura only as 'an elephant'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-krtti",
+          "mw-sindhura",
+          "mw-krttivasas",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w8": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "कला",
+            "iast": "kalā"
+          },
+          {
+            "sa": "निधान",
+            "iast": "nidhāna"
+          },
+          {
+            "sa": "बन्धुरः",
+            "iast": "bandhuraḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कला",
+            "iast": "kalā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कला",
+              "iast": "kalā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kalā",
+              "gloss": "a digit or one-sixteenth of the moon's diameter"
+            },
+            "meaning": {
+              "en": "digit of the moon",
+              "hi": "चन्द्रमा की कला"
+            }
+          },
+          {
+            "sa": "निधान",
+            "iast": "nidhāna",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धा",
+              "iast": "dhā",
+              "gana": 3,
+              "prefixes": [
+                "ni"
+              ],
+              "gloss": {
+                "en": "to put down, to deposit",
+                "hi": "रखना, संचित करना"
+              }
+            },
+            "formation": "ni + √dhā + lyuṭ (noun of place)",
+            "sense": {
+              "dict": "mw",
+              "headword": "nidhāna",
+              "gloss": "place for depositing anything, receptacle"
+            },
+            "meaning": {
+              "en": "store, treasury",
+              "hi": "भण्डार, आश्रय"
+            }
+          },
+          {
+            "sa": "बन्धुर",
+            "iast": "bandhura",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "बन्धुर",
+              "iast": "bandhura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bandhura",
+              "gloss": "pleasant, beautiful, charming; (ifc.) adorned with"
+            },
+            "meaning": {
+              "en": "lovely, adorned",
+              "hi": "मनोहर, सुशोभित"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "who is lovely with the moon",
+          "hi": "चन्द्रमा से मनोहर"
+        },
+        "literal": {
+          "en": "lovely with the store of digits",
+          "hi": "कलाओं के भण्डार से सुन्दर"
+        },
+        "notes": {
+          "en": "kalā-nidhāna, 'the store of digits', is the moon (MW has kalā-nidhi in the same sense). bandhura is MW's 'beautiful, charming', and at the end of a compound 'adorned with'. shlokam.org renders kalānidhāna as 'crescent moon'.",
+          "hi": "कला-निधान, 'कलाओं का भण्डार', चन्द्रमा है (मोनियर-विलियम्स में इसी अर्थ में कला-निधि)। बन्धुर का अर्थ 'सुन्दर, मनोहर' है, और समास के अन्त में 'से सुशोभित'। shlokam.org कलानिधान का अर्थ 'crescent moon' देता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kala",
+          "mw-nidhana",
+          "mw-kalanidhi",
+          "mw-bandhura",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "श्रियम्",
+            "iast": "śriyam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (jagad-): śriyam → śriyaṃ.",
+              "hi": "अगले शब्द (जगद्-) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: श्रियम् → श्रियं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "श्री",
+            "iast": "śrī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "श्री",
+              "iast": "śrī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śrī",
+              "gloss": "prosperity, welfare, good fortune, success, auspiciousness, wealth"
+            },
+            "meaning": {
+              "en": "prosperity, fortune, splendour",
+              "hi": "श्री, समृद्धि, शोभा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "fortune, prosperity",
+          "hi": "श्री, समृद्धि"
+        },
+        "notes": {
+          "en": "Accusative singular of śrī, the object of tanotu. vyakhya.org glosses it as लक्ष्मी; the word covers wealth, good fortune and splendour together.",
+          "hi": "श्री का द्वितीया एकवचन, तनोतु का कर्म। vyakhya.org इसका अर्थ लक्ष्मी देता है; शब्द में धन, सौभाग्य और शोभा, तीनों आते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shri",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w10": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          {
+            "sa": "धुरन्धरः",
+            "iast": "dhurandharaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + dh → d + dh",
+            "explanation": {
+              "en": "Final t of jagat becomes the voiced d before the voiced dh of dhurandhara: jagat + dhurandharaḥ → jagaddhurandharaḥ.",
+              "hi": "जगत् का अन्तिम 'त्' आगे के घोष 'ध' (धुरन्धर) के कारण 'द्' बन जाता है: जगत् + धुरन्धरः → जगद्धुरन्धरः।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "जगत्",
+            "iast": "jagat",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जगत्",
+              "iast": "jagat"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jagat",
+              "gloss": "the world, esp. this world, earth"
+            },
+            "meaning": {
+              "en": "the world",
+              "hi": "जगत, संसार"
+            }
+          },
+          {
+            "sa": "धुरन्धर",
+            "iast": "dhurandhara",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धृ",
+              "iast": "dhṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to hold, to bear",
+                "hi": "धारण करना"
+              }
+            },
+            "formation": "dhuram (acc. of dhur, yoke) + √dhṛ + khac (upapada, case ending kept)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dhuraṃdhara",
+              "gloss": "bearing a yoke or a burden (lit. and fig.)"
+            },
+            "meaning": {
+              "en": "bearer of the yoke",
+              "hi": "धुरा उठाने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "who carries the yoke of the world",
+          "hi": "जगत का भार उठाने वाले"
+        },
+        "literal": {
+          "en": "the yoke-bearer of the world",
+          "hi": "जगत की धुरा धारण करने वाला"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "dhuraṃdhara is listed in MW both as 'burden-bearer, leader' and as a name of Śiva. vyakhya.org renders the whole as जगदाधार, 'support of the world'.",
+          "hi": "मोनियर-विलियम्स धुरंधर को 'भार उठाने वाला, अगुआ' और शिव का नाम, दोनों बताते हैं। vyakhya.org पूरे शब्द का अर्थ जगदाधार देता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-jagat",
+          "mw-dhuramdhara",
+          "vyakhya-sts-8",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      }
+    }
+  }
+}

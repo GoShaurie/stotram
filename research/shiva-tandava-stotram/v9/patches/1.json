@@ -1,0 +1,105 @@
+[
+  {
+    "op": "replace",
+    "path": "/verses/8/annotations/1/body",
+    "value": {
+      "en": "Where does line 2 begin? The Ramakrishna Math print, shlokam.org and vyakhya.org start it with *valambi*, and shlokam.org even glosses a word *valambi*, 'hanging'. There is no such word: *prabhā + avalambi* fuse into *prabhāvalambi*, the long ā swallowing the short a. sanskritdocuments and Wikisource mark the lost a with an avagraha (ऽवलम्बि).\n\nMonier-Williams gives *avalambin* as 'hanging down so as to rest upon, hanging on'; vyakhya.org glosses it 'endowed with' (से युक्त), hence 'bearing' here. What bears the dark glow is the *kaṇṭha-kandalī*, the throat pictured as a slender stalk (vyakhya.org: कण्ठ-नाल; shlokam.org: 'stem'). Monier-Williams gives no 'stalk' sense for *kandalī* (it lists a deer, a white-flowered plant, lotus seed, a banner); the nearest is *kandala*, 'a new shoot', so the stalk reading rests on vyakhya.org and shlokam.org. Its sheen (*ruci*) is *prabaddha*, bound round the *kandhara*, the neck. The twelve-part compound is a bahuvrīhi in the accusative: 'Him whose neck is so bound'.",
+      "hi": "दूसरी पंक्ति कहाँ से शुरू होती है? रामकृष्ण मठ का मुद्रित पाठ, shlokam.org और vyakhya.org उसे *वलम्बि* से आरम्भ करते हैं, और shlokam.org तो *वलम्बि* शब्द का अर्थ 'लटकता हुआ' भी देता है। ऐसा कोई शब्द नहीं है: *प्रभा + अवलम्बि* मिलकर *प्रभावलम्बि* बनते हैं, दीर्घ 'आ' ह्रस्व 'अ' को अपने में मिला लेता है। sanskritdocuments और विकिस्रोत लुप्त 'अ' को अवग्रह (ऽवलम्बि) से दिखाते हैं।\n\nमोनियर-विलियम्स *अवलम्बिन्* का अर्थ 'लटककर किसी पर टिका हुआ, किसी पर लटका हुआ' देते हैं; vyakhya.org इसे 'से युक्त' कहता है, इसी से यहाँ 'धारण करने वाला' अर्थ लिया गया है। श्यामल आभा को धारण करती है *कण्ठ-कन्दली*, पतली नाल-सा कण्ठ (vyakhya.org: कण्ठ-नाल; shlokam.org: 'stem')। मोनियर-विलियम्स *कन्दली* का कोई 'नाल' अर्थ नहीं देते (वे एक हिरन, सफ़ेद फूलों वाला पौधा, कमल-बीज और ध्वजा बताते हैं); सबसे निकट *कन्दल* है, 'नया अंकुर', इसलिए 'नाल' वाला अर्थ vyakhya.org और shlokam.org पर टिका है। उसकी कान्ति (*रुचि*) *कन्धरा*, यानी ग्रीवा, से *प्रबद्ध*, बँधी हुई है। बारह पदों का यह समास द्वितीया में बहुव्रीहि है: 'उनको, जिनकी ग्रीवा ऐसे बँधी है'।"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/8/annotations/1/citations/-",
+    "value": {
+      "source": "mw-kandala",
+      "locator": "MW kandala, p. 249",
+      "quote": "a new shoot or sprig"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/8/annotations/1/citations/-",
+    "value": {
+      "source": "shlokam-shiva-tandava",
+      "locator": "verse ९, word-meanings",
+      "quote": "कन्दली (kandalī) – stem"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/8/words/w3/components/2/sense",
+    "value": {
+      "dict": "mw",
+      "headword": "kandala",
+      "gloss": "a new shoot or sprig"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/8/words/w3/notes",
+    "value": {
+      "en": "The display word begins with 'valambi' only because its a has merged into the ā of prabhā (see w2); the word is avalambin, its n dropped inside the compound. MW gives avalambin as 'hanging on, resting upon'; 'bearing' follows vyakhya.org's gloss 'endowed with' (से युक्त). kaṇṭha-kandalī is read as the throat seen as a slender stalk, following vyakhya.org (कण्ठ-नाल) and shlokam.org ('stem'). MW gives no 'stalk' sense for kandalī (it lists a deer, a white-flowered plant, lotus seed, a banner); the closest MW support is kandala 'a new shoot', used figuratively, so this sense rests on the commentators. sanskritdocuments' 'temple' is given as an alternative.",
+      "hi": "यह शब्द 'वलम्बि' से केवल इसलिए शुरू होता दिखता है कि इसका 'अ' प्रभा के 'आ' में मिल गया है (w2 देखें); शब्द अवलम्बिन् है, जिसका 'न्' समास में लुप्त है। मोनियर-विलियम्स अवलम्बिन् का अर्थ 'किसी पर लटका या टिका हुआ' देते हैं; 'धारण करने वाला' अर्थ vyakhya.org के 'से युक्त' के अनुसार है। कण्ठ-कन्दली को vyakhya.org (कण्ठ-नाल) और shlokam.org ('stem') के अनुसार पतली नाल-सा कण्ठ समझा गया है। मोनियर-विलियम्स कन्दली का कोई 'नाल' अर्थ नहीं देते (वे एक हिरन, सफ़ेद फूलों वाला पौधा, कमल-बीज और ध्वजा बताते हैं); उनमें सबसे निकट आधार कन्दल 'नया अंकुर' है, जो यहाँ लाक्षणिक रूप से लिया गया है, इसलिए यह अर्थ टीकाकारों पर टिका है। sanskritdocuments का 'temple' (कनपटी) अर्थ विकल्प के रूप में दिया गया है।"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/8/words/w3/alternatives",
+    "value": [
+      {
+        "reading": {
+          "en": "of the temples (of the head) resting on the throat",
+          "hi": "कण्ठ पर टिकी कनपटियों की"
+        },
+        "note": "sanskritdocuments-shivtand-meaning glosses kandalī as 'temple' ('whose neck is tied with the luster of the temples'). MW records 'the cheek (or the cheek and temple)' only for kandala (mw-kandala, W.), not for kandalī; vyakhya-sts-9 (कण्ठ-नाल) and shlokam-shiva-tandava ('stem') support the stalk reading followed here."
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/verses/8/words/w3/sources/-",
+    "value": "mw-kandala"
+  },
+  {
+    "op": "add",
+    "path": "/verses/8/words/w3/sources/-",
+    "value": "sanskritdocuments-shivtand-meaning"
+  },
+  {
+    "op": "replace",
+    "path": "/verses/8/compounds/c1/meaning",
+    "value": {
+      "en": "Him whose neck is bound round with the sheen of a stalk-like throat, dark like a mass of full-blown blue lotuses (literally: a throat bearing the dark radiance of such a mass)",
+      "hi": "उन (शिव) को, जिनकी ग्रीवा उस नाल-से कण्ठ की कान्ति से बँधी है जो पूरे खिले नीले कमलों के ढेर जैसा श्यामल है (शब्दशः: जो उस ढेर की श्यामल आभा धारण करता है)"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/8/compounds/c1/note",
+    "value": {
+      "en": "Twelve members running across the pāda break, with a case ending only at the end (kandharam, accusative). Inside: praphulla-nīla-paṅkaja 'full-blown blue lotus' (karmadhāraya); -prapañca 'a mass of them' and kālima-prabhā 'the radiance of blackness' (ṣaṣṭhī tatpuruṣas); -avalambin 'resting on, bearing that radiance' qualifies kaṇṭha-kandalī 'the stalk of the throat'; its ruci 'sheen' binds (prabaddha) the kandhara 'neck'. The whole is a bahuvrīhi describing Śiva, the 'him' (tam) of pāda 4. The simile is implied, not stated: the throat is as dark as a heap of blue lotuses because it is the poison-darkened throat of Nīlakaṇṭha; vyakhya.org says this blue glow keeps recalling that Śiva drank the poison for the good of others.",
+      "hi": "बारह पदों का समास, जो चरण की सीमा पार करता है; विभक्ति केवल अन्त में है (कन्धरम्, द्वितीया)। भीतर: प्रफुल्ल-नील-पङ्कज 'पूरा खिला नीला कमल' (कर्मधारय); -प्रपञ्च 'उनका ढेर' और कालिम-प्रभा 'श्यामलता की आभा' (षष्ठी तत्पुरुष); -अवलम्बिन् 'उस आभा पर टिका, उसे धारण करने वाला' कण्ठ-कन्दली 'कण्ठ-नाल' का विशेषण है; उसकी रुचि 'कान्ति' कन्धरा 'ग्रीवा' को बाँधती (प्रबद्ध) है। पूरा समास बहुव्रीहि है, जो चौथे चरण के 'तम्' (उन शिव को) का वर्णन करता है। उपमा कही नहीं गई, समझी जाती है: कण्ठ नीले कमलों के ढेर-सा श्यामल है क्योंकि यह नीलकण्ठ का विष से नीला पड़ा कण्ठ है; vyakhya.org कहता है कि यह नीली प्रभा सतत स्मरण कराती है कि शिव ने परोपकार के लिए विषपान किया था।"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/8/words/w4/meaning",
+    "value": {
+      "en": "(Him) whose neck is bound round with the sheen (of that throat, dark like a mass of blue lotuses)",
+      "hi": "(उनको) जिनकी ग्रीवा (नीले कमलों के ढेर-से श्यामल उस कण्ठ की) कान्ति से बँधी है"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/8/words/w4/notes",
+    "value": {
+      "en": "The accusative ending -am belongs to the whole compound w1–w4, a bahuvrīhi describing Śiva and agreeing with tam (w10). MW spells the stem kaṃdhara; the text writes the nasal as न्. shlokam.org glosses kandhara 'shoulder'; MW and vyakhya.org give 'neck'. The dark throat is Nīlakaṇṭha's, darkened by the poison he drank: vyakhya.org says its blue glow recalls that Śiva drank poison for the good of others.",
+      "hi": "द्वितीया की '-अम्' विभक्ति पूरे समास w1–w4 की है, जो शिव का वर्णन करने वाला बहुव्रीहि है और 'तम्' (w10) से अन्वित है। मोनियर-विलियम्स इसे कंधर लिखते हैं; पाठ में अनुनासिक 'न्' है। shlokam.org कन्धर का अर्थ 'कन्धा' देता है; मोनियर-विलियम्स और vyakhya.org 'ग्रीवा' देते हैं। यह श्यामल कण्ठ नीलकण्ठ का है, जो पिए हुए विष से नीला पड़ा: vyakhya.org के अनुसार यह नीली प्रभा याद दिलाती है कि शिव ने दूसरों के हित के लिए विषपान किया था।"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/8/translations/hi/lines/1/2/text",
+    "value": "भव (जन्म-मरण के चक्र) को काटने वाले,"
+  }
+]

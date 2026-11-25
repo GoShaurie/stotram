@@ -1,0 +1,471 @@
+{
+  "check": "T4.9",
+  "rubric": "checks/judges/T4.9.md",
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    },
+    "sources": [
+      {
+        "id": "ai-draft",
+        "name": "AI-generated first draft (unverified)",
+        "kind": "ai"
+      },
+      {
+        "id": "stotram-text",
+        "name": "Śivatāṇḍavastotram, the hymn's own text (incl. phalaśruti)",
+        "kind": "text",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "valmiki-ramayana",
+        "name": "Vālmīki Rāmāyaṇa",
+        "kind": "text",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "nandikeshvara-kashika",
+        "name": "Nandikeśvara-kāśikā (verses on the Māheśvara sūtras)",
+        "kind": "commentary",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "ashtadhyayi",
+        "name": "Pāṇini, Aṣṭādhyāyī",
+        "kind": "text",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "mw-bhram",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√bhram' (SLP1 key: Bram)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Bram&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-dhagaddhagiti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhagaddhag-iti' (SLP1 key: DagadDagiti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DagadDagiti&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-dhagiti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhag-iti' (SLP1 key: Dagiti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Dagiti&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-jval",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√jval' (SLP1 key: jval)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jval&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-kataha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kaṭāha' (SLP1 key: kawAha)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kawAha&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-kishora",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kiśora' (SLP1 key: kiSora)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kiSora&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-lalata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'lalāṭa' (SLP1 key: lalAwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lalAwa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-lul",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√lul' (SLP1 key: lul)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lul&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-murdhan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mūrdhan' (SLP1 key: mUrDan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mUrDan&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-nilimpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nilimpa' (SLP1 key: nilimpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nilimpa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-nirjhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirjhara / nirjharī' (SLP1 key: nirJarI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirJarI&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-patta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paṭṭa' (SLP1 key: pawwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pawwa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-pavaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāvaka' (SLP1 key: pAvaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pAvaka&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-pratikshanam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pratikṣaṇam' (SLP1 key: pratikzaRam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pratikzaRam&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-raj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√rāj' (SLP1 key: rAj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rAj&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-rati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rati' (SLP1 key: rati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rati&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-sambhrama",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sambhrama' (SLP1 key: samBrama)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=samBrama&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-shekhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śekhara' (SLP1 key: SeKara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SeKara&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vallari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vallarī' (SLP1 key: vallarI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vallarI&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vici",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vīci' (SLP1 key: vIci)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vIci&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vilola",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vilola' (SLP1 key: vilola)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vilola&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-viraj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vi-√rāj' (SLP1 key: virAj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=virAj&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), ed. Swami Devarupananda, Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007 — शिवताण्डवस्तोत्रम् [15] (श्री रावण कृतम्); scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/468/mode/1up"
+      },
+      {
+        "id": "sa-wikisource-shivatandava",
+        "name": "विकिस्रोतः (Sanskrit Wikisource) — शिवताण्डवस्तोत्रम् (रावण); headed \"॥अथ सुसंशुद्धं रावणकृतशिवताण्डवस्तोत्रम्॥\"",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"
+      },
+      {
+        "id": "sanskritdocuments-shivtand-meaning",
+        "name": "sanskritdocuments.org — Shivatandava Stotra with meaning (shivTAND_meaning.itx); word-meanings and translation by Dr. Sarasvati Mohan and students, Samskrit Academy, San Jose CA",
+        "kind": "translation",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivTAND_meaning.html"
+      },
+      {
+        "id": "sanskritdocuments-shivtand",
+        "name": "sanskritdocuments.org — श्रीशिवताण्डवस्तोत्रम् रावणरचितम् (shivtAND.itx; transliterated and proofread by Girish Beeharry and Sushil D. Sharma; \"Extended version with 17 verses\")",
+        "kind": "text",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivtAND.html"
+      },
+      {
+        "id": "shlokam-shiva-tandava",
+        "name": "shlokam.org — Shiva Tandava Stotram (Devanagari, IAST, simplified roman, verse translation, word-meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/shiva-tandava-stotram.htm"
+      },
+      {
+        "id": "vyakhya-sts-2",
+        "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक २ (Shloka 2 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+        "kind": "commentary",
+        "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-2/"
+      }
+    ]
+  },
+  "verse": {
+    "id": "v2",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "जटाकटाह",
+            "iast": "jaṭākaṭāha"
+          },
+          {
+            "id": "w2",
+            "text": "सम्भ्रमभ्रमन्",
+            "iast": "sambhramabhraman"
+          },
+          {
+            "id": "w3",
+            "text": "निलिम्पनिर्झरी",
+            "iast": "nilimpanirjharī"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "विलोलवीचिवल्लरी",
+            "iast": "vilolavīcivallarī"
+          },
+          {
+            "id": "w5",
+            "text": "विराजमानमूर्द्धनि",
+            "iast": "virājamānamūrddhani"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w6",
+            "text": "धगद्धगद्धगज्",
+            "iast": "dhagaddhagaddhagaj"
+          },
+          {
+            "id": "w7",
+            "text": "ज्वलल्",
+            "iast": "jvalal"
+          },
+          {
+            "id": "w8",
+            "text": "ललाटपट्टपावके",
+            "iast": "lalāṭapaṭṭapāvake"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "किशोरचन्द्रशेखरे",
+            "iast": "kiśoracandraśekhare"
+          },
+          {
+            "id": "w10",
+            "text": "रतिः",
+            "iast": "ratiḥ"
+          },
+          {
+            "id": "w11",
+            "text": "प्रतिक्षणं",
+            "iast": "pratikṣaṇaṃ"
+          },
+          {
+            "id": "w12",
+            "text": "मम",
+            "iast": "mama"
+          }
+        ],
+        "end": "॥ २ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2",
+          "w3"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Why a cooking pot? A *kaṭāha* is a deep, rounded vessel, a cauldron or wok. Piled and coiled, Śiva's matted hair becomes such a bowl, and the river of the gods (*nilimpa-nirjharī*, the Gaṅgā) cannot fall straight through it: she spins round and round inside.\n\nThe vyakhya.org commentary pictures her as proud and restless, churning because Śiva has bound her. Readers differ on the vessel: the Samskrit Academy word-gloss renders *kaṭāha* as \"a well\", a sense the dictionary also records. Either way the image is depth and confinement, a heavenly torrent held in a vessel of hair.",
+          "hi": "कड़ाह ही क्यों? *कटाह* गहरा, गोल पात्र है, कड़ाह या कड़ाही। लपेटकर बाँधी गई शिव की जटाएँ ऐसा ही पात्र बन जाती हैं, और देवताओं की नदी (*निलिम्प-निर्झरी*, गंगा) उनमें से सीधी नीचे नहीं गिर पाती: वह भीतर ही गोल-गोल घूमती रहती है।\n\nvyakhya.org की व्याख्या गंगा को गर्वीली और अधीर मानती है, जो शिव द्वारा बाँध दिए जाने से भीतर ही भीतर छटपटा रही है। पात्र को सब एक जैसा नहीं पढ़ते: संस्कृत अकादमी (sanskritdocuments.org) का शब्दार्थ *कटाह* का अर्थ \"कुआँ\" देता है, और शब्दकोश भी यह अर्थ दर्ज करता है। दोनों में भाव एक है: गहराई और बन्धन, केशों के पात्र में थमी स्वर्गीय धारा।"
+        },
+        "citations": [
+          {
+            "source": "mw-kataha",
+            "locator": "MW kaṭāha, p. 243",
+            "quote": "a boiler, caldron, saucepan"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, व्याख्या",
+            "quote": "कड़ाह-सी जटा में तड़पती"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 2, word-meanings",
+            "quote": "matted hair-a well"
+          },
+          {
+            "source": "mw-nilimpa",
+            "locator": "MW nilimpa, p. 558",
+            "quote": "a god, L."
+          },
+          {
+            "source": "mw-nirjhara",
+            "locator": "MW nirjharī, p. 555",
+            "quote": "f. a river, L."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w4",
+          "w5"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Vallarī* is a creeper, a climbing vine. The waves (*vīci*) of the trapped river spill over Śiva's head in curling, trembling lines, so the poet calls them wave-vines. Monier-Williams notes that *vallarī* is also used figuratively of curled hair, so the word can hold a second picture: water curling through curls.\n\nThe vyakhya.org commentator draws the simile out: a vine climbs a tree, winds along a branch and drops back to the ground, just as the Gaṅgā's current winds through the locks before it pours to earth. *Virājamāna* (shining forth, from vi-√rāj) makes the whole head glitter with moving water.",
+          "hi": "*वल्लरी* यानी बेल, चढ़ने वाली लता। बँधी हुई नदी की लहरें (*वीचि*) शिव के सिर पर घुमावदार, काँपती रेखाओं में फैलती हैं, इसलिए कवि उन्हें लहर-लताएँ कहता है। मोनियर-विलियम्स के अनुसार *वल्लरी* लाक्षणिक रूप से घुँघराले बालों के लिए भी आता है, इसलिए शब्द में एक दूसरा चित्र भी छिपा हो सकता है: घुँघराली लटों में घूमता पानी।\n\nvyakhya.org के व्याख्याकार इस उपमा को खोलते हैं: बेल पेड़ पर चढ़ती है, डाल से लिपटती है और फिर ज़मीन पर उतर आती है, वैसे ही गंगा की धारा जटाओं में लिपटकर पृथ्वी पर उतरती है। *विराजमान* (चमकता हुआ, वि-√राज् से) बताता है कि बहते पानी से पूरा मस्तक जगमगा रहा है।"
+        },
+        "citations": [
+          {
+            "source": "mw-vallari",
+            "locator": "MW vallarī, p. 928",
+            "quote": "also fig. applied to curled hair"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, व्याख्या",
+            "quote": "विलोलवीचिवल्लरी कहते हुए लहर-लहर लहराती गंगा की उपमा बेल अथवा लता से की है"
+          },
+          {
+            "source": "mw-viraj",
+            "locator": "MW vi-√rāj, p. 982",
+            "quote": "shine forth, shine out"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w6",
+          "w7",
+          "w8"
+        ],
+        "kind": "sound",
+        "body": {
+          "en": "Verse 1 let you hear the drum ([ḍamaḍ-ḍamaḍ](#v1-a3)); verse 2 lets you hear fire. *Dhagad-dhagad-dhagaj* is pure sound: Monier-Williams lists *dhagaddhag-iti* as an onomatopoeia, \"crack! crack!\", the snap of flames, and the vyakhya.org gloss renders it with the Hindi *dhadhakatī*, flaring up. Only then does the participle *jvalat*, blazing (√jval), say in plain words what the sound has already shown.\n\nThe fire burns on the *lalāṭa-paṭṭa*, the flat plate of the forehead, a compound the dictionary itself cites under *paṭṭa*. One line earlier the same head was streaming with water.",
+          "hi": "पहले श्लोक में डमरू सुनाई देता था ([डमड्-डमड्](#v1-a3)); दूसरे में आग सुनाई देती है। *धगद्-धगद्-धगज्* केवल ध्वनि है: मोनियर-विलियम्स *धगद्धग्-इति* को ध्वन्यात्मक शब्द मानते हैं, अर्थ \"चट! चट!\", यानी लपटों की चटक; और vyakhya.org इसका अर्थ *धधकती* देता है। इसके बाद ही कृदन्त *ज्वलत्* (जलता हुआ, √ज्वल्) साफ़ शब्दों में वही कहता है जो ध्वनि पहले दिखा चुकी है।\n\nआग *ललाट-पट्ट* पर, यानी माथे के समतल भाग पर जल रही है; शब्दकोश *पट्ट* के अन्तर्गत यही समास उदाहरण में देता है। ठीक पिछली पंक्ति में यही सिर पानी से भीगा था।"
+        },
+        "citations": [
+          {
+            "source": "mw-dhagaddhagiti",
+            "locator": "MW dhagaddhag-iti, p. 508",
+            "quote": "crack! crack!"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, शब्दार्थ",
+            "quote": "धगद्धगद्धगद् = धधकती"
+          },
+          {
+            "source": "mw-jval",
+            "locator": "MW √jval, p. 428",
+            "quote": "to burn brightly, blaze, glow, shine"
+          },
+          {
+            "source": "mw-patta",
+            "locator": "MW paṭṭa, p. 579",
+            "quote": "the flat or level surface of anything"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w9"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Water and moon on one side, fire on the other. The *kiśora* moon is a young one, a thin new crescent (*kiśora* is a colt or a youth; the vyakhya.org gloss calls it the *bāla-candra*, the child moon), worn as a crest (*śekhara*). Set beside the blazing forehead, the cool crescent completes a pairing the vyakhya.org commentary names outright: in this verse Śiva's gentle (*saumya*) and fierce (*raudra*) forms are described together, the river and the moon soothing, the fire terrible.",
+          "hi": "एक ओर पानी और चन्द्रमा, दूसरी ओर आग। *किशोर* चन्द्रमा नया, पतला अर्धचन्द्र है (*किशोर* यानी बछेड़ा या किशोर; vyakhya.org इसे *बाल-चन्द्र* कहता है), जो शिरोभूषण (*शेखर*) बनकर सजा है। धधकते माथे के पास यह शीतल चन्द्रकला उस जोड़ी को पूरा करती है जिसे vyakhya.org की व्याख्या सीधे कहती है: इस श्लोक में शिव के सौम्य और रौद्र, दोनों रूपों का वर्णन है; नदी और चन्द्रमा शीतल, आग भयंकर।"
+        },
+        "citations": [
+          {
+            "source": "mw-kishora",
+            "locator": "MW kiśora, p. 284",
+            "quote": "a youth, lad"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, शब्दार्थ",
+            "quote": "किशोर चन्द्र = बाल चंद्र"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, व्याख्या",
+            "quote": "शिव के सौम्य एवं रौद्र रूप"
+          },
+          {
+            "source": "mw-shekhara",
+            "locator": "MW śekhara, p. 1088",
+            "quote": "crown, diadem, crest"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w10",
+          "w11",
+          "w12"
+        ],
+        "kind": "grammar",
+        "body": {
+          "en": "Why do the three long descriptions end in *-ani*, *-ake*, *-are* (*mūrddhani*, *pāvake*, *śekhare*)? They are all locatives, and the reason arrives only at the end: *rati*, delight or fondness, takes what one delights in in the locative. So the verse piles up three pictures of Śiva first and only then reveals that they were the object of love all along.\n\nThere is no verb. The vyakhya.org anvaya supplies *bhavatu*, \"may it be\": may my love be there at every moment. After verse 1's blessing on *us* ([naḥ](#v1-a5)), the hymn turns to one devotee: *mama*, mine.",
+          "hi": "तीनों लम्बे विशेषण *-अनि*, *-अके*, *-अरे* (*मूर्द्धनि*, *पावके*, *शेखरे*) पर क्यों समाप्त होते हैं? सभी सप्तमी में हैं, और इसका कारण अन्त में जाकर खुलता है: *रति* (प्रीति, लगाव) जिसमें होती है, वह सप्तमी में आता है। इसलिए श्लोक पहले शिव के तीन चित्र खड़े करता है और अन्त में बताता है कि ये सब प्रेम के विषय थे।\n\nश्लोक में क्रिया नहीं है। vyakhya.org का अन्वय *भवतु* (हो) जोड़ता है: मेरी प्रीति हर क्षण बनी रहे। पहले श्लोक में आशीर्वाद *हम सब* के लिए था ([नः](#v1-a5)); यहाँ स्तोत्र एक भक्त की ओर मुड़ता है: *मम*, मेरी।"
+        },
+        "citations": [
+          {
+            "source": "mw-rati",
+            "locator": "MW rati, p. 867",
+            "quote": "delight in, fondness for (loc. or comp."
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, अन्वय",
+            "quote": "मम रति: (भवतु)"
+          },
+          {
+            "source": "mw-pratikshanam",
+            "locator": "MW pratikṣaṇam, p. 661",
+            "quote": "at every moment, continually"
+          }
+        ],
+        "confidence": "high"
+      }
+    ]
+  }
+}

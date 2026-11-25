@@ -1,0 +1,12 @@
+{
+  "check": "T4.7",
+  "fields_hash": "1bb6a4088e620bd9",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines[1][1].text",
+      "message": "EN places 'tawny gold' after 'serpent', reading piṅgala as the serpent's colour (the recorded alternative), while HI and w1 attach it to the radiance (vyakhya-sts-4).",
+      "suggested_fix": "Reword EN so 'tawny-gold' clearly modifies the radiance."
+    }
+  ]
+}

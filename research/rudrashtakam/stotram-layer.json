@@ -1,0 +1,693 @@
+{
+  "concepts": {
+    "teachers-plea": {
+      "name": { "en": "The teacher's plea", "hi": "गुरु की विनती" },
+      "description": {
+        "en": "In the *Rāmcaritmānas* this hymn has a singer and a reason. A gentle brāhmaṇa in Ujjain sings it for his proud pupil, whom Śiva has just cursed to become a snake for not rising to bow. So every bow in the hymn, from its first word, [*namāmi*](#v1-a1), to [the bow the pupil never made](#v8-a2), is offered on someone else's behalf.",
+        "hi": "*रामचरितमानस* में इस स्तोत्र का एक गाने वाला है और एक कारण भी। उज्जैन के एक दयालु ब्राह्मण इसे अपने अभिमानी शिष्य के लिए गाते हैं, जिसे उठकर प्रणाम न करने पर शिव ने अभी-अभी साँप बनने का शाप दिया है। इसलिए स्तोत्र का हर प्रणाम, पहले शब्द [*नमामि*](#v1-a1) से लेकर [उस प्रणाम तक जो शिष्य ने कभी नहीं किया](#v8-a2), किसी दूसरे की ओर से किया गया है।"
+      },
+      "story": {
+        "en": "Ujjain, after a famine. A poor young man has found a teacher there, a gentle brāhmaṇa who worships Śiva every day. One day the pupil sits in Śiva's temple, repeating Śiva's name, when his teacher walks in. Out of pride he stays seated and does not bow. The teacher says nothing; there is no anger in him at all. But a voice rings through the temple: \"Fool! Your teacher is kind, but I will not let this pass. You sat there like a python: become a snake, and go live in the hollow of a great tree.\"\n\nThe teacher cries out in grief. He sees the boy trembling, lies full length before Śiva, joins his hands and, his voice choking with love, begins to sing these eight verses.",
+        "hi": "अकाल के बाद का उज्जैन। एक गरीब युवक को वहाँ एक गुरु मिले हैं, एक दयालु ब्राह्मण जो रोज़ शिव की पूजा करते हैं। एक दिन शिष्य शिव-मन्दिर में बैठा शिव-नाम जप रहा है, तभी गुरु भीतर आते हैं। अभिमान में वह बैठा ही रहता है, प्रणाम नहीं करता। गुरु कुछ नहीं कहते; उनके मन में ज़रा भी क्रोध नहीं। पर मन्दिर में एक वाणी गूँजती है: \"मूर्ख! तेरे गुरु दयालु हैं, पर मैं इसे नहीं सहूँगा। तू अजगर की तरह बैठा रहा: साँप हो जा, और किसी बड़े पेड़ के खोखले में जाकर रह।\"\n\nगुरु दुख से हाहाकार कर उठते हैं। शिष्य को काँपता देखकर वे शिव के सामने दण्डवत् लेट जाते हैं, हाथ जोड़ते हैं और प्रेम से भरे, रुँधे गले से ये आठ श्लोक गाने लगते हैं।"
+      },
+      "story_citations": [
+        { "source": "ramcharitmanas", "locator": "Uttarakāṇḍa, dohā 104 (kha) – dohā 107 (kha)" }
+      ],
+      "echoes": [
+        {
+          "text": "बंदउँ गुरु पद कंज कृपा सिंधु नररूप हरि। महामोह तम पुंज जासु बचन रबि कर निकर॥",
+          "lang": "awa",
+          "iast": "baṁdauṁ guru pada kaṁja kṛpā siṁdhu nararūpa hari, mahāmoha tama puṁja jāsu bacana rabi kara nikara",
+          "meaning": {
+            "en": "I bow to the lotus feet of my teacher, an ocean of mercy, God Himself in human form, whose words are sunbeams that scatter the thick darkness of delusion.",
+            "hi": "मैं गुरु के चरण-कमलों की वन्दना करता हूँ, जो कृपा के सागर और मनुष्य रूप में स्वयं हरि हैं, और जिनके वचन मोह के घने अँधेरे को मिटाने वाली सूर्य की किरणें हैं।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Bālakāṇḍa, soraṭhā 5"
+        },
+        {
+          "text": "यस्य देवे परा भक्तिः यथा देवे तथा गुरौ । तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः ॥",
+          "lang": "sa",
+          "iast": "yasya deve parā bhaktiḥ yathā deve tathā gurau | tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ ||",
+          "meaning": {
+            "en": "Whoever loves God with the highest love, and his teacher just as much as God: to that great soul these teachings shine out clearly.",
+            "hi": "जिसकी भगवान में परम भक्ति है, और जैसी भगवान में वैसी ही गुरु में: उस महात्मा के सामने ये कही गई बातें अपने आप प्रकाशित हो जाती हैं।"
+          },
+          "source": "shvetashvatara-upanishad",
+          "locator": "6.23"
+        },
+        {
+          "text": "गुरुर्ब्रह्मा गुरुर्विष्णुर्गुरुर्देवो महेश्वरः । गुरुरेव परं ब्रह्म तस्मै श्रीगुरवे नमः ॥",
+          "lang": "sa",
+          "iast": "gurur brahmā gurur viṣṇur gurur devo maheśvaraḥ | gurur eva paraṃ brahma tasmai śrīgurave namaḥ ||",
+          "meaning": {
+            "en": "The teacher is Brahmā, the teacher is Viṣṇu, the teacher is the god Maheśvara; the teacher is the highest Reality itself. To that teacher, a bow.",
+            "hi": "गुरु ब्रह्मा हैं, गुरु विष्णु हैं, गुरु ही महेश्वर देव हैं; गुरु ही परम ब्रह्म हैं। उन श्रीगुरु को नमस्कार।"
+          },
+          "source": "guru-gita",
+          "locator": "verse 58"
+        }
+      ]
+    },
+    "nirguna": {
+      "name": { "en": "Beyond every quality and form", "hi": "हर गुण और रूप से परे" },
+      "description": {
+        "en": "The hymn begins far beyond any picture. Śiva is [*nirguṇa*](#v1-a3), outside the three strands that make up the changing world, free of division and desire; He is formless, [the root of Om and 'the Fourth'](#v2-a1), beyond speech and thought. Yet He is not far away: He is [a whole mass of awareness and joy](#v6-a2), and He [lives inside every being](#v7-a4).",
+        "hi": "स्तोत्र हर चित्र से बहुत परे से शुरू होता है। शिव [*निर्गुण*](#v1-a3) हैं, बदलते संसार को बनाने वाले तीनों गुणों से बाहर, भेद और इच्छा से मुक्त; वे निराकार हैं, [ॐ के मूल और 'तुरीय'](#v2-a1), वाणी और विचार से परे। फिर भी वे दूर नहीं: वे [चेतना और आनन्द का पूरा पुंज](#v6-a2) हैं, और [हर प्राणी के भीतर बसते हैं](#v7-a4)।"
+      },
+      "story": {
+        "en": "Once, in the flood at the end of an age, Brahmā and Viṣṇu quarrelled over which of them was greater. Suddenly a pillar of fire rose between them, wreathed in a thousand flames, with no beginning, no middle and no end. Let us find its ends, said Viṣṇu. He became a boar and dug down; Brahmā became a white swan and flew up.\n\nFor a thousand years they searched, and neither found an end. Tired and humbled, they came back and bowed. Then a sound rang out: Om. In it they saw the One beyond even the Fourth, clear as crystal, without parts, with no second, inside and outside everything.",
+        "hi": "एक बार, युग के अन्त की जल-प्रलय में, ब्रह्मा और विष्णु इस बात पर झगड़ पड़े कि दोनों में बड़ा कौन है। अचानक उनके बीच आग का एक खम्भा उठा, हज़ारों लपटों से घिरा, जिसका न आदि था, न मध्य, न अन्त। विष्णु बोले, चलो इसके छोर खोजें। वे वराह बनकर नीचे खोदने लगे; ब्रह्मा सफेद हंस बनकर ऊपर उड़े।\n\nहज़ार वर्ष तक वे खोजते रहे, और किसी को छोर न मिला। थककर और नम्र होकर वे लौटे और प्रणाम किया। तब एक ध्वनि गूँजी: ॐ। उसमें उन्होंने उस एक को देखा जो तुरीय से भी परे है, स्फटिक जैसा निर्मल, बिना अंशों के, बिना दूसरे के, सबके भीतर और सबके बाहर।"
+      },
+      "story_citations": [
+        { "source": "linga-purana-1-17", "locator": "Liṅga Purāṇa 1.17.31–55" }
+      ],
+      "echoes": [
+        {
+          "text": "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा । कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च ॥",
+          "lang": "sa",
+          "iast": "eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāntarātmā | karmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaś ca ||",
+          "meaning": {
+            "en": "One God, hidden in all beings, everywhere, the inner self of every being; who watches over all deeds and lives in all beings; the witness, pure awareness, alone, beyond all qualities.",
+            "hi": "एक ही देव, सब प्राणियों में छिपे हुए, सर्वव्यापी, हर प्राणी की अन्तरात्मा; सब कर्मों के देखने वाले, सब प्राणियों में बसने वाले; साक्षी, शुद्ध चेतना, अकेले, और सब गुणों से परे।"
+          },
+          "source": "shvetashvatara-upanishad",
+          "locator": "6.11"
+        },
+        {
+          "text": "न च व्योमभूमिर्न तेजो न वायुः चिदानन्दरूपः शिवोऽहं शिवोऽहम्",
+          "lang": "sa",
+          "iast": "na ca vyomabhūmir na tejo na vāyuḥ cidānandarūpaḥ śivo'haṃ śivo'ham",
+          "meaning": {
+            "en": "I am not space or earth, not fire or wind: I am Śiva, whose form is awareness and joy; I am Śiva.",
+            "hi": "मैं न आकाश हूँ, न धरती, न अग्नि, न वायु: मैं शिव हूँ, चेतना और आनन्द जिनका रूप है; मैं शिव हूँ।"
+          },
+          "source": "nirvana-shatkam",
+          "locator": "verse 1"
+        }
+      ]
+    },
+    "saguna-shiva": {
+      "name": { "en": "Śiva with form", "hi": "साकार शिव" },
+      "description": {
+        "en": "After two verses on the Lord no eye can see, verses 3 and 4 paint Him as His worshippers see Him: white as a snowy mountain, glowing like [ten million gods of love](#v3-a1), the Gaṅgā [surging on His head](#v3-a2), a young moon on His brow, a snake at His throat, earrings swinging and [a glad, kind face](#v4-a1). The hymn puts the formless Lord and this beautiful form side by side, as one and the same Lord.",
+        "hi": "उस प्रभु पर दो श्लोकों के बाद, जिन्हें कोई आँख नहीं देख सकती, तीसरा और चौथा श्लोक उन्हें वैसे चित्रित करते हैं जैसे भक्त उन्हें देखते हैं: हिम-पर्वत जैसे उजले, [करोड़ों कामदेवों](#v3-a1) जैसी आभा, [सिर पर उमड़ती गंगा](#v3-a2), ललाट पर नया चाँद, गले में साँप, हिलते कुण्डल और [प्रसन्न, दयालु मुख](#v4-a1)। स्तोत्र निराकार प्रभु और इस सुन्दर रूप को साथ-साथ रखता है, एक ही प्रभु के रूप में।"
+      },
+      "story": {
+        "en": "King Bhagīratha wanted the river of heaven to come down to earth, but nothing could bear the force of her fall. So he stood for a whole year on the tip of one toe, praying to Śiva, until Śiva said: I will hold her on My head. Gaṅgā came crashing down, proud, meaning to sweep Śiva away with her into the underworld.\n\nŚiva knew her thought. She fell into His matted hair, piled up like the Himālaya, and could not find a way out. For years she wandered round and round inside His locks. Only when Bhagīratha prayed again did Śiva let her go, in seven streams, and one of them followed the king's chariot. That is the river the hymn sees surging on His head.",
+        "hi": "राजा भगीरथ चाहते थे कि स्वर्ग की नदी धरती पर उतरे, पर उसके गिरने का वेग कोई नहीं सह सकता था। इसलिए वे पूरे एक वर्ष तक पैर के अँगूठे की नोक पर खड़े होकर शिव की आराधना करते रहे, तब शिव बोले: मैं उसे अपने सिर पर धारण करूँगा। गंगा घमण्ड से भरी गरजती हुई उतरीं, यह सोचकर कि शिव को भी बहाकर पाताल ले जाऊँगी।\n\nशिव उनका विचार जान गए। वे हिमालय जैसी ऊँची जटाओं में गिरीं और बाहर निकलने का रास्ता न पा सकीं। बरसों तक वे जटाओं के भीतर ही घूमती रहीं। जब भगीरथ ने फिर तप किया, तब शिव ने उन्हें छोड़ा, सात धाराओं में, और उनमें से एक राजा के रथ के पीछे चली। यही वह नदी है जिसे स्तोत्र उनके सिर पर उमड़ती देखता है।"
+      },
+      "story_citations": [
+        { "source": "ramayana-bala-1-43", "locator": "Vālmīki Rāmāyaṇa 1.43.1–14" }
+      ],
+      "echoes": [
+        {
+          "text": "सगुनहि अगुनहि नहिं कछु भेदा। गावहिं मुनि पुरान बुध बेदा॥ अगुन अरूप अलख अज जोई। भगत प्रेम बस सगुन सो होई॥",
+          "lang": "awa",
+          "iast": "sagunahi agunahi nahiṁ kachu bhedā, gāvahiṁ muni purāna budha bedā; aguna arūpa alakha aja joī, bhagata prema basa saguna so hoī",
+          "meaning": {
+            "en": "Between God with form and God without form there is no difference at all: so sing the sages, the purāṇas, the wise and the Vedas. The One who is without qualities, without form, unseen and unborn takes a form, won over by His devotees' love.",
+            "hi": "सगुण और निर्गुण में कुछ भी भेद नहीं है: मुनि, पुराण, ज्ञानी और वेद यही गाते हैं। जो निर्गुण, निराकार, अदृश्य और अजन्मा है, वही भक्तों के प्रेम के वश होकर सगुण हो जाता है।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Bālakāṇḍa 116, caupāī 1"
+        },
+        {
+          "text": "ससि ललाट सुंदर सिर गंगा। नयन तीनि उपबीत भुजंगा॥",
+          "lang": "awa",
+          "iast": "sasi lalāṭa suṁdara sira gaṁgā, nayana tīni upabīta bhujaṁgā",
+          "meaning": {
+            "en": "The moon on His forehead, the lovely Gaṅgā on His head, three eyes, and a snake for His sacred thread.",
+            "hi": "ललाट पर चन्द्रमा, सिर पर सुन्दर गंगा, तीन नेत्र, और साँप का जनेऊ।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Bālakāṇḍa 92, caupāī 2 (Śiva dressed for His wedding)"
+        }
+      ]
+    },
+    "kala-kala": {
+      "name": { "en": "Death even to Death", "hi": "काल के भी काल" },
+      "description": {
+        "en": "*Kāla* means time, and because time ends every life it also means Death. Śiva the destroyer is *Mahākāla*, Great Time, and verse 2 goes one step further: He is [Death even to Mahākāla](#v2-a2), fearsome to look at and full of mercy in the same line. Verse 6 adds that He is the one who brings each age of the world to its end.",
+        "hi": "*काल* का अर्थ समय है, और समय हर जीवन का अन्त करता है, इसलिए इसका अर्थ मृत्यु भी है। संहार करने वाले शिव *महाकाल*, यानी महान काल, हैं, और दूसरा श्लोक एक कदम आगे जाता है: वे [महाकाल के भी काल](#v2-a2) हैं, एक ही पंक्ति में देखने में विकराल और कृपा से भरे। छठा श्लोक जोड़ता है कि संसार के हर युग का अन्त वही करते हैं।"
+      },
+      "story": {
+        "en": "Śveta was a sage whose life had run out. He sat in a mountain cave before Śiva's liṅga, worshipping and singing Śiva's praises. Then Kāla, Death himself, came to take him, sharp-fanged, a noose in his hand. \"What can your Rudra do?\" Death laughed. \"He sits in that stone and does not move.\" And he threw his noose and bound the sage.\n\nOut of the liṅga came Śiva Himself, the three-eyed Lord, with the Mother, Nandī and His attendants. He only looked at Death, and Death fell lifeless beside the sage. Flowers rained down from the sky. That is why Śiva is worshipped as Mṛtyuñjaya, the one who conquers Death.",
+        "hi": "श्वेत एक मुनि थे जिनकी आयु पूरी हो चुकी थी। वे पर्वत की एक गुफा में शिवलिंग के सामने बैठे पूजा कर रहे थे और शिव की स्तुति गा रहे थे। तभी स्वयं काल, यानी मृत्यु, उन्हें लेने आया, नुकीले दाँत और हाथ में पाश लिए। \"तेरा रुद्र क्या कर लेगा?\" काल हँसा। \"वह तो उस पत्थर में बैठा है और हिलता तक नहीं।\" और उसने पाश फेंककर मुनि को बाँध लिया।\n\nतभी लिंग से स्वयं शिव प्रकट हुए, तीन नेत्रों वाले प्रभु, माता अम्बिका, नन्दी और अपने गणों के साथ। उन्होंने काल की ओर बस देखा, और काल निर्जीव होकर मुनि के पास गिर पड़ा। आकाश से फूल बरसे। इसीलिए शिव मृत्युंजय, यानी मृत्यु को जीतने वाले, के रूप में पूजे जाते हैं।"
+      },
+      "story_citations": [
+        { "source": "linga-purana-1-30", "locator": "Liṅga Purāṇa 1.30.2–28" }
+      ],
+      "echoes": [
+        {
+          "text": "त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॥",
+          "lang": "sa",
+          "iast": "tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam | urvārukam iva bandhanān mṛtyor mukṣīya māmṛtāt ||",
+          "meaning": {
+            "en": "We worship the Three-eyed One, fragrant, who makes all things grow. As a ripe cucumber slips from its stalk, may He free us from death, not from the deathless.",
+            "hi": "हम त्रिनेत्र भगवान की पूजा करते हैं, जो सुगन्धित हैं और सबको पुष्ट करते हैं। जैसे पकी ककड़ी अपनी बेल से छूट जाती है, वैसे ही वे हमें मृत्यु से छुड़ाएँ, अमरता से नहीं।"
+          },
+          "source": "rigveda",
+          "locator": "7.59.12 (the Mahāmṛtyuñjaya mantra)"
+        },
+        {
+          "text": "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तः ।",
+          "lang": "sa",
+          "iast": "kālo'smi lokakṣayakṛt pravṛddho lokān samāhartum iha pravṛttaḥ |",
+          "meaning": {
+            "en": "I am Time, grown full, the ender of worlds, come here to gather the worlds in.",
+            "hi": "मैं काल हूँ, पूरा बढ़ा हुआ, लोकों का नाश करने वाला, और यहाँ लोकों को समेटने आया हूँ।"
+          },
+          "source": "bhagavad-gita",
+          "locator": "11.32 (first half)"
+        },
+        {
+          "text": "अप्यन्यस्मिञ्जलधर महाकालमासाद्य काले स्थातव्यं ते नयनविषयं यावदत्येति भानुः । कुर्वन् सन्ध्याबलिपटहतां शूलिनः श्लाघनीयाम् आमन्द्राणां फलमविकलं लप्स्यसे गर्जितानाम् ॥",
+          "lang": "sa",
+          "iast": "apy anyasmiñ jaladhara mahākālam āsādya kāle sthātavyaṃ te nayanaviṣayaṃ yāvad atyeti bhānuḥ | kurvan sandhyābalipaṭahatāṃ śūlinaḥ ślāghanīyām āmandrāṇāṃ phalam avikalaṃ lapsyase garjitānām ||",
+          "meaning": {
+            "en": "Cloud, even if you reach Mahākāla at some other hour, wait there until the sun goes out of sight. Then be the drum for the trident-holder's evening worship, and your deep thunder will have its full reward.",
+            "hi": "हे मेघ, यदि तुम महाकाल किसी और समय भी पहुँचो, तो तब तक वहाँ रुकना जब तक सूर्य आँखों से ओझल न हो जाए। फिर त्रिशूलधारी शिव की सन्ध्या-पूजा का नगाड़ा बनना, तो तुम्हारी गहरी गर्जना को उसका पूरा फल मिलेगा।"
+          },
+          "source": "meghaduta",
+          "locator": "1.37 (Pūrvamegha; the Mahākāla temple in Ujjain)"
+        }
+      ]
+    },
+    "nilakantha": {
+      "name": { "en": "Nīlakaṇṭha, the blue throat", "hi": "नीलकण्ठ, नीला कण्ठ" },
+      "description": {
+        "en": "Verse 4 calls Śiva *nīlakaṇṭha*, blue-throated, and the very next word is *dayāla*, full of kindness ([see the note](#v4-a2)). The blue is the mark of the poison He swallowed to save the world, so the two words tell one story: His kindness shows on His throat.",
+        "hi": "चौथा श्लोक शिव को *नीलकण्ठ*, नीले कण्ठ वाला, कहता है, और ठीक अगला शब्द है *दयाल*, दया से भरे ([टिप्पणी देखें](#v4-a2))। यह नीलापन उस विष का निशान है जो उन्होंने संसार को बचाने के लिए पिया, इसलिए दोनों शब्द एक ही कथा कहते हैं: उनकी दया उनके कण्ठ पर दिखती है।"
+      },
+      "story": {
+        "en": "The gods and demons were churning the ocean of milk, with a mountain for the churning stick and the great snake Vāsuki for the rope. Before any treasure came up, a poison called *hālāhala* rose from the waves, so fierce that its fumes spread in every direction and began to burn the worlds. Everyone ran to Śiva.\n\nHe turned to Bhavānī: look how the creatures suffer. To protect them is a master's duty. She agreed, knowing His power. He gathered the poison into His palm and drank it. The poison showed its power only by leaving a dark blue mark on His throat, and that mark became His ornament.",
+        "hi": "देवता और असुर क्षीरसागर मथ रहे थे: पर्वत मथानी था और महान नाग वासुकि रस्सी। कोई रत्न निकलने से पहले लहरों से *हालाहल* नाम का विष उठा, इतना भयानक कि उसकी भाप हर दिशा में फैलकर लोकों को जलाने लगी। सब शिव की ओर दौड़े।\n\nशिव ने भवानी से कहा: देखो, प्राणी कैसे दुखी हैं। उनकी रक्षा करना स्वामी का धर्म है। भवानी उनकी शक्ति जानती थीं, सो मान गईं। शिव ने विष को हथेली में समेटा और पी लिया। विष ने अपना असर बस इतना दिखाया कि उनके कण्ठ पर गहरा नीला निशान पड़ गया, और वही निशान उनका गहना बन गया।"
+      },
+      "story_citations": [
+        { "source": "bhagavata-purana", "locator": "8.7" }
+      ],
+      "echoes": [
+        {
+          "text": "जरत सकल सुर बृंद बिषम गरल जेहिं पान किय। तेहि न भजसि मन मंद को कृपाल संकर सरिस॥",
+          "lang": "awa",
+          "iast": "jarata sakala sura bṛṁda biṣama garala jehiṁ pāna kiya, tehi na bhajasi mana maṁda ko kṛpāla saṁkara sarisa",
+          "meaning": {
+            "en": "When all the gods were burning, He drank the deadly poison. Foolish mind, why don't you worship Him? Who is as kind as Śaṅkara?",
+            "hi": "जब सारे देवता जल रहे थे, तब जिन्होंने भयानक विष पी लिया, हे मूर्ख मन, तू उन्हें क्यों नहीं भजता? शंकर जैसा कृपालु कौन है?"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Kiṣkindhākāṇḍa, opening soraṭhā 2"
+        },
+        {
+          "text": "नमो नीलग्रीवाय च शितिकण्ठाय च",
+          "lang": "sa",
+          "iast": "namo nīlagrīvāya ca śitikaṇṭhāya ca",
+          "meaning": {
+            "en": "A bow to the blue-necked one, and to the one whose throat is dark.",
+            "hi": "नीली ग्रीवा वाले को, और गहरे कण्ठ वाले को नमस्कार।"
+          },
+          "source": "taittiriya-samhita",
+          "locator": "4.5.5 (Śrī Rudram, fifth section)"
+        }
+      ]
+    },
+    "ash-and-sky-clad": {
+      "name": { "en": "The sky-clad Lord", "hi": "दिगम्बर, आकाश ही जिनका वस्त्र" },
+      "description": {
+        "en": "The first verse calls Śiva [*ākāśa-vāsa*](#v1-a4), clothed in the sky: the sky-clad (*digambara*) Lord, who owns nothing and covers nothing, as wide and open as space. Verse 4 dresses Him in [a lion's skin and a garland of skulls](#v4-a3). In this hymn the poorest dress in the world belongs to the Lord of all.",
+        "hi": "पहला श्लोक शिव को [*आकाश-वास*](#v1-a4) कहता है, आकाश को ओढ़ने वाले: दिगम्बर प्रभु, जिनके पास कुछ नहीं, जो कुछ नहीं ढकते, जो आकाश जितने खुले और विशाल हैं। चौथा श्लोक उन्हें [सिंह की खाल और मुण्डों की माला](#v4-a3) पहनाता है। इस स्तोत्र में संसार का सबसे गरीब वेश सबके स्वामी का है।"
+      },
+      "story": {
+        "en": "On His wedding day Śiva's attendants dressed Him for the bride: a crown of matted hair with snakes for the wedding crest, snakes for earrings and bracelets, ash on His body and a lion's skin in place of clothes. He rode out on His bull, with ghosts and goblins behind. The children of the bride's town took one look and ran home: \"Is this a wedding party or Death's army? The groom is mad! He wears ash and snakes and skulls, and nothing else!\"\n\nPārvatī's mother, Menā, came out with her lamp to welcome Him, saw Him and fled in tears: \"The Creator gave you such beauty, and then a madman for a husband?\" Then Nārada came and told her who her daughter really was: the Mother of the world, who has always been Śiva's own half.",
+        "hi": "विवाह के दिन शिव के गणों ने उन्हें दूल्हे की तरह सजाया: जटाओं का मुकुट और उस पर साँपों का मौर, साँपों के कुण्डल और कंगन, शरीर पर भस्म, और वस्त्र की जगह सिंह की खाल। वे बैल पर सवार होकर निकले, पीछे भूत-प्रेतों की टोली। दुल्हन के नगर के बच्चे एक नज़र देखते ही घर भागे: \"यह बारात है या यमराज की सेना? दूल्हा बावला है! राख, साँप और खोपड़ियाँ ही उसके गहने हैं, और कुछ नहीं!\"\n\nपार्वती की माँ मैना आरती लेकर स्वागत को निकलीं, उन्हें देखा और रोती हुई भीतर भाग गईं: \"जिस विधाता ने तुझे ऐसी सुन्दरता दी, उसी ने बावला वर क्यों दिया?\" तब नारद आए और उन्हें बताया कि उनकी बेटी सचमुच कौन है: जगत् की माता, जो सदा से शिव का आधा अंग हैं।"
+      },
+      "story_citations": [
+        { "source": "ramcharitmanas", "locator": "Bālakāṇḍa 92–98" }
+      ],
+      "echoes": [
+        {
+          "text": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय । नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ॥",
+          "lang": "sa",
+          "iast": "nāgendrahārāya trilocanāya bhasmāṅgarāgāya maheśvarāya | nityāya śuddhāya digambarāya tasmai nakārāya namaḥ śivāya ||",
+          "meaning": {
+            "en": "To the one with the king of snakes for a necklace, the three-eyed, with ash for body-paint, the great Lord; the eternal, the pure, clothed only by the sky: to Him, the syllable 'na', a bow to Śiva.",
+            "hi": "नागराज की माला वाले, तीन नेत्रों वाले, भस्म का लेप लगाए महेश्वर को; नित्य, शुद्ध, दिगम्बर को: उन 'न'-कार रूप शिव को नमस्कार।"
+          },
+          "source": "shiva-panchakshara",
+          "locator": "verse 1"
+        },
+        {
+          "text": "गरल कंठ उर नर सिर माला। असिव बेष सिवधाम कृपाला॥",
+          "lang": "awa",
+          "iast": "garala kaṁṭha ura nara sira mālā, asiva beṣa sivadhāma kṛpālā",
+          "meaning": {
+            "en": "Poison at His throat, a garland of human skulls on His chest: an unlucky-looking dress, yet He is the home of all that is lucky, and kind.",
+            "hi": "कण्ठ में विष, छाती पर नरमुण्डों की माला: वेश अशुभ, फिर भी वे कल्याण के धाम और कृपालु हैं।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Bālakāṇḍa 92, caupāī 2"
+        },
+        {
+          "text": "तदङ्गसंसर्गमवाप्य कल्पते ध्रुवं चिताभस्मरजो विशुद्धये ।",
+          "lang": "sa",
+          "iast": "tadaṅgasaṃsargam avāpya kalpate dhruvaṃ citābhasmarajo viśuddhaye |",
+          "meaning": {
+            "en": "Once it has touched His body, even the dust of ash from a funeral pyre surely becomes something that makes others pure.",
+            "hi": "उनके शरीर का स्पर्श पाकर चिता की राख की धूल भी निश्चय ही दूसरों को पवित्र करने वाली बन जाती है।"
+          },
+          "source": "kumarasambhava",
+          "locator": "5.79 (first half)"
+        }
+      ]
+    },
+    "kama-dahana": {
+      "name": { "en": "The burning of Kāma", "hi": "कामदहन" },
+      "description": {
+        "en": "Twice the hymn names the god of love. In verse 3 Śiva's body has the glow of [ten million Kāmas](#v3-a1), *manobhūta*, 'the one born in the mind'; in verse 6 He is *Manmathārī*, the enemy of Manmatha, that is Kāma, whom He burned to ash. The Lord more beautiful than love itself is the one love could not shake.",
+        "hi": "स्तोत्र दो बार प्रेम के देवता का नाम लेता है। तीसरे श्लोक में शिव के शरीर में [करोड़ों कामदेवों](#v3-a1) जैसी आभा है, *मनोभूत*, यानी 'मन में जन्मा'; छठे में वे *मन्मथारी* हैं, मन्मथ के, अर्थात् कामदेव के शत्रु, जिसे उन्होंने भस्म कर दिया। जो प्रभु स्वयं प्रेम के देवता से भी सुन्दर हैं, उन्हें वही प्रेम डिगा नहीं सका।"
+      },
+      "story": {
+        "en": "The gods needed Śiva to marry Pārvatī, but He sat deep in meditation, so they sent Kāma, the god of love. Wherever Kāma passed, the whole world, gods, people, birds and beasts, forgot everything but love. Near Śiva he made the spring bloom: trees burst into flower, cool scented breezes blew, cuckoos sang. Still Śiva did not stir. Angry, Kāma climbed a mango tree, drew his flower bow to his ear and shot five arrows into Śiva's heart.\n\nŚiva's meditation broke. He looked all around and saw Kāma among the mango leaves. The three worlds shook; He opened His third eye, and at that one look Kāma burned to ash. When Kāma's wife Rati came weeping, kind Śiva comforted her: from now on your husband will be Anaṅga, 'bodiless', and will live in everyone.",
+        "hi": "देवताओं को चाहिए था कि शिव पार्वती से विवाह करें, पर शिव गहरी समाधि में थे, इसलिए उन्होंने प्रेम के देवता कामदेव को भेजा। कामदेव जहाँ से गुज़रा, वहाँ सारा संसार, देवता, मनुष्य, पशु-पक्षी, प्रेम के सिवा सब भूल गया। शिव के पास उसने वसन्त खिला दिया: पेड़ फूलों से लद गए, ठण्डी सुगन्धित हवा चली, कोयलें गाने लगीं। फिर भी शिव न डिगे। क्रोध में कामदेव आम के पेड़ पर चढ़ा, फूलों का धनुष कान तक खींचा और शिव के हृदय में पाँच बाण मारे।\n\nशिव की समाधि टूट गई। उन्होंने चारों ओर देखा और आम के पत्तों में छिपे कामदेव को देख लिया। तीनों लोक काँप उठे; उन्होंने तीसरा नेत्र खोला, और उनके देखते ही कामदेव जलकर राख हो गया। जब कामदेव की पत्नी रति रोती हुई आई, तो कृपालु शिव ने उसे धीरज दिया: अब से तेरा पति अनंग, यानी 'बिना शरीर का', कहलाएगा और सबमें बसेगा।"
+      },
+      "story_citations": [
+        { "source": "ramcharitmanas", "locator": "Bālakāṇḍa 83–87" }
+      ],
+      "echoes": [
+        {
+          "text": "तब सिवँ तीसर नयन उघारा। चितवत कामु भयउ जरि छारा॥",
+          "lang": "awa",
+          "iast": "taba sivaṁ tīsara nayana ughārā, citavata kāmu bhayau jari chārā",
+          "meaning": {
+            "en": "Then Śiva opened His third eye; at His glance Kāma burned to ash.",
+            "hi": "तब शिव ने तीसरा नेत्र खोला; उनके देखते ही कामदेव जलकर राख हो गया।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Bālakāṇḍa 87, caupāī 3"
+        },
+        {
+          "text": "क्रोधं प्रभो संहर संहरेति यावद्गिरः खे मरुतां चरन्ति। तावत्स वह्निर्भवनेत्रजन्मा भस्मावशेषं मदनं चकार॥",
+          "lang": "sa",
+          "iast": "krodhaṃ prabho saṃhara saṃhareti yāvad giraḥ khe marutāṃ caranti | tāvat sa vahnir bhavanetrajanmā bhasmāvaśeṣaṃ madanaṃ cakāra ||",
+          "meaning": {
+            "en": "\"Lord, hold back your anger, hold it back!\": while the gods' cry was still in the air, the fire born from Śiva's eye had already left Madana nothing but ash.",
+            "hi": "\"प्रभो, क्रोध रोकिए, रोकिए!\": देवताओं की यह पुकार अभी आकाश में गूँज ही रही थी कि शिव के नेत्र से जन्मी अग्नि ने मदन को राख कर दिया।"
+          },
+          "source": "kumarasambhava",
+          "locator": "3.72"
+        }
+      ]
+    },
+    "three-pains": {
+      "name": { "en": "The three pains, and the round of birth", "hi": "तीन ताप और जन्म का चक्र" },
+      "description": {
+        "en": "Verse 5 praises Śiva as the one who [pulls out the three *śūlas* by the root](#v5-a3), the three kinds of pain: of one's own body and mind, from heaven-sent trouble, and from the world around. Verse 7 says there is no end of torment until people turn to Him, and verse 8 pictures the round of birth and old age as [a flood that burns](#v8-a3). The hymn names these pains so that it can ask Him to end them.",
+        "hi": "पाँचवाँ श्लोक शिव को वह बताता है जो [तीनों *शूलों* को जड़ से उखाड़ देते हैं](#v5-a3), यानी तीन तरह के ताप: दैहिक, दैविक और भौतिक। सातवाँ श्लोक कहता है कि जब तक लोग उनकी ओर नहीं मुड़ते, तब तक कष्ट का अन्त नहीं होता, और आठवाँ जन्म और बुढ़ापे के चक्र को [जलाने वाली बाढ़](#v8-a3) के रूप में दिखाता है। स्तोत्र इन तापों का नाम लेता है ताकि उनसे इनका अन्त माँग सके।"
+      },
+      "story": {
+        "en": "Śiva granted the teacher's prayer, but He also said: \"My curse cannot come to nothing. This boy must still pass through a thousand births.\" A thousand times he would be born, and die, and be born again.\n\nThen came the gift: \"The unbearable pain of being born and of dying will not touch him in the least, and in no birth will his understanding fade.\" The round of birth and death kept turning, but its burning was gone. The boy passed through all those lives, and he is the one who tells this story: Kākabhuśuṇḍi, the wise crow who sings of Rāma to Garuḍa.",
+        "hi": "शिव ने गुरु की विनती मान ली, पर यह भी कहा: \"मेरा शाप व्यर्थ नहीं जाएगा। इसे हज़ार जन्म अवश्य लेने होंगे।\" हज़ार बार उसे जन्म लेना था, मरना था, और फिर जन्म लेना था।\n\nफिर वरदान आया: \"जन्मने और मरने में जो असह्य दुख होता है, वह इसे ज़रा भी नहीं व्यापेगा, और किसी भी जन्म में इसका ज्ञान नहीं मिटेगा।\" जन्म और मृत्यु का चक्र घूमता रहा, पर उसकी जलन मिट गई। वह शिष्य उन सब जन्मों से गुज़रा, और वही यह कथा सुनाता है: काकभुशुण्डि, वह ज्ञानी कौआ जो गरुड़ को राम की कथा सुनाता है।"
+      },
+      "story_citations": [
+        { "source": "ramcharitmanas", "locator": "Uttarakāṇḍa, caupāīs 3–4 after dohā 108 (gha)" }
+      ],
+      "echoes": [
+        {
+          "text": "दैहिक दैविक भौतिक तापा। राम राज नहिं काहुहि ब्यापा॥",
+          "lang": "awa",
+          "iast": "daihika daivika bhautika tāpā, rāma rāja nahiṁ kāhuhi byāpā",
+          "meaning": {
+            "en": "The pains of the body, of heaven-sent trouble and of the world around: in Rāma's kingdom none of them touched anyone.",
+            "hi": "दैहिक, दैविक और भौतिक ताप: राम-राज्य में इनमें से कोई किसी को नहीं व्यापता था।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Uttarakāṇḍa 21, caupāī 1"
+        },
+        {
+          "text": "पुनरपि जननं पुनरपि मरणं पुनरपि जननी जठरे शयनम् । इह संसारे बहुदुस्तारे कृपयाऽपारे पाहि मुरारे ॥",
+          "lang": "sa",
+          "iast": "punar api jananaṃ punar api maraṇaṃ punar api jananī jaṭhare śayanam | iha saṃsāre bahudustāre kṛpayā'pāre pāhi murāre ||",
+          "meaning": {
+            "en": "Born again, dying again, lying again in a mother's womb: in this world so hard to cross, so endless, save me in Your mercy, O Murāri.",
+            "hi": "फिर जन्म, फिर मृत्यु, फिर माँ के गर्भ में सोना: इस संसार में, जिसे पार करना बहुत कठिन है और जिसका कोई छोर नहीं, हे मुरारि, कृपा करके मेरी रक्षा करो।"
+          },
+          "source": "bhaja-govindam",
+          "locator": "verse 21"
+        }
+      ]
+    },
+    "reached-by-love": {
+      "name": { "en": "Reached by love, with empty hands", "hi": "भाव से प्राप्य, खाली हाथ" },
+      "description": {
+        "en": "Verse 5 calls Śiva [*bhāva-gamya*](#v5-a4), the one reached through love, and verse 8 shows what that means: the singer [knows no yoga, no chanting, no worship](#v8-a1), and offers only his bow and his need. The closing verse asks for the same thing: read it *bhaktyā*, with love.",
+        "hi": "पाँचवाँ श्लोक शिव को [*भाव-गम्य*](#v5-a4) कहता है, जो प्रेम से पाए जाते हैं, और आठवाँ दिखाता है कि इसका अर्थ क्या है: गाने वाला [न योग जानता है, न जप, न पूजा](#v8-a1), और केवल अपना प्रणाम और अपनी पुकार अर्पित करता है। अन्तिम श्लोक भी यही माँगता है: इसे *भक्त्या*, यानी प्रेम से, पढ़ो।"
+      },
+      "story": {
+        "en": "Gurudruha was a hunter who had never done a good deed. One day his family was hungry and he caught nothing. That night, though he did not know it, was Śivarātri. He climbed a bilva tree by a pond with a pot of water, to wait for animals coming to drink. Each time he moved to aim, a little water and a few bilva leaves fell onto a Śiva liṅga below. So, without knowing it, he worshipped Śiva all night long.\n\nA doe came, then another, then a stag, and each begged to go home first and promised to come back. He let them go. At dawn the whole deer family returned, as promised, ready to die. The hunter's heart turned, and he lowered his bow. Śiva stood before him: \"I am pleased. Ask a boon.\" He named him Guha, and said Rāma Himself would come to his house.",
+        "hi": "गुरुद्रुह एक शिकारी था जिसने कभी कोई अच्छा काम नहीं किया था। एक दिन उसका परिवार भूखा था और उसे कुछ नहीं मिला। उस रात, बिना उसके जाने, शिवरात्रि थी। वह पानी का घड़ा लेकर तालाब के किनारे एक बेल के पेड़ पर चढ़ गया, ताकि पानी पीने आने वाले जानवरों की राह देखे। जब-जब वह निशाना साधने को हिलता, थोड़ा पानी और कुछ बेलपत्र नीचे एक शिवलिंग पर गिर जाते। इस तरह, अनजाने में, वह रात भर शिव की पूजा करता रहा।\n\nएक हिरनी आई, फिर दूसरी, फिर एक हिरन, और हर एक ने पहले घर जाने की विनती की और लौटने का वचन दिया। उसने उन्हें जाने दिया। भोर को पूरा हिरन-परिवार वचन के अनुसार लौट आया, मरने को तैयार। शिकारी का मन बदल गया, और उसने धनुष नीचे कर दिया। शिव उसके सामने प्रकट हुए: \"मैं प्रसन्न हूँ। वर माँगो।\" उन्होंने उसे गुह नाम दिया, और कहा कि स्वयं राम उसके घर आएँगे।"
+      },
+      "story_citations": [
+        { "source": "shiva-purana-kotirudra-40", "locator": "Śiva Purāṇa, Koṭirudra Saṃhitā 40.4–92" }
+      ],
+      "echoes": [
+        {
+          "text": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति । तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥",
+          "lang": "sa",
+          "iast": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati | tad ahaṃ bhaktyupahṛtam aśnāmi prayatātmanaḥ ||",
+          "meaning": {
+            "en": "A leaf, a flower, a fruit, a little water: whoever offers it to Me with love, I accept that gift of love from a pure heart.",
+            "hi": "पत्ता, फूल, फल या थोड़ा जल: जो मुझे प्रेम से अर्पित करता है, उस शुद्ध मन वाले का प्रेम से दिया वह उपहार मैं स्वीकार करता हूँ।"
+          },
+          "source": "bhagavad-gita",
+          "locator": "9.26"
+        },
+        {
+          "text": "रामहि केवल प्रेमु पिआरा। जानि लेउ जो जाननिहारा॥",
+          "lang": "awa",
+          "iast": "rāmahi kevala premu piārā, jāni leu jo jānanihārā",
+          "meaning": {
+            "en": "Rāma loves love alone: let whoever can understand, understand this.",
+            "hi": "राम को केवल प्रेम प्यारा है: जो जानने वाला हो, वह यह जान ले।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Ayodhyākāṇḍa 137, caupāī 1"
+        }
+      ]
+    },
+    "phalashruti": {
+      "name": { "en": "Phalaśruti (the fruit of recitation)", "hi": "फलश्रुति (पाठ का फल)" },
+      "description": {
+        "en": "The ninth verse steps outside the hymn and speaks about it: these eight verses were spoken by [the brāhmaṇa](#v9-a1) to please Hara, and whoever reads them with love, Śambhu is pleased with them. Its last word, [*prasīdati*](#v9-a3), 'is pleased', answers the teacher's cry in verse 6, *prasīda, prasīda*.",
+        "hi": "नौवाँ श्लोक स्तोत्र से बाहर आकर उसके बारे में बोलता है: ये आठ श्लोक [ब्राह्मण](#v9-a1) ने हर को प्रसन्न करने के लिए कहे, और जो इन्हें प्रेम से पढ़ते हैं, उन पर शम्भु प्रसन्न होते हैं। इसका अन्तिम शब्द [*प्रसीदति*](#v9-a3), 'प्रसन्न होते हैं', छठे श्लोक में गुरु की पुकार *प्रसीद, प्रसीद* का उत्तर है।"
+      },
+      "story": {
+        "en": "In the Mānas the promise comes true before it is even spoken. As the teacher finished singing, all-knowing Śiva heard the prayer and saw the brāhmaṇa's love, and the voice rang through the temple once more: \"Best of brāhmaṇas, ask a boon!\"\n\n\"If You are pleased with me, Lord,\" he said, \"first give me love for Your feet. Then give me one thing more. This poor soul wanders, lost in Your illusion; don't be angry with him. Be kind, so that after the curse, grace comes soon.\" The voice answered: \"So be it. He did a terrible wrong, yet I see your goodness, and I will be especially kind to him.\"",
+        "hi": "मानस में यह वचन कहे जाने से पहले ही सच होता दिखता है। जैसे ही गुरु का गान पूरा हुआ, सर्वज्ञ शिव ने विनती सुनी और ब्राह्मण का प्रेम देखा, और मन्दिर में फिर वाणी गूँजी: \"हे द्विजश्रेष्ठ, वर माँगो!\"\n\nवे बोले, \"हे प्रभु, यदि आप मुझ पर प्रसन्न हैं, तो पहले अपने चरणों की भक्ति दीजिए। फिर एक वर और दीजिए। यह बेचारा जीव आपकी माया के वश भटकता फिरता है; इस पर क्रोध न कीजिए। कृपा कीजिए, ताकि शाप के बाद जल्दी ही अनुग्रह हो।\" वाणी ने उत्तर दिया: \"ऐसा ही हो। इसने भयानक पाप किया, फिर भी तुम्हारी साधुता देखकर मैं इस पर विशेष कृपा करूँगा।\""
+      },
+      "story_citations": [
+        { "source": "ramcharitmanas", "locator": "Uttarakāṇḍa, dohā 108 (ka–gha) and caupāīs 1–2 after it" }
+      ],
+      "echoes": [
+        {
+          "text": "रघुबंस भूषन चरित यह नर कहहिं सुनहिं जे गावहीं। कलि मल मनोमल धोइ बिनु श्रम राम धाम सिधावहीं॥",
+          "lang": "awa",
+          "iast": "raghubaṁsa bhūṣana carita yaha nara kahahiṁ sunahiṁ je gāvahīṁ, kali mala manomala dhoi binu śrama rāma dhāma sidhāvahīṁ",
+          "meaning": {
+            "en": "Those who tell, hear or sing this story of the jewel of Raghu's line wash away the dirt of this dark age and of their own minds, and reach Rāma's home without toil.",
+            "hi": "जो लोग रघुवंश के भूषण श्रीराम का यह चरित कहते, सुनते या गाते हैं, वे कलियुग के और अपने मन के मैल को धोकर बिना परिश्रम राम के धाम पहुँच जाते हैं।"
+          },
+          "source": "ramcharitmanas",
+          "locator": "Uttarakāṇḍa, closing chand before dohā 130 (the end of the Mānas)"
+        },
+        {
+          "text": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः। ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः॥",
+          "lang": "sa",
+          "iast": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādam āvayoḥ | jñānayajñena tenāham iṣṭaḥ syām iti me matiḥ ||",
+          "meaning": {
+            "en": "Whoever studies this sacred talk of ours worships me with the offering of knowledge: that is my word.",
+            "hi": "जो हमारे इस धर्ममय संवाद का अध्ययन करेगा, वह ज्ञान-यज्ञ से मेरी पूजा करेगा: यह मेरा मत है।"
+          },
+          "source": "bhagavad-gita",
+          "locator": "18.70"
+        },
+        {
+          "text": "इमं हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवं पठन् स्मरन्ब्रुवन्नरो विशुद्धिमेति सन्ततम् । हरे गुरौ सुभक्तिमाशु याति नान्यथा गतिं",
+          "lang": "sa",
+          "iast": "imaṃ hi nityam evam uktam uttamottamaṃ stavaṃ paṭhan smaran bruvan naro viśuddhim eti santatam | hare gurau subhaktim āśu yāti nānyathā gatiṃ",
+          "meaning": {
+            "en": "Whoever reads, remembers or recites this finest of hymns every day, just as it has been spoken, grows ever purer, and soon finds deep love for Hara, the teacher; there is no other way.",
+            "hi": "जो व्यक्ति इस श्रेष्ठ स्तुति को, जैसी कही गई है वैसी ही, रोज़ पढ़ता, याद करता या बोलता है, वह सदा पवित्र होता जाता है, और जल्दी ही गुरु रूप हर में गहरी भक्ति पाता है; इसके सिवा कोई और गति नहीं।"
+          },
+          "source": "shiva-tandava",
+          "locator": "verse 16"
+        }
+      ]
+    }
+  },
+  "new_sources": [
+    {
+      "id": "ramayana-bala-1-43",
+      "name": "Vālmīki Rāmāyaṇa, Bāla Kāṇḍa 43",
+      "kind": "text",
+      "ancient": true,
+      "note": "Theme story (Gaṅgā on Śiva's head): 1.43.1–14 checked against the Sanskrit Wikisource text, 2026-11-24; no translation fetched. Confirm against a printed edition before review."
+    },
+    {
+      "id": "linga-purana-1-30",
+      "name": "Liṅga Purāṇa 1.30",
+      "kind": "text",
+      "ancient": true,
+      "note": "Theme story (the sage Śveta and Death): 1.30.1–31 checked against the Sanskrit Wikisource text, 2026-11-24. The text calls Śveta a sage whose life had run out (gatāyuḥ), not a boy. Confirm against a printed edition before review."
+    },
+    {
+      "id": "linga-purana-1-17",
+      "name": "Liṅga Purāṇa 1.17",
+      "kind": "text",
+      "ancient": true,
+      "note": "Theme story (the pillar of fire) carried over from this library's Vedasāra theme card, where it was checked against an online e-text on 2026-11-21; not re-checked on 2026-11-24."
+    },
+    {
+      "id": "bhagavata-purana",
+      "name": "Bhāgavata Purāṇa",
+      "kind": "text",
+      "ancient": true,
+      "note": "Theme story (Nīlakaṇṭha) carried over from this library's Vedasāra card. On 2026-11-24, 8.7.37–38 (Śiva's words to Bhavānī) were seen in the Sanskrit Wikisource text; the snake-rope detail is told from memory. Confirm against a printed edition before review."
+    },
+    {
+      "id": "shiva-purana-kotirudra-40",
+      "name": "Śiva Purāṇa, Koṭirudra Saṃhitā 40",
+      "kind": "text",
+      "ancient": true,
+      "note": "Theme story (the hunter Gurudruha on Śivarātri): 40.4–94 checked against the Sanskrit Wikisource text, 2026-11-24; no translation fetched. Confirm against a printed edition before review."
+    },
+    {
+      "id": "kumarasambhava",
+      "name": "Kālidāsa, Kumārasambhava",
+      "kind": "text",
+      "ancient": true,
+      "note": "3.72 and 5.79 checked against the Sanskrit Wikisource text, 2026-11-24. Confirm against a printed edition before review."
+    },
+    {
+      "id": "shvetashvatara-upanishad",
+      "name": "Śvetāśvatara Upaniṣad",
+      "kind": "text",
+      "ancient": true,
+      "note": "6.11 and 6.23 checked against the Sanskrit Wikisource text, 2026-11-24. Confirm against a printed edition before review."
+    },
+    {
+      "id": "nirvana-shatkam",
+      "name": "Nirvāṇa Ṣaṭkam",
+      "kind": "text",
+      "ancient": true,
+      "note": "Verse 1 checked against the Sanskrit Wikisource text, 2026-11-24. Confirm against a printed edition before review."
+    },
+    {
+      "id": "rigveda",
+      "name": "Ṛgveda Saṃhitā",
+      "kind": "text",
+      "ancient": true,
+      "note": "7.59.12 checked against the Sanskrit Wikisource text of sūkta 7.59 (accents dropped), 2026-11-24. Confirm against a printed edition before review."
+    },
+    {
+      "id": "bhagavad-gita",
+      "name": "Bhagavad Gītā",
+      "kind": "text",
+      "ancient": true,
+      "note": "9.26, 11.32 (first half) and 18.70 checked against an online edition, 2026-11-24. Confirm against a printed edition before review."
+    },
+    {
+      "id": "meghaduta",
+      "name": "Kālidāsa, Meghadūta",
+      "kind": "text",
+      "ancient": true,
+      "note": "Pūrvamegha 1.37 checked against the Sanskrit Wikisource text, 2026-11-24 (verse numbers differ between editions: 1.34–1.37). Confirm against a printed edition before review."
+    },
+    {
+      "id": "taittiriya-samhita",
+      "name": "Taittirīya Saṃhitā (Śrī Rudram, 4.5)",
+      "kind": "text",
+      "ancient": true,
+      "note": "4.5.5 line checked against the unaccented Sanskrit Wikisource text, 2026-11-24. Confirm against a printed edition before review."
+    },
+    {
+      "id": "guru-gita",
+      "name": "Guru Gītā",
+      "kind": "text",
+      "ancient": true,
+      "note": "The verse checked against the Sanskrit Wikisource text of the Guru Gītā, where it is numbered 58, 2026-11-24; verse numbers differ between printings. Confirm against a printed edition before review."
+    },
+    {
+      "id": "bhaja-govindam",
+      "name": "Bhaja Govindam (Mohamudgara)",
+      "kind": "text",
+      "ancient": true,
+      "note": "Verse 21 checked against the Sanskrit Wikisource text, 2026-11-24. Confirm against a printed edition before review."
+    },
+    {
+      "id": "shiva-panchakshara",
+      "name": "Śiva Pañcākṣara Stotra (text as established in this library)",
+      "kind": "text",
+      "ancient": true,
+      "note": "Verse 1 copied from this library's shiva-panchakshara-stotram.json and matched against the Sanskrit Wikisource text, 2026-11-24."
+    },
+    {
+      "id": "shiva-tandava",
+      "name": "Śiva Tāṇḍava Stotra (text as established in this library)",
+      "kind": "text",
+      "ancient": true,
+      "note": "Verse 16, lines 1–3, copied from this library's shiva-tandava-stotram.json, 2026-11-24."
+    }
+  ],
+  "source_updates": {
+    "ramcharitmanas": {
+      "name": "Tulsīdās, Rāmcaritmānas",
+      "kind": "text",
+      "ancient": true,
+      "note": "The frame story (Uttarakāṇḍa 104 kha – 109) and the Mānas lines on the theme cards (Bālakāṇḍa so. 5, 83–87, 92–98, 116.1; Ayodhyākāṇḍa 137.1; Kiṣkindhākāṇḍa so. 2; Uttarakāṇḍa 21.1, the closing chand before 130) checked against the archive.org OCR text of the Gita Press edition, 2026-11-24, with obvious OCR slips corrected (सिर्वे → सिवँ, लेड → लेउ, बूंद → बृंद, देहिक → दैहिक; the Gita Press 1939 OCR agrees on लेउ). Confirm against the page images before review.",
+      "_why": "The existing record names only Uttarakāṇḍa 104–108; the theme cards cite other kāṇḍas too."
+    }
+  },
+  "verse_concepts": {
+    "v1": ["teachers-plea", "nirguna", "ash-and-sky-clad"],
+    "v2": ["nirguna", "kala-kala"],
+    "v3": ["saguna-shiva", "kama-dahana", "teachers-plea"],
+    "v4": ["saguna-shiva", "nilakantha", "ash-and-sky-clad"],
+    "v5": ["saguna-shiva", "nirguna", "three-pains", "reached-by-love"],
+    "v6": ["teachers-plea", "nirguna", "kala-kala", "kama-dahana"],
+    "v7": ["teachers-plea", "three-pains", "nirguna"],
+    "v8": ["teachers-plea", "reached-by-love", "three-pains"],
+    "v9": ["teachers-plea", "reached-by-love", "phalashruti"]
+  },
+  "about": {
+    "en": "A hymn sung for someone else. In the *Rāmcaritmānas*, a proud pupil stays seated when his teacher walks into Śiva's temple, and Śiva curses him to become a snake. The teacher lies full length on the floor and sings these eight verses, so the hymn's first word, \"I bow\", is [the very bow the pupil refused](#v1-a1).\n\nThe verses come down from the sky to the ground. They begin with the Lord who has no qualities and no form, then paint Him for the eye, white as a snowy mountain and glowing like [ten million gods of love](#v3-a1), and then say how such a Lord is reached: [through love](#v5-a4).\n\nAt the end the singer lets go of every claim: [no yoga, no chanting, no worship](#v8-a1), only a bow, always. The closing verse says Śambhu is pleased with all who read it with love, and in the story [He is](#v9-a3). Tulsīdās wrote his Mānas in Avadhi, but he set this prayer in Sanskrit, to a rolling, snake-like beat.",
+    "hi": "किसी दूसरे के लिए गाया गया स्तोत्र। *रामचरितमानस* में एक अभिमानी शिष्य शिव-मन्दिर में गुरु के आने पर बैठा ही रह जाता है, और शिव उसे साँप बनने का शाप देते हैं। गुरु धरती पर दण्डवत् लेटकर ये आठ श्लोक गाते हैं, इसलिए स्तोत्र का पहला शब्द, \"मैं प्रणाम करता हूँ\", [वही प्रणाम है जो शिष्य ने नहीं किया](#v1-a1)।\n\nश्लोक आकाश से धरती की ओर उतरते हैं। वे उन प्रभु से शुरू होते हैं जिनका न कोई गुण है न रूप, फिर उन्हें आँखों के लिए चित्रित करते हैं, हिम-पर्वत जैसे उजले और [करोड़ों कामदेवों](#v3-a1) जैसी आभा वाले, और फिर बताते हैं कि ऐसे प्रभु तक पहुँचा कैसे जाता है: [प्रेम से](#v5-a4)।\n\nअन्त में गाने वाला हर दावा छोड़ देता है: [न योग, न जप, न पूजा](#v8-a1), बस प्रणाम, सदा। अन्तिम श्लोक कहता है कि जो इसे प्रेम से पढ़ते हैं उन पर शम्भु प्रसन्न होते हैं, और कथा में [वे होते हैं](#v9-a3)। तुलसीदास ने मानस अवधी में लिखा, पर यह प्रार्थना संस्कृत में, साँप की तरह लहराती लय में, रची।"
+  },
+  "faq": [
+    {
+      "id": "meaning",
+      "q": { "en": "What is the meaning of the Rudrashtakam?", "hi": "रुद्राष्टकम् का अर्थ क्या है?" },
+      "a": {
+        "en": "*Rudrāṣṭakam* means \"eight verses to Rudra\", that is, to Śiva. The first two praise Him beyond every quality and form; the next two paint Him as the eye sees Him, snow-white, the Gaṅgā on His head, a blue throat and a glad face; the middle verses call Him the one reached through love and ask Him to be pleased; the eighth is a humble cry: \"I know no yoga, no chanting, no worship; protect me, Lord.\" A ninth verse closes the hymn.",
+        "hi": "*रुद्राष्टकम्* का अर्थ है \"रुद्र अर्थात् शिव के लिए आठ श्लोक\"। पहले दो उनकी स्तुति हर गुण और रूप से परे के रूप में करते हैं; अगले दो उन्हें वैसे चित्रित करते हैं जैसे आँखें देखती हैं, हिम जैसे उजले, सिर पर गंगा, नीला कण्ठ और प्रसन्न मुख; बीच के श्लोक उन्हें प्रेम से पाए जाने वाला कहते हैं और प्रसन्न होने की विनती करते हैं; आठवाँ एक विनम्र पुकार है: \"मैं न योग जानता हूँ, न जप, न पूजा; हे प्रभु, मेरी रक्षा करो।\" एक नौवाँ श्लोक स्तोत्र को पूरा करता है।"
+      }
+    },
+    {
+      "id": "who-wrote",
+      "q": { "en": "Who wrote the Rudrashtakam?", "hi": "रुद्राष्टकम् किसने लिखा?" },
+      "a": {
+        "en": "Gosvāmī Tulsīdās. It is part of his *Rāmcaritmānas*, in the Uttarakāṇḍa, right after dohā 107. Inside the story it is sung by a Śiva-worshipping brāhmaṇa, which is why the closing verse says it was \"spoken by the brāhmaṇa\".",
+        "hi": "गोस्वामी तुलसीदास ने। यह उनके *रामचरितमानस* के उत्तरकाण्ड में, दोहा 107 के ठीक बाद आता है। कथा के भीतर इसे शिव की उपासना करने वाले एक ब्राह्मण गाते हैं, इसीलिए अन्तिम श्लोक कहता है कि यह \"ब्राह्मण द्वारा कहा गया\"।"
+      }
+    },
+    {
+      "id": "story",
+      "q": { "en": "What is the story behind the Rudrashtakam?", "hi": "रुद्राष्टकम् के पीछे की कथा क्या है?" },
+      "a": {
+        "en": "Kākabhuśuṇḍi, the wise crow, tells it about his own earlier life. As a young man in Ujjain he was chanting in Śiva's temple when his teacher came in, and out of pride he did not rise to bow. Śiva's voice cursed him to become a snake. His teacher, who felt no anger at all, lay down before Śiva and sang this hymn ([the story](#v1-a1)). Śiva was pleased: the curse stayed, but He promised that the pain of birth and death would not touch the boy.",
+        "hi": "ज्ञानी कौआ काकभुशुण्डि इसे अपने पिछले जन्म की बात के रूप में सुनाते हैं। उज्जैन में युवावस्था में वे शिव-मन्दिर में जप कर रहे थे, तभी उनके गुरु आए, और अभिमान में उन्होंने उठकर प्रणाम नहीं किया। शिव की वाणी ने उन्हें साँप बनने का शाप दिया। उनके गुरु, जिनके मन में ज़रा भी क्रोध नहीं था, शिव के सामने लेट गए और यह स्तोत्र गाया ([कथा](#v1-a1))। शिव प्रसन्न हुए: शाप बना रहा, पर उन्होंने वचन दिया कि जन्म और मृत्यु का दुख उस शिष्य को नहीं व्यापेगा।"
+      }
+    },
+    {
+      "id": "sanskrit-or-hindi",
+      "q": { "en": "Is the Rudrashtakam in Sanskrit or Hindi?", "hi": "रुद्राष्टकम् संस्कृत में है या हिन्दी में?" },
+      "a": {
+        "en": "Sanskrit, though it sits inside a work in Avadhi, an old form of Hindi. A few forms show the poet's Hindi ear, such as *purārī* and *manmathārī* where textbook Sanskrit would end differently, chosen so that the lines ring alike ([see the note](#v6-a3)).",
+        "hi": "संस्कृत में, यद्यपि यह अवधी, यानी हिन्दी के एक पुराने रूप, में लिखे ग्रन्थ के भीतर है। कुछ रूपों में कवि का हिन्दी वाला कान दिखता है, जैसे *पुरारी* और *मन्मथारी*, जहाँ व्याकरण की पुस्तकों वाली संस्कृत का अन्त अलग होता, ताकि पंक्तियाँ एक जैसी गूँजें ([टिप्पणी देखें](#v6-a3))।"
+      }
+    },
+    {
+      "id": "namami-shamishan",
+      "q": { "en": "What does \"Namami Shamishan Nirvan Roopam\" mean?", "hi": "\"नमामीशमीशान निर्वाणरूपं\" का अर्थ क्या है?" },
+      "a": {
+        "en": "It is the hymn's opening: *namāmi īśam īśāna nirvāṇa-rūpaṃ*, \"I bow to the Lord, O Īśāna, whose very form is liberation.\" *Īśa* and *Īśāna* are both names for Śiva as Lord; the line is printed with a pause after *Īśāna*, so the singer calls Him by name ([see the note](#v1-a2)).",
+        "hi": "यह स्तोत्र की शुरुआत है: *नमामि ईशम् ईशान निर्वाणरूपं*, \"हे ईशान, मैं उन प्रभु को प्रणाम करता हूँ जिनका स्वरूप ही मुक्ति है।\" *ईश* और *ईशान* दोनों शिव के स्वामी रूप के नाम हैं; पंक्ति में *ईशान* के बाद ठहराव छपा है, इसलिए गाने वाला उन्हें नाम लेकर पुकारता है ([टिप्पणी देखें](#v1-a2))।"
+      }
+    },
+    {
+      "id": "when-to-recite",
+      "q": { "en": "When should the Rudrashtakam be recited?", "hi": "रुद्राष्टकम् का पाठ कब करना चाहिए?" },
+      "a": {
+        "en": "The hymn sets no time or rule. Its closing verse asks only one thing of the reader: to read it *bhaktyā*, with love. Many people sing it in the month of Sāvan and on Mahāśivarātri.",
+        "hi": "स्तोत्र कोई समय या नियम नहीं बताता। उसका अन्तिम श्लोक पढ़ने वाले से बस एक बात माँगता है: इसे *भक्त्या*, यानी प्रेम से, पढ़ो। बहुत से लोग इसे सावन के महीने में और महाशिवरात्रि पर गाते हैं।"
+      }
+    }
+  ],
+  "credits": [
+    {
+      "role": "composer",
+      "value": { "en": "Gosvāmī Tulsīdās", "hi": "गोस्वामी तुलसीदास" },
+      "note": {
+        "en": "Part of his *Rāmcaritmānas*, Uttarakāṇḍa, right after dohā 107. In the story it is sung by a Śiva-worshipping brāhmaṇa for his cursed pupil, which is why the closing verse says it was \"spoken by the brāhmaṇa\".",
+        "hi": "उनके *रामचरितमानस* के उत्तरकाण्ड का भाग, दोहा 107 के ठीक बाद। कथा में इसे शिव के उपासक एक ब्राह्मण अपने शापित शिष्य के लिए गाते हैं, इसीलिए अन्तिम श्लोक कहता है कि यह \"ब्राह्मण द्वारा कहा गया\"।"
+      },
+      "sources": ["ramcharitmanas", "gitapress-ramcharitmanas", "kashiraj-ramcharitmanas", "belvedere-1926-ramcharitmanas"]
+    },
+    {
+      "role": "text",
+      "value": {
+        "en": "Eight verses and a closing verse, as printed in three editions of the Mānas",
+        "hi": "आठ श्लोक और एक अन्तिम श्लोक, मानस के तीन संस्करणों में छपे पाठ के अनुसार"
+      },
+      "note": {
+        "en": "Every printing compared has the same nine verses and almost the same words. Where a space changes the sense, the text follows most printings: *īśāna* stands apart in verse 1 ([see the note](#v1-a2)), and verse 7 reads *śānti santāpa-nāśaṃ*, \"peace, an end to torment\" ([see the note](#v7-a3)).",
+        "hi": "तुलना की गई हर छपाई में वही नौ श्लोक और लगभग वही शब्द हैं। जहाँ एक खाली जगह से अर्थ बदलता है, वहाँ पाठ ज़्यादातर छपाइयों के साथ है: पहले श्लोक में *ईशान* अलग है ([टिप्पणी देखें](#v1-a2)), और सातवें में *शान्ति सन्तापनाशं*, \"शान्ति, कष्ट का अन्त\" ([टिप्पणी देखें](#v7-a3))।"
+      },
+      "sources": ["gitapress-ramcharitmanas", "kashiraj-ramcharitmanas", "belvedere-1926-ramcharitmanas", "sanskritdocuments-rudra8", "greenmesg-rudrashtakam", "shlokam-rudrashtakam"]
+    },
+    {
+      "role": "meter",
+      "value": {
+        "en": "Bhujaṅgaprayāta (verses 1–8); anuṣṭubh (verse 9)",
+        "hi": "भुजङ्गप्रयात (श्लोक 1–8); अनुष्टुप् (श्लोक 9)"
+      },
+      "note": {
+        "en": "The first line of verse 7 does not keep the beat in any printing: read straight through, *yāvad umā-* turns one long step short. Most printings leave a gap after *yāvad*, which asks for a pause ([see the note](#v7-a1)).",
+        "hi": "सातवें श्लोक की पहली पंक्ति किसी भी छपाई में लय पर पूरी नहीं बैठती: लगातार पढ़ने पर *यावद् उमा-* में एक लम्बा कदम छोटा हो जाता है। ज़्यादातर छपाइयाँ *यावद्* के बाद जगह छोड़ती हैं, जो ठहरने को कहती है ([टिप्पणी देखें](#v7-a1))।"
+      },
+      "sources": ["belvedere-1926-ramcharitmanas", "stotram-text"]
+    },
+    {
+      "role": "language",
+      "value": { "en": "Sanskrit (within an Avadhi work)", "hi": "संस्कृत (अवधी ग्रन्थ के भीतर)" }
+    }
+  ],
+  "relationships": [
+    {
+      "type": "same-deity",
+      "target": "shiva-tandava-stotram",
+      "name": { "en": "Shiva Tandava Stotram", "hi": "शिव ताण्डव स्तोत्र" },
+      "note": {
+        "en": "Both have a story: the Tāṇḍava is told as Rāvaṇa's song under the mountain, the Rudrāṣṭakam as a teacher's prayer for his pupil. Both see the Gaṅgā rolling on Śiva's head and the young moon on His brow, and both burn Kāma; the Tāṇḍava thunders with Śiva's dance, the Rudrāṣṭakam ends in a quiet bow.",
+        "hi": "दोनों के पीछे एक कथा है: ताण्डव को पर्वत के नीचे दबे रावण का गान माना जाता है, रुद्राष्टकम् अपने शिष्य के लिए एक गुरु की प्रार्थना है। दोनों शिव के सिर पर उमड़ती गंगा और ललाट पर नया चाँद देखते हैं, और दोनों में कामदहन है; ताण्डव शिव के नृत्य से गरजता है, रुद्राष्टकम् एक शान्त प्रणाम पर पूरा होता है।"
+      }
+    },
+    {
+      "type": "same-deity",
+      "target": "vedasara-shiva-stava",
+      "name": { "en": "Vedasara Shiva Stava", "hi": "वेदसार शिव स्तव" },
+      "note": {
+        "en": "Close cousins: both roll along in the same snake-like *bhujaṅgaprayāta* beat, and both move between Śiva with form and Śiva beyond form, the root of Om and the Fourth. The Vedasāra climbs from the picture to the formless; the Rudrāṣṭakam starts with the formless and comes down to the picture.",
+        "hi": "निकट के सम्बन्धी: दोनों एक ही साँप जैसी लहराती *भुजङ्गप्रयात* लय में चलते हैं, और दोनों साकार शिव और रूप से परे शिव, ॐ के मूल और तुरीय, के बीच आते-जाते हैं। वेदसार चित्र से निराकार की ओर चढ़ता है; रुद्राष्टकम् निराकार से शुरू होकर चित्र तक उतरता है।"
+      }
+    },
+    {
+      "type": "same-deity",
+      "target": "kalabhairava-ashtakam",
+      "name": { "en": "Kalabhairava Ashtakam", "hi": "कालभैरवाष्टकम्" },
+      "note": {
+        "en": "Both are eight verses with a ninth on the fruit of reciting, and both sing of the Lord who is Death even to Death: the Kālabhairava hymn names Him *Kālakāla*, the Rudrāṣṭakam *Mahākālakāla*.",
+        "hi": "दोनों में आठ श्लोक हैं और पाठ के फल पर एक नौवाँ, और दोनों उन प्रभु को गाते हैं जो काल के भी काल हैं: कालभैरवाष्टकम् उन्हें *कालकाल* कहता है, रुद्राष्टकम् *महाकालकाल*।"
+      }
+    },
+    {
+      "type": "same-deity",
+      "target": "shiva-panchakshara-stotram",
+      "name": { "en": "Shiva Panchakshara Stotram", "hi": "शिव पञ्चाक्षर स्तोत्र" },
+      "note": {
+        "en": "Both bow to the sky-clad Lord with a snake at His throat. The Pañcākṣara builds its praise letter by letter on *namaḥ śivāya*; the Rudrāṣṭakam builds it bow by bow, *namāmi*, *nato'ham*, *bhaje*.",
+        "hi": "दोनों उन दिगम्बर प्रभु को प्रणाम करते हैं जिनके गले में साँप है। पञ्चाक्षर अपनी स्तुति *नमः शिवाय* के अक्षर-अक्षर पर रचता है; रुद्राष्टकम् प्रणाम-प्रणाम पर, *नमामि*, *नतोऽहं*, *भजे*।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "de4a9ad32c04d011",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a3.citations",
+      "message": "a3 says 'the other three end the hymn with verse 5' and cites vanivilas-1910-works-17, sringeri-shiva-panchakshara and stotranidhi-shiva-panchakshara. None of these three has an excerpt file in v6/sources/, and none of the citations carries a quote. The only support is text-report.md. Separately, the note calls all six witnesses 'printed texts', but text-report.md lists A (sanskritdocuments.org) and E (sringeri.net) as websites, so that wording goes further than the source.",
+      "suggested_fix": "Save short v6 excerpts for B, E and F that record the hymn ending after v5 with a colophon (or cite text-report.md as the locator). Change 'Three of the six printed texts compared' to 'Three of the six texts compared' (hi: keep 'छह पाठों')."
+    }
+  ]
+}

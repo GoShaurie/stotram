@@ -1,0 +1,1647 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Ādi Śaṅkarācārya.",
+      "hi": "परम्परा से आदि शंकराचार्य द्वारा रचित माना जाता है।"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-vedasarast",
+        "name": "sanskritdocuments.org — Vedasara Shiva Stotram (vedasarast.itx); read from the Wayback copy of 2025-07-22",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250722112755/https://sanskritdocuments.org/doc_shiva/vedasarast.html"
+      },
+      {
+        "id": "shlokam-vedasara-shiva-stava",
+        "name": "shlokam.org — Vedasara Shiva Stava (English translation and word meanings; Devanagari copies sanskritdocuments)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/vedasara-shiva-stava.htm"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. 71–73",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n82/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, pp. 464–465; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/464/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 26–29, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 52–55, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "brihat-stotra-ratnakar-wikisource",
+        "name": "बृहत्स्तोत्ररत्नाकर (Bṛhatstotraratnākara) vol. 1 (1953), pp. 251–252, as transcribed on Sanskrit Wikisource",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/वेदसारशिवस्तवः"
+      },
+      {
+        "id": "mw-jatajuta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jaṭājūṭa' (SLP1 key: jawAjUwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jawAjUwa"
+      },
+      {
+        "id": "mw-eka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'eka' (SLP1 key: eka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=eka"
+      },
+      {
+        "id": "mw-jata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jaṭā' (SLP1 key: jawA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jawA"
+      },
+      {
+        "id": "mw-juta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jūṭa' (SLP1 key: jUwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jUwa"
+      },
+      {
+        "id": "mw-mahesha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśa' (SLP1 key: maheSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSa"
+      },
+      {
+        "id": "mw-prabhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prabhu' (SLP1 key: praBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=praBu"
+      },
+      {
+        "id": "mw-vishva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśva' (SLP1 key: viSva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSva"
+      },
+      {
+        "id": "kurma-purana-2-5",
+        "name": "Kūrma Purāṇa 2.5 (Īśvara Gītā)",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "ramayana-bala-1-43",
+        "name": "Vālmīki Rāmāyaṇa, Bāla Kāṇḍa 43",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mahanarayana-upanishad-17-23",
+        "name": "Mahānārāyaṇa Upaniṣad 17–23",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "shvetashvatara-upanishad",
+        "name": "Śvetāśvatara Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mw-rupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rūpa' (SLP1 key: rUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rUpa"
+      },
+      {
+        "id": "mw-dharin",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhārin' (SLP1 key: DArin)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DArin"
+      },
+      {
+        "id": "mw-kanta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kānta' (SLP1 key: kAnta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAnta"
+      },
+      {
+        "id": "mw-maheshana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśāna' (SLP1 key: maheSAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSAna"
+      },
+      {
+        "id": "mw-purna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pūrṇa' (SLP1 key: pUrRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pUrRa"
+      },
+      {
+        "id": "mw-shashankardha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śaśāṅkārdha' (SLP1 key: SaSANkArDa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SaSANkArDa"
+      },
+      {
+        "id": "mw-shiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śivā' (SLP1 key: SivA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SivA"
+      },
+      {
+        "id": "mw-shulin",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūlin' (SLP1 key: SUlin)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUlin"
+      },
+      {
+        "id": "mw-vishvarupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśvarūpa' (SLP1 key: viSvarUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSvarUpa"
+      },
+      {
+        "id": "mw-jagat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jagat' (SLP1 key: jagat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jagat"
+      },
+      {
+        "id": "mw-mauli",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mauli' (SLP1 key: mOli)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mOli"
+      },
+      {
+        "id": "mw-prasad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prasad' (SLP1 key: prasad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prasad"
+      },
+      {
+        "id": "mw-shambhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śambhu' (SLP1 key: SamBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SamBu"
+      },
+      {
+        "id": "mw-shashanka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śaśāṅka' (SLP1 key: SaSANka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SaSANka"
+      },
+      {
+        "id": "mw-tvad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tvad' (SLP1 key: tvad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tvad"
+      },
+      {
+        "id": "mw-vyapaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vyāpaka' (SLP1 key: vyApaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vyApaka"
+      },
+      {
+        "id": "mw-ishana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśāna' (SLP1 key: ISAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISAna"
+      },
+      {
+        "id": "mw-prasada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prasāda' (SLP1 key: prasAda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prasAda"
+      },
+      {
+        "id": "mw-sad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sad' (SLP1 key: sad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sad"
+      },
+      {
+        "id": "mw-shasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śaśa' (SLP1 key: SaSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SaSa"
+      },
+      {
+        "id": "mw-shula",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūla' (SLP1 key: SUla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUla"
+      },
+      {
+        "id": "mw-vyap",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vyāp' (SLP1 key: vyAp)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vyAp"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v4",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "शिवाकान्त",
+            "iast": "śivākānta"
+          },
+          {
+            "id": "w2",
+            "text": "शम्भो",
+            "iast": "śambho"
+          },
+          {
+            "id": "w3",
+            "text": "शशाङ्कार्धमौले",
+            "iast": "śaśāṅkārdhamaule"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "महेशान",
+            "iast": "maheśāna"
+          },
+          {
+            "id": "w5",
+            "text": "शूलिन्",
+            "iast": "śūlin"
+          },
+          {
+            "id": "w6",
+            "text": "जटाजूटधारिन्",
+            "iast": "jaṭājūṭadhārin"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "त्वमेको",
+            "iast": "tvameko"
+          },
+          {
+            "id": "w8",
+            "text": "जगद्व्यापको",
+            "iast": "jagadvyāpako"
+          },
+          {
+            "id": "w9",
+            "text": "विश्वरूपः",
+            "iast": "viśvarūpaḥ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w10",
+            "text": "प्रसीद",
+            "iast": "prasīda"
+          },
+          {
+            "id": "w11",
+            "text": "प्रसीद",
+            "iast": "prasīda"
+          },
+          {
+            "id": "w12",
+            "text": "प्रभो",
+            "iast": "prabho"
+          },
+          {
+            "id": "w13",
+            "text": "पूर्णरूप",
+            "iast": "pūrṇarūpa"
+          }
+        ],
+        "end": "॥ ४ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w3",
+          "w4",
+          "w5",
+          "w6"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "Sages once saw this very figure in the sky. The Kūrma Purāṇa tells how they looked up and saw Rudra with matted locks, half a moon as His crest and a trident held in His great hand: the same three marks this verse calls out.\n\nThen the vision grows. The same passage says He stood filling the whole cosmic egg with His own light. The verse takes the same path: from the figure with moon and trident to the One who fills the world.",
+          "hi": "ऋषियों ने एक बार यही रूप आकाश में देखा था। कूर्म पुराण बताता है कि उन्होंने ऊपर देखा और रुद्र को पाया: जटाधारी, आधा चन्द्रमा जिनका शिरोभूषण है, और जिनके बड़े हाथ में त्रिशूल है। यही तीन चिह्न यह श्लोक पुकारता है।\n\nफिर दर्शन बढ़ता जाता है। वही प्रसंग कहता है कि वे अपने ही तेज से पूरे ब्रह्माण्ड को भरकर खड़े थे। श्लोक भी यही राह लेता है: चन्द्र और त्रिशूल वाले रूप से उस एक तक, जो सारे जगत् को भरता है।"
+        },
+        "citations": [
+          {
+            "source": "kurma-purana-2-5",
+            "locator": "Kūrma Purāṇa 2.5.7",
+            "quote": "tameva mocakaṃ rudramākāśe dadṛśuḥ param"
+          },
+          {
+            "source": "kurma-purana-2-5",
+            "locator": "Kūrma Purāṇa 2.5.8",
+            "quote": "jaṭilaṃ candrārdhakṛtaśekharam"
+          },
+          {
+            "source": "kurma-purana-2-5",
+            "locator": "Kūrma Purāṇa 2.5.9",
+            "quote": "śūlāsaktamahākaram"
+          },
+          {
+            "source": "kurma-purana-2-5",
+            "locator": "Kūrma Purāṇa 2.5.10",
+            "quote": "brahmāṇḍaṃ tejasā svena sarvamāvṛtya ca sthitam"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w7",
+          "w8"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "After six names comes a plain statement: *tvam ekaḥ*, You are the One. Verse 1 already called Him [*ekam*](#v1-a2); here the One is also *vyāpaka*, the one who spreads through the whole world.\n\nThe words echo the Śvetāśvatara Upaniṣad, which says there is one Rudra, with no second beside Him, and one God hidden in all beings, *sarva-vyāpī*, spreading through all. The hymn that calls itself the essence of the Veda here repeats the Veda's own idea of the One who fills all.",
+          "hi": "छह नामों के बाद एक सीधा कथन आता है: *त्वम् एकः*, आप ही एक हैं। पहले श्लोक ने उन्हें [*एकम्*](#v1-a2) कहा था; यहाँ वह एक *व्यापक* भी है, जो सारे जगत् में फैला है।\n\nये शब्द श्वेताश्वतर उपनिषद् की गूँज हैं, जो कहता है कि रुद्र एक ही हैं, उनके साथ कोई दूसरा नहीं, और एक ही देव सब प्राणियों में छिपे हैं, *सर्वव्यापी*, सबमें फैले हुए। जो स्तोत्र स्वयं को वेदों का सार कहता है, वह यहाँ वेद का ही विचार दोहराता है: वह एक, जो सबमें व्याप्त है।"
+        },
+        "citations": [
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 3.2",
+            "quote": "एको हि रुद्रो न द्वितीयाय"
+          },
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 6.11",
+            "quote": "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा"
+          },
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 3.11",
+            "quote": "सर्वव्यापी स भगवान्"
+          },
+          {
+            "source": "mw-vyapaka",
+            "locator": "MW vyāpaka, p. 1037",
+            "quote": "pervading, diffusive, comprehensive, widely spreading or extending"
+          },
+          {
+            "source": "mw-eka",
+            "locator": "MW eka, p. 227",
+            "quote": "alone, solitary, single"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w9"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "A statement, or one more call? Some printings read *viśvarūpaḥ*: You alone, spreading through the world, *are* the one whose form is the universe. Others print *viśvarūpa*, one more name in the string of calls: 'O You whose form is the universe!'\n\nEither way it is an old Vedic name. The Mahānārāyaṇa Upaniṣad bows to Him with it: *viśvarūpāya vai namo namaḥ*, salutation again and again to Him whose form is everything.",
+          "hi": "एक कथन, या एक और पुकार? कुछ मुद्रित पाठों में *विश्वरूपः* है: एकमात्र आप ही, जगत् में फैले हुए, वह *हैं* जिनका रूप सारा विश्व है। दूसरे पाठों में *विश्वरूप* है, पुकारों की लड़ी में एक और नाम: 'हे विश्वरूप!'\n\nदोनों तरह यह एक प्राचीन वैदिक नाम है। महानारायण उपनिषद् इसी नाम से उन्हें प्रणाम करता है: *विश्वरूपाय वै नमो नमः*, उन्हें बार-बार नमस्कार, जिनका रूप सब कुछ है।"
+        },
+        "citations": [
+          {
+            "source": "sanskritdocuments-vedasarast",
+            "locator": "verse ॥ ४॥",
+            "quote": "त्वमेको जगद्व्यापको विश्वरूपः"
+          },
+          {
+            "source": "vanivilas-1910-works-17",
+            "locator": "p. 72, verse ॥ ४ ॥",
+            "quote": "त्वमेको जगद्व्यापको विश्वरूपः"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 464, verse ॥ ४ ॥",
+            "quote": "त्वमेको जगद्व्यापको विश्वरूपः"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 27, verse ॥ ४ ॥",
+            "quote": "त्वमेको जगद्व्यापको विश्वरूप"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 27, Hindi translation",
+            "quote": "हे विश्वरूप!"
+          },
+          {
+            "source": "brihat-stotra-ratnakar-wikisource",
+            "locator": "p. 251, verse ४",
+            "quote": "त्वमेको जगद्व्यापको विश्वरूप"
+          },
+          {
+            "source": "mahanarayana-upanishad-17-23",
+            "locator": "Mahānārāyaṇa Upaniṣad 23.1",
+            "quote": "विश्वरूपाय वै नमो नमः"
+          },
+          {
+            "source": "mw-vishvarupa",
+            "locator": "MW viśva-rūpa, p. 993",
+            "quote": "wearing all forms, manifold, various"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w10",
+          "w11"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Prasīda* holds a picture. Its root *sad* means to sit or sink down; with *pra* it means to settle, the way stirred-up water settles and turns clear, or a stormy sky grows calm. From there it comes to mean to be pleased, to be kind.\n\nSo the cry asks the Lord to turn toward us clear and calm, and His grace, *prasāda*, is named from the same root: clearness, calm, kindness. Said twice, the plea becomes urgent.",
+          "hi": "*प्रसीद* में एक चित्र छिपा है। इसकी धातु *सद्* का अर्थ है बैठना या नीचे बैठ जाना; *प्र* के साथ इसका अर्थ है थम जाना, जैसे हिलाया हुआ पानी थमकर निर्मल हो जाता है, या तूफ़ानी आकाश शान्त हो जाता है। वहीं से इसका अर्थ बनता है प्रसन्न होना, कृपालु होना।\n\nइसलिए यह पुकार प्रभु से कहती है कि वे निर्मल और शान्त होकर हमारी ओर मुड़ें, और उनकी कृपा, *प्रसाद*, इसी धातु से बनी है: निर्मलता, शान्ति, कृपा। दो बार कहने से विनती और तीव्र हो जाती है।"
+        },
+        "citations": [
+          {
+            "source": "mw-sad",
+            "locator": "MW √sad, p. 1138",
+            "quote": "to sit down (esp. at a sacrifice)"
+          },
+          {
+            "source": "mw-prasad",
+            "locator": "MW pra-√sad, p. 696",
+            "quote": "to settle down, grow clear and bright, become placid or tranquil"
+          },
+          {
+            "source": "mw-prasad",
+            "locator": "MW pra-√sad, p. 696",
+            "quote": "to become satisfied or pleased or glad, be gracious or kind"
+          },
+          {
+            "source": "mw-prasada",
+            "locator": "MW prasāda, p. 697",
+            "quote": "graciousness, kindness, kind behaviour, favour"
+          },
+          {
+            "source": "mw-prasada",
+            "locator": "MW prasāda, p. 697",
+            "quote": "calmness, tranquillity, absence of excitement"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "O Beloved of Śivā,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "Śambhu,"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "with the half-moon on Your head,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "great Lord,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "Bearer of the trident,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "who wear the coil of matted hair!"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "You alone"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "are"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "the one who spreads through the whole world,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "whose form is the universe."
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "Be gracious,"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "be gracious,"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "O Lord,"
+            },
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "whose form is whole!"
+            }
+          ]
+        ],
+        "bhavartha": "The poet calls Śiva by name after name: beloved of Śivā, Śambhu, the Lord crowned with a crescent moon, the great Lord who holds the trident and wears His matted hair in a coil. Then he says who this is: the One who spreads through the whole world, whose form is the universe. He ends by begging, twice, that this Lord, whole in form, be gracious."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "हे शिवा (पार्वती) के प्रियतम,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "हे शम्भु,"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "हे मस्तक पर अर्धचन्द्र धारण करने वाले,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "हे महेश्वर,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "हे त्रिशूलधारी,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "हे जटाजूट धारण करने वाले!"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "एकमात्र आप ही"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "सारे जगत् में व्याप्त"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "और विश्वरूप"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "हैं।"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "प्रसन्न होइए,"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "प्रसन्न होइए,"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "हे प्रभु,"
+            },
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "हे पूर्णरूप!"
+            }
+          ]
+        ],
+        "bhavartha": "कवि शिव को एक के बाद एक नाम से पुकारता है: शिवा के प्रियतम, शम्भु, मस्तक पर अर्धचन्द्र वाले, त्रिशूल धारण करने वाले और जटाओं का जूड़ा बाँधे महेश्वर। फिर वह बताता है कि ये कौन हैं: वही एक, जो सारे जगत् में फैले हैं और जिनका रूप सारा विश्व है। अन्त में वह दो बार विनती करता है कि ये पूर्णरूप प्रभु प्रसन्न हों।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "शिवा",
+            "iast": "śivā"
+          },
+          {
+            "sa": "कान्त",
+            "iast": "kānta"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिवा",
+            "iast": "śivā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिवा",
+              "iast": "śivā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śivā",
+              "gloss": "the energy of Śiva personified as his wife (known as Durgā, Pārvatī &c.)"
+            },
+            "meaning": {
+              "en": "Śivā (Pārvatī)",
+              "hi": "शिवा (पार्वती)"
+            }
+          },
+          {
+            "sa": "कान्त",
+            "iast": "kānta",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कान्त",
+              "iast": "kānta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kānta",
+              "gloss": "any one beloved, a lover, husband"
+            },
+            "meaning": {
+              "en": "beloved",
+              "hi": "प्रियतम"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O beloved of Śivā (Pārvatī), i.e. Śiva",
+          "hi": "हे शिवा (पार्वती) के प्रियतम, अर्थात् शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "Śivā is Pārvatī, and her name is His own name with a long *ā*. As with Bhava and Bhavānī ([verse 3](#v3-a3)), husband and wife share one name.",
+          "hi": "शिवा पार्वती हैं, और उनका नाम शिव का ही नाम है, लम्बे *आ* के साथ। भव और भवानी की तरह ([श्लोक ३](#v3-a3)), पति-पत्नी का एक ही नाम है।"
+        },
+        "notes": {
+          "en": "Called by name: 'O beloved of Śivā'. The long ā marks śivā, the goddess, not śiva.",
+          "hi": "सीधी पुकार: 'हे शिवा के प्रियतम'। लम्बा आ बताता है कि यह शिवा (देवी) है, शिव नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shiva",
+          "mw-kanta",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "शम्भो",
+            "iast": "śambho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शम्भु",
+            "iast": "śambhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शम्भु",
+              "iast": "śambhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śambhu",
+              "gloss": "granting or causing happiness, beneficent; N. of Śiva"
+            },
+            "meaning": {
+              "en": "Śambhu",
+              "hi": "शम्भु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Śambhu, i.e. Śiva",
+          "hi": "हे शम्भु, अर्थात् शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "*Śambhu* is an old Vedic word for 'kind', one who brings well-being. Later it became a name of Śiva.",
+          "hi": "*शम्भु* एक पुराना वैदिक शब्द है, जिसका अर्थ है कल्याण करने वाला, सुख देने वाला। बाद में यह शिव का नाम बन गया।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shambhu",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w3": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "शशाङ्क",
+            "iast": "śaśāṅka"
+          },
+          {
+            "sa": "अर्ध",
+            "iast": "ardha"
+          },
+          {
+            "sa": "मौले",
+            "iast": "maule"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of śaśāṅka and the first a of ardha merge into one long ā: śaśāṅka + ardha → śaśāṅkārdha.",
+              "hi": "शशाङ्क का अन्तिम 'अ' और अर्ध का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: शशाङ्क + अर्ध → शशाङ्कार्ध।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शशाङ्क",
+            "iast": "śaśāṅka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शशाङ्क",
+              "iast": "śaśāṅka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śaśāṅka",
+              "gloss": "'hare-marked', the moon"
+            },
+            "meaning": {
+              "en": "moon",
+              "hi": "चन्द्रमा"
+            }
+          },
+          {
+            "sa": "अर्ध",
+            "iast": "ardha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अर्ध",
+              "iast": "ardha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ardha",
+              "gloss": "the half"
+            },
+            "meaning": {
+              "en": "half",
+              "hi": "आधा"
+            }
+          },
+          {
+            "sa": "मौलि",
+            "iast": "mauli",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मौलि",
+              "iast": "mauli"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mauli",
+              "gloss": "the head, the top of anything"
+            },
+            "meaning": {
+              "en": "head",
+              "hi": "मस्तक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O You (Śiva) with the half-moon on Your head",
+          "hi": "हे मस्तक पर अर्धचन्द्र धारण करने वाले, अर्थात् शिव"
+        },
+        "literal": {
+          "en": "O You who have half of the hare-marked one on Your head",
+          "hi": "हे जिनके मस्तक पर शशाङ्क (चन्द्रमा) का आधा भाग है"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "*Śaśāṅka*, 'hare-marked', is the moon: the dark marks on its face were seen as a hare. Only half of it, a crescent, rests on His head.",
+          "hi": "*शशाङ्क*, यानी 'खरगोश के चिह्न वाला', चन्द्रमा है: उसके मुख के धब्बे खरगोश जैसे देखे गए। उसका केवल आधा भाग, अर्धचन्द्र, उनके मस्तक पर है।"
+        },
+        "notes": {
+          "en": "mauli can mean the head or a crest worn on it; either way the half-moon sits at the top of His head.",
+          "hi": "मौलि का अर्थ मस्तक भी है और उस पर पहना शिरोभूषण भी; दोनों में अर्धचन्द्र सिर के शिखर पर है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shashanka",
+          "mw-shashankardha",
+          "mw-mauli",
+          "mw-shasha",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w4": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "महा",
+            "iast": "mahā"
+          },
+          {
+            "sa": "ईशान",
+            "iast": "īśāna"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "ā + ī → e",
+            "explanation": {
+              "en": "The ā of mahā and the ī of īśāna merge into e: mahā + īśāna → maheśāna.",
+              "hi": "महा का 'आ' और ईशान का 'ई' मिलकर 'ए' बनते हैं: महा + ईशान → महेशान।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "महत्",
+            "iast": "mahat",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "महत्",
+              "iast": "mahat"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mahat",
+              "gloss": "great"
+            },
+            "meaning": {
+              "en": "great",
+              "hi": "महान्"
+            }
+          },
+          {
+            "sa": "ईशान",
+            "iast": "īśāna",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईशान",
+              "iast": "īśāna"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "īśāna",
+              "gloss": "a ruler, master, one of the older names of Śiva-Rudra"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "स्वामी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O great Lord, i.e. Śiva",
+          "hi": "हे महेश्वर, अर्थात् शिव"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Maheśāna is another form of Maheśa, 'great lord', a name of Śiva; īśāna is one of His oldest names.",
+          "hi": "महेशान, महेश ('महान् स्वामी') का ही दूसरा रूप है, शिव का नाम; ईशान उनके सबसे पुराने नामों में से है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-maheshana",
+          "mw-mahesha",
+          "mw-ishana",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "शूलिन्",
+            "iast": "śūlin"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शूलिन्",
+            "iast": "śūlin",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शूल",
+              "iast": "śūla"
+            },
+            "formation": "śūla + ini (possessive)",
+            "sense": {
+              "dict": "mw",
+              "headword": "śūlin",
+              "gloss": "N. of Rudra Śiva (as holding a trident)"
+            },
+            "meaning": {
+              "en": "trident-bearer",
+              "hi": "त्रिशूलधारी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Bearer of the trident, i.e. Śiva",
+          "hi": "हे त्रिशूलधारी, अर्थात् शिव"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "śūla is any sharp spike or spear, above all Śiva's trident; śūlin is the one who holds it. Two printings join this word to the next as शूलिञ्जटा…; the words and the sound are the same.",
+          "hi": "शूल कोई भी नुकीला काँटा या भाला है, विशेषकर शिव का त्रिशूल; शूलिन् वह है जो उसे धारण करता है। दो मुद्रित पाठ इसे अगले शब्द से जोड़कर शूलिञ्जटा… लिखते हैं; शब्द और ध्वनि वही हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shulin",
+          "mw-shula",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w6": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "जटा",
+            "iast": "jaṭā"
+          },
+          {
+            "sa": "जूट",
+            "iast": "jūṭa"
+          },
+          {
+            "sa": "धारिन्",
+            "iast": "dhārin"
+          }
+        ],
+        "components": [
+          {
+            "sa": "जटा",
+            "iast": "jaṭā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जटा",
+              "iast": "jaṭā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jaṭā",
+              "gloss": "the hair twisted together (as worn by ascetics, by Śiva)"
+            },
+            "meaning": {
+              "en": "matted hair",
+              "hi": "जटा"
+            }
+          },
+          {
+            "sa": "जूट",
+            "iast": "jūṭa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जूट",
+              "iast": "jūṭa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jūṭa",
+              "gloss": "twisted hair (of ascetics and Śiva)"
+            },
+            "meaning": {
+              "en": "knot",
+              "hi": "जूड़ा"
+            }
+          },
+          {
+            "sa": "धारिन्",
+            "iast": "dhārin",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धृ",
+              "iast": "dhṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to hold, to wear",
+                "hi": "धारण करना"
+              }
+            },
+            "formation": "√dhṛ + ṇini (one who does)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dhārin",
+              "gloss": "bearing, wearing, holding"
+            },
+            "meaning": {
+              "en": "wearing",
+              "hi": "धारण करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O You (Śiva) who wear the coil of matted hair",
+          "hi": "हे जटाजूट धारण करने वाले, अर्थात् शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "*Jaṭā-jūṭa* is matted hair twisted up into a high knot on the head. It is the same coil where [verse 1](#verse-1) shows the Gaṅgā sparkling.",
+          "hi": "*जटा-जूट* यानी उलझी जटाओं को ऐंठकर सिर पर बाँधा गया ऊँचा जूड़ा। यह वही जूड़ा है जिसमें [पहला श्लोक](#verse-1) गंगा को झिलमिलाता दिखाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-jatajuta",
+          "mw-jata",
+          "mw-juta",
+          "mw-dharin",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "त्वम्",
+            "iast": "tvam"
+          },
+          {
+            "sa": "एकः",
+            "iast": "ekaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "utva",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "The final aḥ of ekaḥ becomes o before the voiced j of the next word (jagad): ekaḥ + jagad → eko jagad. tvam is simply written together with eko.",
+              "hi": "एकः का अन्तिम 'अः' अगले शब्द (जगद्) के घोष 'ज' से पहले 'ओ' बन जाता है: एकः + जगद् → एको जगद्। त्वम् बस एको के साथ जोड़कर लिखा गया है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "त्वम्",
+            "iast": "tvam",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "युष्मद्",
+              "iast": "yuṣmad"
+            },
+            "meaning": {
+              "en": "you",
+              "hi": "आप"
+            }
+          },
+          {
+            "sa": "एक",
+            "iast": "eka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "एक",
+              "iast": "eka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "eka",
+              "gloss": "alone, solitary, single, that one only"
+            },
+            "meaning": {
+              "en": "alone",
+              "hi": "एकमात्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "You (Śiva) alone, the One",
+          "hi": "एकमात्र आप (शिव) ही"
+        },
+        "notes": {
+          "en": "Two words written as one: tvam 'you' and ekaḥ 'one, alone'.",
+          "hi": "दो शब्द एक साथ लिखे गए हैं: त्वम् 'आप' और एकः 'एक, अकेले'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-eka",
+          "mw-tvad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w8": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          {
+            "sa": "व्यापकः",
+            "iast": "vyāpakaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + v → d + v",
+            "explanation": {
+              "en": "Final t becomes the voiced d before the voiced v: jagat + vyāpaka → jagadvyāpaka.",
+              "hi": "अन्तिम 'त्' आगे के घोष 'व' से पहले 'द्' बन जाता है: जगत् + व्यापक → जगद्व्यापक।"
+            }
+          },
+          {
+            "name": "utva",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "The final aḥ becomes o before the voiced v of the next word (viśvarūpaḥ): vyāpakaḥ → vyāpako.",
+              "hi": "अगले शब्द (विश्वरूपः) के घोष 'व' से पहले अन्तिम 'अः' 'ओ' बन जाता है: व्यापकः → व्यापको।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "जगत्",
+            "iast": "jagat",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जगत्",
+              "iast": "jagat"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jagat",
+              "gloss": "the world, esp. this world, earth"
+            },
+            "meaning": {
+              "en": "world",
+              "hi": "जगत्"
+            }
+          },
+          {
+            "sa": "व्यापक",
+            "iast": "vyāpaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "आप्",
+              "iast": "āp",
+              "gana": 5,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to spread through, to fill",
+                "hi": "व्याप्त होना, भरना"
+              }
+            },
+            "formation": "vi + √āp + ṇvul (one who does)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vyāpaka",
+              "gloss": "pervading, spreading everywhere"
+            },
+            "meaning": {
+              "en": "spreading through",
+              "hi": "व्याप्त"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the one (Śiva) who spreads through the whole world",
+          "hi": "सारे जगत् में व्याप्त (शिव)"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vyapaka",
+          "mw-vyap",
+          "mw-jagat",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w9": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "विश्व",
+            "iast": "viśva"
+          },
+          {
+            "sa": "रूपः",
+            "iast": "rūpaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विश्व",
+            "iast": "viśva",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विश्व",
+              "iast": "viśva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "viśva",
+              "gloss": "all, every; whole, entire, universal"
+            },
+            "meaning": {
+              "en": "universe",
+              "hi": "विश्व"
+            }
+          },
+          {
+            "sa": "रूप",
+            "iast": "rūpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "रूप",
+              "iast": "rūpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "rūpa",
+              "gloss": "form, shape, figure"
+            },
+            "meaning": {
+              "en": "form",
+              "hi": "रूप"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(You, i.e. Śiva) whose form is the universe",
+          "hi": "(आप, अर्थात् शिव) जिनका रूप सारा विश्व है"
+        },
+        "epithet": true,
+        "alternatives": [
+          {
+            "reading": {
+              "en": "O You whose form is the universe! (the text is also found as viśvarūpa, a call)",
+              "hi": "हे विश्वरूप! (पाठ 'विश्वरूप' भी मिलता है, पुकार के रूप में)"
+            },
+            "note": "gitapress-stotraratnavali, gitapress-shiv-stotra-ratnakar and brihat-stotra-ratnakar-wikisource read विश्वरूप; sanskritdocuments-vedasarast, vanivilas-1910-works-17 and ramakrishna-math-mantrapushpam read विश्वरूपः."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vishvarupa",
+          "mw-vishva",
+          "mw-rupa",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "सद्",
+              "iast": "sad",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to settle, to grow clear; to be pleased",
+                "hi": "निर्मल होना; प्रसन्न होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-sad",
+              "gloss": "to become satisfied or pleased or glad, be gracious or kind"
+            },
+            "meaning": {
+              "en": "be gracious",
+              "hi": "प्रसन्न होइए"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "be gracious (to us), (O Śiva)",
+          "hi": "(हे शिव, हम पर) प्रसन्न होइए"
+        },
+        "notes": {
+          "en": "A request to the person addressed: 'be pleased, be gracious'. The root sad takes the stem sīda.",
+          "hi": "जिसे पुकारा गया है उससे विनती: 'प्रसन्न होइए, कृपा कीजिए'। धातु सद् यहाँ सीद रूप लेती है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prasad",
+          "mw-sad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रसीद",
+            "iast": "prasīda",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "सद्",
+              "iast": "sad",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to settle, to grow clear; to be pleased",
+                "hi": "निर्मल होना; प्रसन्न होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-sad",
+              "gloss": "to become satisfied or pleased or glad, be gracious or kind"
+            },
+            "meaning": {
+              "en": "be gracious",
+              "hi": "प्रसन्न होइए"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "be gracious (to us), (O Śiva)",
+          "hi": "(हे शिव, हम पर) प्रसन्न होइए"
+        },
+        "notes": {
+          "en": "The same plea said again, for urgency.",
+          "hi": "वही विनती दोबारा, आग्रह के लिए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prasad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w12": {
+        "padaccheda": [
+          {
+            "sa": "प्रभो",
+            "iast": "prabho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रभु",
+            "iast": "prabhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रभु",
+              "iast": "prabhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "prabhu",
+              "gloss": "a master, lord, king"
+            },
+            "meaning": {
+              "en": "Lord",
+              "hi": "प्रभु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Lord, i.e. Śiva",
+          "hi": "हे प्रभु, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-prabhu",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w13": {
+        "compound": "c7",
+        "padaccheda": [
+          {
+            "sa": "पूर्ण",
+            "iast": "pūrṇa"
+          },
+          {
+            "sa": "रूप",
+            "iast": "rūpa"
+          }
+        ],
+        "components": [
+          {
+            "sa": "पूर्ण",
+            "iast": "pūrṇa",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पूर्ण",
+              "iast": "pūrṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pūrṇa",
+              "gloss": "complete, all, entire"
+            },
+            "meaning": {
+              "en": "whole",
+              "hi": "पूर्ण"
+            }
+          },
+          {
+            "sa": "रूप",
+            "iast": "rūpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "रूप",
+              "iast": "rūpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "rūpa",
+              "gloss": "form, shape, figure"
+            },
+            "meaning": {
+              "en": "form",
+              "hi": "रूप"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O You (Śiva) whose form is whole",
+          "hi": "हे पूर्ण रूप वाले, अर्थात् शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "The verse opened on half a moon (*ardha*) and closes on *pūrṇa*, full. The Lord who wears a half is Himself whole.",
+          "hi": "श्लोक आधे चन्द्रमा (*अर्ध*) से शुरू हुआ और *पूर्ण* पर समाप्त होता है। जो प्रभु आधा चन्द्र पहनते हैं, वे स्वयं पूर्ण हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-purna",
+          "mw-rupa",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      }
+    }
+  }
+}

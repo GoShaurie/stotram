@@ -1,0 +1,11 @@
+# v4: stotram-refine run, 2026-11-21
+
+**Outcome:** `ai_verified`. Penalty 0 → 0. 8/9 words agreed across 2 drafts. Exit-ready: True.
+
+## Needs a human
+
+1. **Confirm the text lock** after reading `text-report.md`:
+   `.venv/bin/python -m checks lock data/stotrams/kalabhairava-ashtakam.json --verse v4 --sources gitapress-shiv-stotra-ratnakar,greenmesg-kalabhairava,ramakrishna-math-mantrapushpam,sanskritdocuments-kaalabhairava,sanskritdocuments-shivarahasya-kalabhairava,shlokam-kalabhairava,vanivilas-1910-works-18 --confirm "<your name>"`
+- T4.1 `words.w8.components`: The component senses for kāla ('black; time') and bhairava ('N. of a form of Śiva; frightful, terrible') cite mw-kala and mw-bhairava. Both are listed in the stotram sources, but neither file is in research/kalabhairava-ashtakam/v4/sources/, so neither sense can be checked against the evidence. Both glosses match the standard MW senses. The word meaning 'Kālabhairava' is supported by mw-kalabhairava ('a form of Bhairava') and by all three translations. The meanings are probably correct. This flag is about missing evidence, not a wrong meaning. (suggested: Fetch the MW entries kāla (kAla) and bhairava (BErava) into research/kalabhairava-ashtakam/v4/sources/ as mw-kala.md and mw-bhairava.md, or change the sources lists to evidence files that exist.)
+- T4.4 ``: Outside this check: words.w8.sources lists mw-kala and mw-bhairava, and words.w8.components[].sense cites MW 'kāla' (black; time) and 'bhairava' (N. of a form of Śiva; frightful, terrible), but neither file is in research/kalabhairava-ashtakam/v4/sources/. Only mw-kalabhairava.md is there ('a form of Bhairava'). The breakdown of the name in w8.notes looks right by standard lexicography, but the evidence folder doesn't back it. A human should add the excerpts or confirm the sources.
+- T4.9 ``: Outside T4.9 (sources hygiene): words.w7.sources lists mw-kashi, and words.w8.sources lists mw-kala and mw-bhairava. None of the three has an excerpt in research/kalabhairava-ashtakam/v4/sources/. Annotation a2's word 'fearsome' also rests on bhairava ('frightful, terrible'), which has no v4 excerpt. That word sits next to the [dark](#v3-a2) link, so the v3 note may cover it. A human should either copy these dictionary excerpts into the v4 evidence or drop the source ids.

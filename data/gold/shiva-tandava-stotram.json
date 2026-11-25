@@ -1,0 +1,27 @@
+{
+  "status": "unverified",
+  "note": "Gold answers for scoring the pipeline (checks gold). Drafted by AI from the reference verse, so until a human checks every item it measures consistency, not accuracy. When verifying, change status to 'verified by <name> on <date>' and fix any item you disagree with. Add verses 2-3 once a human has worked them independently of the pipeline.",
+  "verses": {
+    "v1": {
+      "words": {
+        "w1": { "padaccheda": ["jaṭā", "aṭavī"] },
+        "w2": { "padaccheda": ["galat", "jala", "pravāha"] },
+        "w4": { "padaccheda": ["gale", "avalambya"] }
+      },
+      "padas": {
+        "p2": { "morph": { "type": "subanta", "case": "locative", "number": "singular", "gender": "masculine" }, "role": "adhikaraṇa" },
+        "p3": { "morph": { "type": "avyaya" }, "role": "pūrvakāla" },
+        "p4": { "morph": { "type": "subanta", "case": "accusative", "number": "singular", "gender": "feminine" }, "head": "p5" },
+        "p7": { "morph": { "type": "subanta", "case": "nominative", "number": "singular" }, "role": "kartā" },
+        "p8": { "morph": { "type": "tinanta", "lakara": "liṭ", "person": 3, "number": "singular" }, "role": "kriyā" },
+        "p10": { "morph": { "type": "tinanta", "lakara": "loṭ", "person": 3, "number": "singular" }, "role": "kriyā" },
+        "p12": { "morph": { "type": "subanta", "case": "nominative", "number": "singular", "gender": "masculine" }, "role": "kartā" },
+        "p13": { "morph": { "type": "subanta", "case": "accusative", "number": "singular", "gender": "neuter" }, "role": "karma" }
+      },
+      "compounds": {
+        "c2": { "type": "tatpuruṣa" },
+        "c3": { "type": "karmadhāraya" }
+      }
+    }
+  }
+}

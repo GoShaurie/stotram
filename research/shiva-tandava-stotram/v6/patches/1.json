@@ -1,0 +1,110 @@
+[
+  {
+    "op": "replace",
+    "path": "/verses/5/translations/en/lines/0",
+    "value": [
+      {"refs": ["w10"], "text": "May"},
+      {"refs": ["w7"], "text": "the great, skull-bearing"},
+      {"refs": ["w9"], "text": "head,"},
+      {"refs": ["w10"], "text": "thick with matted locks, be"},
+      {"refs": ["w8"], "text": "for"},
+      {"refs": ["w11"], "text": "our"},
+      {"refs": ["w8"], "text": "prosperity:"}
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/translations/hi/lines/3/0",
+    "value": {"refs": ["w7"], "text": "वह महान, कपालधारी,"}
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/translations/hi/lines/3/1",
+    "value": {"refs": ["w10"], "text": "जटाओं वाला"}
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/translations/en/bhavartha",
+    "value": "The poet asks for a blessing from Śiva's head itself, a head of two moods. On its forehead, laid out like a sacrificial altar, a fire once flared and its sparks swallowed Kāma, the archer-god of desire, and the rulers of heaven bow before it. Yet its crest glows with the thin, cool line of the crescent moon. May that great, skull-bearing, matted head of Śiva work for our prosperity."
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/translations/hi/bhavartha",
+    "value": "कवि शिव के शीश से ही आशीर्वाद माँगता है, जिसके दो रूप हैं। उसका ललाट मानो यज्ञ की वेदी है, जिस पर कभी आग भड़की थी और उसकी चिनगारियों ने कामदेव को निगल लिया था; स्वर्ग के अधिपति भी उसके आगे झुकते हैं। फिर भी उसके शिखर पर चन्द्रमा की पतली, शीतल कला चमकती है। शिव का वह महान, कपालधारी, जटाओं वाला शीश हमारी सम्पदा का कारण बने।"
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/compounds/c1/structure",
+    "value": "((((((lalāṭa-catvara)-(jvalat-dhanañjaya))-sphuliṅga)-bhā)-nipīta)-(pañca-sāyaka))"
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/compounds/c5/meaning",
+    "value": {
+      "en": "great and skull-bearing (describing Śiva's head)",
+      "hi": "महान और कपालधारी (शिव के शीश का विशेषण)"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/words/w7/meaning",
+    "value": {
+      "en": "great and skull-bearing (describing Śiva's head)",
+      "hi": "महान और कपालधारी (शिव के शीश का विशेषण)"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/words/w7/notes",
+    "value": {
+      "en": "Kapālin, 'he who bears skulls', is a name of Śiva. The form kapāli is the neuter nominative of the -in stem, so grammatically it describes the head (śiraḥ): 'the great, skull-bearing head', the head of the Skull-bearer himself, crowned with skulls. The commentators hear Śiva's own name in it: vyakhya.org glosses महामुण्डमाली (wearer of the great garland of skulls) and addresses him with it, shlokam.org has 'great skull-bearer'. The meaning here follows the form; the address is given as an alternative.",
+      "hi": "कपालिन्, 'कपाल धारण करने वाला', शिव का नाम है। कपालि -इन् प्रातिपदिक का नपुंसक प्रथमा रूप है, इसलिए व्याकरण की दृष्टि से यह शीश (शिरः) का विशेषण है: 'महान, कपालधारी शीश', यानी स्वयं कपाली शिव का कपालों से सजा शीश। व्याख्याकार इसमें शिव का ही नाम सुनते हैं: vyakhya.org इसका अर्थ 'महामुण्डमाली' देता है और इसी से शिव को सम्बोधित करता है, shlokam.org 'great skull-bearer' कहता है। यहाँ अर्थ रूप के अनुसार है; सम्बोधन वाला पाठ विकल्प के रूप में दिया गया है।"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/5/words/w7/alternatives/-",
+    "value": {
+      "reading": {
+        "en": "O great Skull-bearer!",
+        "hi": "हे महामुण्डमाली (महाकपाली)!"
+      },
+      "note": "vyakhya-sts-6 (भावार्थ) reads it as an address to Śiva: 'हे महामुण्डमाली ! आपका जटायुक्त शीश'. The regular masculine vocative of kapālin would be kapālin, so this reading strains the form."
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/verses/5/annotations/3/body",
+    "value": {
+      "en": "Not every text reads this line the same way. Four of the five witnesses have *mahākapāli sampade śiro jaṭālam astu naḥ*, 'may the great, skull-bearing, matted head be for our prosperity'. Sanskrit Wikisource prints instead *mahaḥ kapāli sampade sarij-jaṭālam astu naḥ*, and sanskritdocuments.org gives that line in brackets as an alternative. There *mahas* is light or majesty, and *sarij-jaṭāla* means 'with a river in its matted locks', the Gaṅgā of [verse 1](#v1-a1): 'may that radiance, skull-bearing, its locks holding the river, be for our prosperity'.\n\nThe swap works because *mahas* and *śiras* are both neuter, so every *-am* description in the verse fits either noun.",
+      "hi": "इस पंक्ति का पाठ सब जगह एक-सा नहीं है। पाँच में से चार पाठ-स्रोतों में *महाकपालि सम्पदे शिरो जटालमस्तु नः* है: 'महान, कपालधारी, जटाओं वाला शीश हमारी सम्पदा के लिए हो'। संस्कृत विकिस्रोत इसके स्थान पर *महः कपालि सम्पदे सरिज्जटालमस्तु नः* छापता है, और sanskritdocuments.org यही पंक्ति कोष्ठक में विकल्प के रूप में देता है। वहाँ *महस्* का अर्थ तेज या प्रताप है, और *सरिज्-जटाल* का अर्थ 'जिसकी जटाओं में नदी है', [पहले श्लोक](#v1-a1) की गंगा: 'वह कपालधारी तेज, जिसकी जटाओं में नदी है, हमारी सम्पदा के लिए हो'।\n\nयह अदला-बदली इसलिए चल जाती है कि *महस्* और *शिरस्* दोनों नपुंसक हैं, इसलिए श्लोक का हर *-अम्* वाला विशेषण दोनों में से किसी के भी साथ बैठ जाता है।"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/5/annotations/1/citations/-",
+    "value": {
+      "source": "mw-nilimpa",
+      "locator": "MW nilimpa, p. 558",
+      "quote": "a god"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/5/annotations/3/citations/-",
+    "value": {
+      "source": "shlokam-shiva-tandava",
+      "locator": "verse ॥ ६ ॥, line 4",
+      "quote": "महाकपालि सम्पदे शिरोजटालमस्तु नः"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/verses/5/annotations/3/citations/-",
+    "value": {
+      "source": "vyakhya-sts-6",
+      "locator": "श्लोक ६, मूल पाठ",
+      "quote": "महाकपालि संपदे शिरो जटालमस्तु नः"
+    }
+  }
+]

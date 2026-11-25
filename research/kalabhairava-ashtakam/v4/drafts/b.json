@@ -1,0 +1,1627 @@
+{
+  "id": "v4",
+  "number": 4,
+  "kind": "verse",
+  "meter": "tunaka",
+  "concepts": [
+    "kalabhairava",
+    "kashi",
+    "moksha",
+    "world-as-body"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "भुक्तिमुक्तिदायकं",
+          "iast": "bhuktimuktidāyakaṃ"
+        },
+        {
+          "id": "w2",
+          "text": "प्रशस्तचारुविग्रहं",
+          "iast": "praśastacāruvigrahaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "भक्तवत्सलं",
+          "iast": "bhaktavatsalaṃ"
+        },
+        {
+          "id": "w4",
+          "text": "स्थितं",
+          "iast": "sthitaṃ"
+        },
+        {
+          "id": "w5",
+          "text": "समस्तलोकविग्रहम्",
+          "iast": "samastalokavigraham"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w6",
+          "text": "निक्वणन्मनोज्ञहेमकिङ्किणीलसत्कटिं",
+          "iast": "nikvaṇanmanojñahemakiṅkiṇīlasatkaṭiṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w7",
+          "text": "काशिकापुराधिनाथ",
+          "iast": "kāśikāpurādhinātha"
+        },
+        {
+          "id": "w8",
+          "text": "कालभैरवं",
+          "iast": "kālabhairavaṃ"
+        },
+        {
+          "id": "w9",
+          "text": "भजे",
+          "iast": "bhaje"
+        }
+      ],
+      "end": "॥ ४ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": [
+        "w1"
+      ],
+      "iast": "bhukti-mukti-dāyakam",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "structure": "((bhukti-mukti)-dāyaka)",
+      "vigraha": "भुक्तिः च मुक्तिः च भुक्तिमुक्ती, तयोः दायकः, तम्",
+      "meaning": {
+        "en": "the giver of worldly joys and of freedom",
+        "hi": "भोग और मोक्ष देने वाले को"
+      },
+      "note": {
+        "en": "bhukti 'enjoyment' and mukti 'release' are joined as a pair; dāyaka 'giver' is the one who gives that pair.",
+        "hi": "भुक्ति 'भोग' और मुक्ति 'छुटकारा' एक जोड़ी के रूप में जुड़े हैं; दायक 'देने वाला' वह है जो यह जोड़ी देता है।"
+      }
+    },
+    "c2": {
+      "members": [
+        "w2"
+      ],
+      "iast": "praśasta-cāru-vigraham",
+      "type": "bahuvrīhi",
+      "structure": "((praśasta-cāru)-vigraha)",
+      "vigraha": "प्रशस्तः चारुः च विग्रहः यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose form is praised and lovely",
+        "hi": "उन्हें, जिनका रूप प्रशंसनीय और सुन्दर है"
+      },
+      "note": {
+        "en": "praśasta 'praised' and cāru 'lovely' both describe vigraha 'form'; the whole describes Kālabhairava, the one who has such a form, and so takes his ending.",
+        "hi": "प्रशस्त 'प्रशंसित' और चारु 'सुन्दर' दोनों विग्रह 'रूप' का वर्णन करते हैं; पूरा समास उन कालभैरव का वर्णन करता है जिनका ऐसा रूप है।"
+      }
+    },
+    "c3": {
+      "members": [
+        "w3"
+      ],
+      "iast": "bhakta-vatsalam",
+      "type": "tatpuruṣa",
+      "subtype": "saptamī",
+      "vigraha": "भक्तेषु वत्सलः, तम्",
+      "meaning": {
+        "en": "tender toward His devotees",
+        "hi": "भक्तों पर स्नेह रखने वाले"
+      },
+      "note": {
+        "en": "vatsala 'tender, loving' is said of those it loves: bhakteṣu vatsalaḥ, 'tender toward the devotees'.",
+        "hi": "वत्सल 'स्नेही' उनके लिए कहा गया है जिनसे स्नेह है: भक्तेषु वत्सलः, 'भक्तों पर स्नेह रखने वाले'।"
+      }
+    },
+    "c4": {
+      "members": [
+        "w5"
+      ],
+      "iast": "samasta-loka-vigraham",
+      "type": "bahuvrīhi",
+      "structure": "((samasta-loka)-vigraha)",
+      "vigraha": "समस्तः लोकः विग्रहः यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose body is the whole world",
+        "hi": "उन्हें, जिनका शरीर सारा संसार है"
+      },
+      "note": {
+        "en": "samasta-loka 'the whole world' is itself the vigraha 'body'; the whole describes Kālabhairava, whose body that is.",
+        "hi": "समस्त-लोक 'सारा संसार' ही विग्रह 'शरीर' है; पूरा समास उन कालभैरव का वर्णन करता है जिनका वह शरीर है।"
+      }
+    },
+    "c5": {
+      "members": [
+        "w6"
+      ],
+      "iast": "nikvaṇan-manojña-hema-kiṅkiṇī-lasat-kaṭim",
+      "type": "bahuvrīhi",
+      "structure": "((((nikvaṇat-manojña)-(hema-kiṅkiṇī))-lasat)-kaṭi)",
+      "vigraha": "निक्वणन्त्यः मनोज्ञाः च हेमकिङ्किण्यः, ताभिः लसन्ती कटिः यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose waist shines with lovely, jingling golden bells",
+        "hi": "उन्हें, जिनकी कमर रुनझुन करती सुन्दर सोने की घंटियों से चमक रही है"
+      },
+      "note": {
+        "en": "nikvaṇat 'jingling' and manojña 'lovely' describe hema-kiṅkiṇī 'golden little bells'; with them the kaṭi 'waist' is lasat 'shining'. The whole describes Kālabhairava, whose waist that is.",
+        "hi": "निक्वणत् 'रुनझुन करती' और मनोज्ञ 'सुन्दर' हेम-किङ्किणी 'सोने की छोटी घंटियों' का वर्णन करते हैं; उनसे कटि 'कमर' लसत् 'चमकती' है। पूरा समास उन कालभैरव का वर्णन करता है जिनकी वह कमर है।"
+      }
+    },
+    "c6": {
+      "members": [
+        "w7",
+        "w8"
+      ],
+      "iast": "kāśikā-pura-adhinātha-kāla-bhairavam",
+      "type": "karmadhāraya",
+      "structure": "(((kāśikā-pura)-adhinātha)-(kāla-bhairava))",
+      "vigraha": "काशिका इति पुरम्, तस्य अधिनाथः, स एव कालभैरवः, तम्",
+      "meaning": {
+        "en": "Kālabhairava, the supreme lord of the city of Kāśī",
+        "hi": "काशी नगरी के अधिपति कालभैरव को"
+      },
+      "note": {
+        "en": "kāśikā-pura 'the city Kāśikā'; with adhinātha 'supreme lord' it means the lord of that city; that title and the name Kāla-bhairava stand for one and the same person.",
+        "hi": "काशिका-पुर 'काशी नगरी'; अधिनाथ 'अधिपति' के साथ अर्थ है उस नगरी के स्वामी; यह उपाधि और कालभैरव नाम एक ही के लिए हैं।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": [
+        "w1"
+      ],
+      "sa": "भुक्तिमुक्तिदायकम्",
+      "iast": "bhuktimuktidāyakam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "भुक्तिमुक्तिदायक",
+          "iast": "bhuktimuktidāyaka"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p2",
+      "words": [
+        "w2"
+      ],
+      "sa": "प्रशस्तचारुविग्रहम्",
+      "iast": "praśastacāruvigraham",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "प्रशस्तचारुविग्रह",
+          "iast": "praśastacāruvigraha"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p3",
+      "words": [
+        "w3"
+      ],
+      "sa": "भक्तवत्सलम्",
+      "iast": "bhaktavatsalam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "भक्तवत्सल",
+          "iast": "bhaktavatsala"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p4",
+      "words": [
+        "w4"
+      ],
+      "sa": "स्थितम्",
+      "iast": "sthitam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "स्थित",
+          "iast": "sthita"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular",
+        "krt": {
+          "dhatu": {
+            "sa": "स्था",
+            "iast": "sthā",
+            "gana": 1
+          },
+          "prefixes": [],
+          "suffix": "kta"
+        }
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p5",
+      "words": [
+        "w5"
+      ],
+      "sa": "समस्तलोकविग्रहम्",
+      "iast": "samastalokavigraham",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "समस्तलोकविग्रह",
+          "iast": "samastalokavigraha"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p6",
+      "words": [
+        "w6"
+      ],
+      "sa": "निक्वणन्मनोज्ञहेमकिङ्किणीलसत्कटिम्",
+      "iast": "nikvaṇanmanojñahemakiṅkiṇīlasatkaṭim",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "निक्वणन्मनोज्ञहेमकिङ्किणीलसत्कटि",
+          "iast": "nikvaṇanmanojñahemakiṅkiṇīlasatkaṭi"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p7",
+      "words": [
+        "w7",
+        "w8"
+      ],
+      "sa": "काशिकापुराधिनाथकालभैरवम्",
+      "iast": "kāśikāpurādhināthakālabhairavam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "काशिकापुराधिनाथकालभैरव",
+          "iast": "kāśikāpurādhināthakālabhairava"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p8"
+    },
+    {
+      "id": "p8",
+      "words": [
+        "w9"
+      ],
+      "sa": "भजे",
+      "iast": "bhaje",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "भज्",
+          "iast": "bhaj",
+          "gana": 1
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8"
+  ],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "The giver of worldly joys and of freedom,"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "whose form is praised and lovely,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "tender toward His devotees,"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "who abides"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "with the whole world as His body,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "whose waist shines with lovely golden bells, softly jingling:"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "I worship"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "Kālabhairava,"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "the supreme lord of the city of Kāśī."
+          }
+        ]
+      ],
+      "bhavartha": "Kālabhairava gives both the good things of this world and release from it. His form is lovely and worthy of praise, He is tender toward those devoted to Him, and He abides with the whole world as His body. Little golden bells glitter and chime at His waist. The singer worships Him: Kālabhairava, the supreme lord of the city of Kāśī."
+    },
+    "hi": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "जो भोग और मोक्ष दोनों देते हैं,"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "जिनका रूप प्रशंसनीय और सुन्दर है,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "जो भक्तों पर स्नेह रखते हैं,"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "सारे संसार को अपना शरीर बनाकर"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "जो स्थित हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "जिनकी कमर पर सोने की सुन्दर घंटियाँ रुनझुन करती हुई चमक रही हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "काशी नगरी के अधिपति"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "कालभैरव को"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "मैं भजता हूँ।"
+          }
+        ]
+      ],
+      "bhavartha": "कालभैरव संसार के भोग भी देते हैं और उससे मुक्ति भी। उनका रूप सुन्दर और प्रशंसा के योग्य है, वे भक्तों पर स्नेह रखते हैं, और सारा संसार ही उनका शरीर है, जिसमें वे स्थित हैं। उनकी कमर पर सोने की छोटी घंटियाँ चमकती हैं और मधुर रुनझुन करती हैं। ऐसे काशी नगरी के अधिपति कालभैरव को भक्त भजता है।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": [
+        "w3"
+      ],
+      "kind": "wordplay",
+      "body": {
+        "en": "Inside *vatsala* sits *vatsa*, a calf. The word first means a parent's love for its young, and it is used of a cow longing for her calf. So *bhakta-vatsala* says that Kālabhairava feels for His devotees what that cow feels for her calf.\n\nThe lord whose very name means 'terrible' ([verse 1](#v1-a3)) is, toward His own, all tenderness.",
+        "hi": "*वत्सल* के भीतर *वत्स* है, यानी बछड़ा। इस शब्द का पहला अर्थ है अपनी सन्तान के प्रति प्रेम, और यह उस गाय के लिए भी आता है जो अपने बछड़े के लिए तरसती है। इसलिए *भक्त-वत्सल* कहता है कि कालभैरव अपने भक्तों के लिए वैसा ही अनुभव करते हैं जैसा वह गाय अपने बछड़े के लिए।\n\nजिनके नाम का ही अर्थ 'भयानक' है ([पहला श्लोक](#v1-a3)), वे अपनों के प्रति केवल कोमलता हैं।"
+      },
+      "citations": [
+        {
+          "source": "mw-vatsa",
+          "locator": "MW vatsa, p. 915,3",
+          "quote": "a calf, the young of any animal"
+        },
+        {
+          "source": "mw-vatsala",
+          "locator": "MW vatsala, p. 916,1",
+          "quote": "a cow longing for her calf"
+        },
+        {
+          "source": "mw-vatsala",
+          "locator": "MW vatsala, p. 916,1",
+          "quote": "kind, loving, tender, fond of or devoted to"
+        },
+        {
+          "source": "mw-bhaktavatsala",
+          "locator": "MW bhakta-vatsala, p. 743,1",
+          "quote": "kind to worshippers or to faithful attendants"
+        },
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 202, verse 4, Hindi translation",
+          "quote": "भक्तोंके प्रिय"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": [
+        "w4",
+        "w5"
+      ],
+      "kind": "theology",
+      "body": {
+        "en": "The verse says *vigraha*, form or body, twice. In the first line it is a form you could look at: praised and lovely (*praśasta-cāru-vigraha*). In the second, His *vigraha* is *samasta-loka*, the whole world. The god with a beautiful shape is also the one whose shape is everything there is.\n\n*Sthita*, standing, abiding, holds the two together: He abides, with the world as His body. *Vigraha* is also a name of Śiva.",
+        "hi": "श्लोक में *विग्रह* (रूप, शरीर) शब्द दो बार आता है। पहली पंक्ति में यह ऐसा रूप है जिसे देखा जा सके: प्रशंसनीय और सुन्दर (*प्रशस्त-चारु-विग्रह*)। दूसरी पंक्ति में उनका *विग्रह* *समस्त-लोक* है, यानी सारा संसार। सुन्दर आकार वाले देव ही वे हैं जिनका आकार सब कुछ है।\n\n*स्थित*, यानी टिके हुए, विद्यमान, दोनों को जोड़ता है: संसार ही उनका शरीर है और वे उसमें स्थित हैं। *विग्रह* शिव का एक नाम भी है।"
+      },
+      "citations": [
+        {
+          "source": "mw-vigraha",
+          "locator": "MW 2. vi-graha, p. 957,2",
+          "quote": "separate i.e. individual form or shape, form, figure, the body"
+        },
+        {
+          "source": "mw-vigraha",
+          "locator": "MW 2. vi-graha, p. 957,2",
+          "quote": "N. of Śiva, MBh."
+        },
+        {
+          "source": "mw-samastaloka",
+          "locator": "MW samasta-loka, p. 1158,1",
+          "quote": "the whole world"
+        },
+        {
+          "source": "mw-sthita",
+          "locator": "MW sthita, p. 1264,1",
+          "quote": "standing, staying, situated, resting or abiding or remaining in"
+        },
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 202, verse 4, Hindi translation",
+          "quote": "सारा संसार ही जिनका शरीर है"
+        },
+        {
+          "source": "shlokam-kalabhairava",
+          "locator": "verse 4, Word meanings",
+          "quote": "form of the entire world"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": [
+        "w6"
+      ],
+      "kind": "sound",
+      "body": {
+        "en": "This line is for the ears and the eyes. *Nikvaṇat* is jingling, from a root meaning to sound or tinkle. *Kiṅkiṇī* are small bells, here of gold (*hema*) and *manojña*, pleasing to the mind. Then *lasat*, shining; its root can also mean to sound and to play, so the waist flashes and rings at once.\n\nPicture it: the lord named the Terrible, with tiny gold bells glittering and chiming at His waist.",
+        "hi": "यह पंक्ति कानों और आँखों, दोनों के लिए है। *निक्वणत्* यानी रुनझुन करती हुई, ऐसे मूल शब्द से जिसका अर्थ है बजना, खनकना। *किङ्किणी* छोटी घंटियाँ हैं, यहाँ सोने की (*हेम*) और *मनोज्ञ*, मन को भाने वाली। फिर *लसत्*, चमकती हुई; इसके मूल का अर्थ बजना और खेलना भी है, इसलिए कमर एक साथ चमकती भी है और खनकती भी।\n\nकल्पना कीजिए: 'भयानक' नाम वाले स्वामी, और उनकी कमर पर चमकती, खनकती सोने की नन्ही घंटियाँ।"
+      },
+      "citations": [
+        {
+          "source": "mw-kvan",
+          "locator": "MW √kvaṇ, p. 324,2",
+          "quote": "to sound, make any sound, tinkle"
+        },
+        {
+          "source": "mw-kinkini",
+          "locator": "MW kiṅkiṇī, p. 282,1",
+          "quote": "a small bell"
+        },
+        {
+          "source": "mw-heman",
+          "locator": "MW 3. heman, p. 1304,2",
+          "quote": "gold"
+        },
+        {
+          "source": "mw-manojna",
+          "locator": "MW mano-jña, p. 785,1",
+          "quote": "agreeable to the mind, pleasing, lovely"
+        },
+        {
+          "source": "mw-las",
+          "locator": "MW 1. √las, p. 899,1",
+          "quote": "to shine, flash, glitter"
+        },
+        {
+          "source": "mw-las",
+          "locator": "MW 1. √las, p. 899,1",
+          "quote": "to sound, resound"
+        },
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 202, verse 4, Hindi translation",
+          "quote": "रुनझुन करती हुई सुशोभित हो रही है"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "भुक्ति",
+          "iast": "bhukti"
+        },
+        {
+          "sa": "मुक्ति",
+          "iast": "mukti"
+        },
+        {
+          "sa": "दायकम्",
+          "iast": "dāyakam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (praśasta): bhuktimuktidāyakam → bhuktimuktidāyakaṃ.",
+            "hi": "अगले शब्द (प्रशस्त) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भुक्तिमुक्तिदायकम् → भुक्तिमुक्तिदायकं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भुक्ति",
+          "iast": "bhukti",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भुज्",
+            "iast": "bhuj",
+            "gana": 7,
+            "gloss": {
+              "en": "to enjoy",
+              "hi": "भोगना"
+            }
+          },
+          "formation": "√bhuj + ktin (action noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "bhukti",
+            "gloss": "enjoyment, eating, consuming"
+          },
+          "meaning": {
+            "en": "enjoyment",
+            "hi": "भोग"
+          }
+        },
+        {
+          "sa": "मुक्ति",
+          "iast": "mukti",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "मुच्",
+            "iast": "muc",
+            "gana": 6,
+            "gloss": {
+              "en": "to set free",
+              "hi": "छोड़ना, मुक्त करना"
+            }
+          },
+          "formation": "√muc + ktin (action noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "mukti",
+            "gloss": "release, liberation, deliverance; final liberation (= mokṣa)"
+          },
+          "meaning": {
+            "en": "liberation",
+            "hi": "मोक्ष"
+          }
+        },
+        {
+          "sa": "दायक",
+          "iast": "dāyaka",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "दा",
+            "iast": "dā",
+            "gana": 3,
+            "gloss": {
+              "en": "to give",
+              "hi": "देना"
+            }
+          },
+          "formation": "√dā + ṇvul (agent noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "dāyaka",
+            "gloss": "giving, granting, bestowing"
+          },
+          "meaning": {
+            "en": "giver",
+            "hi": "देने वाला"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who gives worldly joys and freedom",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो भोग और मोक्ष देते हैं"
+      },
+      "literal": {
+        "en": "the giver of enjoyment and liberation",
+        "hi": "भुक्ति और मुक्ति देने वाले"
+      },
+      "aside": {
+        "en": "Two gifts that seem to pull apart: *bhukti*, enjoying the good things of life, and *mukti*, release from it all. He gives both.",
+        "hi": "दो वरदान जो उलटे लगते हैं: *भुक्ति*, जीवन की अच्छी चीज़ों का भोग, और *मुक्ति*, उन सबसे छुटकारा। वे दोनों देते हैं।"
+      },
+      "notes": {
+        "en": "bhukti (from √bhuj, 'to enjoy') is worldly enjoyment; mukti (from √muc, 'to set free') is final release. dāyaka 'giver' takes the -m ending because the whole word describes the one worshipped.",
+        "hi": "भुक्ति (√भुज्, 'भोगना' से) सांसारिक भोग है; मुक्ति (√मुच्, 'छोड़ना' से) अन्तिम छुटकारा। दायक 'देने वाला' के अन्त में '-म्' है, क्योंकि पूरा शब्द उन्हीं का वर्णन करता है जिन्हें भजा जा रहा है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-bhukti",
+        "mw-mukti",
+        "mw-dayaka",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w2": {
+      "compound": "c2",
+      "padaccheda": [
+        {
+          "sa": "प्रशस्त",
+          "iast": "praśasta"
+        },
+        {
+          "sa": "चारु",
+          "iast": "cāru"
+        },
+        {
+          "sa": "विग्रहम्",
+          "iast": "vigraham"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (bhakta): praśastacāruvigraham → praśastacāruvigrahaṃ.",
+            "hi": "अगले शब्द (भक्त) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रशस्तचारुविग्रहम् → प्रशस्तचारुविग्रहं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रशस्त",
+          "iast": "praśasta",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "शंस्",
+            "iast": "śaṃs",
+            "gana": 1,
+            "prefixes": [
+              "pra"
+            ],
+            "gloss": {
+              "en": "to praise",
+              "hi": "प्रशंसा करना"
+            }
+          },
+          "formation": "pra + √śaṃs + kta (past participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "praśasta",
+            "gloss": "praised, commended, considered fit or good"
+          },
+          "meaning": {
+            "en": "praised",
+            "hi": "प्रशंसित"
+          }
+        },
+        {
+          "sa": "चारु",
+          "iast": "cāru",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "चारु",
+            "iast": "cāru"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "cāru",
+            "gloss": "pleasing, lovely, beautiful, pretty"
+          },
+          "meaning": {
+            "en": "lovely",
+            "hi": "सुन्दर"
+          }
+        },
+        {
+          "sa": "विग्रह",
+          "iast": "vigraha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "विग्रह",
+            "iast": "vigraha"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "vi-graha",
+            "gloss": "form, figure, the body"
+          },
+          "meaning": {
+            "en": "form",
+            "hi": "रूप"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) whose form is praised and lovely",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जिनका रूप प्रशंसनीय और सुन्दर है"
+      },
+      "notes": {
+        "en": "praśastaḥ cāruḥ ca vigrahaḥ yasya, 'whose form is praised and lovely'. vigraha here is a visible form; the next line uses the same word for the whole world as His body.",
+        "hi": "प्रशस्तः चारुः च विग्रहः यस्य, 'जिनका रूप प्रशंसित और सुन्दर है'। यहाँ विग्रह दिखाई देने वाला रूप है; अगली पंक्ति यही शब्द सारे संसार रूपी शरीर के लिए लेती है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-prashasta",
+        "mw-caru",
+        "mw-vigraha",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w3": {
+      "compound": "c3",
+      "padaccheda": [
+        {
+          "sa": "भक्त",
+          "iast": "bhakta"
+        },
+        {
+          "sa": "वत्सलम्",
+          "iast": "vatsalam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (sthita): bhaktavatsalam → bhaktavatsalaṃ.",
+            "hi": "अगले शब्द (स्थित) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भक्तवत्सलम् → भक्तवत्सलं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भक्त",
+          "iast": "bhakta",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": {
+              "en": "to serve, to worship",
+              "hi": "भजना, सेवा करना"
+            }
+          },
+          "formation": "√bhaj + kta (past participle, used as a noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "bhakta",
+            "gloss": "a worshipper, votary"
+          },
+          "meaning": {
+            "en": "devotees",
+            "hi": "भक्त"
+          }
+        },
+        {
+          "sa": "वत्सल",
+          "iast": "vatsala",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "वत्सल",
+            "iast": "vatsala"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "vatsala",
+            "gloss": "kind, loving, tender, fond of or devoted to"
+          },
+          "meaning": {
+            "en": "tender",
+            "hi": "स्नेही"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who is tender toward His devotees",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो भक्तों पर स्नेह रखते हैं"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "bhakteṣu vatsalaḥ, 'tender toward the devotees'. bhakta comes from the same root as bhaje in the refrain: the devotee is the one who worships.",
+        "hi": "भक्तेषु वत्सलः, 'भक्तों पर स्नेह रखने वाले'। भक्त उसी धातु से है जिससे अन्तिम पंक्ति का भजे: भक्त वह है जो भजता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-bhaktavatsala",
+        "mw-bhakta",
+        "mw-vatsala",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w4": {
+      "padaccheda": [
+        {
+          "sa": "स्थितम्",
+          "iast": "sthitam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (samasta): sthitam → sthitaṃ.",
+            "hi": "अगले शब्द (समस्त) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: स्थितम् → स्थितं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "स्थित",
+          "iast": "sthita",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "स्था",
+            "iast": "sthā",
+            "gana": 1,
+            "gloss": {
+              "en": "to stand, to stay",
+              "hi": "ठहरना, स्थित होना"
+            }
+          },
+          "formation": "√sthā + kta (past participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "sthita",
+            "gloss": "standing, staying, situated, resting or abiding or remaining in"
+          },
+          "meaning": {
+            "en": "abiding",
+            "hi": "स्थित"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who abides",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो स्थित हैं"
+      },
+      "notes": {
+        "en": "sthita 'standing, abiding' goes closely with the next word: He abides, with the whole world as His body. A few printings read sthiram, 'steady, firm', which gives nearly the same sense.",
+        "hi": "स्थित 'टिके हुए, विद्यमान' अगले शब्द से जुड़ता है: सारे संसार को शरीर बनाकर वे स्थित हैं। कुछ मुद्रित पाठों में स्थिरम् 'स्थिर, अटल' है, जिसका अर्थ लगभग वही है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "steadfast, firm (reading sthiram)",
+            "hi": "स्थिर, अटल (पाठ स्थिरम्)"
+          },
+          "note": "vanivilas-1910-works-18 prints स्थिर and sanskritdocuments-kaalabhairava records (स्थिरम्); gitapress-shiv-stotra-ratnakar reads स्थितं but its Hindi has स्थिर-शिवस्वरूप; greenmesg-kalabhairava translates 'Stands Firm'."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-sthita",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w5": {
+      "compound": "c4",
+      "padaccheda": [
+        {
+          "sa": "समस्त",
+          "iast": "samasta"
+        },
+        {
+          "sa": "लोक",
+          "iast": "loka"
+        },
+        {
+          "sa": "विग्रहम्",
+          "iast": "vigraham"
+        }
+      ],
+      "components": [
+        {
+          "sa": "समस्त",
+          "iast": "samasta",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "अस्",
+            "iast": "as",
+            "gana": 4,
+            "prefixes": [
+              "sam"
+            ],
+            "gloss": {
+              "en": "to throw",
+              "hi": "फेंकना"
+            }
+          },
+          "formation": "sam + √as + kta ('thrown together')",
+          "sense": {
+            "dict": "mw",
+            "headword": "sam-asta",
+            "gloss": "thrown or put together, combined, united, whole, all"
+          },
+          "meaning": {
+            "en": "whole",
+            "hi": "समस्त"
+          }
+        },
+        {
+          "sa": "लोक",
+          "iast": "loka",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "लोक",
+            "iast": "loka"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "loka",
+            "gloss": "the wide space or world"
+          },
+          "meaning": {
+            "en": "world",
+            "hi": "संसार"
+          }
+        },
+        {
+          "sa": "विग्रह",
+          "iast": "vigraha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "विग्रह",
+            "iast": "vigraha"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "vi-graha",
+            "gloss": "form, figure, the body"
+          },
+          "meaning": {
+            "en": "body",
+            "hi": "शरीर"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) whose body is the whole world",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) सारा संसार जिनका शरीर है"
+      },
+      "notes": {
+        "en": "samastaḥ lokaḥ vigrahaḥ yasya, 'whose body is the whole world'. The same word vigraha closed line 1 as a lovely visible form; here it is stretched to cover everything.",
+        "hi": "समस्तः लोकः विग्रहः यस्य, 'सारा संसार जिनका शरीर है'। यही विग्रह शब्द पहली पंक्ति के अन्त में सुन्दर, दिखाई देने वाले रूप के लिए आया था; यहाँ वह सब कुछ समेट लेता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-samastaloka",
+        "mw-samasta",
+        "mw-loka",
+        "mw-vigraha",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava"
+      ]
+    },
+    "w6": {
+      "compound": "c5",
+      "padaccheda": [
+        {
+          "sa": "निक्वणत्",
+          "iast": "nikvaṇat"
+        },
+        {
+          "sa": "मनोज्ञ",
+          "iast": "manojña"
+        },
+        {
+          "sa": "हेम",
+          "iast": "hema"
+        },
+        {
+          "sa": "किङ्किणी",
+          "iast": "kiṅkiṇī"
+        },
+        {
+          "sa": "लसत्",
+          "iast": "lasat"
+        },
+        {
+          "sa": "कटिम्",
+          "iast": "kaṭim"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anunāsika",
+          "rule": "t + m → n + m",
+          "explanation": {
+            "en": "The final t of nikvaṇat becomes n before the m of manojña: nikvaṇat + manojña → nikvaṇanmanojña.",
+            "hi": "निक्वणत् का अन्तिम 'त्' आगे के 'म' (मनोज्ञ) के कारण 'न्' बन जाता है: निक्वणत् + मनोज्ञ → निक्वणन्मनोज्ञ।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (kāśikā): …kaṭim → …kaṭiṃ.",
+            "hi": "अगले शब्द (काशिका) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: …कटिम् → …कटिं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "निक्वणत्",
+          "iast": "nikvaṇat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "क्वण्",
+            "iast": "kvaṇ",
+            "gana": 1,
+            "prefixes": [
+              "ni"
+            ],
+            "gloss": {
+              "en": "to sound, to tinkle",
+              "hi": "बजना, खनकना"
+            }
+          },
+          "formation": "ni + √kvaṇ + śatṛ (present participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "kvaṇ",
+            "gloss": "to sound, make any sound, tinkle"
+          },
+          "meaning": {
+            "en": "jingling",
+            "hi": "रुनझुन करती"
+          }
+        },
+        {
+          "sa": "मनोज्ञ",
+          "iast": "manojña",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "मनोज्ञ",
+            "iast": "manojña"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "mano-jña",
+            "gloss": "agreeable to the mind, pleasing, lovely, beautiful, charming"
+          },
+          "meaning": {
+            "en": "lovely",
+            "hi": "मनोहर"
+          }
+        },
+        {
+          "sa": "हेम",
+          "iast": "hema",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "हेमन्",
+            "iast": "heman"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "heman",
+            "gloss": "gold"
+          },
+          "meaning": {
+            "en": "golden",
+            "hi": "सोने की"
+          }
+        },
+        {
+          "sa": "किङ्किणी",
+          "iast": "kiṅkiṇī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "किङ्किणी",
+            "iast": "kiṅkiṇī"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kiṅkiṇī",
+            "gloss": "a small bell"
+          },
+          "meaning": {
+            "en": "little bells",
+            "hi": "घंटियाँ"
+          }
+        },
+        {
+          "sa": "लसत्",
+          "iast": "lasat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "लस्",
+            "iast": "las",
+            "gana": 1,
+            "gloss": {
+              "en": "to shine, to glitter",
+              "hi": "चमकना"
+            }
+          },
+          "formation": "√las + śatṛ (present participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "las",
+            "gloss": "to shine, flash, glitter"
+          },
+          "meaning": {
+            "en": "shining",
+            "hi": "चमकती"
+          }
+        },
+        {
+          "sa": "कटि",
+          "iast": "kaṭi",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "कटि",
+            "iast": "kaṭi"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kaṭi",
+            "gloss": "the hip"
+          },
+          "meaning": {
+            "en": "waist",
+            "hi": "कमर"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) whose waist shines with lovely golden bells that jingle",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जिनकी कमर रुनझुन करती सुन्दर सोने की घंटियों से चमक रही है"
+      },
+      "notes": {
+        "en": "One long describing word, ending in kaṭim 'waist'. Most printings begin the line with vinikvaṇan; this text has nikvaṇan, as the 1910 print does, because the extra syllable vi- would make the line 16 syllables instead of the hymn's steady 15. The sense is the same: vi- only strengthens 'jingling'. hema is the form heman 'gold' takes at the front of a compound.",
+        "hi": "एक लम्बा वर्णनात्मक शब्द, जो कटिम् 'कमर' पर पूरा होता है। अधिकतर मुद्रित पाठों में पंक्ति विनिक्वणन् से शुरू होती है; यहाँ निक्वणन् है, जैसा 1910 के मुद्रित पाठ में है, क्योंकि 'वि' जोड़ने से पंक्ति में स्तोत्र के नियमित 15 के बदले 16 अक्षर हो जाते हैं। अर्थ वही है: 'वि' केवल 'खनकने' को और गहरा करता है। समास के आरम्भ में हेमन् 'सोना' का रूप हेम हो जाता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "jingling all around (reading vinikvaṇan)",
+            "hi": "खूब रुनझुन करती (पाठ विनिक्वणन्)"
+          },
+          "note": "विनिक्वणन् in sanskritdocuments-kaalabhairava, gitapress-shiv-stotra-ratnakar, ramakrishna-math-mantrapushpam, greenmesg-kalabhairava, shlokam-kalabhairava; निक्वणन् in vanivilas-1910-works-18, the bracketed variant of sanskritdocuments-kaalabhairava, and sanskritdocuments-shivarahasya-kalabhairava. Chosen for the meter (text-report); human to confirm."
+        }
+      ],
+      "confidence": "high",
+      "sources": [
+        "mw-kvan",
+        "mw-nikvana",
+        "mw-manojna",
+        "mw-heman",
+        "mw-kinkini",
+        "mw-las",
+        "mw-kati",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w7": {
+      "compound": "c6",
+      "padaccheda": [
+        {
+          "sa": "काशिका",
+          "iast": "kāśikā"
+        },
+        {
+          "sa": "पुर",
+          "iast": "pura"
+        },
+        {
+          "sa": "अधिनाथ",
+          "iast": "adhinātha"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of pura and the first a of adhinātha merge into a long ā: pura + adhinātha → purādhinātha.",
+            "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "काशिका",
+          "iast": "kāśikā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "काशिका",
+            "iast": "kāśikā"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kāśikā",
+            "gloss": "'the city of the Kāśis', Benares"
+          },
+          "meaning": {
+            "en": "Kāśī",
+            "hi": "काशी"
+          }
+        },
+        {
+          "sa": "पुर",
+          "iast": "pura",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "pura",
+            "gloss": "a fortress, castle, city, town"
+          },
+          "meaning": {
+            "en": "city",
+            "hi": "नगरी"
+          }
+        },
+        {
+          "sa": "अधिनाथ",
+          "iast": "adhinātha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "अधिनाथ",
+            "iast": "adhinātha"
+          },
+          "formation": "adhi ('over, above') + nātha ('lord')",
+          "sense": {
+            "dict": "mw",
+            "headword": "adhi-nātha",
+            "gloss": "a supreme lord, chieftain"
+          },
+          "meaning": {
+            "en": "supreme lord",
+            "hi": "अधिपति"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the supreme lord of the city of Kāśī",
+        "hi": "काशी नगरी के अधिपति"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Kāśikā is Kāśī, the city also called Benares (Vārāṇasī). adhi-nātha is more than nātha 'lord': the prefix adhi- makes Him the lord over all. The title runs on into the name Kālabhairava.",
+        "hi": "काशिका यानी काशी, जिसे बनारस (वाराणसी) भी कहते हैं। अधि-नाथ केवल नाथ 'स्वामी' नहीं: 'अधि' उन्हें सबके ऊपर का स्वामी बनाता है। यह उपाधि कालभैरव नाम से जुड़ी है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-kashika",
+        "mw-kashi",
+        "mw-pura",
+        "mw-adhinatha",
+        "mw-natha",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w8": {
+      "compound": "c6",
+      "padaccheda": [
+        {
+          "sa": "काल",
+          "iast": "kāla"
+        },
+        {
+          "sa": "भैरवम्",
+          "iast": "bhairavam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): kālabhairavam → kālabhairavaṃ.",
+            "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "काल",
+          "iast": "kāla",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kāla",
+            "gloss": "black, of a dark colour; time (in general)"
+          },
+          "meaning": {
+            "en": "black; time",
+            "hi": "काला; समय"
+          }
+        },
+        {
+          "sa": "भैरव",
+          "iast": "bhairava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "भैरव",
+            "iast": "bhairava"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "bhairava",
+            "gloss": "N. of a form of Śiva; frightful, terrible"
+          },
+          "meaning": {
+            "en": "Bhairava",
+            "hi": "भैरव"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "Kālabhairava",
+        "hi": "कालभैरव को"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Kāla-bhairava is a form of Bhairava, the fierce form of Śiva. kāla can mean 'black' and 'time'; bhairava means 'terrible'. The ending -m marks Him as the one worshipped (bhaje).",
+        "hi": "काल-भैरव भैरव का एक रूप है, जो शिव का उग्र रूप है। काल का अर्थ 'काला' भी है और 'समय' भी; भैरव का अर्थ है 'भयानक'। अन्त का '-म्' बताता है कि उन्हीं को भजा जा रहा है (भजे)।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-kalabhairava",
+        "mw-kala",
+        "mw-bhairava",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w9": {
+      "padaccheda": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje"
+        }
+      ],
+      "components": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": {
+              "en": "to serve, to worship",
+              "hi": "भजना, सेवा करना"
+            }
+          },
+          "formation": "laṭ, first person singular, ātmanepada",
+          "sense": {
+            "dict": "mw",
+            "headword": "bhaj",
+            "gloss": "to serve, honour, revere, love, adore"
+          },
+          "meaning": {
+            "en": "I worship",
+            "hi": "भजता हूँ"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "I worship",
+        "hi": "मैं भजता हूँ"
+      },
+      "notes": {
+        "en": "From √bhaj, 'to serve, revere, love': the root of bhakti and bhajan. The form itself says 'I', so no separate word for 'I' is needed.",
+        "hi": "√भज् से, 'सेवा करना, आदर करना, प्रेम करना': इसी धातु से भक्ति और भजन बने हैं। रूप स्वयं 'मैं' बताता है, इसलिए 'मैं' के लिए अलग शब्द नहीं चाहिए।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-bhaj",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  },
+  "_new_concepts": {
+    "world-as-body": {
+      "name": {
+        "en": "The whole world as His body",
+        "hi": "सारा संसार उनका शरीर"
+      },
+      "description": {
+        "en": "The hymn calls Kālabhairava samasta-loka-vigraha: the One whose body is the whole world. The lord with a lovely, visible form is also the one whose form is everything there is.",
+        "hi": "स्तोत्र कालभैरव को समस्त-लोक-विग्रह कहता है: जिनका शरीर सारा संसार है। सुन्दर, दिखाई देने वाले रूप वाले स्वामी ही वे हैं जिनका रूप सब कुछ है।"
+      }
+    }
+  }
+}

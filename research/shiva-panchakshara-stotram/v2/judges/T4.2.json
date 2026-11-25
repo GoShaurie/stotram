@@ -1,0 +1,12 @@
+{
+  "check": "T4.2",
+  "fields_hash": "301613dc2bc72e5b",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w3.components[0].sense",
+      "message": "mw-mandara gives two senses that could fit here: 'the coral tree, Erythrina Indica (also regarded as one of the 5 trees of paradise or Svarga)' and 'a white variety of Calotropis Gigantea'. The data picks the coral tree. That reading is defensible, since it pairs well with the heavenly Mandākinī in pāda 1. But the white Calotropis (madār/āk) flower is the one actually offered in Śiva worship, and neither gitapress-stotraratnavali nor sanskritdocuments-panch says which plant is meant. The data does not record the second sense. A human should decide whether to note it.",
+      "suggested_fix": "Keep 'coral tree', and add a short note or alternative mentioning the white Calotropis (madār) sense listed in mw-mandara, which is the flower commonly offered to Śiva."
+    }
+  ]
+}

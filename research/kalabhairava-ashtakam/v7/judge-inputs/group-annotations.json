@@ -1,0 +1,1544 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "kalabhairava-ashtakam",
+    "title": {
+      "sa": "कालभैरवाष्टकम्",
+      "iast": "Kālabhairavāṣṭakam",
+      "en": "Kalabhairava Ashtakam",
+      "hi": "कालभैरवाष्टकम्"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Ādi Śaṅkarācārya.",
+      "hi": "परम्परा से आदि शंकराचार्य द्वारा रचित माना जाता है।"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-kaalabhairava",
+        "name": "sanskritdocuments.org — Kalabhairava Ashtakam (kaalabhairava.itx, with bracketed variants); read from the Wayback copy of 2025-09-16",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250916110801/https://sanskritdocuments.org/doc_shiva/kaalabhairava.html"
+      },
+      {
+        "id": "vanivilas-1910-works-18",
+        "name": "Works of Sri Sankaracharya, vol. 18, Sri Vani Vilas Press, Srirangam, 1910, pp. 89–91",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 201–204, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, pp. 482–484; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/482/mode/1up"
+      },
+      {
+        "id": "greenmesg-kalabhairava",
+        "name": "greenmesg.org — Kalabhairava Ashtakam (line-by-line English); Devanagari follows sanskritdocuments; read from the Wayback copy of 2026-08-08",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20260808044122/https://www.greenmesg.org/stotras/shiva/kalabhairava_ashtakam.php"
+      },
+      {
+        "id": "shlokam-kalabhairava",
+        "name": "shlokam.org — Kalabhairavashtakam (translation with word meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/kalabhairavashtakam/"
+      },
+      {
+        "id": "sanskritdocuments-shivarahasya-kalabhairava",
+        "name": "sanskritdocuments.org — Kālabhairavāṣṭakam from the Śivarahasya (11.34.53–61), a related recension used for comparison; Wayback copy of 2025-02-25",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250225151523/https://sanskritdocuments.org/doc_shiva/kAlabhairavAShTakam1.html"
+      },
+      {
+        "id": "mw-kalabhairava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kālabhairava' (SLP1 key: kAlaBErava)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAlaBErava"
+      },
+      {
+        "id": "mw-kashika",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāśikā' (SLP1 key: kASikA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kASikA"
+      },
+      {
+        "id": "mw-natha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nātha' (SLP1 key: nATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nATa"
+      },
+      {
+        "id": "mw-adhinatha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'adhinātha' (SLP1 key: aDinATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aDinATa"
+      },
+      {
+        "id": "mw-bhairava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhairava' (SLP1 key: BErava)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BErava"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-kala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāla' (SLP1 key: kAla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAla"
+      },
+      {
+        "id": "mw-pura",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pura' (SLP1 key: pura)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pura"
+      },
+      {
+        "id": "mw-kashi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāśī' (SLP1 key: kASI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kASI"
+      },
+      {
+        "id": "mw-dayaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dāyaka' (SLP1 key: dAyaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=dAyaka"
+      },
+      {
+        "id": "mw-anda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṇḍa' (SLP1 key: aRqa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aRqa"
+      },
+      {
+        "id": "mw-ashta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṣṭa' (SLP1 key: azwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=azwa"
+      },
+      {
+        "id": "mw-attahasa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṭṭahāsa' (SLP1 key: awwahAsa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=awwahAsa"
+      },
+      {
+        "id": "mw-bhinna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhinna' (SLP1 key: Binna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Binna"
+      },
+      {
+        "id": "mw-dhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhara' (SLP1 key: Dara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Dara"
+      },
+      {
+        "id": "mw-drshtipata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dṛṣṭipāta' (SLP1 key: dfzwipAta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=dfzwipAta"
+      },
+      {
+        "id": "mw-kapala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kapāla' (SLP1 key: kapAla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kapAla"
+      },
+      {
+        "id": "mw-malika",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mālikā' (SLP1 key: mAlikA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mAlikA"
+      },
+      {
+        "id": "mw-nashta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'naṣṭa' (SLP1 key: nazwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nazwa"
+      },
+      {
+        "id": "mw-samtati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'saṃtati' (SLP1 key: saMtati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=saMtati"
+      },
+      {
+        "id": "mw-siddhi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'siddhi' (SLP1 key: sidDi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sidDi"
+      },
+      {
+        "id": "mw-ugrashasana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ugraśāsana' (SLP1 key: ugraSAsana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ugraSAsana"
+      },
+      {
+        "id": "mw-brahmanda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'brahmāṇḍa' (SLP1 key: brahmARqa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=brahmARqa"
+      },
+      {
+        "id": "mw-drshti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dṛṣṭi' (SLP1 key: dfzwi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=dfzwi"
+      },
+      {
+        "id": "mw-jala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jāla' (SLP1 key: jAla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jAla"
+      },
+      {
+        "id": "mw-kosha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kośa' (SLP1 key: koSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=koSa"
+      },
+      {
+        "id": "mw-padmaja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'padmaja' (SLP1 key: padmaja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=padmaja"
+      },
+      {
+        "id": "mw-papa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāpa' (SLP1 key: pApa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pApa"
+      },
+      {
+        "id": "mw-pata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāta' (SLP1 key: pAta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pAta"
+      },
+      {
+        "id": "mw-shasana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śāsana' (SLP1 key: SAsana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SAsana"
+      },
+      {
+        "id": "mw-ugra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ugra' (SLP1 key: ugra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ugra"
+      },
+      {
+        "id": "mw-atta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṭṭa' (SLP1 key: awwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=awwa"
+      },
+      {
+        "id": "mw-attahasita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṭṭahasita' (SLP1 key: awwahasita)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=awwahasita"
+      },
+      {
+        "id": "mw-drshtinipata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dṛṣṭinipāta' (SLP1 key: dfzwinipAta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=dfzwinipAta"
+      },
+      {
+        "id": "mw-hasa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'hāsa' (SLP1 key: hAsa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=hAsa"
+      },
+      {
+        "id": "mw-kapalamalin",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kapālamālin' (SLP1 key: kapAlamAlin)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kapAlamAlin"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v7",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "अट्टहासभिन्नपद्मजाण्डकोशसन्ततिं",
+            "iast": "aṭṭahāsabhinnapadmajāṇḍakośasantatiṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w2",
+            "text": "दृष्टिपातनष्टपापजालमुग्रशासनम्",
+            "iast": "dṛṣṭipātanaṣṭapāpajālamugraśāsanam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "अष्टसिद्धिदायकं",
+            "iast": "aṣṭasiddhidāyakaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "कपालमालिकाधरं",
+            "iast": "kapālamālikādharaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "काशिकापुराधिनाथ",
+            "iast": "kāśikāpurādhinātha"
+          },
+          {
+            "id": "w6",
+            "text": "कालभैरवं",
+            "iast": "kālabhairavaṃ"
+          },
+          {
+            "id": "w7",
+            "text": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "end": "॥ ७ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Hear the laugh before you see what it does. *Aṭṭa-hāsa* is a loud, booming laugh, and it is also a name of Śiva. What it breaks is creation itself. The universe is pictured as an egg, *brahmāṇḍa*, 'Brahmā's egg', and Brahmā is *padmaja*, born from a lotus. Here there is not one egg but a *santati*, an endless row of them, and the laugh cracks their shells (*kośa*) one after another.\n\nKeep the shells in mind: *kapāla*, the skulls He wears in line 3, is also the word for an eggshell.",
+          "hi": "पहले हँसी सुनिए, फिर देखिए कि वह क्या करती है। *अट्ट-हास* ज़ोर की, गूँजती हँसी है, और यह शिव का एक नाम भी है। यह हँसी स्वयं सृष्टि को तोड़ती है। सृष्टि को एक अण्डे के रूप में देखा जाता है, *ब्रह्माण्ड*, 'ब्रह्मा का अण्डा', और ब्रह्मा *पद्मज* हैं, कमल से जन्मे। यहाँ एक अण्डा नहीं, उनकी *सन्तति* है, अनगिनत अण्डों की पंक्ति, और यह हँसी एक के बाद एक उनके खोल (*कोश*) फोड़ देती है।\n\nखोलों को याद रखिए: तीसरी पंक्ति में वे जो कपाल पहनते हैं, उसी शब्द *कपाल* का अर्थ अण्डे का खोल भी है।"
+        },
+        "citations": [
+          {
+            "source": "mw-attahasita",
+            "locator": "MW aṭṭa-hasita, p. 11,2",
+            "quote": "loud laughter, a horselaugh"
+          },
+          {
+            "source": "mw-attahasa",
+            "locator": "MW aṭṭa-hāsa, p. 11,2",
+            "quote": "a name of Śiva"
+          },
+          {
+            "source": "mw-brahmanda",
+            "locator": "MW brahmāṇḍa, p. 740,2",
+            "quote": "the universe, world (also pl.)"
+          },
+          {
+            "source": "mw-padmaja",
+            "locator": "MW padma-ja, p. 584,3",
+            "quote": "N. of Brahmā"
+          },
+          {
+            "source": "mw-samtati",
+            "locator": "MW saṃ-tati, p. 1142,1",
+            "quote": "a continuous line or series or flow, heap, mass, multitude"
+          },
+          {
+            "source": "mw-kosha",
+            "locator": "MW kośa, p. 314,1",
+            "quote": "a case, covering, cover"
+          },
+          {
+            "source": "mw-kapala",
+            "locator": "MW kapāla, p. 250,2",
+            "quote": "the shell of an egg"
+          },
+          {
+            "source": "gitapress-shiv-stotra-ratnakar",
+            "locator": "p. 203, verse 7, Hindi translation",
+            "quote": "जिनके अट्टहाससे ब्रह्माण्डोंके समूह विदीर्ण हो जाते हैं"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w2"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "A net, and a glance. *Jāla* is a net for catching birds or fish, and sins are pictured as one, a mesh we are caught in. The glance is *dṛṣṭi-pāta*, the 'fall' of the eyes: wherever His look lands, the net is gone (*naṣṭa*). After [the noose of our own deeds](#v5-a2), here is a whole net, undone without a hand being lifted.\n\nYet the same word ends on *ugra-śāsana*: His rule is stern. The one who frees with a look is also the strict ruler.",
+          "hi": "एक जाल, और एक दृष्टि। *जाल* पक्षी या मछली पकड़ने का जाल है, और पापों को ऐसे ही जाल की तरह देखा गया है, जिसमें हम फँसे हैं। दृष्टि के लिए शब्द है *दृष्टि-पात*, आँखों का 'पड़ना': उनकी नज़र जहाँ पड़ती है, वहाँ जाल *नष्ट* हो जाता है। [अपने ही कर्मों के पाश](#v5-a2) के बाद यहाँ पूरा जाल है, जो बिना हाथ उठाए खुल जाता है।\n\nफिर भी यही शब्द *उग्र-शासन* पर समाप्त होता है: उनका शासन कठोर है। जो एक दृष्टि से मुक्त करते हैं, वही कड़े शासक भी हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-jala",
+            "locator": "MW 2. jāla, p. 419,3",
+            "quote": "a net (for catching birds, fish &c.)"
+          },
+          {
+            "source": "mw-jala",
+            "locator": "MW 2. jāla, p. 419,3",
+            "quote": "a net (fig.), snare"
+          },
+          {
+            "source": "mw-pata",
+            "locator": "MW 2. pāta, p. 616,3",
+            "quote": "casting or directing (a look or glance of the eyes)"
+          },
+          {
+            "source": "mw-drshtinipata",
+            "locator": "MW dṛṣṭi-nipāta, p. 492,1",
+            "quote": "look, glance"
+          },
+          {
+            "source": "mw-nashta",
+            "locator": "MW naṣṭa, p. 532,1",
+            "quote": "lost, disappeared, perished, destroyed"
+          },
+          {
+            "source": "mw-ugrashasana",
+            "locator": "MW ugra-śāsana, p. 172,3",
+            "quote": "severe in command, strict in orders"
+          },
+          {
+            "source": "gitapress-shiv-stotra-ratnakar",
+            "locator": "p. 203, verse 7, Hindi translation",
+            "quote": "जिनका शासन कठोर है"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "The One whose booming laugh splits the shells of lotus-born Brahmā's world-eggs, one after another,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "whose glance, wherever it falls, wipes out the net of sins,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "whose rule is stern,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "who grants the eight powers,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "who wears a garland of skulls:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "I worship"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "Kālabhairava,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "the supreme lord of the city of Kāśī."
+            }
+          ]
+        ],
+        "bhavartha": "Kālabhairava laughs, and the sound cracks open the shells of the world-eggs of Brahmā, the lotus-born, one after another. Wherever His glance falls, the net of sins is gone, and His rule is stern. He grants the eight powers and wears a garland of skulls. The singer worships Him: Kālabhairava, the supreme lord of the city of Kāśī."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "जिनके गूँजते अट्टहास से कमल से जन्मे ब्रह्मा के ब्रह्माण्डों के खोल एक के बाद एक फट जाते हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "जिनकी दृष्टि जहाँ पड़ती है, वहाँ पापों का जाल मिट जाता है,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "जिनका शासन कठोर है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "जो आठों सिद्धियाँ देते हैं,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "जो कपालों की माला पहनते हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "काशी नगरी के अधिपति"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "कालभैरव को"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "मैं भजता हूँ।"
+            }
+          ]
+        ],
+        "bhavartha": "कालभैरव हँसते हैं, और उस अट्टहास से कमल से जन्मे ब्रह्मा के ब्रह्माण्डों के खोल एक के बाद एक फट जाते हैं। उनकी दृष्टि जहाँ पड़ती है, वहाँ पापों का जाल मिट जाता है, और उनका शासन कठोर है। वे आठों सिद्धियाँ देते हैं और कपालों की माला पहनते हैं। ऐसे काशी नगरी के अधिपति कालभैरव को भक्त भजता है।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "अट्ट",
+            "iast": "aṭṭa"
+          },
+          {
+            "sa": "हास",
+            "iast": "hāsa"
+          },
+          {
+            "sa": "भिन्न",
+            "iast": "bhinna"
+          },
+          {
+            "sa": "पद्मज",
+            "iast": "padmaja"
+          },
+          {
+            "sa": "अण्ड",
+            "iast": "aṇḍa"
+          },
+          {
+            "sa": "कोश",
+            "iast": "kośa"
+          },
+          {
+            "sa": "सन्ततिम्",
+            "iast": "santatim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of padmaja and the first a of aṇḍa merge into a long ā: padmaja + aṇḍa → padmajāṇḍa.",
+              "hi": "पद्मज का अन्तिम 'अ' और अण्ड का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पद्मज + अण्ड → पद्मजाण्ड।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (dṛṣṭi): santatim → santatiṃ.",
+              "hi": "अगले शब्द (दृष्टि) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: सन्ततिम् → सन्ततिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "अट्ट",
+            "iast": "aṭṭa",
+            "pos": "indeclinable",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अट्ट",
+              "iast": "aṭṭa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṭṭa",
+              "gloss": "loud"
+            },
+            "meaning": {
+              "en": "loud",
+              "hi": "ज़ोर का"
+            }
+          },
+          {
+            "sa": "हास",
+            "iast": "hāsa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हस्",
+              "iast": "has",
+              "gana": 1,
+              "gloss": {
+                "en": "to laugh",
+                "hi": "हँसना"
+              }
+            },
+            "formation": "√has + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "hāsa",
+              "gloss": "laughing, laughter, mirth"
+            },
+            "meaning": {
+              "en": "laughter",
+              "hi": "हँसी"
+            }
+          },
+          {
+            "sa": "भिन्न",
+            "iast": "bhinna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भिद्",
+              "iast": "bhid",
+              "gana": 7,
+              "gloss": {
+                "en": "to split, to break",
+                "hi": "फोड़ना, तोड़ना"
+              }
+            },
+            "formation": "√bhid + kta (past passive participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhinna",
+              "gloss": "split, broken, shattered, pierced, destroyed"
+            },
+            "meaning": {
+              "en": "split",
+              "hi": "फटा हुआ"
+            }
+          },
+          {
+            "sa": "पद्मज",
+            "iast": "padmaja",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पद्मज",
+              "iast": "padmaja"
+            },
+            "formation": "padma ('lotus') + ja ('born')",
+            "sense": {
+              "dict": "mw",
+              "headword": "padma-ja",
+              "gloss": "'lotus-born', N. of Brahmā"
+            },
+            "meaning": {
+              "en": "Brahmā",
+              "hi": "ब्रह्मा"
+            }
+          },
+          {
+            "sa": "अण्ड",
+            "iast": "aṇḍa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अण्ड",
+              "iast": "aṇḍa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṇḍa",
+              "gloss": "an egg"
+            },
+            "meaning": {
+              "en": "egg",
+              "hi": "अण्डा"
+            }
+          },
+          {
+            "sa": "कोश",
+            "iast": "kośa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कोश",
+              "iast": "kośa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kośa",
+              "gloss": "a case, covering, cover"
+            },
+            "meaning": {
+              "en": "shell",
+              "hi": "खोल"
+            }
+          },
+          {
+            "sa": "सन्तति",
+            "iast": "santati",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "तन्",
+              "iast": "tan",
+              "gana": 8,
+              "prefixes": [
+                "sam"
+              ],
+              "gloss": {
+                "en": "to stretch, to extend",
+                "hi": "फैलाना"
+              }
+            },
+            "formation": "sam + √tan + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "saṃ-tati",
+              "gloss": "a continuous line or series or flow, heap, mass, multitude"
+            },
+            "meaning": {
+              "en": "row",
+              "hi": "पंक्ति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) whose loud laugh splits the endless row of shells of lotus-born Brahmā's world-eggs",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनके अट्टहास से कमल से जन्मे ब्रह्मा के ब्रह्माण्डों के खोलों की पंक्ति फट जाती है"
+        },
+        "literal": {
+          "en": "by whose loud laugh the series of egg-shells of the lotus-born is split",
+          "hi": "जिनके अट्टहास से पद्मज के अण्ड-कोशों की सन्तति फट गई है"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "padmaja-aṇḍa, 'the egg of the lotus-born', is the brahmāṇḍa, the world-egg that is the universe. santati is a long, unbroken row, so the laugh splits not one world but countless ones. aṭṭahāsa is also a name of Śiva.",
+          "hi": "पद्मज-अण्ड, 'कमल से जन्मे का अण्डा', ब्रह्माण्ड है, यानी पूरा विश्व। सन्तति लम्बी, अटूट पंक्ति है, इसलिए हँसी एक नहीं, अनगिनत विश्वों को फोड़ती है। अट्टहास शिव का एक नाम भी है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whose laugh shatters a series of crores of Brahmā's world-eggs",
+              "hi": "जिनके अट्टहास से ब्रह्मा के करोड़ों ब्रह्माण्डों की पंक्ति फट जाती है"
+            },
+            "note": "sanskritdocuments-shivarahasya-kalabhairava (Śivarahasya recension) reads पद्द्मजाण्डकोटिसन्ततिं, koṭi 'crore' for kośa 'shell'; a recension reading only, not in A B C D."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-attahasa",
+          "mw-attahasita",
+          "mw-atta",
+          "mw-hasa",
+          "mw-bhinna",
+          "mw-padmaja",
+          "mw-anda",
+          "mw-brahmanda",
+          "mw-kosha",
+          "mw-samtati",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w2": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "दृष्टि",
+            "iast": "dṛṣṭi"
+          },
+          {
+            "sa": "पात",
+            "iast": "pāta"
+          },
+          {
+            "sa": "नष्ट",
+            "iast": "naṣṭa"
+          },
+          {
+            "sa": "पाप",
+            "iast": "pāpa"
+          },
+          {
+            "sa": "जालम्",
+            "iast": "jālam"
+          },
+          {
+            "sa": "उग्र",
+            "iast": "ugra"
+          },
+          {
+            "sa": "शासनम्",
+            "iast": "śāsanam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "दृष्टि",
+            "iast": "dṛṣṭi",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दृश्",
+              "iast": "dṛś",
+              "gana": 1,
+              "gloss": {
+                "en": "to see, to look at",
+                "hi": "देखना"
+              }
+            },
+            "formation": "√dṛś + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dṛṣṭi",
+              "gloss": "eye, look, glance"
+            },
+            "meaning": {
+              "en": "glance",
+              "hi": "दृष्टि"
+            }
+          },
+          {
+            "sa": "पात",
+            "iast": "pāta",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पत्",
+              "iast": "pat",
+              "gana": 1,
+              "gloss": {
+                "en": "to fall, to alight",
+                "hi": "गिरना, पड़ना"
+              }
+            },
+            "formation": "√pat + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pāta",
+              "gloss": "casting or directing (a look or glance of the eyes)"
+            },
+            "meaning": {
+              "en": "fall",
+              "hi": "पड़ना"
+            }
+          },
+          {
+            "sa": "नष्ट",
+            "iast": "naṣṭa",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नश्",
+              "iast": "naś",
+              "gana": 4,
+              "gloss": {
+                "en": "to perish, to be lost",
+                "hi": "नष्ट होना"
+              }
+            },
+            "formation": "√naś + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "naṣṭa",
+              "gloss": "lost, disappeared, perished, destroyed"
+            },
+            "meaning": {
+              "en": "destroyed",
+              "hi": "नष्ट"
+            }
+          },
+          {
+            "sa": "पाप",
+            "iast": "pāpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाप",
+              "iast": "pāpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāpa",
+              "gloss": "sin, vice, crime, guilt"
+            },
+            "meaning": {
+              "en": "sin",
+              "hi": "पाप"
+            }
+          },
+          {
+            "sa": "जाल",
+            "iast": "jāla",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जाल",
+              "iast": "jāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jāla",
+              "gloss": "a net (fig.), snare"
+            },
+            "meaning": {
+              "en": "net",
+              "hi": "जाल"
+            }
+          },
+          {
+            "sa": "उग्र",
+            "iast": "ugra",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "उग्र",
+              "iast": "ugra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ugra",
+              "gloss": "cruel, fierce, ferocious, savage"
+            },
+            "meaning": {
+              "en": "stern",
+              "hi": "कठोर"
+            }
+          },
+          {
+            "sa": "शासन",
+            "iast": "śāsana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "शास्",
+              "iast": "śās",
+              "gana": 2,
+              "gloss": {
+                "en": "to rule, to command",
+                "hi": "शासन करना"
+              }
+            },
+            "formation": "√śās + lyuṭ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "śāsana",
+              "gloss": "government, dominion, rule over"
+            },
+            "meaning": {
+              "en": "rule",
+              "hi": "शासन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) whose glance, wherever it falls, wipes out the net of sins, and whose rule is stern",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनकी दृष्टि पड़ते ही पापों का जाल मिट जाता है, और जिनका शासन कठोर है"
+        },
+        "literal": {
+          "en": "by the fall of whose glance the net of sins is destroyed; whose rule is fierce",
+          "hi": "जिनके दृष्टि-पात से पाप-जाल नष्ट हुआ है; जिनका शासन उग्र है"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Two descriptions in one written word: dṛṣṭipātanaṣṭapāpajālam and ugraśāsanam. Before the vowel of ugra the final m of jālam simply joins it: jālam + ugra → jālamugra. dṛṣṭi-pāta, 'the fall of the sight', is a common word for a glance.",
+          "hi": "एक लिखे शब्द में दो वर्णन: दृष्टिपातनष्टपापजालम् और उग्रशासनम्। उग्र के स्वर से पहले जालम् का अन्तिम 'म्' उसी से जुड़ जाता है: जालम् + उग्र → जालमुग्र। दृष्टि-पात, 'दृष्टि का पड़ना', नज़र के लिए प्रचलित शब्द है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-drshti",
+          "mw-drshtipata",
+          "mw-drshtinipata",
+          "mw-pata",
+          "mw-nashta",
+          "mw-papa",
+          "mw-jala",
+          "mw-ugra",
+          "mw-shasana",
+          "mw-ugrashasana",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w3": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "अष्ट",
+            "iast": "aṣṭa"
+          },
+          {
+            "sa": "सिद्धि",
+            "iast": "siddhi"
+          },
+          {
+            "sa": "दायकम्",
+            "iast": "dāyakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (kapāla): dāyakam → dāyakaṃ.",
+              "hi": "अगले शब्द (कपाल) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: दायकम् → दायकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "अष्टन्",
+            "iast": "aṣṭan",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अष्टन्",
+              "iast": "aṣṭan"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṣṭa",
+              "gloss": "(in comp. for aṣṭan)"
+            },
+            "meaning": {
+              "en": "eight",
+              "hi": "आठ"
+            }
+          },
+          {
+            "sa": "सिद्धि",
+            "iast": "siddhi",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सिद्धि",
+              "iast": "siddhi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "siddhi",
+              "gloss": "the acquisition of supernatural powers by magical means or the sup˚ faculty so acquired"
+            },
+            "meaning": {
+              "en": "power",
+              "hi": "सिद्धि"
+            }
+          },
+          {
+            "sa": "दायक",
+            "iast": "dāyaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दा",
+              "iast": "dā",
+              "gana": 3,
+              "gloss": {
+                "en": "to give",
+                "hi": "देना"
+              }
+            },
+            "formation": "√dā + ṇvul (agent noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dāyaka",
+              "gloss": "giving, granting, bestowing"
+            },
+            "meaning": {
+              "en": "giver",
+              "hi": "दाता"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who grants the eight powers",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो आठों सिद्धियाँ देते हैं"
+        },
+        "literal": {
+          "en": "the giver of the eight siddhis",
+          "hi": "अष्ट सिद्धियों के दाता"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "The eight are the classic powers of yoga: aṇimā, laghimā, prāpti, prākāmya, mahimā, īśitva, vaśitva and kāmāvasāyitā.",
+          "hi": "ये योग की प्रसिद्ध आठ सिद्धियाँ हैं: अणिमा, लघिमा, प्राप्ति, प्राकाम्य, महिमा, ईशित्व, वशित्व और कामावसायिता।"
+        },
+        "notes": {
+          "en": "The usual list of the eight siddhis is aṇimā, laghimā, prāpti, prākāmya, mahimā, īśitva, vaśitva and kāmāvasāyitā. dāyaka 'giver' comes from √dā, 'to give'.",
+          "hi": "आठ सिद्धियों की प्रचलित सूची: अणिमा, लघिमा, प्राप्ति, प्राकाम्य, महिमा, ईशित्व, वशित्व और कामावसायिता। दायक 'देने वाला' √दा 'देना' से बना है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-ashta",
+          "mw-siddhi",
+          "mw-dayaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w4": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "कपाल",
+            "iast": "kapāla"
+          },
+          {
+            "sa": "मालिका",
+            "iast": "mālikā"
+          },
+          {
+            "sa": "धरम्",
+            "iast": "dharam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (kāśikā): dharam → dharaṃ.",
+              "hi": "अगले शब्द (काशिका) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: धरम् → धरं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कपाल",
+            "iast": "kapāla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कपाल",
+              "iast": "kapāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kapāla",
+              "gloss": "the skull, cranium, skull-bone"
+            },
+            "meaning": {
+              "en": "skull",
+              "hi": "कपाल"
+            }
+          },
+          {
+            "sa": "मालिका",
+            "iast": "mālikā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मालिका",
+              "iast": "mālikā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mālikā",
+              "gloss": "a garland"
+            },
+            "meaning": {
+              "en": "garland",
+              "hi": "माला"
+            }
+          },
+          {
+            "sa": "धर",
+            "iast": "dhara",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धृ",
+              "iast": "dhṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to hold, to wear",
+                "hi": "धारण करना"
+              }
+            },
+            "formation": "√dhṛ + ac (agent)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dhara",
+              "gloss": "holding, bearing, carrying, wearing"
+            },
+            "meaning": {
+              "en": "wearing",
+              "hi": "धारण करने वाले"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who wears a garland of skulls",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो कपालों की माला पहनते हैं"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "The line is also found as kapāla-mālikandharam, 'whose neck bears the skull-garland'. Either way the picture is the same: skulls strung and worn on His body.",
+          "hi": "यह पंक्ति कपाल-मालिकन्धरम् रूप में भी मिलती है, 'जिनके गले में कपालों की माला है'। दोनों में चित्र एक है: पिरोए हुए कपाल, जो वे पहनते हैं।"
+        },
+        "notes": {
+          "en": "kapāla means a skull, and also the shell of an egg. The reading mālikādharam ('wearing the garland') is in the oldest print and is regular; mālikandharam ('whose neck, kandhara, bears the garland') would need mālikā shortened before kandhara. Both fit the meter, and the sense hardly changes.",
+          "hi": "कपाल का अर्थ खोपड़ी है, और अण्डे का खोल भी। पाठ मालिकाधरम् ('माला धारण करने वाले') सबसे पुराने मुद्रण में है और नियमित है; मालिकन्धरम् ('जिनकी गर्दन, कन्धर, पर माला है') में कन्धर से पहले मालिका को ह्रस्व करना पड़ता है। दोनों छन्द में ठीक बैठते हैं, और अर्थ लगभग नहीं बदलता।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whose neck bears the garland of skulls",
+              "hi": "जिनके गले में कपालों की माला है"
+            },
+            "note": "gitapress-shiv-stotra-ratnakar and ramakrishna-math-mantrapushpam read कपालमालिकन्धरं (kandhara 'neck'); sanskritdocuments-kaalabhairava, vanivilas-1910-works-18, shlokam-kalabhairava, greenmesg-kalabhairava and the Śivarahasya text read कपालमालिकाधरं. Gita Press's own Hindi still glosses 'कपालकी माला धारण करनेवाले'. Human to confirm."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-kapala",
+          "mw-kapalamalin",
+          "mw-malika",
+          "mw-dhara",
+          "gitapress-shiv-stotra-ratnakar",
+          "ramakrishna-math-mantrapushpam",
+          "vanivilas-1910-works-18",
+          "sanskritdocuments-kaalabhairava",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w5": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā"
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of pura and the first a of adhinātha merge into a long ā: pura + adhinātha → purādhinātha.",
+              "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काशिका",
+              "iast": "kāśikā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāśikā",
+              "gloss": "'the city of the Kāśis', Benares"
+            },
+            "meaning": {
+              "en": "Kāśī",
+              "hi": "काशी"
+            }
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pura",
+              "gloss": "a fortress, castle, city, town"
+            },
+            "meaning": {
+              "en": "city",
+              "hi": "नगरी"
+            }
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अधिनाथ",
+              "iast": "adhinātha"
+            },
+            "formation": "adhi ('over, above') + nātha ('lord')",
+            "sense": {
+              "dict": "mw",
+              "headword": "adhi-nātha",
+              "gloss": "a supreme lord, chieftain"
+            },
+            "meaning": {
+              "en": "supreme lord",
+              "hi": "अधिपति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāśikā is Kāśī, the city also called Benares (Vārāṇasī). adhi-nātha is more than nātha 'lord': the prefix adhi- makes Him the lord over all. The title runs on into the name Kālabhairava.",
+          "hi": "काशिका यानी काशी, जिसे बनारस (वाराणसी) भी कहते हैं। अधि-नाथ केवल नाथ 'स्वामी' नहीं: 'अधि' उन्हें सबके ऊपर का स्वामी बनाता है। यह उपाधि कालभैरव नाम से जुड़ी है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kashika",
+          "mw-kashi",
+          "mw-pura",
+          "mw-adhinatha",
+          "mw-natha",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w6": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          {
+            "sa": "भैरवम्",
+            "iast": "bhairavam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): kālabhairavam → kālabhairavaṃ.",
+              "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काल",
+            "iast": "kāla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काल",
+              "iast": "kāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla",
+              "gloss": "black, of a dark colour; time (in general)"
+            },
+            "meaning": {
+              "en": "black; time",
+              "hi": "काला; समय"
+            }
+          },
+          {
+            "sa": "भैरव",
+            "iast": "bhairava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भैरव",
+              "iast": "bhairava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhairava",
+              "gloss": "N. of a form of Śiva; frightful, terrible"
+            },
+            "meaning": {
+              "en": "Bhairava",
+              "hi": "भैरव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Kālabhairava",
+          "hi": "कालभैरव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāla-bhairava is a form of Bhairava, the fierce form of Śiva. kāla can mean 'black' and 'time'; bhairava means 'terrible'. The ending -m marks Him as the one worshipped (bhaje).",
+          "hi": "काल-भैरव भैरव का एक रूप है, जो शिव का उग्र रूप है। काल का अर्थ 'काला' भी है और 'समय' भी; भैरव का अर्थ है 'भयानक'। अन्त का '-म्' बताता है कि उन्हीं को भजा जा रहा है (भजे)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kalabhairava",
+          "mw-kala",
+          "mw-bhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to serve, to worship",
+                "hi": "भजना, सेवा करना"
+              }
+            },
+            "formation": "laṭ, first person singular, ātmanepada",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "I worship",
+              "hi": "भजता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "From √bhaj, 'to serve, revere, love': the root of bhakti and bhajan. The form itself says 'I', so no separate word for 'I' is needed.",
+          "hi": "√भज् से, 'सेवा करना, आदर करना, प्रेम करना': इसी धातु से भक्ति और भजन बने हैं। रूप स्वयं 'मैं' बताता है, इसलिए 'मैं' के लिए अलग शब्द नहीं चाहिए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      }
+    }
+  }
+}

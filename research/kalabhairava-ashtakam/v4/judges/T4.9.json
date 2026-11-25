@@ -1,0 +1,11 @@
+{
+  "check": "T4.9",
+  "fields_hash": "919f7e5053e8f0fc",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "",
+      "message": "Outside T4.9 (sources hygiene): words.w7.sources lists mw-kashi, and words.w8.sources lists mw-kala and mw-bhairava. None of the three has an excerpt in research/kalabhairava-ashtakam/v4/sources/. Annotation a2's word 'fearsome' also rests on bhairava ('frightful, terrible'), which has no v4 excerpt. That word sits next to the [dark](#v3-a2) link, so the v3 note may cover it. A human should either copy these dictionary excerpts into the v4 evidence or drop the source ids."
+    }
+  ]
+}

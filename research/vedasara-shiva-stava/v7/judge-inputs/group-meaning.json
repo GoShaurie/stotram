@@ -1,0 +1,1454 @@
+{
+  "group": "meaning",
+  "checks": {
+    "T4.2": "checks/judges/T4.2.md",
+    "T4.3": "checks/judges/T4.3.md",
+    "T4.4": "checks/judges/T4.4.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "deities": [
+      "shiva"
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v7",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "अजं",
+            "iast": "ajaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "शाश्वतं",
+            "iast": "śāśvataṃ"
+          },
+          {
+            "id": "w3",
+            "text": "कारणं",
+            "iast": "kāraṇaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "कारणानां",
+            "iast": "kāraṇānāṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "शिवं",
+            "iast": "śivaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "केवलं",
+            "iast": "kevalaṃ"
+          },
+          {
+            "id": "w7",
+            "text": "भासकं",
+            "iast": "bhāsakaṃ"
+          },
+          {
+            "id": "w8",
+            "text": "भासकानाम्",
+            "iast": "bhāsakānām"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "तुरीयं",
+            "iast": "turīyaṃ"
+          },
+          {
+            "id": "w10",
+            "text": "तमःपारमाद्यन्तहीनं",
+            "iast": "tamaḥpāramādyantahīnaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w11",
+            "text": "प्रपद्ये",
+            "iast": "prapadye"
+          },
+          {
+            "id": "w12",
+            "text": "परं",
+            "iast": "paraṃ"
+          },
+          {
+            "id": "w13",
+            "text": "पावनं",
+            "iast": "pāvanaṃ"
+          },
+          {
+            "id": "w14",
+            "text": "द्वैतहीनम्",
+            "iast": "dvaitahīnam"
+          }
+        ],
+        "end": "॥ ७ ॥"
+      }
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w10"
+        ],
+        "iast": "tamaḥ-pāram",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "तमसः पारम्",
+        "meaning": {
+          "en": "the far shore of the darkness of ignorance",
+          "hi": "अज्ञान-रूपी अन्धकार का पार"
+        },
+        "note": {
+          "en": "tamas 'darkness' + pāra 'the far bank'. The -m before ādyanta shows that this part is a full word of its own, written joined to the next.",
+          "hi": "तमस् 'अन्धकार' + पार 'उस पार का किनारा'। आद्यन्त से पहले का -म् दिखाता है कि यह भाग अपने आप में पूरा शब्द है, जो अगले शब्द से जुड़ा लिखा गया है।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w10"
+        ],
+        "iast": "ādy-anta-hīnam",
+        "type": "tatpuruṣa",
+        "subtype": "tṛtīyā",
+        "structure": "((ādi-anta)-hīna)",
+        "vigraha": "आदिश्च अन्तश्च आद्यन्तौ, ताभ्यां हीनः, तम्",
+        "meaning": {
+          "en": "without beginning and end",
+          "hi": "आदि और अन्त से रहित"
+        },
+        "note": {
+          "en": "ādi 'beginning' and anta 'end' are first paired (ādyanta), then joined to hīna 'without'.",
+          "hi": "आदि 'आरम्भ' और अन्त 'समाप्ति' पहले जोड़ी बनाते हैं (आद्यन्त), फिर हीन 'रहित' से जुड़ते हैं।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w14"
+        ],
+        "iast": "dvaita-hīnam",
+        "type": "tatpuruṣa",
+        "subtype": "tṛtīyā",
+        "vigraha": "द्वैतेन हीनः, तम्",
+        "meaning": {
+          "en": "free of duality",
+          "hi": "द्वैत से रहित"
+        },
+        "note": {
+          "en": "dvaita 'twoness, duality' + hīna 'without'.",
+          "hi": "द्वैत 'दो-पन' + हीन 'रहित'।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "अजम्",
+        "iast": "ajam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अज",
+            "iast": "aja"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "शाश्वतम्",
+        "iast": "śāśvatam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शाश्वत",
+            "iast": "śāśvata"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w3"
+        ],
+        "sa": "कारणम्",
+        "iast": "kāraṇam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "कारण",
+            "iast": "kāraṇa"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w4"
+        ],
+        "sa": "कारणानाम्",
+        "iast": "kāraṇānām",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "कारण",
+            "iast": "kāraṇa"
+          },
+          "gender": "neuter",
+          "case": "genitive",
+          "number": "plural"
+        },
+        "role": "sambandha",
+        "head": "p3"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w5"
+        ],
+        "sa": "शिवम्",
+        "iast": "śivam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w6"
+        ],
+        "sa": "केवलम्",
+        "iast": "kevalam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "केवल",
+            "iast": "kevala"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "भासकम्",
+        "iast": "bhāsakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भासक",
+            "iast": "bhāsaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w8"
+        ],
+        "sa": "भासकानाम्",
+        "iast": "bhāsakānām",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भासक",
+            "iast": "bhāsaka"
+          },
+          "gender": "masculine",
+          "case": "genitive",
+          "number": "plural"
+        },
+        "role": "sambandha",
+        "head": "p7"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w9"
+        ],
+        "sa": "तुरीयम्",
+        "iast": "turīyam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तुरीय",
+            "iast": "turīya"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w10"
+        ],
+        "sa": "तमःपारम्",
+        "iast": "tamaḥpāram",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तमःपार",
+            "iast": "tamaḥpāra"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w10"
+        ],
+        "sa": "आद्यन्तहीनम्",
+        "iast": "ādyantahīnam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "आद्यन्तहीन",
+            "iast": "ādyantahīna"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w11"
+        ],
+        "sa": "प्रपद्ये",
+        "iast": "prapadye",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "पद्",
+            "iast": "pad",
+            "gana": 4
+          },
+          "prefixes": [
+            "pra"
+          ],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "ātmanepada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p13",
+        "words": [
+          "w12"
+        ],
+        "sa": "परम्",
+        "iast": "param",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पर",
+            "iast": "para"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p12"
+      },
+      {
+        "id": "p14",
+        "words": [
+          "w13"
+        ],
+        "sa": "पावनम्",
+        "iast": "pāvanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पावन",
+            "iast": "pāvana"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p15",
+        "words": [
+          "w14"
+        ],
+        "sa": "द्वैतहीनम्",
+        "iast": "dvaitahīnam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "द्वैतहीन",
+            "iast": "dvaitahīna"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      }
+    ],
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "अजम्",
+            "iast": "ajam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the consonant of the next word (śāśvataṃ): ajam → ajaṃ.",
+              "hi": "अगले शब्द (शाश्वतं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अजम् → अजं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "अ",
+            "iast": "a",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "not",
+              "hi": "नहीं"
+            }
+          },
+          {
+            "sa": "ज",
+            "iast": "ja",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "जन्",
+              "iast": "jan",
+              "gana": 4,
+              "gloss": {
+                "en": "to be born",
+                "hi": "जन्म लेना"
+              }
+            },
+            "formation": "√jan + ḍa: 'born'",
+            "meaning": {
+              "en": "born",
+              "hi": "जन्मा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the Unborn One, i.e. Śiva",
+          "hi": "अजन्मा, अर्थात् शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "*Aja*, 'unborn', is also an old name: the dictionary lists it for Śiva, Brahmā and Viṣṇu. Being unborn, He has no starting point at all.",
+          "hi": "*अज*, 'अजन्मा', एक पुराना नाम भी है, जो शिव, ब्रह्मा और विष्णु के लिए आता है। जिसका जन्म नहीं, उसका कोई आरम्भ भी नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-aja",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "शाश्वतम्",
+            "iast": "śāśvatam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the k of kāraṇaṃ: śāśvatam → śāśvataṃ.",
+              "hi": "कारणं के 'क' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: शाश्वतम् → शाश्वतं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शाश्वत",
+            "iast": "śāśvata",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शाश्वत",
+              "iast": "śāśvata"
+            },
+            "formation": "from śaśvat 'always'",
+            "sense": {
+              "dict": "mw",
+              "headword": "śāśvata",
+              "gloss": "eternal, constant, perpetual"
+            },
+            "meaning": {
+              "en": "eternal",
+              "hi": "शाश्वत"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the Eternal One, i.e. Śiva",
+          "hi": "शाश्वत, सदा रहने वाले, अर्थात् शिव"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shashvata",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "कारणम्",
+            "iast": "kāraṇam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the k of kāraṇānāṃ: kāraṇam → kāraṇaṃ.",
+              "hi": "कारणानां के 'क' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कारणम् → कारणं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कारण",
+            "iast": "kāraṇa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to make",
+                "hi": "करना"
+              }
+            },
+            "formation": "√kṛ (causative) + ana: 'that which makes (something) happen'",
+            "sense": {
+              "dict": "mw",
+              "headword": "kāraṇa",
+              "gloss": "cause, reason, the cause of anything"
+            },
+            "meaning": {
+              "en": "cause",
+              "hi": "कारण"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the cause (of causes), i.e. Śiva",
+          "hi": "(कारणों के) कारण, अर्थात् शिव"
+        },
+        "aside": {
+          "en": "Every cause has a cause behind it; He is the one behind them all. The Śvetāśvatara speaks the same way: *nityo nityānām*, the eternal among the eternal ones.",
+          "hi": "हर कारण के पीछे कोई और कारण होता है; वे उन सबके पीछे हैं। श्वेताश्वतर भी इसी ढंग से कहता है: *नित्यो नित्यानाम्*, नित्यों में नित्य।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-karana",
+          "shvetashvatara-upanishad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "कारणानाम्",
+            "iast": "kāraṇānām"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the ś of śivaṃ at the start of the next line: kāraṇānām → kāraṇānāṃ.",
+              "hi": "अगली पंक्ति के शिवं के 'श' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कारणानाम् → कारणानां।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कारण",
+            "iast": "kāraṇa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to make",
+                "hi": "करना"
+              }
+            },
+            "formation": "√kṛ (causative) + ana",
+            "sense": {
+              "dict": "mw",
+              "headword": "kāraṇa",
+              "gloss": "cause, reason"
+            },
+            "meaning": {
+              "en": "cause",
+              "hi": "कारण"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of causes",
+          "hi": "कारणों के"
+        },
+        "notes": {
+          "en": "The -ānām ending means 'of (many)': the causes He stands behind.",
+          "hi": "-आनाम् अन्त का अर्थ है 'अनेकों का': वे कारण जिनके पीछे वे हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-karana",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "शिवम्",
+            "iast": "śivam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the k of kevalaṃ: śivam → śivaṃ.",
+              "hi": "केवलं के 'क' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: शिवम् → शिवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiva",
+              "gloss": "auspicious, propitious, gracious, favourable, benign, kind"
+            },
+            "meaning": {
+              "en": "auspicious",
+              "hi": "मंगलमय"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Śiva, the auspicious one",
+          "hi": "कल्याणमय शिव"
+        },
+        "literal": {
+          "en": "the auspicious one",
+          "hi": "मंगलमय, कल्याणकारी"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "śiva is both the adjective 'auspicious, kind' and the god's name; the verse uses both senses at once. It is also the word Māṇḍūkya 7 uses of the Fourth.",
+          "hi": "शिव विशेषण 'मंगलमय, कृपालु' भी है और भगवान का नाम भी; श्लोक दोनों अर्थ साथ लेता है। माण्डूक्य ७ भी चौथे पाद के लिए यही शब्द कहता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-shiva-m",
+          "mandukya-upanishad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "केवलम्",
+            "iast": "kevalam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the bh of bhāsakaṃ: kevalam → kevalaṃ.",
+              "hi": "भासकं के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: केवलम् → केवलं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "केवल",
+            "iast": "kevala",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "केवल",
+              "iast": "kevala"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kevala",
+              "gloss": "alone, only, mere, sole, one, excluding others"
+            },
+            "meaning": {
+              "en": "alone",
+              "hi": "अकेला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the One who stands alone, i.e. Śiva",
+          "hi": "अकेले, अर्थात् शिव"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "pure, unmixed",
+              "hi": "शुद्ध, बिना मिलावट"
+            },
+            "note": "MW also gives 'simple, pure, unmingled' and 'absolute'; shlokam gives 'one and only', Gita Press एक."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-kevala",
+          "shvetashvatara-upanishad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "भासकम्",
+            "iast": "bhāsakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the bh of bhāsakānām: bhāsakam → bhāsakaṃ.",
+              "hi": "भासकानाम् के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भासकम् → भासकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भासक",
+            "iast": "bhāsaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भास्",
+              "iast": "bhās",
+              "gana": 1,
+              "gloss": {
+                "en": "to shine",
+                "hi": "चमकना"
+              }
+            },
+            "formation": "√bhās (causative) + aka: 'one who makes shine'",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhāsaka",
+              "gloss": "causing to appear, enlightening, making evident or intelligible"
+            },
+            "meaning": {
+              "en": "illuminator",
+              "hi": "प्रकाशक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the one who lights up (the lights), i.e. Śiva",
+          "hi": "(प्रकाशकों को) प्रकाशित करने वाले, अर्थात् शिव"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhasaka",
+          "katha-upanishad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "भासकानाम्",
+            "iast": "bhāsakānām"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भासक",
+            "iast": "bhāsaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भास्",
+              "iast": "bhās",
+              "gana": 1,
+              "gloss": {
+                "en": "to shine",
+                "hi": "चमकना"
+              }
+            },
+            "formation": "√bhās (causative) + aka",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhāsaka",
+              "gloss": "causing to appear, enlightening"
+            },
+            "meaning": {
+              "en": "light-giver",
+              "hi": "प्रकाशक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of the lights, the things that give light",
+          "hi": "प्रकाश देने वालों के"
+        },
+        "notes": {
+          "en": "Vidyut offers splits such as bhās + akānām; the plain reading is bhāsaka with the 'of (many)' ending -ānām, matching kāraṇānām in line 1.",
+          "hi": "Vidyut 'भास् + अकानाम्' जैसे विभाजन भी देता है; सीधा पाठ है भासक + 'अनेकों का' वाला अन्त -आनाम्, जैसे पहली पंक्ति में कारणानाम्।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhasaka",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "तुरीयम्",
+            "iast": "turīyam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the t of tamaḥ: turīyam → turīyaṃ.",
+              "hi": "तमः के 'त' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: तुरीयम् → तुरीयं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "तुरीय",
+            "iast": "turīya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तुरीय",
+              "iast": "turīya"
+            },
+            "formation": "from catur 'four'",
+            "sense": {
+              "dict": "mw",
+              "headword": "turīya",
+              "gloss": "4th; the 4th state of spirit"
+            },
+            "meaning": {
+              "en": "fourth",
+              "hi": "चौथा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the Fourth, i.e. Śiva, beyond the three states",
+          "hi": "तुरीय (चौथे), अर्थात् तीनों अवस्थाओं से परे शिव"
+        },
+        "literal": {
+          "en": "the fourth",
+          "hi": "चौथा"
+        },
+        "notes": {
+          "en": "turīya is 'fourth', and also the fourth state of the self, set apart from the three ordinary states. Māṇḍūkya 7 calls the same thing caturtha, 'the fourth'.",
+          "hi": "तुरीय यानी 'चौथा', और आत्मा की चौथी अवस्था भी, जो तीन सामान्य अवस्थाओं से अलग है। माण्डूक्य ७ इसी को चतुर्थ, 'चौथा', कहता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-turiya",
+          "mandukya-upanishad",
+          "gitapress-stotraratnavali",
+          "shlokam-vedasara-shiva-stava"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "तमस्",
+            "iast": "tamas"
+          },
+          {
+            "sa": "पारम्",
+            "iast": "pāram"
+          },
+          {
+            "sa": "आदि",
+            "iast": "ādi"
+          },
+          {
+            "sa": "अन्त",
+            "iast": "anta"
+          },
+          {
+            "sa": "हीनम्",
+            "iast": "hīnam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "s + p → ḥ + p",
+            "explanation": {
+              "en": "The final s of tamas becomes ḥ before p: tamas + pāram → tamaḥpāram.",
+              "hi": "तमस् का अन्तिम 'स्' आगे के 'प' से पहले विसर्ग बन जाता है: तमस् + पारम् → तमःपारम्।"
+            }
+          },
+          {
+            "name": "none (written joined)",
+            "rule": "m + vowel → m",
+            "explanation": {
+              "en": "Final m stays m before a vowel and is written together with it: pāram + ādyanta → pāramādyanta.",
+              "hi": "स्वर से पहले अन्तिम 'म्' वैसा ही रहता है और उससे जुड़कर लिखा जाता है: पारम् + आद्यन्त → पारमाद्यन्त।"
+            }
+          },
+          {
+            "name": "yaṇ",
+            "rule": "i + a → ya",
+            "explanation": {
+              "en": "The i of ādi becomes y before the a of anta: ādi + anta → ādyanta.",
+              "hi": "आदि का 'इ' आगे के 'अ' से पहले 'य्' बन जाता है: आदि + अन्त → आद्यन्त।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the p of prapadye: hīnam → hīnaṃ.",
+              "hi": "प्रपद्ये के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: हीनम् → हीनं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "तमस्",
+            "iast": "tamas",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तमस्",
+              "iast": "tamas"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tamas",
+              "gloss": "darkness, gloom; mental darkness, ignorance"
+            },
+            "meaning": {
+              "en": "darkness (of ignorance)",
+              "hi": "अज्ञान-रूपी अन्धकार"
+            }
+          },
+          {
+            "sa": "पार",
+            "iast": "pāra",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पार",
+              "iast": "pāra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāra",
+              "gloss": "the further bank or shore or boundary"
+            },
+            "meaning": {
+              "en": "far shore",
+              "hi": "उस पार"
+            }
+          },
+          {
+            "sa": "आदि",
+            "iast": "ādi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "आदि",
+              "iast": "ādi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ādi",
+              "gloss": "beginning, commencement"
+            },
+            "meaning": {
+              "en": "beginning",
+              "hi": "आदि"
+            }
+          },
+          {
+            "sa": "अन्त",
+            "iast": "anta",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "anta",
+              "gloss": "end, limit, boundary"
+            },
+            "meaning": {
+              "en": "end",
+              "hi": "अन्त"
+            }
+          },
+          {
+            "sa": "हीन",
+            "iast": "hīna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हा",
+              "iast": "hā",
+              "gana": 3,
+              "gloss": {
+                "en": "to leave",
+                "hi": "छोड़ना"
+              }
+            },
+            "formation": "√hā + kta: 'left, without'",
+            "sense": {
+              "dict": "mw",
+              "headword": "hīna",
+              "gloss": "bereft or deprived of, free from, devoid or destitute of, without"
+            },
+            "meaning": {
+              "en": "without",
+              "hi": "रहित"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Śiva,) who is beyond the darkness of ignorance and has no beginning or end",
+          "hi": "अज्ञान-रूपी अन्धकार से परे और आदि-अन्त से रहित (शिव)"
+        },
+        "literal": {
+          "en": "the far shore of darkness, without beginning and end",
+          "hi": "अन्धकार का पार, आदि और अन्त से रहित"
+        },
+        "notes": {
+          "en": "Two words written as one: tamaḥpāram and ādyantahīnam.",
+          "hi": "एक साथ लिखे दो शब्द: तमःपारम् और आद्यन्तहीनम्।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-tamas",
+          "mw-tamah",
+          "mw-paara",
+          "mw-adi",
+          "mw-anta",
+          "mw-adyanta",
+          "mw-hina",
+          "shvetashvatara-upanishad",
+          "katha-upanishad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "प्रपद्ये",
+            "iast": "prapadye"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्र",
+            "iast": "pra",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "pra",
+              "gloss": "forward, in front, on, forth"
+            },
+            "meaning": {
+              "en": "forward",
+              "hi": "आगे"
+            }
+          },
+          {
+            "sa": "पद्ये",
+            "iast": "padye",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पद्",
+              "iast": "pad",
+              "gana": 4,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to go",
+                "hi": "जाना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-pad",
+              "gloss": "to fly to for succour, take refuge with"
+            },
+            "meaning": {
+              "en": "I go",
+              "hi": "जाता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I take refuge (in Him, i.e. Śiva)",
+          "hi": "(उन शिव की) मैं शरण लेता हूँ"
+        },
+        "literal": {
+          "en": "I go forward (to)",
+          "hi": "मैं (की ओर) आगे बढ़ता हूँ"
+        },
+        "aside": {
+          "en": "*Pra-pad* is to go forward to someone, and so to come to them for shelter. After *smarāmi*, 'I remember', and the praise of verse 6, the poet now gives himself over.",
+          "hi": "*प्र-पद्* यानी किसी की ओर आगे बढ़ना, और इसलिए उसकी शरण में आना। *स्मरामि* ('मैं स्मरण करता हूँ') और छठे श्लोक की स्तुति के बाद, अब कवि स्वयं को सौंप देता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-prapad",
+          "mw-pra",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w12": {
+        "padaccheda": [
+          {
+            "sa": "परम्",
+            "iast": "param"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the p of pāvanaṃ: param → paraṃ.",
+              "hi": "पावनं के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: परम् → परं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पर",
+            "iast": "para",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पर",
+              "iast": "para"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "para",
+              "gloss": "the Supreme or Absolute Being, the Universal Soul"
+            },
+            "meaning": {
+              "en": "Supreme",
+              "hi": "परम"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "in the Supreme One, i.e. Śiva",
+          "hi": "उन परम (शिव) की"
+        },
+        "notes": {
+          "en": "The word every description in the verse points to. para is also 'beyond, farther', which suits a verse about what lies past darkness.",
+          "hi": "वह शब्द जिसकी ओर श्लोक के सारे वर्णन इशारा करते हैं। पर का अर्थ 'परे, दूर' भी है, जो अन्धकार के पार की बात करने वाले श्लोक में ठीक बैठता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-para",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w13": {
+        "padaccheda": [
+          {
+            "sa": "पावनम्",
+            "iast": "pāvanam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the d of dvaitahīnam: pāvanam → pāvanaṃ.",
+              "hi": "द्वैतहीनम् के 'द' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पावनम् → पावनं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पावन",
+            "iast": "pāvana",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पू",
+              "iast": "pū",
+              "gana": 9,
+              "gloss": {
+                "en": "to make clean",
+                "hi": "पवित्र करना"
+              }
+            },
+            "formation": "√pū (causative) + ana: 'that which makes pure'",
+            "sense": {
+              "dict": "mw",
+              "headword": "pāvana",
+              "gloss": "purifying, purificatory; pure, holy"
+            },
+            "meaning": {
+              "en": "purifying",
+              "hi": "पावन करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the purifier, i.e. Śiva",
+          "hi": "पावन करने वाले, अर्थात् शिव"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "pure, holy",
+              "hi": "पवित्र"
+            },
+            "note": "MW gives both 'purifying' and 'pure, holy'; shlokam 'purity', Gita Press परमपावन."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-pavana",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w14": {
+        "padaccheda": [
+          {
+            "sa": "द्वैत",
+            "iast": "dvaita"
+          },
+          {
+            "sa": "हीनम्",
+            "iast": "hīnam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "द्वैत",
+            "iast": "dvaita",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "द्वैत",
+              "iast": "dvaita"
+            },
+            "formation": "from dvi 'two'",
+            "sense": {
+              "dict": "mw",
+              "headword": "dvaita",
+              "gloss": "duality, duplicity, dualism"
+            },
+            "meaning": {
+              "en": "duality",
+              "hi": "द्वैत"
+            }
+          },
+          {
+            "sa": "हीन",
+            "iast": "hīna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हा",
+              "iast": "hā",
+              "gana": 3,
+              "gloss": {
+                "en": "to leave",
+                "hi": "छोड़ना"
+              }
+            },
+            "formation": "√hā + kta",
+            "sense": {
+              "dict": "mw",
+              "headword": "hīna",
+              "gloss": "free from, devoid or destitute of, without"
+            },
+            "meaning": {
+              "en": "without",
+              "hi": "रहित"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "free of duality, i.e. Śiva, in whom there is no 'two'",
+          "hi": "द्वैत से रहित, अर्थात् शिव, जिनमें 'दो' नहीं"
+        },
+        "aside": {
+          "en": "*Dvaita* is 'twoness': me and you, this and that. *Dvaita-hīnam* is the Māṇḍūkya's *advaitam*, 'not two', said in other words ([the Fourth](#v7-a3)).",
+          "hi": "*द्वैत* यानी 'दो-पन': मैं और तुम, यह और वह। *द्वैत-हीनम्* माण्डूक्य का *अद्वैतम्*, 'दो नहीं', ही है, दूसरे शब्दों में ([चौथा](#v7-a3))।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-dvaita",
+          "mw-hina",
+          "mandukya-upanishad",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      }
+    }
+  }
+}

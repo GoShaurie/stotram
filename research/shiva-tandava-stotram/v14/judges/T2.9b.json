@@ -1,0 +1,12 @@
+{
+  "check": "T2.9b",
+  "fields_hash": "d137561da2412b1a",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c1.iast",
+      "message": "Outside this check: compounds.c1.iast spells the member as 'kṣaran' (nilimpa-...-nirbhara-kṣaran-madhūṣṇikā-...), but structure, vigraha and words.w3.padaccheda use the stem kṣarat. The structure grouping itself passes: ((…mallikā-nigumpha)-(nirbhara-kṣarat))-(madhu-uṣṇikā))-manohara matches the vigraha 'तासां निगुम्फात् निर्भरं क्षरन्ती मधूष्णिका, तया मनोहरः'.",
+      "suggested_fix": "Use 'kṣarat' in compounds.c1.iast to match the structure, or confirm that the iast field is meant to show the surface form."
+    }
+  ]
+}

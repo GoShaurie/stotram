@@ -1,0 +1,1261 @@
+{
+  "id": "v2",
+  "number": 2,
+  "kind": "verse",
+  "meter": "bhujangaprayata",
+  "concepts": [
+    "trinetra",
+    "vibhuti",
+    "pancavaktra"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "महेशं",
+          "iast": "maheśaṃ"
+        },
+        {
+          "id": "w2",
+          "text": "सुरेशं",
+          "iast": "sureśaṃ"
+        },
+        {
+          "id": "w3",
+          "text": "सुरारातिनाशं",
+          "iast": "surārātināśaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w4",
+          "text": "विभुं",
+          "iast": "vibhuṃ"
+        },
+        {
+          "id": "w5",
+          "text": "विश्वनाथं",
+          "iast": "viśvanāthaṃ"
+        },
+        {
+          "id": "w6",
+          "text": "विभूत्यङ्गभूषम्",
+          "iast": "vibhūtyaṅgabhūṣam"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w7",
+          "text": "विरूपाक्षमिन्द्वर्कवह्नित्रिनेत्रं",
+          "iast": "virūpākṣamindvarkavahnitrinetraṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "सदानन्दमीडे",
+          "iast": "sadānandamīḍe"
+        },
+        {
+          "id": "w9",
+          "text": "प्रभुं",
+          "iast": "prabhuṃ"
+        },
+        {
+          "id": "w10",
+          "text": "पञ्चवक्त्रम्",
+          "iast": "pañcavaktram"
+        }
+      ],
+      "end": "॥ २ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1"],
+      "iast": "mahā-īśaṃ",
+      "type": "karmadhāraya",
+      "vigraha": "महान् ईशः",
+      "meaning": {
+        "en": "the Great Lord",
+        "hi": "महान ईश्वर"
+      },
+      "note": {
+        "en": "mahat 'great' takes the form mahā at the start of a compound and describes īśa 'lord'; ā + ī merge into e: mahā + īśa → maheśa.",
+        "hi": "समास के आरम्भ में महत् 'महान' का रूप महा हो जाता है और यह ईश 'स्वामी' का विशेषण है; आ + ई मिलकर ए बनते हैं: महा + ईश → महेश।"
+      }
+    },
+    "c2": {
+      "members": ["w2"],
+      "iast": "sura-īśaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "सुराणाम् ईशः",
+      "meaning": {
+        "en": "the Lord of the gods",
+        "hi": "देवताओं के स्वामी"
+      },
+      "note": {
+        "en": "sura 'god' + īśa 'lord': the lord of the gods; a + ī merge into e.",
+        "hi": "सुर 'देवता' + ईश 'स्वामी': देवताओं के स्वामी; अ + ई मिलकर ए बनते हैं।"
+      }
+    },
+    "c3": {
+      "members": ["w3"],
+      "iast": "sura-arāti-nāśaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "structure": "((sura-arāti)-nāśa)",
+      "vigraha": "सुराणाम् अरातयः सुरारातयः, तेषां नाशः",
+      "meaning": {
+        "en": "the destroyer of the gods' enemies",
+        "hi": "देवताओं के शत्रुओं का नाश करने वाले"
+      },
+      "note": {
+        "en": "sura-arāti 'the enemies of the gods' (the demons) is itself a compound; nāśa 'destruction' at the end of a compound means 'destroying', so the whole names the one who destroys them.",
+        "hi": "सुर-अराति 'देवताओं के शत्रु' (असुर) स्वयं एक समास है; समास के अन्त में नाश का अर्थ 'नाश करने वाला' होता है, इसलिए पूरा शब्द उनका नाश करने वाले को बताता है।"
+      }
+    },
+    "c4": {
+      "members": ["w5"],
+      "iast": "viśva-nāthaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "विश्वस्य नाथः",
+      "meaning": {
+        "en": "the Lord of the universe",
+        "hi": "विश्व के नाथ"
+      },
+      "note": {
+        "en": "viśva 'the whole world' + nātha 'lord, protector'.",
+        "hi": "विश्व 'सारा संसार' + नाथ 'स्वामी, रक्षक'।"
+      }
+    },
+    "c5": {
+      "members": ["w6"],
+      "iast": "vibhūty-aṅga-bhūṣam",
+      "type": "bahuvrīhi",
+      "structure": "(vibhūti-(aṅga-bhūṣā))",
+      "vigraha": "विभूतिः अङ्गभूषा यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose body's ornament is ash",
+        "hi": "उन (शिव) को, जिनके अंगों का आभूषण भस्म है"
+      },
+      "note": {
+        "en": "aṅga-bhūṣā 'ornament of the body'; with vibhūti 'ash' the whole describes Śiva, the one whose body-ornament is ash. The long ā of bhūṣā becomes short when the compound describes a person: bhūṣam.",
+        "hi": "अङ्ग-भूषा 'शरीर का आभूषण'; विभूति 'भस्म' के साथ पूरा समास शिव का वर्णन करता है, जिनके शरीर का आभूषण भस्म है। व्यक्ति का वर्णन करते समय भूषा का दीर्घ आ ह्रस्व हो जाता है: भूषम्।"
+      }
+    },
+    "c6": {
+      "members": ["w7"],
+      "iast": "virūpa-akṣam",
+      "type": "bahuvrīhi",
+      "vigraha": "विरूपाणि अक्षीणि यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose eyes are unusual",
+        "hi": "उन (शिव) को, जिनके नेत्र अनोखे हैं"
+      },
+      "note": {
+        "en": "virūpa 'of a different form, unusual' + akṣa, the form akṣi 'eye' takes at the end of such a compound. Only the first part of the display word is this compound.",
+        "hi": "विरूप 'अलग रूप का, अनोखा' + अक्ष, जो ऐसे समास के अन्त में अक्षि 'नेत्र' का रूप है। प्रदर्शित शब्द का केवल पहला भाग यह समास है।"
+      }
+    },
+    "c7": {
+      "members": ["w7"],
+      "iast": "indv-arka-vahni-tri-netraṃ",
+      "type": "bahuvrīhi",
+      "structure": "((indu-arka-vahni)-(tri-netra))",
+      "vigraha": "इन्दुः च अर्कः च वह्निः च इन्द्वर्कवह्नयः, ते त्रीणि नेत्राणि यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose three eyes are the moon, the sun and fire",
+        "hi": "उन (शिव) को, जिनके तीन नेत्र चन्द्रमा, सूर्य और अग्नि हैं"
+      },
+      "note": {
+        "en": "indu-arka-vahni 'moon, sun and fire' is a list of three; tri-netra 'three eyes'. Together they describe Śiva, whose three eyes are these three lights. u + a becomes va: indu + arka → indvarka.",
+        "hi": "इन्दु-अर्क-वह्नि 'चन्द्रमा, सूर्य और अग्नि' तीनों की सूची है; त्रि-नेत्र 'तीन नेत्र'। दोनों मिलकर शिव का वर्णन करते हैं, जिनके तीन नेत्र ये तीन ज्योतियाँ हैं। उ + अ मिलकर व बनता है: इन्दु + अर्क → इन्द्वर्क।"
+      }
+    },
+    "c8": {
+      "members": ["w8"],
+      "iast": "sadā-ānandam",
+      "type": "bahuvrīhi",
+      "vigraha": "सदा आनन्दः यस्य सः, तम्",
+      "meaning": {
+        "en": "Him who is ever full of bliss",
+        "hi": "उन (शिव) को, जो सदा आनन्दमय हैं"
+      },
+      "note": {
+        "en": "sadā 'always' + ānanda 'bliss': the one whose bliss never ends. The two long ā's merge into one. Only the first part of the display word is this compound; īḍe 'I praise' is joined to it in writing.",
+        "hi": "सदा 'हमेशा' + आनन्द 'परम सुख': जिनका आनन्द कभी समाप्त नहीं होता। दोनों दीर्घ आ मिलकर एक हो जाते हैं। प्रदर्शित शब्द का केवल पहला भाग यह समास है; ईडे 'मैं स्तुति करता हूँ' लिखावट में साथ जुड़ा है।"
+      }
+    },
+    "c9": {
+      "members": ["w10"],
+      "iast": "pañca-vaktram",
+      "type": "bahuvrīhi",
+      "vigraha": "पञ्च वक्त्राणि यस्य सः, तम्",
+      "meaning": {
+        "en": "Him who has five faces",
+        "hi": "उन (शिव) को, जिनके पाँच मुख हैं"
+      },
+      "note": {
+        "en": "pañca 'five' + vaktra 'face': the one who has five faces. It describes the Lord (prabhum) and is also a name of Śiva.",
+        "hi": "पञ्च 'पाँच' + वक्त्र 'मुख': जिनके पाँच मुख हैं। यह प्रभुम् का विशेषण है और शिव का एक नाम भी है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1"],
+      "sa": "महेशम्",
+      "iast": "maheśam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "महेश", "iast": "maheśa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p2",
+      "words": ["w2"],
+      "sa": "सुरेशम्",
+      "iast": "sureśam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "सुरेश", "iast": "sureśa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p3",
+      "words": ["w3"],
+      "sa": "सुरारातिनाशम्",
+      "iast": "surārātināśam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "सुरारातिनाश", "iast": "surārātināśa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p4",
+      "words": ["w4"],
+      "sa": "विभुम्",
+      "iast": "vibhum",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "विभु", "iast": "vibhu" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p5",
+      "words": ["w5"],
+      "sa": "विश्वनाथम्",
+      "iast": "viśvanātham",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "विश्वनाथ", "iast": "viśvanātha" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p6",
+      "words": ["w6"],
+      "sa": "विभूत्यङ्गभूषम्",
+      "iast": "vibhūtyaṅgabhūṣam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "विभूत्यङ्गभूष", "iast": "vibhūtyaṅgabhūṣa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p7",
+      "words": ["w7"],
+      "sa": "विरूपाक्षम्",
+      "iast": "virūpākṣam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "विरूपाक्ष", "iast": "virūpākṣa" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p8",
+      "words": ["w7"],
+      "sa": "इन्द्वर्कवह्नित्रिनेत्रम्",
+      "iast": "indvarkavahnitrinetram",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "इन्द्वर्कवह्नित्रिनेत्र", "iast": "indvarkavahnitrinetra" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p9",
+      "words": ["w8"],
+      "sa": "सदानन्दम्",
+      "iast": "sadānandam",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "सदानन्द", "iast": "sadānanda" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p10",
+      "words": ["w8"],
+      "sa": "ईडे",
+      "iast": "īḍe",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": { "sa": "ईड्", "iast": "īḍ", "gana": 2 },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p11",
+      "words": ["w9"],
+      "sa": "प्रभुम्",
+      "iast": "prabhum",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "प्रभु", "iast": "prabhu" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p10"
+    },
+    {
+      "id": "p12",
+      "words": ["w10"],
+      "sa": "पञ्चवक्त्रम्",
+      "iast": "pañcavaktram",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "पञ्चवक्त्र", "iast": "pañcavaktra" },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अहम्",
+      "iast": "aham",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "अस्मद्", "iast": "asmad" },
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p10",
+      "meaning": {
+        "en": "I (the one who praises)",
+        "hi": "मैं (स्तुति करने वाला)"
+      }
+    }
+  ],
+  "anvaya": ["x1", "p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8", "p9", "p12", "p11", "p10"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "The Great Lord," },
+          { "refs": ["w2"], "text": "the Lord of the gods," },
+          { "refs": ["w3"], "text": "the destroyer of the gods' enemies," }
+        ],
+        [
+          { "refs": ["w4"], "text": "the all-pervading," },
+          { "refs": ["w5"], "text": "the Lord of the universe," },
+          { "refs": ["w6"], "text": "who wears ash as the ornament of His body," }
+        ],
+        [
+          { "refs": ["w7"], "text": "whose eyes are unlike any other's," },
+          { "refs": ["w7"], "text": "three eyes that are the moon, the sun and fire:" }
+        ],
+        [
+          { "refs": ["w8"], "text": "Him, ever full of bliss," },
+          { "refs": ["x1"], "text": "I" },
+          { "refs": ["w8"], "text": "praise," },
+          { "refs": ["w9"], "text": "the Lord" },
+          { "refs": ["w10"], "text": "with five faces." }
+        ]
+      ],
+      "bhavartha": "The poet praises Śiva, the Great Lord and Lord of the gods, who destroys the gods' enemies. He is everywhere and rules the whole universe, and ash is the ornament on His body. His eyes are unlike anyone's: He has three, and they are the moon, the sun and fire. He is always full of bliss, and He has five faces."
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "महेश्वर," },
+          { "refs": ["w2"], "text": "देवताओं के स्वामी," },
+          { "refs": ["w3"], "text": "देवताओं के शत्रुओं का नाश करने वाले," }
+        ],
+        [
+          { "refs": ["w4"], "text": "सर्वव्यापी," },
+          { "refs": ["w5"], "text": "विश्व के नाथ," },
+          { "refs": ["w6"], "text": "भस्म को अंगों का आभूषण बनाने वाले," }
+        ],
+        [
+          { "refs": ["w7"], "text": "अनोखे नेत्रों वाले," },
+          { "refs": ["w7"], "text": "चन्द्रमा, सूर्य और अग्नि-रूपी तीन नेत्रों वाले," }
+        ],
+        [
+          { "refs": ["w8"], "text": "सदा आनन्दमय," },
+          { "refs": ["w10"], "text": "पाँच मुखों वाले" },
+          { "refs": ["w9"], "text": "प्रभु की" },
+          { "refs": ["x1"], "text": "मैं" },
+          { "refs": ["w8"], "text": "स्तुति करता हूँ।" }
+        ]
+      ],
+      "bhavartha": "कवि शिव की स्तुति करता है: वे महेश्वर हैं, देवताओं के स्वामी हैं, और देवताओं के शत्रुओं का नाश करते हैं। वे सब जगह व्याप्त हैं और पूरे विश्व के नाथ हैं, और भस्म उनके शरीर का आभूषण है। उनके नेत्र सबसे अलग हैं: वे तीन हैं, और वे चन्द्रमा, सूर्य और अग्नि हैं। वे सदा आनन्दमय हैं और उनके पाँच मुख हैं।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w3"],
+      "kind": "variant",
+      "body": {
+        "en": "One letter changes the meaning. Most printings read *surārāti-nāśa*: *sura*, the gods; *arāti*, their enemies; *nāśa*, the one who destroys them. The text is also found as *surārārti-nāśa*, with *ārti*, pain: then He is the one who ends the gods' distress. Both fit the beat of the line, and both are true of Him. When Śiva burns the demons' triple city in the Mahābhārata, He does it for the good of the three worlds: destroying the enemies is how the pain ends.",
+        "hi": "एक अक्षर बदलते ही अर्थ बदल जाता है। अधिकतर पाठों में *सुरारातिनाश* है: *सुर* यानी देवता, *अराति* यानी उनके शत्रु, और *नाश* यानी उनका नाश करने वाले। यह पाठ *सुरारार्तिनाश* रूप में भी मिलता है, जिसमें *आर्ति* यानी पीड़ा है: तब शिव देवताओं का दुःख मिटाने वाले हैं। दोनों छन्द में ठीक बैठते हैं, और दोनों उन पर सच हैं। महाभारत में शिव तीनों लोकों के हित के लिए असुरों का त्रिपुर जलाते हैं: शत्रुओं का नाश ही पीड़ा का अन्त है।"
+      },
+      "citations": [
+        {
+          "source": "sanskritdocuments-vedasarast",
+          "locator": "verse ॥ २॥, pāda 1",
+          "quote": "महेशं सुरेशं सुरारातिनाशं"
+        },
+        {
+          "source": "vanivilas-1910-works-17",
+          "locator": "p. 71, verse ॥ २ ॥, pāda 1",
+          "quote": "महेशं सुरेशं सुरारातिनाशं"
+        },
+        {
+          "source": "ramakrishna-math-mantrapushpam",
+          "locator": "p. 464, verse ॥ २ ॥, pāda 1",
+          "quote": "महेशं सुरेशं सुरारातिनाशं"
+        },
+        {
+          "source": "brihat-stotra-ratnakar-wikisource",
+          "locator": "p. 251, verse २, pāda 1",
+          "quote": "महेशं सुरेशं सुरारातिनाशं"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 26, verse ॥ २ ॥, pāda 1",
+          "quote": "महेशं सुरेशं सुरारार्तिनाशं"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 26, verse ॥ २ ॥, Hindi translation",
+          "quote": "देवदुःखदलन"
+        },
+        {
+          "source": "mw-araati",
+          "locator": "MW arāti, p. 87",
+          "quote": "an enemy"
+        },
+        {
+          "source": "mw-arti",
+          "locator": "MW ārti, p. 149",
+          "quote": "painful occurrence, pain, injury"
+        },
+        {
+          "source": "mahabharata-karna-8-24",
+          "locator": "Mahābhārata (Critical Edition) 8.24.121",
+          "quote": "maheśvareṇa kruddhena trailokyasya hitaiṣiṇā"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": ["w4", "w5", "w6"],
+      "kind": "wordplay",
+      "body": {
+        "en": "Hear how line two keeps spreading. *Vibhu* is the one who is everywhere; *viśva* is everything, the whole universe, and Śiva is its Lord (*nātha*). Then comes *vibhūti*, built from the same root as *vibhu*. It means might, splendour and wealth, and it also means ash, the ash Śiva smears on His body. So one word holds both: the glory of the Lord of everything is the ash on His limbs.",
+        "hi": "दूसरी पंक्ति फैलती ही जाती है। *विभु* वह है जो सब जगह है; *विश्व* यानी सब कुछ, पूरा ब्रह्माण्ड, और शिव उसके *नाथ* हैं। फिर आता है *विभूति*, उसी धातु से बना जिससे *विभु* बना है। इसका अर्थ है शक्ति, वैभव और ऐश्वर्य, और इसका अर्थ भस्म भी है, वह भस्म जो शिव अपने शरीर पर मलते हैं। एक ही शब्द दोनों को साथ रखता है: सबके स्वामी का वैभव वही भस्म है जो उनके अंगों पर है।"
+      },
+      "citations": [
+        {
+          "source": "mw-vibhu",
+          "locator": "MW vibhu, p. 978",
+          "quote": "being everywhere, far-extending, all-pervading, omnipresent"
+        },
+        {
+          "source": "mw-vishva",
+          "locator": "MW viśva, p. 992",
+          "quote": "the whole world, universe"
+        },
+        {
+          "source": "mw-vibhuu",
+          "locator": "MW vi-√bhū, p. 978",
+          "quote": "to arise, be developed or manifested, expand, appear"
+        },
+        {
+          "source": "mw-vibhuti",
+          "locator": "MW vibhūti, p. 978",
+          "quote": "manifestation of might, great power, superhuman power"
+        },
+        {
+          "source": "mw-vibhuti",
+          "locator": "MW vibhūti, p. 979",
+          "quote": "splendour, glory, magnificence"
+        },
+        {
+          "source": "mw-vibhuti",
+          "locator": "MW vibhūti, p. 979",
+          "quote": "the ashes of cow-dung &c. (with which Śiva is said to smear his body"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w7"],
+      "kind": "theology",
+      "body": {
+        "en": "Śiva's eyes are *virūpa*, unlike anyone's: there are three of them. The verse names them in one breath: *indu*, the moon; *arka*, the sun; *vahni*, fire. The Kūrma Purāṇa shows the same sight: the sages see Rudra filling the sky, *sūrya-soma-agni-locanam*, His eyes the sun, moon and fire. The name is old too: the Mahānārāyaṇa Upaniṣad bows to the Supreme as *virūpākṣa*. Every light of the world looks out from one face.",
+        "hi": "शिव के नेत्र *विरूप* हैं, सबसे अलग: वे तीन हैं। श्लोक एक ही साँस में उनके नाम लेता है: *इन्दु* यानी चन्द्रमा, *अर्क* यानी सूर्य, *वह्नि* यानी अग्नि। कूर्म पुराण में यही दृश्य है: ऋषि आकाश में भरे रुद्र को देखते हैं, *सूर्यसोमाग्निलोचनम्*, जिनके नेत्र सूर्य, चन्द्र और अग्नि हैं। यह नाम भी पुराना है: महानारायण उपनिषद् परमेश्वर को *विरूपाक्ष* कहकर नमन करता है। संसार की हर ज्योति एक ही मुख से देखती है।"
+      },
+      "citations": [
+        {
+          "source": "kurma-purana-2-5",
+          "locator": "Kūrma Purāṇa 2.5.9",
+          "quote": "daṇḍapāṇiṃ trayīnetraṃ sūryasomāgnilocanam"
+        },
+        {
+          "source": "kurma-purana-2-5",
+          "locator": "Kūrma Purāṇa 2.5.7",
+          "quote": "tameva mocakaṃ rudramākāśe dadṛśuḥ param"
+        },
+        {
+          "source": "mahanarayana-upanishad-17-23",
+          "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 23",
+          "quote": "ऊर्ध्वरेतं विरूपाक्षं विश्वरूपाय वै नमो नमः"
+        },
+        {
+          "source": "mw-virupaksha",
+          "locator": "MW virūpākṣa, p. 984",
+          "quote": "as represented with an odd number of eyes, one being in his forehead"
+        },
+        {
+          "source": "mw-virupa",
+          "locator": "MW virūpa, p. 984",
+          "quote": "different"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a4",
+      "refs": ["w10"],
+      "kind": "theology",
+      "body": {
+        "en": "Five faces, and each one is a prayer. The Mahānārāyaṇa Upaniṣad has five short hymns, one for each face of Śiva: *Sadyojāta*, *Vāmadeva*, *Aghora*, *Tatpuruṣa* and *Īśāna*, faces turned to the four directions and upward. The Bhāgavata Purāṇa says it to Śiva directly: *mukhāni pañcopaniṣadas taveśa*, 'Lord, your five faces are the five sacred hymns.' The five-faced Lord is the Veda's own prayer given a face, fitting for a hymn called the essence of the Vedas.",
+        "hi": "पाँच मुख, और हर मुख एक प्रार्थना। महानारायण उपनिषद् में पाँच छोटे मन्त्र हैं, शिव के हर मुख के लिए एक: *सद्योजात*, *वामदेव*, *अघोर*, *तत्पुरुष* और *ईशान*, जो चारों दिशाओं और ऊपर की ओर देखते हैं। भागवत पुराण शिव से सीधे कहता है: *मुखानि पञ्चोपनिषदस्तवेश*, 'हे ईश, आपके पाँच मुख पाँच पवित्र मन्त्र हैं।' पाँच मुखों वाले प्रभु मानो वेद की अपनी प्रार्थना हैं जिसे मुख मिल गया; वेदों का सार कहे जाने वाले स्तोत्र में यह कितना उचित है।"
+      },
+      "citations": [
+        {
+          "source": "mahanarayana-upanishad-17-23",
+          "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 17",
+          "quote": "सद्योजातं प्रपद्यामि सद्योजाताय वै नमो नमः"
+        },
+        {
+          "source": "mahanarayana-upanishad-17-23",
+          "locator": "Mahānārāyaṇa Upaniṣad, anuvāka 21",
+          "quote": "ईशानः सर्वविद्यानामीश्वरः सर्वभूतानां"
+        },
+        {
+          "source": "mahanarayana-upanishad-17-23",
+          "locator": "Vimalananda, Section Seventeen, note",
+          "quote": "visualized as having five faces turned towards the four quarters and up"
+        },
+        {
+          "source": "bhagavata-8-7",
+          "locator": "Bhāgavata Purāṇa 8.7.29",
+          "quote": "मुखानि पञ्चोपनिषदस्तवेश"
+        },
+        {
+          "source": "shiva-purana-vidyeshvara",
+          "locator": "Śiva Purāṇa 1.20.52",
+          "quote": "nikhilabhayaharaṃpañcavaktraṃtrinetram"
+        },
+        {
+          "source": "mw-pancavaktra",
+          "locator": "MW pañca-vaktra, p. 577",
+          "quote": "N. of Śiva"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "महा", "iast": "mahā" },
+        { "sa": "ईशम्", "iast": "īśam" }
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "ā + ī → e",
+          "explanation": {
+            "en": "The ā of mahā and the ī of īśa merge into e: mahā + īśa → maheśa.",
+            "hi": "महा का 'आ' और ईश का 'ई' मिलकर 'ए' बनते हैं: महा + ईश → महेश।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the s of sureśam: maheśam → maheśaṃ.",
+            "hi": "सुरेशम् के 'स' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: महेशम् → महेशं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "महत्",
+          "iast": "mahat",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "महत्", "iast": "mahat" },
+          "sense": { "dict": "mw", "headword": "mahā", "gloss": "in comp. for mahat" },
+          "meaning": { "en": "great", "hi": "महान" }
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "ईश", "iast": "īśa" },
+          "sense": { "dict": "mw", "headword": "īśa", "gloss": "a ruler, master, lord" },
+          "meaning": { "en": "lord", "hi": "स्वामी" }
+        }
+      ],
+      "meaning": { "en": "the Great Lord, i.e. Śiva", "hi": "महेश्वर, अर्थात् शिव को" },
+      "literal": { "en": "the great lord", "hi": "महान स्वामी को" },
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-mahesha", "mw-maha", "mw-isha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w2": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "सुर", "iast": "sura" },
+        { "sa": "ईशम्", "iast": "īśam" }
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "a + ī → e",
+          "explanation": {
+            "en": "The a of sura and the ī of īśa merge into e: sura + īśa → sureśa.",
+            "hi": "सुर का 'अ' और ईश का 'ई' मिलकर 'ए' बनते हैं: सुर + ईश → सुरेश।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the s of surārātināśam: sureśam → sureśaṃ.",
+            "hi": "सुरारातिनाशम् के 'स' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: सुरेशम् → सुरेशं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "सुर",
+          "iast": "sura",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "सुर", "iast": "sura" },
+          "sense": { "dict": "mw", "headword": "sura", "gloss": "a god, divinity, deity" },
+          "meaning": { "en": "god", "hi": "देवता" }
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "ईश", "iast": "īśa" },
+          "sense": { "dict": "mw", "headword": "īśa", "gloss": "a ruler, master, lord" },
+          "meaning": { "en": "lord", "hi": "स्वामी" }
+        }
+      ],
+      "meaning": { "en": "the Lord of the gods, i.e. Śiva", "hi": "देवताओं के स्वामी, अर्थात् शिव को" },
+      "epithet": true,
+      "aside": {
+        "en": "*Sureśa*, Lord of the gods, is a title Indra, king of the gods, also bears. Given to Śiva, it makes Him Lord over the gods' own king.",
+        "hi": "*सुरेश*, देवताओं के स्वामी, देवराज इन्द्र की भी उपाधि है। शिव के लिए आकर यह उन्हें देवताओं के राजा का भी स्वामी बना देती है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-suresha", "mw-sura", "mw-isha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w3": {
+      "compound": "c3",
+      "padaccheda": [
+        { "sa": "सुर", "iast": "sura" },
+        { "sa": "अराति", "iast": "arāti" },
+        { "sa": "नाशम्", "iast": "nāśam" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The a of sura and the a of arāti merge into one long ā: sura + arāti → surārāti.",
+            "hi": "सुर का 'अ' और अराति का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: सुर + अराति → सुराराति।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the v of vibhum, which opens the next line: surārātināśam → surārātināśaṃ.",
+            "hi": "अगली पंक्ति के पहले शब्द विभुम् के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: सुरारातिनाशम् → सुरारातिनाशं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "सुर",
+          "iast": "sura",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "सुर", "iast": "sura" },
+          "sense": { "dict": "mw", "headword": "sura", "gloss": "a god, divinity, deity" },
+          "meaning": { "en": "gods", "hi": "देवता" }
+        },
+        {
+          "sa": "अराति",
+          "iast": "arāti",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "अराति", "iast": "arāti" },
+          "sense": { "dict": "mw", "headword": "arāti", "gloss": "an enemy" },
+          "meaning": { "en": "enemies", "hi": "शत्रु" }
+        },
+        {
+          "sa": "नाश",
+          "iast": "nāśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नश्",
+            "iast": "naś",
+            "gana": 4,
+            "gloss": { "en": "to be lost, to perish", "hi": "नष्ट होना" }
+          },
+          "formation": "√naś + ghañ (action noun)",
+          "sense": { "dict": "mw", "headword": "nāśa", "gloss": "destruction, annihilation (ifc. destroying, annihilating)" },
+          "meaning": { "en": "destroyer", "hi": "नाशक" }
+        }
+      ],
+      "meaning": { "en": "the destroyer of the gods' enemies, i.e. Śiva", "hi": "देवताओं के शत्रुओं का नाश करने वाले, अर्थात् शिव को" },
+      "alternatives": [
+        {
+          "reading": { "en": "the one who ends the gods' distress", "hi": "देवताओं का दुःख मिटाने वाले" },
+          "note": "gitapress-stotraratnavali and gitapress-shiv-stotra-ratnakar print सुरारार्तिनाशं (sura-ārti-nāśa, ārti 'pain', mw-arti) and translate देवदुःखदलन. shlokam-vedasara-shiva-stava prints सुरारातिनाशं but glosses arāti as 'affliction', a sense close to MW's Vedic arāti 'failure, adversity'. Four of five independent witnesses read सुरारातिनाशं."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-sura", "mw-araati", "mw-nasha", "mw-arti", "sanskritdocuments-vedasarast", "vanivilas-1910-works-17", "ramakrishna-math-mantrapushpam", "brihat-stotra-ratnakar-wikisource", "gitapress-stotraratnavali", "shlokam-vedasara-shiva-stava"]
+    },
+    "w4": {
+      "padaccheda": [
+        { "sa": "विभुम्", "iast": "vibhum" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the v of viśvanātham: vibhum → vibhuṃ.",
+            "hi": "विश्वनाथम् के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: विभुम् → विभुं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विभु",
+          "iast": "vibhu",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "prefixes": ["vi"],
+            "gloss": { "en": "to spread out, to pervade", "hi": "फैलना, व्याप्त होना" }
+          },
+          "formation": "vi + √bhū + ḍu",
+          "sense": { "dict": "mw", "headword": "vibhu", "gloss": "being everywhere, far-extending, all-pervading, omnipresent" },
+          "meaning": { "en": "all-pervading", "hi": "सर्वव्यापी" }
+        }
+      ],
+      "meaning": { "en": "the all-pervading one, i.e. Śiva", "hi": "सर्वव्यापी, अर्थात् शिव को" },
+      "confidence": "high",
+      "sources": ["mw-vibhu", "mw-vibhuu", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w5": {
+      "compound": "c4",
+      "padaccheda": [
+        { "sa": "विश्व", "iast": "viśva" },
+        { "sa": "नाथम्", "iast": "nātham" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the v of vibhūtyaṅgabhūṣam: viśvanātham → viśvanāthaṃ.",
+            "hi": "विभूत्यङ्गभूषम् के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: विश्वनाथम् → विश्वनाथं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विश्व",
+          "iast": "viśva",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "विश्व", "iast": "viśva" },
+          "sense": { "dict": "mw", "headword": "viśva", "gloss": "the whole world, universe" },
+          "meaning": { "en": "universe", "hi": "विश्व" }
+        },
+        {
+          "sa": "नाथ",
+          "iast": "nātha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "नाथ", "iast": "nātha" },
+          "sense": { "dict": "mw", "headword": "nātha", "gloss": "a protector, patron, possessor, owner, lord" },
+          "meaning": { "en": "lord", "hi": "स्वामी" }
+        }
+      ],
+      "meaning": { "en": "the Lord of the universe, i.e. Śiva", "hi": "विश्व के नाथ, अर्थात् शिव को" },
+      "epithet": true,
+      "aside": {
+        "en": "*Viśvanātha* is the name under which Śiva is worshipped at Vārāṇasī (Kāśī).",
+        "hi": "*विश्वनाथ* वही नाम है जिससे वाराणसी (काशी) में शिव की पूजा होती है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vishvanatha", "mw-vishva", "mw-natha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w6": {
+      "compound": "c5",
+      "padaccheda": [
+        { "sa": "विभूति", "iast": "vibhūti" },
+        { "sa": "अङ्ग", "iast": "aṅga" },
+        { "sa": "भूषम्", "iast": "bhūṣam" }
+      ],
+      "sandhi": [
+        {
+          "name": "yaṇ",
+          "rule": "i + a → ya",
+          "explanation": {
+            "en": "The final i of vibhūti becomes y before the a of aṅga: vibhūti + aṅga → vibhūtyaṅga.",
+            "hi": "विभूति का अन्तिम 'इ' अङ्ग के 'अ' से पहले 'य्' बन जाता है: विभूति + अङ्ग → विभूत्यङ्ग।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विभूति",
+          "iast": "vibhūti",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "prefixes": ["vi"],
+            "gloss": { "en": "to spread out, to be manifest", "hi": "फैलना, प्रकट होना" }
+          },
+          "formation": "vi + √bhū + ktin (action noun)",
+          "sense": { "dict": "mw", "headword": "vibhūti", "gloss": "the ashes of cow-dung &c. (with which Śiva is said to smear his body)" },
+          "meaning": { "en": "ash", "hi": "भस्म" }
+        },
+        {
+          "sa": "अङ्ग",
+          "iast": "aṅga",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "अङ्ग", "iast": "aṅga" },
+          "sense": { "dict": "mw", "headword": "aṅga", "gloss": "a limb of the body; the body" },
+          "meaning": { "en": "body", "hi": "अंग" }
+        },
+        {
+          "sa": "भूषा",
+          "iast": "bhūṣā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "भूषा", "iast": "bhūṣā" },
+          "sense": { "dict": "mw", "headword": "bhūṣā", "gloss": "ornament, decoration" },
+          "meaning": { "en": "ornament", "hi": "आभूषण" }
+        }
+      ],
+      "meaning": { "en": "(Him, i.e. Śiva) whose body's ornament is ash", "hi": "(उन शिव को) जिनके अंगों का आभूषण भस्म है" },
+      "literal": { "en": "having ash as the ornament of the body", "hi": "भस्म ही जिसके अंगों का आभूषण है" },
+      "notes": {
+        "en": "The compound describes Śiva, so bhūṣā 'ornament' ends in a short a: vibhūtyaṅgabhūṣam. Read as 'whose body is adorned with ash', the sense is the same.",
+        "hi": "समास शिव का वर्णन करता है, इसलिए भूषा 'आभूषण' का अन्त ह्रस्व 'अ' में होता है: विभूत्यङ्गभूषम्। अर्थ वही है: भस्म से सजे अंगों वाले।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vibhuti", "mw-anga", "mw-bhusha", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w7": {
+      "compound": "c6",
+      "padaccheda": [
+        { "sa": "विरूप", "iast": "virūpa" },
+        { "sa": "अक्षम्", "iast": "akṣam" },
+        { "sa": "इन्दु", "iast": "indu" },
+        { "sa": "अर्क", "iast": "arka" },
+        { "sa": "वह्नि", "iast": "vahni" },
+        { "sa": "त्रि", "iast": "tri" },
+        { "sa": "नेत्रम्", "iast": "netram" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The a of virūpa and the a of akṣa merge into one long ā: virūpa + akṣa → virūpākṣa.",
+            "hi": "विरूप का 'अ' और अक्ष का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: विरूप + अक्ष → विरूपाक्ष।"
+          }
+        },
+        {
+          "name": "yaṇ",
+          "rule": "u + a → va",
+          "explanation": {
+            "en": "virūpākṣam simply joins the i of indu in writing; then the u of indu becomes v before the a of arka: indu + arka → indvarka.",
+            "hi": "विरूपाक्षम् लिखावट में इन्दु के 'इ' से सीधे जुड़ जाता है; फिर इन्दु का 'उ' अर्क के 'अ' से पहले 'व्' बन जाता है: इन्दु + अर्क → इन्द्वर्क।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the s of sadānandam: trinetram → trinetraṃ.",
+            "hi": "सदानन्दम् के 'स' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: त्रिनेत्रम् → त्रिनेत्रं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विरूप",
+          "iast": "virūpa",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "विरूप", "iast": "virūpa" },
+          "sense": { "dict": "mw", "headword": "virūpa", "gloss": "multiform, manifold, various; different" },
+          "meaning": { "en": "unusual", "hi": "अनोखा" }
+        },
+        {
+          "sa": "अक्षि",
+          "iast": "akṣi",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "अक्षि", "iast": "akṣi" },
+          "sense": { "dict": "mw", "headword": "akṣa", "gloss": "[only ifc. for akṣi], the eye" },
+          "meaning": { "en": "eye", "hi": "नेत्र" }
+        },
+        {
+          "sa": "इन्दु",
+          "iast": "indu",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "इन्दु", "iast": "indu" },
+          "sense": { "dict": "mw", "headword": "indu", "gloss": "the moon" },
+          "meaning": { "en": "moon", "hi": "चन्द्रमा" }
+        },
+        {
+          "sa": "अर्क",
+          "iast": "arka",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "अर्क", "iast": "arka" },
+          "sense": { "dict": "mw", "headword": "arka", "gloss": "the sun" },
+          "meaning": { "en": "sun", "hi": "सूर्य" }
+        },
+        {
+          "sa": "वह्नि",
+          "iast": "vahni",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "वह्नि", "iast": "vahni" },
+          "sense": { "dict": "mw", "headword": "vahni", "gloss": "fire (in general or 'the god of fire')" },
+          "meaning": { "en": "fire", "hi": "अग्नि" }
+        },
+        {
+          "sa": "त्रि",
+          "iast": "tri",
+          "pos": "numeral",
+          "root": { "kind": "pratipadika", "sa": "त्रि", "iast": "tri" },
+          "meaning": { "en": "three", "hi": "तीन" }
+        },
+        {
+          "sa": "नेत्र",
+          "iast": "netra",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "नेत्र", "iast": "netra" },
+          "sense": { "dict": "mw", "headword": "netra", "gloss": "the eye (as the guiding organ)" },
+          "meaning": { "en": "eye", "hi": "नेत्र" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) whose eyes are unusual, whose three eyes are the moon, the sun and fire",
+        "hi": "(उन शिव को) जिनके नेत्र अनोखे हैं, जिनके तीन नेत्र चन्द्रमा, सूर्य और अग्नि हैं"
+      },
+      "literal": {
+        "en": "odd-eyed; having moon, sun and fire as three eyes",
+        "hi": "विरूप नेत्रों वाले; चन्द्र, सूर्य और अग्नि-रूपी तीन नेत्रों वाले"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Two words written as one: virūpākṣam (its own compound, c6) and indvarkavahnitrinetram (c7); both describe the Lord (prabhum). Virūpākṣa is also a name of Śiva for His odd number of eyes, which the second word then spells out.",
+        "hi": "दो शब्द एक साथ लिखे गए: विरूपाक्षम् (अपना समास, c6) और इन्द्वर्कवह्नित्रिनेत्रम् (c7); दोनों प्रभुम् का वर्णन करते हैं। विरूपाक्ष विषम संख्या (तीन) के नेत्रों के कारण शिव का नाम भी है, और दूसरा शब्द उन्हीं नेत्रों को गिनाता है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "unique-eyed, of wondrous eyes", "hi": "विलक्षण नेत्रों वाले" },
+          "note": "shlokam-vedasara-shiva-stava glosses virūpa as 'unique'; gitapress-stotraratnavali has विरूपनयन; mw-virupaksha gives 'diversely-eyed', and as Śiva's name 'with an odd number of eyes'. MW's 'having deformed eyes' is not followed, since the next word explains the eyes as the three lights."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-virupaksha", "mw-virupa", "mw-aksha", "mw-akshi", "mw-indu", "mw-arka", "mw-vahni", "mw-netra", "mw-trinetra", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali", "kurma-purana-2-5"]
+    },
+    "w8": {
+      "compound": "c8",
+      "padaccheda": [
+        { "sa": "सदा", "iast": "sadā" },
+        { "sa": "आनन्दम्", "iast": "ānandam" },
+        { "sa": "ईडे", "iast": "īḍe" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "ā + ā → ā",
+          "explanation": {
+            "en": "The ā of sadā and the ā of ānanda merge into one long ā: sadā + ānanda → sadānanda. Then sadānandam simply joins the ī of īḍe in writing.",
+            "hi": "सदा का 'आ' और आनन्द का 'आ' मिलकर एक दीर्घ 'आ' बनते हैं: सदा + आनन्द → सदानन्द। फिर सदानन्दम् लिखावट में ईडे के 'ई' से सीधे जुड़ जाता है।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "सदा",
+          "iast": "sadā",
+          "pos": "indeclinable",
+          "sense": { "dict": "mw", "headword": "sadā", "gloss": "always, ever, every time, continually" },
+          "meaning": { "en": "always", "hi": "सदा" }
+        },
+        {
+          "sa": "आनन्द",
+          "iast": "ānanda",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "आनन्द", "iast": "ānanda" },
+          "sense": { "dict": "mw", "headword": "ānanda", "gloss": "happiness, joy; 'pure happiness'" },
+          "meaning": { "en": "bliss", "hi": "आनन्द" }
+        },
+        {
+          "sa": "ईडे",
+          "iast": "īḍe",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "ईड्",
+            "iast": "īḍ",
+            "gana": 2,
+            "gloss": { "en": "to praise", "hi": "स्तुति करना" }
+          },
+          "sense": { "dict": "mw", "headword": "īḍ", "gloss": "to implore, request, ask for; to praise" },
+          "meaning": { "en": "I praise", "hi": "मैं स्तुति करता हूँ" }
+        }
+      ],
+      "meaning": {
+        "en": "I praise (Him, i.e. Śiva) who is ever full of bliss",
+        "hi": "सदा आनन्दमय (शिव) की मैं स्तुति करता हूँ"
+      },
+      "aside": {
+        "en": "*Ānanda* is joy at its purest, the word also used for the bliss of the highest Reality. *Sadā*, always, makes it unbroken.",
+        "hi": "*आनन्द* सबसे शुद्ध सुख है, वही शब्द जो परम सत्य के आनन्द के लिए भी आता है। *सदा* उसे अखण्ड बना देता है।"
+      },
+      "notes": {
+        "en": "Two words written as one: sadānandam, describing the Lord, and īḍe 'I praise', the only verb of the verse. sadānanda can also be heard as 'whose very nature is eternal bliss'.",
+        "hi": "दो शब्द एक साथ लिखे गए: सदानन्दम्, जो प्रभु का वर्णन करता है, और ईडे 'मैं स्तुति करता हूँ', श्लोक की एकमात्र क्रिया।"
+      },
+      "confidence": "high",
+      "sources": ["mw-sada", "mw-ananda", "mw-id", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w9": {
+      "padaccheda": [
+        { "sa": "प्रभुम्", "iast": "prabhum" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the p of pañcavaktram: prabhum → prabhuṃ.",
+            "hi": "पञ्चवक्त्रम् के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रभुम् → प्रभुं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रभु",
+          "iast": "prabhu",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "prefixes": ["pra"],
+            "gloss": { "en": "to be mighty, to rule", "hi": "समर्थ होना, शासन करना" }
+          },
+          "formation": "pra + √bhū + ḍu",
+          "sense": { "dict": "mw", "headword": "prabhu", "gloss": "a master, lord, king (also applied to gods)" },
+          "meaning": { "en": "lord", "hi": "प्रभु" }
+        }
+      ],
+      "meaning": { "en": "the Lord, i.e. Śiva", "hi": "प्रभु, अर्थात् शिव की" },
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-prabhu", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w10": {
+      "compound": "c9",
+      "padaccheda": [
+        { "sa": "पञ्च", "iast": "pañca" },
+        { "sa": "वक्त्रम्", "iast": "vaktram" }
+      ],
+      "components": [
+        {
+          "sa": "पञ्चन्",
+          "iast": "pañcan",
+          "pos": "numeral",
+          "root": { "kind": "pratipadika", "sa": "पञ्चन्", "iast": "pañcan" },
+          "sense": { "dict": "mw", "headword": "pañcan", "gloss": "five" },
+          "meaning": { "en": "five", "hi": "पाँच" }
+        },
+        {
+          "sa": "वक्त्र",
+          "iast": "vaktra",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "वक्त्र", "iast": "vaktra" },
+          "sense": { "dict": "mw", "headword": "vaktra", "gloss": "the mouth, face" },
+          "meaning": { "en": "face", "hi": "मुख" }
+        }
+      ],
+      "meaning": { "en": "(the Lord, i.e. Śiva) who has five faces", "hi": "पाँच मुखों वाले (प्रभु, अर्थात् शिव की)" },
+      "epithet": true,
+      "notes": {
+        "en": "Describes prabhum, 'the Lord'. One witness prints पञ्चवक्रम्, a transcription slip (vakra 'crooked' gives no sense).",
+        "hi": "यह प्रभुम् 'प्रभु' का विशेषण है। एक प्रति में पञ्चवक्रम् छपा है, जो लिखने की भूल है (वक्र 'टेढ़ा' का यहाँ कोई अर्थ नहीं)।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pancavaktra", "mw-pancan", "mw-vaktra", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali", "mahanarayana-upanishad-17-23"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      { "date": "2026-11-20", "by": "ai", "action": "Drafted from evidence pack." }
+    ]
+  },
+  "_new_concepts": {
+    "trinetra": {
+      "name": { "en": "Trinetra, the three eyes", "hi": "त्रिनेत्र, तीन नेत्र" },
+      "description": {
+        "en": "Śiva has three eyes, and the hymns name them as the moon, the sun and fire. The picture makes Him the source of every light, the One through whom the world is seen.",
+        "hi": "शिव के तीन नेत्र हैं, और स्तोत्र उन्हें चन्द्रमा, सूर्य और अग्नि कहते हैं। यह चित्र उन्हें हर ज्योति का स्रोत बनाता है, वह एक जिनके द्वारा संसार देखा जाता है।"
+      }
+    },
+    "vibhuti": {
+      "name": { "en": "Vibhūti, the sacred ash", "hi": "विभूति, पवित्र भस्म" },
+      "description": {
+        "en": "Śiva smears His body with ash, and devotees wear it in His honour. The same word means might, splendour and wealth, so the Lord's plainest ornament is also His glory.",
+        "hi": "शिव अपने शरीर पर भस्म मलते हैं, और भक्त उनके सम्मान में इसे धारण करते हैं। यही शब्द शक्ति, वैभव और ऐश्वर्य का अर्थ भी देता है, इसलिए प्रभु का सबसे सादा आभूषण ही उनका वैभव है।"
+      }
+    },
+    "pancavaktra": {
+      "name": { "en": "Pañcavaktra, the five faces", "hi": "पञ्चवक्त्र, पाँच मुख" },
+      "description": {
+        "en": "Śiva is pictured with five faces, looking to the four directions and upward. Each face has its own Vedic prayer, so the five-faced form joins Śiva's image to the Veda itself.",
+        "hi": "शिव को पाँच मुखों वाला माना जाता है, जो चारों दिशाओं और ऊपर की ओर देखते हैं। हर मुख का अपना वैदिक मन्त्र है, इसलिए पंचमुख रूप शिव के चित्र को स्वयं वेद से जोड़ता है।"
+      }
+    }
+  }
+}

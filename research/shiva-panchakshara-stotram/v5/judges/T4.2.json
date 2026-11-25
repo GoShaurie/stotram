@@ -1,0 +1,12 @@
+{
+  "check": "T4.2",
+  "fields_hash": "cfaca039882df4af",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "",
+      "message": "Not a sense error, outside T4.2: words.w1.components[0] is marked gender 'masculine', but its sense.gloss 'a living supernatural being, spiritual apparition' comes from MW's neuter entry yakṣa n. (mw-yaksha.md, p. 838,2). The masculine entry is 'N. of a class of semi-divine beings (attendants of Kubera...)'. The neuter sense is the better fit for Śiva and for the Kena-style reading noted in text-report.md, so the sense choice itself passes. The gender label and the dictionary entry should still match.",
+      "suggested_fix": "Keep the neuter-entry sense and set the component's gender to 'neuter', or note that inside the compound the member stem's gender is not decided."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "918599e634450c37",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a3.body",
+      "message": "'Most printings keep the serpent' / 'अधिकतर मुद्रित पाठ सर्प को ही रखते हैं' generalises beyond the cited evidence. The a3 citations show three texts with śeṣa-pāśa…maṇḍalaṃ (gitapress-shiv-stotra-ratnakar.md, ramakrishna-math-mantrapushpam.md, and the main text of sanskritdocuments-kaalabhairava.md) and two with keśa-pāśa…nirmalaṃ (vanivilas-1910-works-18.md, sanskritdocuments-shivarahasya-kalabhairava.md). Three of five texts does not show that 'most printings' have the serpent. No excerpt makes a claim about printings in general. This is a borderline case of a claim stronger than its source, so a human should decide.",
+      "suggested_fix": "Soften the wording to something the excerpts support, e.g. en: 'Other printings keep the serpent: …' / hi: 'अन्य मुद्रित पाठ सर्प को ही रखते हैं: …'."
+    }
+  ]
+}

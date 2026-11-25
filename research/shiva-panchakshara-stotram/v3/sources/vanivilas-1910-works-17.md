@@ -1,0 +1,21 @@
+source: vanivilas-1910-works-17
+name: Works of Sri Sankaracharya, vol. 17 (Stotras, part 1), Sri Vani Vilas Press, Srirangam, 1910 Memorial Edition: ॥ शिवपञ्चाक्षरस्तोत्रम् ॥, pp. [119]–120. Scan on Internet Archive; also transcribed on Sanskrit Wikisource (https://sa.wikisource.org/wiki/शिवपञ्चाक्षरस्तोत्रम्, Index 'शङ्कराचार्यविरचितानि स्तोत्राणि (प्रथमः भागः).pdf', pages /१३१–/१३२, index status 'OCR'), which counts as the same witness.
+url: https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n129/mode/1up
+kind: text
+locator: print: Works of Sri Sankaracharya vol. 17 (Vani Vilas, 1910), p. [119], verse ॥ ३ ॥ (archive.org jp2 leaf 0130)
+retrieved: 2026-11-18
+---
+Transcribed by eye from the page image; layout (second and fourth pāda indented) is the book's. The archive.org OCR is unreliable (e.g. विखोचनाय, निलयाय ज्जुद्धाय) and was used only to locate the page.
+
+शिवाय गौरीवदनाब्जबृन्द-
+    सूर्याय दक्षाध्वरनाशकाय ।
+श्रीनीलकण्ठाय वृषध्वजाय
+    तस्मै शिकाराय नमः शिवाय ॥ ३ ॥
+
+Sanskrit Wikisource transcription of the same pages (verbatim; leading no-break spaces shown as plain spaces):
+शिवाय गौरीवदनाब्जबृन्द-
+ सूर्याय दक्षाध्वरनाशकाय ।
+श्रीनीलकण्ठाय वृषध्वजाय
+ तस्मै शिकाराय नमः शिवाय ॥३॥
+
+Note: Page image reads वदनाब्जबृन्द- (ब, not व) with a hyphen at the pāda break.

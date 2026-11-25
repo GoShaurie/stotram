@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "5478a4e40e6092cf",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a5.body",
+      "message": "Implies sanskritdocuments lacks samapravṛttikaḥ … bhajāmy aham; both its pages print it as main text and give the other pāda only as a bracketed variant.",
+      "suggested_fix": "'Both sanskritdocuments.org pages, while reading samapravṛttikaḥ … bhajāmy aham in the main text, give a variant last pāda in brackets…'"
+    }
+  ]
+}

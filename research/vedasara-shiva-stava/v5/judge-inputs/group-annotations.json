@@ -1,0 +1,516 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.9": "checks/judges/T4.9.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "sources": [
+      {
+        "id": "stotram-text",
+        "name": "Vedasāraśivastavaḥ, the hymn's own text",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "sanskritdocuments-vedasarast",
+        "name": "sanskritdocuments.org — Vedasara Shiva Stotram (vedasarast.itx); read from the Wayback copy of 2025-07-22",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250722112755/https://sanskritdocuments.org/doc_shiva/vedasarast.html"
+      },
+      {
+        "id": "shlokam-vedasara-shiva-stava",
+        "name": "shlokam.org — Vedasara Shiva Stava (English translation and word meanings; Devanagari copies sanskritdocuments)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/vedasara-shiva-stava.htm"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. 71–73",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n82/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, pp. 464–465; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/464/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 26–29, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 52–55, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "brihat-stotra-ratnakar-wikisource",
+        "name": "बृहत्स्तोत्ररत्नाकर (Bṛhatstotraratnākara) vol. 1 (1953), pp. 251–252, as transcribed on Sanskrit Wikisource",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/वेदसारशिवस्तवः"
+      },
+      {
+        "id": "mw-eka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'eka' (SLP1 key: eka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=eka"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-para",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'para' (SLP1 key: para)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=para"
+      },
+      {
+        "id": "mw-vishva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśva' (SLP1 key: viSva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSva"
+      },
+      {
+        "id": "linga-purana-1-3",
+        "name": "Liṅga Purāṇa 1.3",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mandukya-upanishad",
+        "name": "Māṇḍūkya Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "taittiriya-upanishad-3-1",
+        "name": "Taittirīya Upaniṣad 3.1",
+        "kind": "text",
+        "ancient": true,
+        "note": "The 'mind' step (3.4) of the Bhṛgu story is told from memory; 3.1–3.3 and 3.5–3.6 were checked. Confirm before review."
+      },
+      {
+        "id": "shvetashvatara-upanishad",
+        "name": "Śvetāśvatara Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "katha-upanishad",
+        "name": "Kaṭha Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "shiva-purana-vidyeshvara",
+        "name": "Śiva Purāṇa, Vidyeśvara Saṃhitā",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-jagat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jagat' (SLP1 key: jagat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jagat"
+      },
+      {
+        "id": "mw-jagadbija",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jagadbīja' (SLP1 key: jagadbIja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jagadbIja"
+      },
+      {
+        "id": "mw-niriha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirīha' (SLP1 key: nirIha)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirIha"
+      },
+      {
+        "id": "mw-pal",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāl' (SLP1 key: pAl)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pAl"
+      },
+      {
+        "id": "mw-vedya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vedya' (SLP1 key: vedya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vedya"
+      },
+      {
+        "id": "mw-yatra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yatra' (SLP1 key: yatra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yatra"
+      },
+      {
+        "id": "mw-yena",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yena' (SLP1 key: yena)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yena"
+      },
+      {
+        "id": "mw-adya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ādya' (SLP1 key: Adya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Adya"
+      },
+      {
+        "id": "mw-atman",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ātman' (SLP1 key: Atman)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Atman"
+      },
+      {
+        "id": "mw-bija",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bīja' (SLP1 key: bIja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=bIja"
+      },
+      {
+        "id": "mw-jan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jan' (SLP1 key: jan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jan"
+      },
+      {
+        "id": "mw-li",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'lī' (SLP1 key: lI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lI"
+      },
+      {
+        "id": "mw-nirakara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirākāra' (SLP1 key: nirAkAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirAkAra"
+      },
+      {
+        "id": "mw-tad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tad' (SLP1 key: tad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tad"
+      },
+      {
+        "id": "mw-yatas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yatas' (SLP1 key: yatas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yatas"
+      },
+      {
+        "id": "mw-akara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ākāra' (SLP1 key: AkAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AkAra"
+      },
+      {
+        "id": "mw-iha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īhā' (SLP1 key: IhA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=IhA"
+      },
+      {
+        "id": "mw-oMkAra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'oMkAra' (SLP1 key: oMkAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=oMkAra"
+      },
+      {
+        "id": "mw-paratman",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'parātman' (SLP1 key: parAtman)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=parAtman"
+      },
+      {
+        "id": "mw-yad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yad' (SLP1 key: yad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yad"
+      }
+    ]
+  },
+  "verse": {
+    "id": "v5",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "परात्मानमेकं",
+            "iast": "parātmānamekaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "जगद्बीजमाद्यं",
+            "iast": "jagadbījamādyaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "निरीहं",
+            "iast": "nirīhaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "निराकारमोङ्कारवेद्यम्",
+            "iast": "nirākāramoṅkāravedyam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "यतो",
+            "iast": "yato"
+          },
+          {
+            "id": "w6",
+            "text": "जायते",
+            "iast": "jāyate"
+          },
+          {
+            "id": "w7",
+            "text": "पाल्यते",
+            "iast": "pālyate"
+          },
+          {
+            "id": "w8",
+            "text": "येन",
+            "iast": "yena"
+          },
+          {
+            "id": "w9",
+            "text": "विश्वं",
+            "iast": "viśvaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w10",
+            "text": "तमीशं",
+            "iast": "tamīśaṃ"
+          },
+          {
+            "id": "w11",
+            "text": "भजे",
+            "iast": "bhaje"
+          },
+          {
+            "id": "w12",
+            "text": "लीयते",
+            "iast": "līyate"
+          },
+          {
+            "id": "w13",
+            "text": "यत्र",
+            "iast": "yatra"
+          },
+          {
+            "id": "w14",
+            "text": "विश्वम्",
+            "iast": "viśvam"
+          }
+        ],
+        "end": "॥ ५ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w2"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "A seed holds a whole tree before there is any tree. *Jagad-bīja*, 'the seed of the world', calls Śiva the source the world grows out of, and *ādya* adds 'the first', there at the beginning.\n\nThe Śiva Purāṇa puts the same pair into a meditation verse spoken before worshipping the clay liṅga. It pictures Him [five-faced](#v2-a4) and three-eyed, and in the same breath calls Him *viśvādya*, first of all, and *viśva-bīja*, seed of all.",
+          "hi": "पेड़ के होने से पहले ही पूरा पेड़ बीज में छिपा रहता है। *जगद्-बीज*, 'जगत् का बीज', शिव को वह मूल कहता है जिससे संसार उगता है, और *आद्य* जोड़ता है: 'पहले', जो आरम्भ में ही थे।\n\nशिव पुराण यही जोड़ी एक ध्यान-श्लोक में रखता है, जो मिट्टी के लिंग की पूजा से पहले पढ़ा जाता है। वह उन्हें [पाँच मुख](#v2-a4) और तीन नेत्रों वाला दिखाता है, और उसी साँस में उन्हें *विश्वाद्य*, सबके आदि, और *विश्व-बीज*, सबका बीज, कहता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-jagadbija",
+            "locator": "MW jagad-bīja, p. 408",
+            "quote": "‘world-seed’, Śiva"
+          },
+          {
+            "source": "mw-adya",
+            "locator": "MW ādya, p. 137",
+            "quote": "being at the beginning, first, primitive"
+          },
+          {
+            "source": "shiva-purana-vidyeshvara",
+            "locator": "Śiva Purāṇa 1.20.52",
+            "quote": "viśvādyaṃviśvabījaṃ"
+          },
+          {
+            "source": "shiva-purana-vidyeshvara",
+            "locator": "Śiva Purāṇa 1.20.52",
+            "quote": "pañcavaktraṃtrinetram"
+          },
+          {
+            "source": "shiva-purana-vidyeshvara",
+            "locator": "Śiva Purāṇa 1.20.53",
+            "quote": "itidhyātvācasaṃpūjyapārthivaṃliṃgamuttamam"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w4"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "How do you know what has no form? It can't be seen or touched, so the verse names a door: *oṅkāra-vedya*, 'to be known through Om'. The Kaṭha Upaniṣad sums up the goal every Veda speaks of in one word: Om. The Māṇḍūkya opens, 'Om, this syllable, is all this': past, present and future, and what lies beyond all three times. A hymn named the essence of the Vedas points to that one syllable.",
+          "hi": "जिसका कोई रूप नहीं, उसे कैसे जानें? उसे न देखा जा सकता है, न छुआ, इसलिए श्लोक एक द्वार बताता है: *ओङ्कार-वेद्य*, 'ॐ से जानने योग्य'। कठ उपनिषद् उस लक्ष्य को, जिसकी बात हर वेद करता है, एक शब्द में कहता है: ॐ। माण्डूक्य आरम्भ में ही कहता है, 'ॐ, यह अक्षर, यह सब है': भूत, वर्तमान और भविष्य, और जो तीनों कालों से परे है वह भी। वेदों का सार कहलाने वाला स्तोत्र उसी एक अक्षर की ओर संकेत करता है।"
+        },
+        "citations": [
+          {
+            "source": "katha-upanishad",
+            "locator": "Kaṭha Up. 1.2.15",
+            "quote": "सर्वे वेदा यत् पदमामनन्ति"
+          },
+          {
+            "source": "katha-upanishad",
+            "locator": "Kaṭha Up. 1.2.15",
+            "quote": "ब्रवीम्योमित्येतत्"
+          },
+          {
+            "source": "mandukya-upanishad",
+            "locator": "Māṇḍūkya Up. 1",
+            "quote": "ओमित्येतदक्षरमिदँ सर्वं"
+          },
+          {
+            "source": "mandukya-upanishad",
+            "locator": "Māṇḍūkya Up. 1",
+            "quote": "यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव"
+          },
+          {
+            "source": "mw-nirakara",
+            "locator": "MW nir-ākāra, p. 540",
+            "quote": "formless, shapeless, incorporeal"
+          },
+          {
+            "source": "mw-vedya",
+            "locator": "MW vedya, p. 1017",
+            "quote": "to be learnt or known or understood"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 27, verse 5, Hindi translation",
+            "quote": "प्रणवद्वारा जाननेयोग्य हैं"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w5",
+          "w6",
+          "w7",
+          "w8",
+          "w9"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "This line echoes an old scene in the Upaniṣads. Bhṛgu goes to his father Varuṇa and asks: sir, teach me Brahman. Varuṇa gives him a clue to search by: seek to know that from which these beings are born, by which, once born, they live, and into which they pass at the end. That is Brahman. Bhṛgu sets himself to deep concentration (*tapas*).\n\nThe verse takes the father's clue, *yataḥ … jāyate … yena*, and turns it into praise: that is the Lord I worship.",
+          "hi": "यह पंक्ति उपनिषद् के एक पुराने दृश्य को दोहराती है। भृगु अपने पिता वरुण के पास जाकर कहता है: भगवन्, मुझे ब्रह्म का ज्ञान दीजिए। वरुण उसे खोज का एक सूत्र देते हैं: जिससे ये प्राणी जन्म लेते हैं, जन्म लेकर जिसके सहारे जीते हैं, और अन्त में जिसमें समा जाते हैं, उसे जानने की इच्छा करो; वही ब्रह्म है। भृगु ने तप किया।\n\nश्लोक पिता के उसी सूत्र, *यतः … जायते … येन*, को स्तुति बना देता है: वही ईश्वर, जिसे मैं भजता हूँ।"
+        },
+        "citations": [
+          {
+            "source": "taittiriya-upanishad-3-1",
+            "locator": "Taittirīya Up. 3.1.1",
+            "quote": "अधीहि भगवो ब्रह्मेति"
+          },
+          {
+            "source": "taittiriya-upanishad-3-1",
+            "locator": "Taittirīya Up. 3.1.1",
+            "quote": "यतो वा इमानि भूतानि जायन्ते"
+          },
+          {
+            "source": "taittiriya-upanishad-3-1",
+            "locator": "Taittirīya Up. 3.1.1",
+            "quote": "येन जातानि जीवन्ति"
+          },
+          {
+            "source": "taittiriya-upanishad-3-1",
+            "locator": "Taittirīya Up. 3.1.1",
+            "quote": "तद्विजिज्ञासस्व। तद्ब्रह्मेति। स तपोऽतप्यत"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w12",
+          "w13",
+          "w14"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Līyate* is a gentle word for an ending. Its root *lī* means to cling, to settle into, to slip out of sight. The world is not smashed; it settles back into the One it came from. Three small words trace the circle: *yataḥ*, from whom; *yena*, by whom; *yatra*, in whom.\n\nThe word order follows it too: *viśvam*, the world, closes line three as it is born and kept, and closes the verse as it sinks into Him.",
+          "hi": "*लीयते* अन्त के लिए एक कोमल शब्द है। इसकी धातु *ली* का अर्थ है चिपकना, किसी में बैठ जाना, ओझल हो जाना। संसार तोड़ा नहीं जाता; वह उसी एक में लौटकर समा जाता है जिससे आया था। तीन छोटे शब्द यह घेरा खींचते हैं: *यतः*, जिनसे; *येन*, जिनके द्वारा; *यत्र*, जिनमें।\n\nशब्दों का क्रम भी यही करता है: *विश्वम्*, संसार, तीसरी पंक्ति के अन्त में आता है, जहाँ वह जन्म लेता और पलता है, और फिर श्लोक के अन्त में, जहाँ वह उनमें लीन होता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-li",
+            "locator": "MW √lī, p. 903",
+            "quote": "to cling or press closely, stick or adhere to"
+          },
+          {
+            "source": "mw-li",
+            "locator": "MW √lī, p. 903",
+            "quote": "hide or cower down in (loc.), disappear, vanish"
+          },
+          {
+            "source": "mw-yatas",
+            "locator": "MW yatas, p. 841",
+            "quote": "from which or what, whence"
+          },
+          {
+            "source": "mw-yatra",
+            "locator": "MW yatra, p. 841",
+            "quote": "in or to which place, where, wherein"
+          },
+          {
+            "source": "stotram-text",
+            "locator": "verse 5, line 3",
+            "quote": "यतो जायते पाल्यते येन विश्वं"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ]
+  }
+}

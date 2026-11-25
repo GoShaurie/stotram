@@ -1,0 +1,12 @@
+{
+  "check": "T2.9b",
+  "fields_hash": "2f097999c3e1f402",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c2.structure",
+      "message": "The grouping ((brahma-veda)-(sva-rūpa)) is defensible, but the evidence also supports (brahma)-(veda-svarūpa), 'Brahman, who has the Veda as his form' (sanskritdocuments-rudra8.md English; gitapress-ramcharitmanas.md prints 'ब्रह्म वेदस्वरूपं' as two words, gloss 'ब्रह्म और वेदस्वरूप'). w5.notes cites Gita Press for the dvandva when it more likely backs the other grouping. A human should decide which grouping goes first.",
+      "suggested_fix": "Add the alternative grouping to compounds.c2.note and reword w5.notes."
+    }
+  ]
+}

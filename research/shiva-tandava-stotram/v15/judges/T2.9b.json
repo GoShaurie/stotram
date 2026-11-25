@@ -1,0 +1,12 @@
+{
+  "check": "T2.9b",
+  "fields_hash": "0dfde0422ec363a9",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c2.vigraha",
+      "message": "The structure and the vigraha group c2 slightly differently. The structure '((((mahā-(aṣṭa-siddhi))-(kāminī-jana))-avahūta)-jalpanā)' and the note equate the siddhis with kāminī-jana as a unit, i.e. siddhi-(kāminī-jana). The vigraha 'महत्यः अष्टौ सिद्धयः एव कामिन्यः, तासां जनेन …' instead equates the siddhis with kāminīs and then takes their jana, i.e. ((siddhi-kāminī)-jana). The meaning is the same either way, and vyakhya-sts-15 splits it as 'महा + अष्टसिद्धि + कामिनीजन + अवहूत', which supports the structure. Even so, the two fields should match.",
+      "suggested_fix": "Align the vigraha with the structure: 'महत्यः अष्टौ सिद्धयः एव कामिनीजनः, तेन अवहूता जल्पना'."
+    }
+  ]
+}

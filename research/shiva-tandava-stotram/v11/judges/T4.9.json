@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "fe7b23a199b8e5dc",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a3.body",
+      "message": "MW records havya-vāha (a-stem), not havya-vāh, as 'Agni or fire'.",
+      "suggested_fix": "'…Monier-Williams records the related havya-vāha as a name of Agni or fire.'"
+    }
+  ]
+}

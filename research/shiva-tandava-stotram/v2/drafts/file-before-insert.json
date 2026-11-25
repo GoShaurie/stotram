@@ -1,0 +1,2134 @@
+{
+  "schema_version": "0.3.0",
+  "language": "sa",
+  "tradition": {
+    "id": "shaiva"
+  },
+  "id": "shiva-tandava-stotram",
+  "type": "stotram",
+  "title": {
+    "sa": "शिवताण्डवस्तोत्रम्",
+    "iast": "Śivatāṇḍavastotram",
+    "en": "Shiva Tandava Stotram",
+    "hi": "शिव ताण्डव स्तोत्र"
+  },
+  "deities": [
+    "shiva"
+  ],
+  "attribution": {
+    "en": "Traditionally attributed to Rāvaṇa, the king of Laṅkā and a devotee of Śiva.",
+    "hi": "परम्परा से लंकापति रावण द्वारा रचित माना जाता है, जो शिव के परम भक्त थे।"
+  },
+  "meter": {
+    "id": "pancacamara",
+    "name": "pañcacāmara",
+    "description": {
+      "en": "16 syllables per quarter-verse (pāda) in a strict short-long (laghu-guru) alternation, which gives the hymn its drum-like rhythm.",
+      "hi": "प्रत्येक चरण में 16 अक्षर, लघु-गुरु के क्रम में — इसी से स्तोत्र की डमरू जैसी लय बनती है।"
+    }
+  },
+  "summary": {
+    "en": "A hymn describing Śiva's cosmic Tāṇḍava dance: the Gaṅgā flowing through His matted hair, the serpent garland, the thundering ḍamaru, and the auspiciousness He bestows on devotees.",
+    "hi": "शिव के ब्रह्माण्डीय ताण्डव नृत्य का वर्णन करने वाला स्तोत्र: जटाओं से बहती गंगा, सर्पों की माला, गूँजता डमरू और भक्तों को मिलने वाला कल्याण।"
+  },
+  "about": {
+    "en": "A hymn you can hear as a drum. The *Śiva Tāṇḍava Stotram* pictures Śiva mid-dance: the Gaṅgā [pouring through his hair](#v1-a1), a [serpent for a garland](#v1-a2), and a ḍamaru you can hear in the syllables themselves ([ḍamaḍ-ḍamaḍ-ḍamaḍ](#v1-a3)). Each verse is one breathless image, and the first closes by asking that the dancer's power turn into [blessing](#v1-a5).\n\nTradition credits it to Rāvaṇa. The Rāmāyaṇa tells how Rāvaṇa tried to lift Mount Kailāsa, was pinned beneath it when Śiva pressed down with his toe, and praised Śiva until he was released; popular retellings say this hymn is what he sang. The epic tells the story but does not contain the hymn, so the link is devotional rather than textual. The hymn's own closing verse calls itself *daśavaktra-gītam*, \"sung by the ten-faced one\".\n\nIts signature is sound. The *pañcacāmara* meter alternates short and long syllables without a break, which is why every recitation of it feels like drumming.",
+    "hi": "एक ऐसा स्तोत्र जिसे डमरू की तरह सुना जा सकता है। *शिव ताण्डव स्तोत्र* शिव को नृत्य के बीच दिखाता है: [जटाओं से बहती](#v1-a1) गंगा, [सर्पों की माला](#v1-a2), और एक डमरू जो अक्षरों में ही सुनाई देता है ([डमड्-डमड्-डमड्](#v1-a3))। हर श्लोक एक ही साँस में कहा गया चित्र है, और पहला श्लोक इस प्रार्थना पर समाप्त होता है कि नर्तक की शक्ति [कल्याण](#v1-a5) बन जाए।\n\nपरम्परा इसे रावण की रचना मानती है। रामायण बताती है कि रावण ने कैलास पर्वत उठाने का प्रयास किया, शिव ने अँगूठे से दबाया तो वह उसके नीचे दब गया, और मुक्त होने तक शिव की स्तुति करता रहा; लोक-कथाएँ कहती हैं कि यही स्तोत्र उसने गाया था। महाकाव्य में कथा है पर यह स्तोत्र नहीं, इसलिए यह सम्बन्ध भक्ति-परम्परा का है, पाठ का नहीं। स्तोत्र का अन्तिम श्लोक स्वयं को *दशवक्त्रगीतम्* कहता है, यानी \"दस मुख वाले द्वारा गाया गया\"।\n\nइसकी पहचान इसकी ध्वनि है। *पञ्चचामर* छन्द में लघु और गुरु अक्षर बिना रुके बारी-बारी से आते हैं, इसीलिए इसका हर पाठ डमरू बजने जैसा लगता है।"
+  },
+  "tags": [
+    "shiva",
+    "tandava",
+    "pancacamara",
+    "ravana",
+    "mahashivaratri"
+  ],
+  "credits": [
+    {
+      "role": "composer",
+      "value": {
+        "en": "Rāvaṇa (traditional attribution)",
+        "hi": "रावण (परम्परागत मान्यता)"
+      },
+      "note": {
+        "en": "The closing verse calls the hymn *daśavaktra-gītam*, \"sung by the ten-faced one\". Historical authorship is not established.",
+        "hi": "अन्तिम श्लोक इसे *दशवक्त्रगीतम्* कहता है, यानी \"दस मुख वाले द्वारा गाया गया\"। ऐतिहासिक रचयिता निश्चित नहीं है।"
+      },
+      "sources": [
+        "stotram-text"
+      ]
+    },
+    {
+      "role": "meter",
+      "value": {
+        "en": "Pañcacāmara",
+        "hi": "पञ्चचामर"
+      }
+    },
+    {
+      "role": "language",
+      "value": {
+        "en": "Sanskrit",
+        "hi": "संस्कृत"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "id": "who-wrote",
+      "q": {
+        "en": "Who wrote the Shiva Tandava Stotram?",
+        "hi": "शिव ताण्डव स्तोत्र किसने लिखा?"
+      },
+      "a": {
+        "en": "Tradition attributes it to Rāvaṇa, the king of Laṅkā, and its closing verse calls itself *daśavaktra-gītam*, \"sung by the ten-faced one\". The Rāmāyaṇa's story of Rāvaṇa under Mount Kailāsa is often told as its origin, though the epic does not contain the hymn.",
+        "hi": "परम्परा इसे लंकापति रावण की रचना मानती है, और इसका अन्तिम श्लोक स्वयं को *दशवक्त्रगीतम्* कहता है। कैलास के नीचे दबे रावण की रामायण-कथा को अक्सर इसका उद्गम बताया जाता है, यद्यपि महाकाव्य में यह स्तोत्र नहीं है।"
+      },
+      "sources": [
+        "stotram-text",
+        "valmiki-ramayana"
+      ]
+    },
+    {
+      "id": "tandava-meaning",
+      "q": {
+        "en": "What does \"Tandava\" mean?",
+        "hi": "\"ताण्डव\" का अर्थ क्या है?"
+      },
+      "a": {
+        "en": "Tāṇḍava is Śiva's vigorous cosmic dance, the rhythm of creation and dissolution. Verse 1 calls it *caṇḍa*, fierce. [More on verse 1](#v1-a4).",
+        "hi": "ताण्डव शिव का प्रचण्ड ब्रह्माण्डीय नृत्य है, सृष्टि और संहार की लय। पहला श्लोक इसे *चण्ड* यानी प्रचण्ड कहता है। [पहले श्लोक पर और](#v1-a4)।"
+      }
+    },
+    {
+      "id": "ganga-in-hair",
+      "q": {
+        "en": "Why does Shiva hold the Ganga in his hair?",
+        "hi": "शिव ने गंगा को जटाओं में क्यों धारण किया?"
+      },
+      "a": {
+        "en": "To break her fall. When Bhagīratha's penance brought the Gaṅgā down from heaven, Śiva caught her in his matted locks so her force would not shatter the earth. [See verse 1](#v1-a1).",
+        "hi": "उनका वेग थामने के लिए। भगीरथ की तपस्या से जब गंगा स्वर्ग से उतरीं, तो शिव ने उन्हें अपनी जटाओं में थाम लिया ताकि उनका वेग पृथ्वी को नष्ट न करे। [पहला श्लोक देखें](#v1-a1)।"
+      },
+      "sources": [
+        "valmiki-ramayana"
+      ]
+    },
+    {
+      "id": "drum-sound",
+      "q": {
+        "en": "Why does the stotram sound like a drum?",
+        "hi": "यह स्तोत्र डमरू जैसा क्यों सुनाई देता है?"
+      },
+      "a": {
+        "en": "Two reasons: onomatopoeia (*ḍamaḍ-ḍamaḍ-ḍamaḍ-ḍaman* imitates the ḍamaru) and the *pañcacāmara* meter, which alternates short and long syllables like a steady beat. [See verse 1](#v1-a3).",
+        "hi": "दो कारण: ध्वन्यात्मक शब्द (*डमड्-डमड्-डमड्-डमन्* डमरू की नकल है) और *पञ्चचामर* छन्द, जिसमें लघु और गुरु अक्षर एक स्थिर ताल की तरह बारी-बारी से आते हैं। [पहला श्लोक देखें](#v1-a3)।"
+      }
+    }
+  ],
+  "concepts": {
+    "ganga-in-jata": {
+      "name": {
+        "en": "Gaṅgā in the matted locks",
+        "hi": "जटा में गंगा"
+      },
+      "description": {
+        "en": "Śiva caught the descending river Gaṅgā in His matted hair to soften her fall to earth; her waters flowing from His locks are a recurring image of purification.",
+        "hi": "शिव ने पृथ्वी पर उतरती गंगा का वेग अपनी जटाओं में धारण किया; उनकी जटाओं से बहता जल पवित्रता का प्रतीक है।"
+      }
+    },
+    "serpent-garland": {
+      "name": {
+        "en": "Garland of serpents",
+        "hi": "सर्पों की माला"
+      },
+      "description": {
+        "en": "Śiva wears serpents as ornaments, showing mastery over fear, death and time.",
+        "hi": "शिव सर्पों को आभूषण के रूप में धारण करते हैं — भय, मृत्यु और काल पर उनके स्वामित्व का प्रतीक।"
+      }
+    },
+    "damaru": {
+      "name": {
+        "en": "Ḍamaru (hand drum)",
+        "hi": "डमरू"
+      },
+      "description": {
+        "en": "The hourglass drum held by Śiva; its rhythm is associated with creation and, in tradition, with the origin of the Sanskrit sounds (the Māheśvara Sūtras).",
+        "hi": "शिव के हाथ का डमरू; इसकी ध्वनि सृष्टि से जुड़ी है और परम्परा में संस्कृत ध्वनियों (माहेश्वर सूत्र) का स्रोत मानी जाती है।"
+      }
+    },
+    "tandava": {
+      "name": {
+        "en": "Tāṇḍava",
+        "hi": "ताण्डव"
+      },
+      "description": {
+        "en": "Śiva's vigorous cosmic dance, embodying the cycles of creation, preservation and dissolution.",
+        "hi": "शिव का प्रचण्ड ब्रह्माण्डीय नृत्य, जो सृष्टि, स्थिति और संहार के चक्र का प्रतीक है।"
+      }
+    }
+  },
+  "sources": [
+    {
+      "id": "ai-draft",
+      "name": "AI-generated first draft (unverified)",
+      "kind": "ai"
+    },
+    {
+      "id": "stotram-text",
+      "name": "Śivatāṇḍavastotram, the hymn's own text (incl. phalaśruti)",
+      "kind": "text",
+      "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+    },
+    {
+      "id": "valmiki-ramayana",
+      "name": "Vālmīki Rāmāyaṇa",
+      "kind": "text",
+      "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+    },
+    {
+      "id": "nandikeshvara-kashika",
+      "name": "Nandikeśvara-kāśikā (verses on the Māheśvara sūtras)",
+      "kind": "commentary",
+      "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+    },
+    {
+      "id": "ashtadhyayi",
+      "name": "Pāṇini, Aṣṭādhyāyī",
+      "kind": "text",
+      "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+    },
+    {
+      "id": "mw-bhram",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√bhram' (SLP1 key: Bram)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Bram&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-dhagaddhagiti",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhagaddhag-iti' (SLP1 key: DagadDagiti)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DagadDagiti&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-dhagiti",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhag-iti' (SLP1 key: Dagiti)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Dagiti&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-jval",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√jval' (SLP1 key: jval)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jval&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-kataha",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kaṭāha' (SLP1 key: kawAha)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kawAha&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-kishora",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kiśora' (SLP1 key: kiSora)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kiSora&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-lalata",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'lalāṭa' (SLP1 key: lalAwa)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lalAwa&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-lul",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√lul' (SLP1 key: lul)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lul&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-murdhan",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mūrdhan' (SLP1 key: mUrDan)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mUrDan&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-nilimpa",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nilimpa' (SLP1 key: nilimpa)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nilimpa&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-nirjhara",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirjhara / nirjharī' (SLP1 key: nirJarI)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirJarI&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-patta",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paṭṭa' (SLP1 key: pawwa)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pawwa&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-pavaka",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāvaka' (SLP1 key: pAvaka)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pAvaka&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-pratikshanam",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pratikṣaṇam' (SLP1 key: pratikzaRam)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pratikzaRam&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-raj",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√rāj' (SLP1 key: rAj)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rAj&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-rati",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rati' (SLP1 key: rati)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rati&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-sambhrama",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sambhrama' (SLP1 key: samBrama)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=samBrama&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-shekhara",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śekhara' (SLP1 key: SeKara)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SeKara&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-vallari",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vallarī' (SLP1 key: vallarI)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vallarI&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-vici",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vīci' (SLP1 key: vIci)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vIci&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-vilola",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vilola' (SLP1 key: vilola)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vilola&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "mw-viraj",
+      "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vi-√rāj' (SLP1 key: virAj)",
+      "kind": "dictionary",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=virAj&input=slp1&output=iast&accent=no"
+    },
+    {
+      "id": "ramakrishna-math-mantrapushpam",
+      "name": "मन्त्रपुष्पम् (Mantrapushpam), ed. Swami Devarupananda, Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007 — शिवताण्डवस्तोत्रम् [15] (श्री रावण कृतम्); scan on Internet Archive",
+      "kind": "text",
+      "url": "https://archive.org/details/mantra-puspam/page/468/mode/1up"
+    },
+    {
+      "id": "sa-wikisource-shivatandava",
+      "name": "विकिस्रोतः (Sanskrit Wikisource) — शिवताण्डवस्तोत्रम् (रावण); headed \"॥अथ सुसंशुद्धं रावणकृतशिवताण्डवस्तोत्रम्॥\"",
+      "kind": "text",
+      "url": "https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"
+    },
+    {
+      "id": "sanskritdocuments-shivtand-meaning",
+      "name": "sanskritdocuments.org — Shivatandava Stotra with meaning (shivTAND_meaning.itx); word-meanings and translation by Dr. Sarasvati Mohan and students, Samskrit Academy, San Jose CA",
+      "kind": "translation",
+      "url": "https://sanskritdocuments.org/doc_shiva/shivTAND_meaning.html"
+    },
+    {
+      "id": "sanskritdocuments-shivtand",
+      "name": "sanskritdocuments.org — श्रीशिवताण्डवस्तोत्रम् रावणरचितम् (shivtAND.itx; transliterated and proofread by Girish Beeharry and Sushil D. Sharma; \"Extended version with 17 verses\")",
+      "kind": "text",
+      "url": "https://sanskritdocuments.org/doc_shiva/shivtAND.html"
+    },
+    {
+      "id": "shlokam-shiva-tandava",
+      "name": "shlokam.org — Shiva Tandava Stotram (Devanagari, IAST, simplified roman, verse translation, word-meanings)",
+      "kind": "translation",
+      "url": "https://shlokam.org/shloka/shiva-tandava-stotram.htm"
+    },
+    {
+      "id": "vyakhya-sts-2",
+      "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक २ (Shloka 2 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+      "kind": "commentary",
+      "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-2/"
+    }
+  ],
+  "verses": [
+    {
+      "id": "v1",
+      "number": 1,
+      "kind": "verse",
+      "concepts": [
+        "ganga-in-jata",
+        "serpent-garland",
+        "damaru",
+        "tandava"
+      ],
+      "lines": [
+        {
+          "words": [
+            {
+              "id": "w1",
+              "text": "जटाटवी",
+              "iast": "jaṭāṭavī"
+            },
+            {
+              "id": "w2",
+              "text": "गलज्जलप्रवाह",
+              "iast": "galajjalapravāha"
+            },
+            {
+              "id": "w3",
+              "text": "पावितस्थले",
+              "iast": "pāvitasthale"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w4",
+              "text": "गलेऽवलम्ब्य",
+              "iast": "gale'valambya"
+            },
+            {
+              "id": "w5",
+              "text": "लम्बितां",
+              "iast": "lambitāṃ"
+            },
+            {
+              "id": "w6",
+              "text": "भुजङ्गतुङ्गमालिकाम्",
+              "iast": "bhujaṅgatuṅgamālikām"
+            }
+          ],
+          "end": "।"
+        },
+        {
+          "words": [
+            {
+              "id": "w7",
+              "text": "डमड्डमड्डमड्डमन्",
+              "iast": "ḍamaḍḍamaḍḍamaḍḍaman"
+            },
+            {
+              "id": "w8",
+              "text": "निनादवड्डमर्वयं",
+              "iast": "ninādavaḍḍamarvayaṃ"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w9",
+              "text": "चकार",
+              "iast": "cakāra"
+            },
+            {
+              "id": "w10",
+              "text": "चण्डताण्डवं",
+              "iast": "caṇḍatāṇḍavaṃ"
+            },
+            {
+              "id": "w11",
+              "text": "तनोतु",
+              "iast": "tanotu"
+            },
+            {
+              "id": "w12",
+              "text": "नः",
+              "iast": "naḥ"
+            },
+            {
+              "id": "w13",
+              "text": "शिवः",
+              "iast": "śivaḥ"
+            },
+            {
+              "id": "w14",
+              "text": "शिवम्",
+              "iast": "śivam"
+            }
+          ],
+          "end": "॥ १ ॥"
+        }
+      ],
+      "compounds": {
+        "c1": {
+          "members": [
+            "w1",
+            "w2",
+            "w3"
+          ],
+          "iast": "jaṭāṭavī-galaj-jala-pravāha-pāvita-sthale",
+          "type": "karmadhāraya",
+          "vigraha": "जटा एव अटवी, तस्याः गलन् यः जलप्रवाहः, तेन पाविते स्थले",
+          "meaning": {
+            "en": "on the spot made holy by the streams of water falling from the forest of matted locks",
+            "hi": "जटा रूपी वन से गिरते जल-प्रवाह द्वारा पवित्र किए गए स्थान पर"
+          },
+          "note": {
+            "en": "One long compound. Innermost, jaṭā-aṭavī is a karmadhāraya of the rūpaka kind (hair that is a forest); the outermost step, pāvita-sthala, is a karmadhāraya (a sanctified place). Only the last member (sthale) carries a case ending (locative).",
+            "hi": "एक लम्बा समास। सबसे भीतर जटा-अटवी रूपक कर्मधारय है (जटा ही वन); सबसे बाहर पावित-स्थल कर्मधारय है (पवित्र किया गया स्थान)। केवल अन्तिम पद (स्थले) में विभक्ति (सप्तमी) है।"
+          },
+          "structure": "((((jaṭā-aṭavī)-(galat-(jala-pravāha)))-pāvita)-sthala)"
+        },
+        "c2": {
+          "members": [
+            "w6"
+          ],
+          "iast": "bhujaṅga-tuṅga-mālikā",
+          "type": "tatpuruṣa",
+          "subtype": "ṣaṣṭhī",
+          "structure": "(bhujaṅga-(tuṅga-mālikā))",
+          "vigraha": "भुजङ्गानां तुङ्गा मालिका",
+          "meaning": {
+            "en": "a lofty garland of serpents",
+            "hi": "सर्पों की विशाल माला"
+          }
+        },
+        "c3": {
+          "members": [
+            "w10"
+          ],
+          "iast": "caṇḍa-tāṇḍava",
+          "type": "karmadhāraya",
+          "vigraha": "चण्डं ताण्डवम्",
+          "meaning": {
+            "en": "the fierce tāṇḍava",
+            "hi": "प्रचण्ड ताण्डव"
+          }
+        },
+        "c4": {
+          "members": [
+            "w7",
+            "w8"
+          ],
+          "iast": "ḍamaḍ-ḍamaḍ-ḍamaḍ-ḍaman-nināda-vaḍ-ḍamaru",
+          "type": "bahuvrīhi",
+          "structure": "(((ḍamat-ḍamat-ḍamat-ḍamat)-ninādavat)-ḍamaru)",
+          "vigraha": "डमड्डमड्डमड्डमन्निनादवान् डमरुः यस्य सः",
+          "meaning": {
+            "en": "he whose ḍamaru resounds ḍamat-ḍamat",
+            "hi": "जिसका डमरू डमड्-डमड् ध्वनि करता है"
+          },
+          "note": {
+            "en": "Ends in ayam ('this one'), which is outside the compound.",
+            "hi": "अन्त में 'अयम्' (ये) समास के बाहर है।"
+          }
+        }
+      },
+      "padas": [
+        {
+          "id": "p1",
+          "words": [
+            "w1",
+            "w2",
+            "w3"
+          ],
+          "sa": "जटाटवीगलज्जलप्रवाहपावितस्थले",
+          "iast": "jaṭāṭavīgalajjalapravāhapāvitasthale",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "जटाटवीगलज्जलप्रवाहपावितस्थल",
+              "iast": "jaṭāṭavīgalajjalapravāhapāvitasthala"
+            },
+            "case": "locative",
+            "number": "singular",
+            "gender": "neuter"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p2"
+        },
+        {
+          "id": "p2",
+          "words": [
+            "w4"
+          ],
+          "sa": "गले",
+          "iast": "gale",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "गल",
+              "iast": "gala"
+            },
+            "case": "locative",
+            "number": "singular",
+            "gender": "masculine"
+          },
+          "role": "adhikaraṇa",
+          "head": "p3"
+        },
+        {
+          "id": "p3",
+          "words": [
+            "w4"
+          ],
+          "sa": "अवलम्ब्य",
+          "iast": "avalambya",
+          "morph": {
+            "type": "avyaya",
+            "krt": {
+              "dhatu": {
+                "sa": "लम्ब्",
+                "iast": "lamb",
+                "gana": 1
+              },
+              "prefixes": [
+                "ava"
+              ],
+              "suffix": "lyap"
+            }
+          },
+          "role": "pūrvakāla",
+          "head": "p8"
+        },
+        {
+          "id": "p4",
+          "words": [
+            "w5"
+          ],
+          "sa": "लम्बिताम्",
+          "iast": "lambitām",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "लम्बित",
+              "iast": "lambita"
+            },
+            "case": "accusative",
+            "number": "singular",
+            "gender": "feminine",
+            "krt": {
+              "dhatu": {
+                "sa": "लम्ब्",
+                "iast": "lamb",
+                "gana": 1
+              },
+              "suffix": "kta"
+            }
+          },
+          "role": "viśeṣaṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p5",
+          "words": [
+            "w6"
+          ],
+          "sa": "भुजङ्गतुङ्गमालिकाम्",
+          "iast": "bhujaṅgatuṅgamālikām",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "भुजङ्गतुङ्गमालिका",
+              "iast": "bhujaṅgatuṅgamālikā"
+            },
+            "case": "accusative",
+            "number": "singular",
+            "gender": "feminine"
+          },
+          "role": "karma",
+          "head": "p3"
+        },
+        {
+          "id": "p6",
+          "words": [
+            "w7",
+            "w8"
+          ],
+          "sa": "डमड्डमड्डमड्डमन्निनादवड्डमरु",
+          "iast": "ḍamaḍḍamaḍḍamaḍḍamanninādavaḍḍamaru",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "डमड्डमड्डमड्डमन्निनादवड्डमरु",
+              "iast": "ḍamaḍḍamaḍḍamaḍḍamanninādavaḍḍamaru"
+            },
+            "case": "nominative",
+            "number": "singular",
+            "gender": "masculine"
+          },
+          "role": "viśeṣaṇa",
+          "head": "p7",
+          "irregular": {
+            "note": "Read as a bahuvrīhi qualifying ayam, the nominative would be -ḍamaruḥ, giving ḍamarur ayam; the text's ḍamarvayam joins the bare stem to ayam. Commentators differ on whether ayam refers to Śiva or to the drum."
+          }
+        },
+        {
+          "id": "p7",
+          "words": [
+            "w8"
+          ],
+          "sa": "अयम्",
+          "iast": "ayam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "इदम्",
+              "iast": "idam"
+            },
+            "case": "nominative",
+            "number": "singular",
+            "gender": "masculine"
+          },
+          "role": "kartā",
+          "head": "p8"
+        },
+        {
+          "id": "p8",
+          "words": [
+            "w9"
+          ],
+          "sa": "चकार",
+          "iast": "cakāra",
+          "morph": {
+            "type": "tinanta",
+            "dhatu": {
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8
+            },
+            "lakara": "liṭ",
+            "prayoga": "kartari",
+            "person": 3,
+            "number": "singular",
+            "pada": "parasmaipada"
+          },
+          "role": "kriyā",
+          "head": null
+        },
+        {
+          "id": "p9",
+          "words": [
+            "w10"
+          ],
+          "sa": "चण्डताण्डवम्",
+          "iast": "caṇḍatāṇḍavam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "चण्डताण्डव",
+              "iast": "caṇḍatāṇḍava"
+            },
+            "case": "accusative",
+            "number": "singular",
+            "gender": "neuter"
+          },
+          "role": "karma",
+          "head": "p8"
+        },
+        {
+          "id": "p10",
+          "words": [
+            "w11"
+          ],
+          "sa": "तनोतु",
+          "iast": "tanotu",
+          "morph": {
+            "type": "tinanta",
+            "dhatu": {
+              "sa": "तन्",
+              "iast": "tan",
+              "gana": 8
+            },
+            "lakara": "loṭ",
+            "prayoga": "kartari",
+            "person": 3,
+            "number": "singular",
+            "pada": "parasmaipada"
+          },
+          "role": "kriyā",
+          "head": null
+        },
+        {
+          "id": "p11",
+          "words": [
+            "w12"
+          ],
+          "sa": "नः",
+          "iast": "naḥ",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "case": "dative",
+            "number": "plural"
+          },
+          "role": "sampradāna",
+          "head": "p10"
+        },
+        {
+          "id": "p12",
+          "words": [
+            "w13"
+          ],
+          "sa": "शिवः",
+          "iast": "śivaḥ",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "case": "nominative",
+            "number": "singular",
+            "gender": "masculine"
+          },
+          "role": "kartā",
+          "head": "p10"
+        },
+        {
+          "id": "p13",
+          "words": [
+            "w14"
+          ],
+          "sa": "शिवम्",
+          "iast": "śivam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "case": "accusative",
+            "number": "singular",
+            "gender": "neuter"
+          },
+          "role": "karma",
+          "head": "p10"
+        }
+      ],
+      "adhyahara": [
+        {
+          "id": "x1",
+          "sa": "सः",
+          "iast": "saḥ",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "case": "nominative",
+            "number": "singular",
+            "gender": "masculine"
+          },
+          "role": "viśeṣaṇa",
+          "head": "p12",
+          "meaning": {
+            "en": "that (same Śiva)",
+            "hi": "वे (वही शिव)"
+          }
+        }
+      ],
+      "anvaya": [
+        "p7",
+        "p6",
+        "p1",
+        "p2",
+        "p4",
+        "p5",
+        "p3",
+        "p9",
+        "p8",
+        "x1",
+        "p12",
+        "p11",
+        "p13",
+        "p10"
+      ],
+      "translations": {
+        "en": {
+          "lines": [
+            [
+              {
+                "refs": [
+                  "w3"
+                ],
+                "text": "On the spot made holy"
+              },
+              {
+                "refs": [
+                  "w2"
+                ],
+                "text": "by the streams of falling water"
+              },
+              {
+                "refs": [
+                  "w1"
+                ],
+                "text": "from the forest of His matted locks,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w4"
+                ],
+                "text": "having hung on His neck"
+              },
+              {
+                "refs": [
+                  "w6"
+                ],
+                "text": "a lofty garland of serpents"
+              },
+              {
+                "refs": [
+                  "w5"
+                ],
+                "text": "that dangles down;"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w8"
+                ],
+                "text": "He, whose ḍamaru resounds"
+              },
+              {
+                "refs": [
+                  "w7"
+                ],
+                "text": "ḍamat-ḍamat-ḍamat-ḍamat,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w9"
+                ],
+                "text": "performed"
+              },
+              {
+                "refs": [
+                  "w10"
+                ],
+                "text": "the fierce Tāṇḍava dance."
+              },
+              {
+                "refs": [
+                  "w11"
+                ],
+                "text": "May"
+              },
+              {
+                "refs": [
+                  "x1"
+                ],
+                "text": "that"
+              },
+              {
+                "refs": [
+                  "w13"
+                ],
+                "text": "Śiva"
+              },
+              {
+                "refs": [
+                  "w11"
+                ],
+                "text": "spread"
+              },
+              {
+                "refs": [
+                  "w14"
+                ],
+                "text": "auspiciousness"
+              },
+              {
+                "refs": [
+                  "w12"
+                ],
+                "text": "upon us."
+              }
+            ]
+          ],
+          "bhavartha": "With the Gaṅgā pouring through His matted hair and sanctifying His neck, a great serpent hanging there as a garland, His drum thundering ḍamat-ḍamat, Śiva danced the fierce Tāṇḍava. May that Śiva bless us all with auspiciousness."
+        },
+        "hi": {
+          "lines": [
+            [
+              {
+                "refs": [
+                  "w1"
+                ],
+                "text": "जटा रूपी वन से"
+              },
+              {
+                "refs": [
+                  "w2"
+                ],
+                "text": "गिरते हुए जल-प्रवाह से"
+              },
+              {
+                "refs": [
+                  "w3"
+                ],
+                "text": "पवित्र हुए स्थान पर,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w4"
+                ],
+                "text": "गले में"
+              },
+              {
+                "refs": [
+                  "w5"
+                ],
+                "text": "लटकती हुई"
+              },
+              {
+                "refs": [
+                  "w6"
+                ],
+                "text": "सर्पों की विशाल माला"
+              },
+              {
+                "refs": [
+                  "w4"
+                ],
+                "text": "धारण करके,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w7"
+                ],
+                "text": "डमड्-डमड्-डमड्-डमड् की"
+              },
+              {
+                "refs": [
+                  "w8"
+                ],
+                "text": "ध्वनि करते डमरू वाले इन (शिव) ने"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w10"
+                ],
+                "text": "प्रचण्ड ताण्डव नृत्य"
+              },
+              {
+                "refs": [
+                  "w9"
+                ],
+                "text": "किया;"
+              },
+              {
+                "refs": [
+                  "x1"
+                ],
+                "text": "वे"
+              },
+              {
+                "refs": [
+                  "w13"
+                ],
+                "text": "शिव"
+              },
+              {
+                "refs": [
+                  "w12"
+                ],
+                "text": "हमारे"
+              },
+              {
+                "refs": [
+                  "w14"
+                ],
+                "text": "कल्याण का"
+              },
+              {
+                "refs": [
+                  "w11"
+                ],
+                "text": "विस्तार करें।"
+              }
+            ]
+          ],
+          "bhavartha": "जिनकी जटाओं से बहती गंगा की धाराओं ने उनके कण्ठ-प्रदेश को पवित्र किया है, जिनके गले में सर्पों की लम्बी माला लटक रही है, और जिनका डमरू डमड्-डमड् गूँज रहा है — ऐसे शिव ने प्रचण्ड ताण्डव किया। वे शिव हम सबका कल्याण करें।"
+        }
+      },
+      "annotations": [
+        {
+          "id": "a1",
+          "refs": [
+            "w1",
+            "w2",
+            "w3"
+          ],
+          "kind": "mythology",
+          "body": {
+            "en": "Why is there a river in Śiva's hair? When King Bhagīratha's penance brought the heavenly Gaṅgā down to earth, her fall would have shattered the world, so Śiva caught her in his matted locks and let her out in gentle streams.\n\nThe poet turns those locks into a *forest* (*aṭavī*), and the water trickling out of it makes the ground of the dance holy. One image carries the whole story: a force that could destroy, held and released as blessing.",
+            "hi": "शिव की जटाओं में नदी क्यों है? राजा भगीरथ की तपस्या से जब स्वर्ग की गंगा पृथ्वी पर उतरीं, तो उनका वेग संसार को नष्ट कर देता। इसलिए शिव ने उन्हें अपनी जटाओं में थाम लिया और धीमी धाराओं में छोड़ा।\n\nकवि इन जटाओं को *वन* (अटवी) कहता है, और उस वन से टपकता जल नृत्य की भूमि को पवित्र करता है। एक ही चित्र में पूरी कथा है: विनाश कर सकने वाली शक्ति, जो थामकर कल्याण बना दी गई।"
+          },
+          "citations": [
+            {
+              "source": "valmiki-ramayana",
+              "locator": "Bāla Kāṇḍa, descent of the Gaṅgā (sargas 42–44 in common numbering)"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "id": "a2",
+          "refs": [
+            "w4",
+            "w5",
+            "w6"
+          ],
+          "kind": "theology",
+          "body": {
+            "en": "Śiva wears a serpent where others would wear flowers. Tradition names it Vāsuki, king of the serpents, and reads the image as mastery: what everyone else fears, death and time included, hangs on Śiva as an ornament.\n\nListen to the sound play too. *Gale* (on the neck) echoes *galat* (dripping) from the line before, so the verse moves from the falling river to the hanging serpent on one repeated syllable.",
+            "hi": "जहाँ और लोग फूलों की माला पहनते हैं, वहाँ शिव सर्प धारण करते हैं। परम्परा इसे नागराज वासुकि मानती है और इस चित्र को प्रभुत्व का प्रतीक समझती है: जिससे सब डरते हैं, मृत्यु और काल भी, वह शिव के गले में आभूषण बनकर लटका है।\n\nध्वनि का खेल भी सुनिए। *गले* (गले में) पिछली पंक्ति के *गलत्* (टपकता हुआ) की गूँज है, इसलिए श्लोक एक ही दोहराए अक्षर पर गिरती नदी से लटकते सर्प तक पहुँच जाता है।"
+          },
+          "citations": [
+            {
+              "source": "stotram-text",
+              "locator": "verse 1, lines 1–2"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "id": "a3",
+          "refs": [
+            "w7",
+            "w8"
+          ],
+          "kind": "sound",
+          "body": {
+            "en": "Say it aloud: *ḍamaḍ-ḍamaḍ-ḍamaḍ-ḍaman*. The words are the drum, and the *pañcacāmara* meter, with short and long syllables strictly alternating, keeps that beat going through the whole hymn.\n\nThe ḍamaru matters beyond rhythm. A later tradition holds that the fourteen Māheśvara sūtras, the sound list on which Pāṇini built Sanskrit grammar, came from fourteen beats of Śiva's drum at the end of his dance:\n\n> nṛttāvasāne naṭarājarājo nanāda ḍhakkāṃ navapañcavāram",
+            "hi": "इसे ज़ोर से बोलिए: *डमड्-डमड्-डमड्-डमन्*। ये शब्द स्वयं डमरू हैं, और *पञ्चचामर* छन्द, जिसमें लघु और गुरु अक्षर नियम से बारी-बारी आते हैं, पूरे स्तोत्र में यही ताल बनाए रखता है।\n\nडमरू का महत्व लय से आगे भी है। एक परवर्ती परम्परा के अनुसार नृत्य के अन्त में शिव के डमरू की चौदह ध्वनियों से वे चौदह माहेश्वर सूत्र निकले, जिन पर पाणिनि ने संस्कृत व्याकरण की नींव रखी:\n\n> नृत्तावसाने नटराजराजो ननाद ढक्कां नवपञ्चवारम्"
+          },
+          "citations": [
+            {
+              "source": "nandikeshvara-kashika",
+              "locator": "verse 1",
+              "quote": "nṛttāvasāne naṭarājarājo nanāda ḍhakkāṃ navapañcavāram"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "id": "a4",
+          "refs": [
+            "w9",
+            "w10"
+          ],
+          "kind": "context",
+          "body": {
+            "en": "*Tāṇḍava* is Śiva's vigorous, cosmic dance, the rhythm of creation and dissolution, traditionally paired with *lāsya*, the graceful dance associated with Pārvatī. The adjective *caṇḍa* (fierce) leaves no doubt which one this is.\n\nWatch the tense. *Cakāra* is the perfect (*liṭ*), which Pāṇini reserves for the past not witnessed by the speaker. The poet narrates the dance as sacred history, then turns to prayer in the very next word.",
+            "hi": "*ताण्डव* शिव का प्रचण्ड, ब्रह्माण्डीय नृत्य है, सृष्टि और संहार की लय। परम्परा में इसके साथ *लास्य* का नाम आता है, पार्वती से जुड़ा कोमल नृत्य। विशेषण *चण्ड* (प्रचण्ड) से स्पष्ट है कि यहाँ कौन-सा नृत्य है।\n\nकाल पर ध्यान दीजिए। *चकार* लिट् लकार है, जिसे पाणिनि वक्ता द्वारा न देखे गए (परोक्ष) भूतकाल के लिए रखते हैं। कवि नृत्य को पवित्र इतिहास की तरह सुनाता है, और अगले ही शब्द में प्रार्थना पर आ जाता है।"
+          },
+          "citations": [
+            {
+              "source": "ashtadhyayi",
+              "locator": "3.2.115",
+              "quote": "parokṣe liṭ"
+            }
+          ],
+          "confidence": "high"
+        },
+        {
+          "id": "a5",
+          "refs": [
+            "w11",
+            "w12",
+            "w13",
+            "w14"
+          ],
+          "kind": "wordplay",
+          "body": {
+            "en": "The verse ends on a pun that is also theology. As a name, *Śiva* means \"the auspicious one\"; *śivam* is simply \"auspiciousness\". So the prayer reads: may the Auspicious One spread the auspicious on us. Giver and gift are the same word.\n\n*Tanotu* (may he spread, from √tan, to stretch) is an imperative (*loṭ*), and it turns the story of the dance into a blessing on the listener.",
+            "hi": "श्लोक एक ऐसी शब्द-क्रीड़ा पर समाप्त होता है जो दर्शन भी है। नाम के रूप में *शिव* का अर्थ है \"कल्याणकारी\"; *शिवम्* का अर्थ है \"कल्याण\"। तो प्रार्थना यह बनती है: कल्याणस्वरूप हम पर कल्याण फैलाएँ। देने वाला और दिया जाने वाला, दोनों एक ही शब्द हैं।\n\n*तनोतु* (फैलाएँ, √तन् = फैलाना) लोट् लकार है, और यह नृत्य की कथा को सुनने वाले के लिए आशीर्वाद में बदल देता है।"
+          },
+          "citations": [
+            {
+              "source": "stotram-text",
+              "locator": "verse 1, line 4"
+            }
+          ],
+          "confidence": "high"
+        }
+      ],
+      "words": {
+        "w1": {
+          "compound": "c1",
+          "padaccheda": [
+            {
+              "sa": "जटा",
+              "iast": "jaṭā"
+            },
+            {
+              "sa": "अटवी",
+              "iast": "aṭavī"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "savarṇa-dīrgha",
+              "rule": "ā + a → ā",
+              "explanation": {
+                "en": "Two similar vowels (ā + a) merge into one long ā.",
+                "hi": "दो सवर्ण स्वर (आ + अ) मिलकर दीर्घ 'आ' बन जाते हैं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "जटा",
+              "iast": "jaṭā",
+              "pos": "noun",
+              "gender": "feminine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "जटा",
+                "iast": "jaṭā"
+              },
+              "meaning": {
+                "en": "matted hair",
+                "hi": "जटा, उलझे हुए केश"
+              }
+            },
+            {
+              "sa": "अटवी",
+              "iast": "aṭavī",
+              "pos": "noun",
+              "gender": "feminine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "अटवी",
+                "iast": "aṭavī"
+              },
+              "meaning": {
+                "en": "forest",
+                "hi": "वन"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "the forest of matted hair",
+            "hi": "जटा रूपी वन"
+          },
+          "notes": {
+            "en": "A metaphor (rūpaka): Śiva's matted hair is so thick it is called a forest.",
+            "hi": "रूपक: शिव की जटाएँ इतनी घनी हैं कि उन्हें वन कहा गया है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ]
+        },
+        "w2": {
+          "compound": "c1",
+          "padaccheda": [
+            {
+              "sa": "गलत्",
+              "iast": "galat"
+            },
+            {
+              "sa": "जल",
+              "iast": "jala"
+            },
+            {
+              "sa": "प्रवाह",
+              "iast": "pravāha"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "jaśtva",
+              "rule": "t + j → j + j",
+              "explanation": {
+                "en": "The final t of galat becomes j before the voiced j of jala: galat + jala → galajjala.",
+                "hi": "गलत् का अन्तिम 'त्' आगे के 'ज' के कारण 'ज्' बन जाता है: गलत् + जल → गलज्जल।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "गलत्",
+              "iast": "galat",
+              "pos": "participle",
+              "root": {
+                "kind": "dhatu",
+                "sa": "गल्",
+                "iast": "gal",
+                "gloss": {
+                  "en": "to drip, to fall",
+                  "hi": "टपकना, गिरना"
+                }
+              },
+              "formation": "śatṛ (present active participle)",
+              "meaning": {
+                "en": "falling, dripping",
+                "hi": "गिरता हुआ"
+              }
+            },
+            {
+              "sa": "जल",
+              "iast": "jala",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "जल",
+                "iast": "jala"
+              },
+              "meaning": {
+                "en": "water",
+                "hi": "जल"
+              }
+            },
+            {
+              "sa": "प्रवाह",
+              "iast": "pravāha",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "dhatu",
+                "sa": "वह्",
+                "iast": "vah",
+                "prefixes": [
+                  "pra"
+                ],
+                "gloss": {
+                  "en": "to carry, to flow",
+                  "hi": "बहना, ले जाना"
+                }
+              },
+              "formation": "pra + √vah + ghañ",
+              "meaning": {
+                "en": "stream, current",
+                "hi": "प्रवाह, धारा"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "the stream of falling water",
+            "hi": "गिरते हुए जल की धारा"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ]
+        },
+        "w3": {
+          "compound": "c1",
+          "padaccheda": [
+            {
+              "sa": "पावित",
+              "iast": "pāvita"
+            },
+            {
+              "sa": "स्थले",
+              "iast": "sthale"
+            }
+          ],
+          "components": [
+            {
+              "sa": "पावित",
+              "iast": "pāvita",
+              "pos": "participle",
+              "root": {
+                "kind": "dhatu",
+                "sa": "पू",
+                "iast": "pū",
+                "gloss": {
+                  "en": "to purify",
+                  "hi": "पवित्र करना"
+                }
+              },
+              "formation": "causative of √pū + kta (past passive participle)",
+              "meaning": {
+                "en": "purified, made holy",
+                "hi": "पवित्र किया गया"
+              }
+            },
+            {
+              "sa": "स्थल",
+              "iast": "sthala",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "स्थल",
+                "iast": "sthala"
+              },
+              "meaning": {
+                "en": "place, spot",
+                "hi": "स्थान"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "on the purified place",
+            "hi": "पवित्र स्थान पर"
+          },
+          "notes": {
+            "en": "The 'place' is usually read as Śiva's neck, mentioned in the next line.",
+            "hi": "यह 'स्थान' प्रायः शिव का कण्ठ माना जाता है, जिसका उल्लेख अगली पंक्ति में है।"
+          },
+          "confidence": "medium",
+          "sources": [
+            "ai-draft"
+          ]
+        },
+        "w4": {
+          "padaccheda": [
+            {
+              "sa": "गले",
+              "iast": "gale"
+            },
+            {
+              "sa": "अवलम्ब्य",
+              "iast": "avalambya"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "pūrvarūpa",
+              "rule": "e + a → e'",
+              "explanation": {
+                "en": "After a final e, an initial a is dropped and marked with an avagraha (ऽ): gale + avalambya → gale'valambya.",
+                "hi": "अन्तिम 'ए' के बाद आने वाला 'अ' लुप्त होकर अवग्रह (ऽ) से दिखाया जाता है: गले + अवलम्ब्य → गलेऽवलम्ब्य।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "गले",
+              "iast": "gale",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "गल",
+                "iast": "gala"
+              },
+              "meaning": {
+                "en": "on the neck",
+                "hi": "गले में"
+              }
+            },
+            {
+              "sa": "अवलम्ब्य",
+              "iast": "avalambya",
+              "pos": "indeclinable",
+              "root": {
+                "kind": "dhatu",
+                "sa": "लम्ब्",
+                "iast": "lamb",
+                "prefixes": [
+                  "ava"
+                ],
+                "gloss": {
+                  "en": "to hang",
+                  "hi": "लटकना"
+                }
+              },
+              "formation": "ava + √lamb + lyap (gerund)",
+              "meaning": {
+                "en": "having hung, having placed",
+                "hi": "लटकाकर, धारण करके"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "having hung on the neck",
+            "hi": "गले में लटकाकर"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ]
+        },
+        "w5": {
+          "padaccheda": [
+            {
+              "sa": "लम्बिताम्",
+              "iast": "lambitām"
+            }
+          ],
+          "components": [
+            {
+              "sa": "लम्बित",
+              "iast": "lambita",
+              "pos": "participle",
+              "root": {
+                "kind": "dhatu",
+                "sa": "लम्ब्",
+                "iast": "lamb",
+                "gloss": {
+                  "en": "to hang",
+                  "hi": "लटकना"
+                }
+              },
+              "formation": "√lamb + kta (past participle)",
+              "meaning": {
+                "en": "hanging down",
+                "hi": "लटकता हुआ"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "hanging down (the garland)",
+            "hi": "लटकती हुई (माला को)"
+          },
+          "notes": {
+            "en": "Agrees with mālikām (w6) in case, number and gender. Final m is written as anusvāra (ṃ) in the verse.",
+            "hi": "मालिकाम् (w6) के साथ विभक्ति, वचन और लिंग में मेल खाता है। श्लोक में अन्तिम 'म्' अनुस्वार के रूप में लिखा गया है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ]
+        },
+        "w6": {
+          "padaccheda": [
+            {
+              "sa": "भुजङ्ग",
+              "iast": "bhujaṅga"
+            },
+            {
+              "sa": "तुङ्ग",
+              "iast": "tuṅga"
+            },
+            {
+              "sa": "मालिकाम्",
+              "iast": "mālikām"
+            }
+          ],
+          "components": [
+            {
+              "sa": "भुजङ्ग",
+              "iast": "bhujaṅga",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "भुजङ्ग",
+                "iast": "bhujaṅga"
+              },
+              "meaning": {
+                "en": "serpent (lit. 'one that moves in curves')",
+                "hi": "सर्प (जो टेढ़ा चलता है)"
+              }
+            },
+            {
+              "sa": "तुङ्ग",
+              "iast": "tuṅga",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "तुङ्ग",
+                "iast": "tuṅga"
+              },
+              "meaning": {
+                "en": "lofty, great",
+                "hi": "ऊँचा, विशाल"
+              }
+            },
+            {
+              "sa": "मालिका",
+              "iast": "mālikā",
+              "pos": "noun",
+              "gender": "feminine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "मालिका",
+                "iast": "mālikā"
+              },
+              "meaning": {
+                "en": "garland",
+                "hi": "माला"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "a lofty garland of serpents",
+            "hi": "सर्पों की विशाल माला"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ],
+          "compound": "c2"
+        },
+        "w7": {
+          "padaccheda": [
+            {
+              "sa": "डमत्",
+              "iast": "ḍamat"
+            },
+            {
+              "sa": "डमत्",
+              "iast": "ḍamat"
+            },
+            {
+              "sa": "डमत्",
+              "iast": "ḍamat"
+            },
+            {
+              "sa": "डमत्",
+              "iast": "ḍamat"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "jaśtva",
+              "rule": "t + ḍ → ḍ + ḍ",
+              "explanation": {
+                "en": "Final t becomes ḍ before the next ḍ: ḍamat + ḍamat → ḍamaḍḍamat.",
+                "hi": "अन्तिम 'त्' आगे के 'ड' के कारण 'ड्' बन जाता है: डमत् + डमत् → डमड्डमत्।"
+              }
+            },
+            {
+              "name": "anunāsika",
+              "rule": "t + n → n + n",
+              "explanation": {
+                "en": "The last t becomes n before the n of ninādavat (next word): ḍamat + nināda → ḍamannināda.",
+                "hi": "अन्तिम 'त्' आगे के 'न' के कारण 'न्' बन जाता है: डमत् + निनाद → डमन्निनाद।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "डमत्",
+              "iast": "ḍamat",
+              "pos": "indeclinable",
+              "meaning": {
+                "en": "onomatopoeia for the drum's sound",
+                "hi": "डमरू की ध्वनि का अनुकरण"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "the sound 'ḍamat ḍamat ḍamat ḍamat'",
+            "hi": "डमड्-डमड्-डमड्-डमड् की ध्वनि"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ],
+          "notes": {
+            "en": "Anukaraṇa (onomatopoeia): ḍamat repeated four times.",
+            "hi": "अनुकरण (ध्वन्यात्मक शब्द): डमत् चार बार दोहराया गया।"
+          },
+          "compound": "c4"
+        },
+        "w8": {
+          "padaccheda": [
+            {
+              "sa": "निनादवत्",
+              "iast": "ninādavat"
+            },
+            {
+              "sa": "डमरु",
+              "iast": "ḍamaru"
+            },
+            {
+              "sa": "अयम्",
+              "iast": "ayam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "jaśtva",
+              "rule": "t + ḍ → ḍ + ḍ",
+              "explanation": {
+                "en": "ninādavat + ḍamaru → ninādavaḍḍamaru.",
+                "hi": "निनादवत् + डमरु → निनादवड्डमरु।"
+              }
+            },
+            {
+              "name": "yaṇ",
+              "rule": "u + a → va",
+              "explanation": {
+                "en": "Final u of ḍamaru becomes v before the a of ayam: ḍamaru + ayam → ḍamarvayam.",
+                "hi": "डमरु का 'उ' आगे के 'अ' के कारण 'व्' बन जाता है: डमरु + अयम् → डमर्वयम्।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "निनादवत्",
+              "iast": "ninādavat",
+              "pos": "adjective",
+              "root": {
+                "kind": "dhatu",
+                "sa": "नद्",
+                "iast": "nad",
+                "prefixes": [
+                  "ni"
+                ],
+                "gloss": {
+                  "en": "to sound, to roar",
+                  "hi": "ध्वनि करना"
+                }
+              },
+              "formation": "nināda + matup (-vat, 'possessing')",
+              "meaning": {
+                "en": "resounding",
+                "hi": "ध्वनि से युक्त"
+              }
+            },
+            {
+              "sa": "डमरु",
+              "iast": "ḍamaru",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "डमरु",
+                "iast": "ḍamaru"
+              },
+              "meaning": {
+                "en": "hand drum (ḍamaru)",
+                "hi": "डमरू"
+              }
+            },
+            {
+              "sa": "अयम्",
+              "iast": "ayam",
+              "pos": "pronoun",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "इदम्",
+                "iast": "idam"
+              },
+              "meaning": {
+                "en": "this one (Śiva)",
+                "hi": "ये (शिव)"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "this one (Śiva), whose ḍamaru resounds",
+            "hi": "ध्वनि करते डमरू वाले ये (शिव)"
+          },
+          "alternatives": [
+            {
+              "reading": {
+                "en": "Some translators read ayam as qualifying the drum ('this resounding ḍamaru') and supply Śiva as the subject from context.",
+                "hi": "कुछ अनुवादक 'अयम्' को डमरू का विशेषण मानते हैं ('यह गूँजता डमरू') और कर्ता 'शिव' को प्रसंग से लेते हैं।"
+              },
+              "note": "Grammatically weaker: ḍamaru is inside the compound, so ayam most naturally stands alone as the subject of cakāra."
+            }
+          ],
+          "confidence": "medium",
+          "sources": [
+            "ai-draft"
+          ],
+          "compound": "c4"
+        },
+        "w9": {
+          "padaccheda": [
+            {
+              "sa": "चकार",
+              "iast": "cakāra"
+            }
+          ],
+          "components": [
+            {
+              "sa": "चकार",
+              "iast": "cakāra",
+              "pos": "verb",
+              "root": {
+                "kind": "dhatu",
+                "sa": "कृ",
+                "iast": "kṛ",
+                "gana": 8,
+                "gloss": {
+                  "en": "to do, to make",
+                  "hi": "करना"
+                }
+              },
+              "meaning": {
+                "en": "did, performed",
+                "hi": "किया"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "He performed",
+            "hi": "(उन्होंने) किया"
+          },
+          "notes": {
+            "en": "Liṭ is the remote past, used for events not witnessed by the speaker — fitting for a mythic act.",
+            "hi": "लिट् लकार परोक्ष भूतकाल है — ऐसी घटना के लिए जो वक्ता ने स्वयं न देखी हो।"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ]
+        },
+        "w10": {
+          "padaccheda": [
+            {
+              "sa": "चण्ड",
+              "iast": "caṇḍa"
+            },
+            {
+              "sa": "ताण्डवम्",
+              "iast": "tāṇḍavam"
+            }
+          ],
+          "components": [
+            {
+              "sa": "चण्ड",
+              "iast": "caṇḍa",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "चण्ड",
+                "iast": "caṇḍa"
+              },
+              "meaning": {
+                "en": "fierce, violent",
+                "hi": "प्रचण्ड, उग्र"
+              }
+            },
+            {
+              "sa": "ताण्डव",
+              "iast": "tāṇḍava",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "ताण्डव",
+                "iast": "tāṇḍava"
+              },
+              "meaning": {
+                "en": "the Tāṇḍava dance",
+                "hi": "ताण्डव नृत्य"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "the fierce Tāṇḍava dance",
+            "hi": "प्रचण्ड ताण्डव"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ],
+          "compound": "c3"
+        },
+        "w11": {
+          "padaccheda": [
+            {
+              "sa": "तनोतु",
+              "iast": "tanotu"
+            }
+          ],
+          "components": [
+            {
+              "sa": "तनोतु",
+              "iast": "tanotu",
+              "pos": "verb",
+              "root": {
+                "kind": "dhatu",
+                "sa": "तन्",
+                "iast": "tan",
+                "gana": 8,
+                "gloss": {
+                  "en": "to stretch, to extend",
+                  "hi": "फैलाना, विस्तार करना"
+                }
+              },
+              "meaning": {
+                "en": "may he extend",
+                "hi": "विस्तार करें"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "may He spread / bestow",
+            "hi": "विस्तार करें, प्रदान करें"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ]
+        },
+        "w12": {
+          "padaccheda": [
+            {
+              "sa": "नः",
+              "iast": "naḥ"
+            }
+          ],
+          "components": [
+            {
+              "sa": "नः",
+              "iast": "naḥ",
+              "pos": "pronoun",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "अस्मद्",
+                "iast": "asmad"
+              },
+              "meaning": {
+                "en": "for us / our",
+                "hi": "हमारे लिए / हमारा"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "upon us, for us",
+            "hi": "हमारे लिए"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ],
+          "notes": {
+            "en": "Enclitic short form of asmad; it can also be read as genitive ('our').",
+            "hi": "अस्मद् का संक्षिप्त रूप; इसे षष्ठी ('हमारा') भी पढ़ा जा सकता है।"
+          },
+          "alternatives": [
+            {
+              "reading": {
+                "en": "our (genitive, with śivam: 'our welfare')",
+                "hi": "हमारा (षष्ठी, शिवम् के साथ: 'हमारा कल्याण')"
+              }
+            }
+          ]
+        },
+        "w13": {
+          "padaccheda": [
+            {
+              "sa": "शिवः",
+              "iast": "śivaḥ"
+            }
+          ],
+          "components": [
+            {
+              "sa": "शिव",
+              "iast": "śiva",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "शिव",
+                "iast": "śiva"
+              },
+              "meaning": {
+                "en": "Śiva, 'the auspicious one'",
+                "hi": "शिव, 'कल्याणकारी'"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "Śiva",
+            "hi": "शिव"
+          },
+          "notes": {
+            "en": "Wordplay: śivaḥ śivam — 'the Auspicious One' grants 'auspiciousness'. The name and the blessing are the same word.",
+            "hi": "शब्द-क्रीड़ा: शिवः शिवम् — 'कल्याणकारी' (शिव) 'कल्याण' प्रदान करें। नाम और आशीर्वाद एक ही शब्द हैं।"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ],
+          "epithet": true
+        },
+        "w14": {
+          "padaccheda": [
+            {
+              "sa": "शिवम्",
+              "iast": "śivam"
+            }
+          ],
+          "components": [
+            {
+              "sa": "शिव",
+              "iast": "śiva",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "शिव",
+                "iast": "śiva"
+              },
+              "meaning": {
+                "en": "auspiciousness, welfare",
+                "hi": "कल्याण, मंगल"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "auspiciousness",
+            "hi": "कल्याण"
+          },
+          "confidence": "high",
+          "sources": [
+            "ai-draft"
+          ]
+        }
+      },
+      "review": {
+        "status": "ai_draft",
+        "history": [
+          {
+            "date": "2026-10-19",
+            "by": "ai",
+            "action": "Initial draft built from the PRD example; restructured to schema 0.1.0."
+          },
+          {
+            "date": "2026-10-19",
+            "by": "ai",
+            "action": "Added Genius-style phrase annotations a1–a5 (schema 0.2.0); citation locators need checking."
+          },
+          {
+            "date": "2026-10-20",
+            "by": "ai",
+            "action": "Migrated to schema 0.3.0: padas p1–p13 with morphology and roles, adhyāhāra x1 (saḥ), anvaya; grammar moved off display words; compounds c2–c4 added and c1 retyped karmadhāraya (outermost step) with nested structure; p6 flagged irregular (ḍamarvayam)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "v2",
+      "number": 2,
+      "kind": "verse",
+      "lines": [
+        {
+          "words": [
+            {
+              "id": "w1",
+              "text": "जटाकटाह",
+              "iast": "jaṭākaṭāha"
+            },
+            {
+              "id": "w2",
+              "text": "सम्भ्रमभ्रमन्",
+              "iast": "sambhramabhraman"
+            },
+            {
+              "id": "w3",
+              "text": "निलिम्पनिर्झरी",
+              "iast": "nilimpanirjharī"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w4",
+              "text": "विलोलवीचिवल्लरी",
+              "iast": "vilolavīcivallarī"
+            },
+            {
+              "id": "w5",
+              "text": "विराजमानमूर्द्धनि",
+              "iast": "virājamānamūrddhani"
+            }
+          ],
+          "end": "।"
+        },
+        {
+          "words": [
+            {
+              "id": "w6",
+              "text": "धगद्धगद्धगज्",
+              "iast": "dhagaddhagaddhagaj"
+            },
+            {
+              "id": "w7",
+              "text": "ज्वलल्",
+              "iast": "jvalal"
+            },
+            {
+              "id": "w8",
+              "text": "ललाटपट्टपावके",
+              "iast": "lalāṭapaṭṭapāvake"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w9",
+              "text": "किशोरचन्द्रशेखरे",
+              "iast": "kiśoracandraśekhare"
+            },
+            {
+              "id": "w10",
+              "text": "रतिः",
+              "iast": "ratiḥ"
+            },
+            {
+              "id": "w11",
+              "text": "प्रतिक्षणं",
+              "iast": "pratikṣaṇaṃ"
+            },
+            {
+              "id": "w12",
+              "text": "मम",
+              "iast": "mama"
+            }
+          ],
+          "end": "॥ २ ॥"
+        }
+      ],
+      "translations": {
+        "en": {
+          "lines": []
+        },
+        "hi": {
+          "lines": []
+        }
+      },
+      "words": {},
+      "review": {
+        "status": "ai_draft",
+        "history": []
+      },
+      "lock": {
+        "hash": "sha256:515c241c9091f277e5e934c419a436754f912e64dab879f292d75c539e294a30",
+        "sources": [
+          "sanskritdocuments-shivtand",
+          "sa-wikisource-shivatandava",
+          "ramakrishna-math-mantrapushpam",
+          "vyakhya-sts-2",
+          "shlokam-shiva-tandava"
+        ],
+        "confirmed_by": null
+      }
+    }
+  ]
+}

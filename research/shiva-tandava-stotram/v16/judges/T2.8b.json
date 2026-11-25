@@ -1,0 +1,12 @@
+{
+  "check": "T2.8b",
+  "fields_hash": "0aa5aed463c0fe0d",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c1",
+      "message": "The type tatpuruṣa is correct and the meaning ('best among the best') is right. The vigraha उत्तमानाम् उत्तमः uses a genitive of selection (nirdhāraṇa), and Pāṇini 2.2.10 (na nirdhāraṇe) forbids a ṣaṣṭhī tatpuruṣa from such a genitive. Grammarians usually explain -uttama compounds like puruṣottama as saptamī tatpuruṣa, using the locative of selection allowed by 2.3.41 (e.g. puruṣeṣu uttamaḥ). The meaning does not change, so this is a flag, not a fail.",
+      "suggested_fix": "subtype: \"saptamī\", vigraha: \"उत्तमेषु उत्तमः, तम्\" (or keep ṣaṣṭhī and add a note on 2.2.10)"
+    }
+  ]
+}

@@ -1,0 +1,1707 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Rāvaṇa, the king of Laṅkā and a devotee of Śiva.",
+      "hi": "परम्परा से लंकापति रावण द्वारा रचित माना जाता है, जो शिव के परम भक्त थे।"
+    },
+    "sources": [
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), ed. Swami Devarupananda, Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007 — शिवताण्डवस्तोत्रम् [15] (श्री रावण कृतम्); scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/468/mode/1up"
+      },
+      {
+        "id": "sa-wikisource-shivatandava",
+        "name": "विकिस्रोतः (Sanskrit Wikisource) — शिवताण्डवस्तोत्रम् (रावण); headed \"॥अथ सुसंशुद्धं रावणकृतशिवताण्डवस्तोत्रम्॥\"",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"
+      },
+      {
+        "id": "sanskritdocuments-shivtand-meaning",
+        "name": "sanskritdocuments.org — Shivatandava Stotra with meaning (shivTAND_meaning.itx); word-meanings and translation by Dr. Sarasvati Mohan and students, Samskrit Academy, San Jose CA",
+        "kind": "translation",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivTAND_meaning.html"
+      },
+      {
+        "id": "sanskritdocuments-shivtand",
+        "name": "sanskritdocuments.org — श्रीशिवताण्डवस्तोत्रम् रावणरचितम् (shivtAND.itx; transliterated and proofread by Girish Beeharry and Sushil D. Sharma; \"Extended version with 17 verses\")",
+        "kind": "text",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivtAND.html"
+      },
+      {
+        "id": "shlokam-shiva-tandava",
+        "name": "shlokam.org — Shiva Tandava Stotram (Devanagari, IAST, simplified roman, verse translation, word-meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/shiva-tandava-stotram.htm"
+      },
+      {
+        "id": "mw-kadamba",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kadamba' (SLP1 key: kadamba)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kadamba&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-kala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kalā' (SLP1 key: kalA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kalA"
+      },
+      {
+        "id": "mw-bhava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhava' (SLP1 key: Bava)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Bava"
+      },
+      {
+        "id": "mw-gaja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaja' (SLP1 key: gaja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaja"
+      },
+      {
+        "id": "mw-makha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'makha' (SLP1 key: maKa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maKa"
+      },
+      {
+        "id": "mw-pura",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pura' (SLP1 key: pura)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pura"
+      },
+      {
+        "id": "mw-andhaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'andhaka' (SLP1 key: anDaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=anDaka"
+      },
+      {
+        "id": "mw-antaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'antaka' (SLP1 key: antaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=antaka"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-smara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'smara' (SLP1 key: smara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=smara"
+      },
+      {
+        "id": "vyakhya-sts-10",
+        "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक १० (Shloka 10 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+        "kind": "commentary",
+        "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-10/"
+      },
+      {
+        "id": "mw-akharva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'akharva' (SLP1 key: aKarva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aKarva"
+      },
+      {
+        "id": "mw-madhuri",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mādhurī' (SLP1 key: mADurI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mADurI"
+      },
+      {
+        "id": "mw-madhuvrata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'madhuvrata' (SLP1 key: maDuvrata)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maDuvrata"
+      },
+      {
+        "id": "mw-manjari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mañjarī' (SLP1 key: maYjarI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maYjarI"
+      },
+      {
+        "id": "mw-pravaha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pravāha' (SLP1 key: pravAha)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pravAha"
+      },
+      {
+        "id": "mw-rasa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rasa' (SLP1 key: rasa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rasa"
+      },
+      {
+        "id": "mw-sarvamangala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sarvamaṅgalā' (SLP1 key: sarvamaNgalA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sarvamaNgalA"
+      },
+      {
+        "id": "mw-vijrmbhana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vijṛmbhaṇa' (SLP1 key: vijfmBaRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vijfmBaRa"
+      },
+      {
+        "id": "mw-agarva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'agarva' (SLP1 key: agarva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=agarva"
+      },
+      {
+        "id": "mw-kharva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kharva' (SLP1 key: Karva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Karva"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v10",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "अखर्वसर्वमङ्गला",
+            "iast": "akharvasarvamaṅgalā"
+          },
+          {
+            "id": "w2",
+            "text": "कलाकदम्बमञ्जरी",
+            "iast": "kalākadambamañjarī"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "रसप्रवाहमाधुरी",
+            "iast": "rasapravāhamādhurī"
+          },
+          {
+            "id": "w4",
+            "text": "विजृम्भणामधुव्रतम्",
+            "iast": "vijṛmbhaṇāmadhuvratam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "स्मरान्तकं",
+            "iast": "smarāntakaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "पुरान्तकं",
+            "iast": "purāntakaṃ"
+          },
+          {
+            "id": "w7",
+            "text": "भवान्तकं",
+            "iast": "bhavāntakaṃ"
+          },
+          {
+            "id": "w8",
+            "text": "मखान्तकं",
+            "iast": "makhāntakaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "गजान्तकान्धकान्तकं",
+            "iast": "gajāntakāndhakāntakaṃ"
+          },
+          {
+            "id": "w10",
+            "text": "तमन्तकान्तकं",
+            "iast": "tamantakāntakaṃ"
+          },
+          {
+            "id": "w11",
+            "text": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "end": "॥ १० ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "One letter changes the goddess's epithet. All the witnesses consulted read *akharva*, 'not small': *kharva* means stunted or dwarfish, so with the negating *a-* she is the great, exalted one, as the vyakhya.org commentary spells out. The sanskritdocuments.org text adds *agarva* in brackets as an alternative, 'free from pride', a different but equally fitting praise. The swap does not disturb the metre, but only *akharva* has the backing of the other witnesses, so it is kept here.\n\n*Sarvamaṅgalā*, 'wholly auspicious', is a name Monier-Williams records for Durgā; the commentary reads it as Pārvatī, Śiva's consort, whose arts fill the rest of the half-verse.",
+          "hi": "एक अक्षर से देवी का विशेषण बदल जाता है। देखे गए सभी पाठ *अखर्व* पढ़ते हैं, 'जो छोटा न हो': *खर्व* का अर्थ है ठिगना या बौना, इसलिए निषेधक *अ-* के साथ देवी महान, उन्नत हैं, जैसा vyakhya.org की व्याख्या समझाती है। sanskritdocuments.org का पाठ कोष्ठक में विकल्प *अगर्व* भी देता है, 'गर्व से रहित', जो अलग पर उतनी ही उपयुक्त स्तुति है। इस बदलाव से छन्द नहीं बिगड़ता, पर बाकी पाठों का समर्थन केवल *अखर्व* को है, इसलिए वही रखा गया है।\n\n*सर्वमङ्गला*, 'सर्वथा मंगलमयी', को मोनियर-विलियम्स दुर्गा का नाम बताते हैं; व्याख्या इसे शिव की अर्धांगिनी पार्वती मानती है, जिनकी कलाओं का वर्णन आधे श्लोक में चलता है।"
+        },
+        "citations": [
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 10 (॥ १०॥), pāda 1",
+            "quote": "अखर्व(अगर्व)"
+          },
+          {
+            "source": "sa-wikisource-shivatandava",
+            "locator": "॥१०॥",
+            "quote": "अखर्वसर्वमङ्गलाकलाकदम्बमञ्जरी"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 469, verse ॥ १० ॥",
+            "quote": "अखर्वसर्वमङ्गलाकलाकदम्बमञ्जरी"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse ॥ १० ॥",
+            "quote": "अखर्व सर्वमङ्गला"
+          },
+          {
+            "source": "vyakhya-sts-10",
+            "locator": "श्लोक १०, व्याख्या",
+            "quote": "अखर्व का अर्थ है जो लघु न हो"
+          },
+          {
+            "source": "mw-kharva",
+            "locator": "MW kharva, p. 338",
+            "quote": "low, dwarfish"
+          },
+          {
+            "source": "mw-agarva",
+            "locator": "MW a-garva, p. 4",
+            "quote": "free from pride"
+          },
+          {
+            "source": "mw-sarvamangala",
+            "locator": "MW sarva-maṅgalā, p. 1186",
+            "quote": "N. of Durgā"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w2",
+          "w3",
+          "w4"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "Śiva as a bee. *Madhu-vrata*, literally 'one devoted to honey', is a poet's word for the large black bee. The flower it visits is the goddess's art: a *mañjarī* is a cluster of blossoms, and *kalā* covers every fine art, music and dance among them. The vyakhya.org commentary reads the image as Śiva savouring the sweetness of Pārvatī's arts, open-mouthed like a bee at the nectar.\n\n*Kadamba* holds a second picture. As a neuter noun it means a host or multitude, hence 'the host of arts'; as a tree it is the kadamba, known for fragrant orange flowers. The Samskrit Academy translation follows the tree, with bees swarming over a bunch of kadamba blossoms. The compound lets both images stand.",
+          "hi": "शिव भँवरे के रूप में। *मधु-व्रत*, शब्दशः 'मधु का व्रती', काव्य में बड़े काले भँवरे का नाम है। जिस फूल पर वह मँडराता है, वह देवी की कला है: *मञ्जरी* फूलों का गुच्छा है, और *कला* में संगीत, नृत्य जैसी सभी ललित कलाएँ आती हैं। vyakhya.org की व्याख्या इस चित्र को ऐसे पढ़ती है कि शिव पार्वती की कलाओं की मधुरता का रस, मुँह खोले भँवरे की तरह, पीते हैं।\n\n*कदम्ब* में एक दूसरा चित्र भी है। नपुंसकलिंग संज्ञा के रूप में इसका अर्थ समूह है, इसलिए 'कलाओं का समूह'; पेड़ के रूप में यह कदम्ब है, जिसके सुगन्धित नारंगी फूल प्रसिद्ध हैं। संस्कृत अकादमी का अनुवाद पेड़ वाला अर्थ लेता है: कदम्ब के फूलों के गुच्छे पर मँडराते भँवरे। समास दोनों चित्रों को साथ रहने देता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-madhuvrata",
+            "locator": "MW madhu-vrata, p. 780",
+            "quote": "a large black bee"
+          },
+          {
+            "source": "mw-manjari",
+            "locator": "MW mañjarī, p. 774",
+            "quote": "a cluster of blossoms"
+          },
+          {
+            "source": "mw-kala",
+            "locator": "MW kalā, p. 261",
+            "quote": "any practical art, any mechanical or fine art"
+          },
+          {
+            "source": "vyakhya-sts-10",
+            "locator": "श्लोक १०, भावार्थ",
+            "quote": "मुंह बाये भँवरे की तरह रसपान करते हैं"
+          },
+          {
+            "source": "mw-kadamba",
+            "locator": "MW kadamba, p. 247",
+            "quote": "a multitude, assemblage, collection, troop, herd"
+          },
+          {
+            "source": "mw-kadamba",
+            "locator": "MW kadamba, p. 247",
+            "quote": "Nauclea Cadamba"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 10, translation",
+            "quote": "bunch of auspicious Kadamba flowers"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w5",
+          "w6",
+          "w7",
+          "w8"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "Now the hymn turns from the lover to the destroyer, and the second half becomes a litany. [Verse 9](#v9-a3) ended on a chain of epithets built on *-cchid*, 'cutter'; this verse rebuilds the chain with *-antaka*, 'one who makes an end'. *Smara* is Kāma, whom Śiva burned (see [verse 7](#v7-a3)); *pura* is Tripura, the three strongholds of the Asuras; *makha* is a sacrifice, which the vyakhya.org gloss identifies as Dakṣa's.\n\n*Bhava* is the odd one out. It means worldly existence, the round of birth, so *bhavāntaka* ends bondage to it. Yet Monier-Williams also lists *Bhava* as a name of Śiva himself: the god called Becoming is the one who brings becoming to an end.",
+          "hi": "अब स्तोत्र रसिक से संहारक की ओर मुड़ता है, और श्लोक का दूसरा आधा एक नामावली बन जाता है। [नौवाँ श्लोक](#v9-a3) *-च्छिद्* ('काटने वाला') से बने विशेषणों की शृंखला पर समाप्त हुआ था; यह श्लोक वही शृंखला *-अन्तक* ('अन्त करने वाला') से फिर रचता है। *स्मर* कामदेव हैं, जिन्हें शिव ने भस्म किया ([श्लोक ७](#v7-a3) देखें); *पुर* त्रिपुर है, असुरों के तीन दुर्ग; *मख* यज्ञ है, जिसे vyakhya.org दक्ष का यज्ञ बताता है।\n\n*भव* इनमें अलग है। इसका अर्थ है संसार, जन्म का चक्र, इसलिए *भवान्तक* उस बन्धन का अन्त करने वाले हैं। पर मोनियर-विलियम्स *भव* को स्वयं शिव का नाम भी बताते हैं: जिस देवता का नाम ही 'भव' है, वही भव का अन्त करता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-antaka",
+            "locator": "MW antaka, p. 43",
+            "quote": "making an end, causing death"
+          },
+          {
+            "source": "mw-smara",
+            "locator": "MW smara, p. 1272",
+            "quote": "Kāma-deva (god of love)"
+          },
+          {
+            "source": "mw-pura",
+            "locator": "MW pura, p. 635",
+            "quote": "the 3 strongholds of the Asuras"
+          },
+          {
+            "source": "vyakhya-sts-10",
+            "locator": "श्लोक १०, पदच्छेद",
+            "quote": "(दक्ष) यज्ञ को नष्ट करने वाले"
+          },
+          {
+            "source": "mw-bhava",
+            "locator": "MW bhava, p. 749",
+            "quote": "worldly existence, the world"
+          },
+          {
+            "source": "mw-bhava",
+            "locator": "MW bhava, p. 749",
+            "quote": "later N. of Śiva or a form of Śiva"
+          },
+          {
+            "source": "vyakhya-sts-10",
+            "locator": "श्लोक १०, पदच्छेद",
+            "quote": "भवभय का अंत करने वाले"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w9",
+          "w10",
+          "w11"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "The chain closes with three more defeats. *Gaja* is the elephant-demon whom, Monier-Williams notes, Śiva conquered, and *Andhaka* an Asura, a son of Diti. Then the boldest: *antakāntaka*, the ender of the Ender. *Antaka* is a standing name of Yama, lord of death, so Śiva is death's own death.\n\nHidden in the last long word is the object of the whole verse. *Tamantakāntakaṃ* splits as *tam* + *antakāntakam*, 'him, the ender of Death', as the Samskrit Academy gloss has it. Every accusative before it, from *madhuvratam* on, describes this *tam*, and only *bhaje*, 'I worship', supplies the verb and the speaker. shlokam.org instead reads *tama* 'darkness' + *antaka*.",
+          "hi": "शृंखला तीन और विजयों से पूरी होती है। *गज* वह हाथी-रूपी असुर है जिसे, मोनियर-विलियम्स के अनुसार, शिव ने जीता, और *अन्धक* दिति का पुत्र एक असुर। फिर सबसे साहसी नाम: *अन्तकान्तक*, अन्त करने वाले का भी अन्त करने वाला। *अन्तक* यम का प्रचलित नाम है, इसलिए शिव मृत्यु की भी मृत्यु हैं।\n\nअन्तिम लम्बे शब्द में पूरे श्लोक का कर्म छिपा है। *तमन्तकान्तकं* का विभाजन *तम्* + *अन्तकान्तकम्* है, 'उन, यम के अन्तक को', जैसा संस्कृत अकादमी का शब्दार्थ देता है। *मधुव्रतम्* से लेकर पहले के सभी द्वितीया पद इसी *तम्* का वर्णन करते हैं, और केवल *भजे*, 'भजता हूँ', क्रिया और वक्ता दोनों देता है। shlokam.org इसे *तम* 'अन्धकार' + *अन्तक* पढ़ता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-gaja",
+            "locator": "MW gaja, p. 342",
+            "quote": "of an Asura (conquered by Śiva)"
+          },
+          {
+            "source": "mw-andhaka",
+            "locator": "MW andhaka, p. 45",
+            "quote": "N. of an Asura (son of Kaśyapa and Diti)"
+          },
+          {
+            "source": "mw-antaka",
+            "locator": "MW antaka, p. 43",
+            "quote": "Yama, king or lord of death"
+          },
+          {
+            "source": "vyakhya-sts-10",
+            "locator": "श्लोक १०, पदच्छेद",
+            "quote": "तमन्तकान्तकं = यमराज का अन्त करने वाले"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 10, word-meanings",
+            "quote": "him-Yama-controller-I worship"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse ॥ १० ॥, word-meanings",
+            "quote": "tama:darkness"
+          },
+          {
+            "source": "mw-bhaj",
+            "locator": "MW √bhaj, p. 743",
+            "quote": "to serve, honour, revere, love, adore"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "I"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "worship"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "Him:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "the bee at the welling-up"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "of sweetness in the stream of nectar"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "from the blossom-cluster, the host of arts,"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "of the great Sarvamaṅgalā;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "the ender of Smara,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "ender of the Triple City,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "ender of worldly existence,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "ender of (Dakṣa's) sacrifice,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "ender of Gaja and ender of Andhaka,"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "the ender of Antaka, Death himself."
+            }
+          ]
+        ],
+        "bhavartha": "Śiva is pictured first as a lover of beauty: Pārvatī's arts are a flowering cluster, sweetness wells up from it like nectar, and Śiva hovers there like a bee drinking it in. Then the tone hardens into a roll-call of victories. He put an end to Kāma, to the three cities of the Asuras, to the bondage of worldly life, to Dakṣa's sacrifice, to the demons Gaja and Andhaka, and finally to Death himself. That is the one the poet worships."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "महिमामयी सर्वमंगला (पार्वती) की"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "कलाओं के समूह-रूपी मंजरी से"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "बहते रस की मधुरता के"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "उमड़ने पर रीझे भँवरे,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "कामदेव का अन्त करने वाले,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "त्रिपुर का नाश करने वाले,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "संसार-बन्धन का अन्त करने वाले,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "(दक्ष के) यज्ञ का विध्वंस करने वाले,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "गजासुर और अन्धकासुर का अन्त करने वाले,"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "यमराज का भी अन्त करने वाले उन (शिव) को"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "मैं"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "भजता हूँ।"
+            }
+          ]
+        ],
+        "bhavartha": "पहले शिव एक रसिक के रूप में दिखते हैं: पार्वती की कलाएँ फूलों का गुच्छा हैं, उनसे मधुरता रस की तरह उमड़ती है, और शिव भँवरे की तरह उस पर मँडराकर उसका रस पीते हैं। फिर स्वर कठोर हो जाता है और विजयों की सूची शुरू होती है: उन्होंने कामदेव का, असुरों के तीन नगरों का, संसार के बन्धन का, दक्ष के यज्ञ का, गज और अन्धक असुरों का, और अन्त में स्वयं मृत्यु का भी अन्त किया। कवि ऐसे ही शिव की आराधना करता है।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "अखर्व",
+            "iast": "akharva"
+          },
+          {
+            "sa": "सर्वमङ्गला",
+            "iast": "sarvamaṅgalā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "अखर्व",
+            "iast": "akharva",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "खर्व",
+              "iast": "kharva"
+            },
+            "formation": "a (negation) + kharva 'stunted, small'",
+            "sense": {
+              "dict": "mw",
+              "headword": "akharva",
+              "gloss": "not small, important"
+            },
+            "meaning": {
+              "en": "great, not small",
+              "hi": "महान, जो छोटा न हो"
+            }
+          },
+          {
+            "sa": "सर्वमङ्गला",
+            "iast": "sarvamaṅgalā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सर्वमङ्गला",
+              "iast": "sarvamaṅgalā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sarvamaṅgalā",
+              "gloss": "N. of Durgā"
+            },
+            "meaning": {
+              "en": "the all-auspicious goddess (Pārvatī)",
+              "hi": "सर्वमंगला देवी (पार्वती)"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of the great Sarvamaṅgalā (Pārvatī)",
+          "hi": "महिमामयी सर्वमंगला (पार्वती) की"
+        },
+        "literal": {
+          "en": "the not-small, all-auspicious one",
+          "hi": "जो छोटी नहीं, सर्वथा मंगलमयी"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "sarvamaṅgalā = sarva 'all' + maṅgalā 'auspicious', 'she who is auspicious in every way', a name of the goddess. akharva is a nañ-tatpuruṣa, 'not small'. Inside the compound no case ending appears; the relation to the following kalā is 'of'. Some printings read agarva, 'free from pride' (see the note).",
+          "hi": "सर्वमङ्गला = सर्व 'सब' + मङ्गला 'मंगलमयी', 'जो हर प्रकार से मंगलमयी हैं', देवी का नाम। अखर्व नञ्-तत्पुरुष है, 'जो छोटा न हो'। समास के भीतर विभक्ति नहीं है; आगे के 'कला' से सम्बन्ध षष्ठी (की) का है। कुछ पाठ 'अगर्व' (गर्व-रहित) पढ़ते हैं (टिप्पणी देखें)।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "of the pride-free Sarvamaṅgalā (reading agarva)",
+              "hi": "गर्व-रहित सर्वमंगला की (पाठ 'अगर्व')"
+            },
+            "note": "sanskritdocuments-shivtand prints अगर्व in brackets as a variant; MW a-garva 'free from pride'. The other witnesses read अखर्व."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-akharva",
+          "mw-sarvamangala",
+          "vyakhya-sts-10",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "कला",
+            "iast": "kalā"
+          },
+          {
+            "sa": "कदम्ब",
+            "iast": "kadamba"
+          },
+          {
+            "sa": "मञ्जरी",
+            "iast": "mañjarī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कला",
+            "iast": "kalā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कला",
+              "iast": "kalā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kalā",
+              "gloss": "any practical art, any mechanical or fine art"
+            },
+            "meaning": {
+              "en": "art, fine art",
+              "hi": "कला"
+            }
+          },
+          {
+            "sa": "कदम्ब",
+            "iast": "kadamba",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कदम्ब",
+              "iast": "kadamba"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kadamba",
+              "gloss": "a multitude, assemblage, collection"
+            },
+            "meaning": {
+              "en": "host, multitude",
+              "hi": "समूह"
+            }
+          },
+          {
+            "sa": "मञ्जरी",
+            "iast": "mañjarī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मञ्जरी",
+              "iast": "mañjarī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mañjarī",
+              "gloss": "a cluster of blossoms"
+            },
+            "meaning": {
+              "en": "cluster of blossoms",
+              "hi": "मंजरी, फूलों का गुच्छा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the blossom-cluster that is her host of arts",
+          "hi": "कलाओं के समूह-रूपी मंजरी"
+        },
+        "literal": {
+          "en": "art-multitude-blossom-cluster",
+          "hi": "कला-समूह-मंजरी"
+        },
+        "notes": {
+          "en": "A rūpaka: the goddess's many arts are pictured as a cluster of flowers, ready for the bee in w4. No sandhi at the joins.",
+          "hi": "रूपक: देवी की अनेक कलाओं को फूलों का गुच्छा कहा गया है, जिस पर w4 का भँवरा आता है। जोड़ों पर कोई सन्धि नहीं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "a cluster of kadamba flowers (the tree)",
+              "hi": "कदम्ब के फूलों का गुच्छा (पेड़)"
+            },
+            "note": "sanskritdocuments-shivtand-meaning takes kadamba as the tree (MW m. Nauclea Cadamba); vyakhya-sts-10 (कला-समूह) and shlokam-shiva-tandava (cluster) take it as 'multitude'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-kala",
+          "mw-kadamba",
+          "mw-manjari",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "रस",
+            "iast": "rasa"
+          },
+          {
+            "sa": "प्रवाह",
+            "iast": "pravāha"
+          },
+          {
+            "sa": "माधुरी",
+            "iast": "mādhurī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "रस",
+            "iast": "rasa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "रस",
+              "iast": "rasa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "rasa",
+              "gloss": "nectar"
+            },
+            "meaning": {
+              "en": "nectar, sweet juice",
+              "hi": "रस, मकरन्द"
+            }
+          },
+          {
+            "sa": "प्रवाह",
+            "iast": "pravāha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वह्",
+              "iast": "vah",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to carry, to flow",
+                "hi": "बहना, ले जाना"
+              }
+            },
+            "formation": "pra + √vah + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pravāha",
+              "gloss": "a stream, river, current, running water"
+            },
+            "meaning": {
+              "en": "stream, flow",
+              "hi": "प्रवाह, धारा"
+            }
+          },
+          {
+            "sa": "माधुरी",
+            "iast": "mādhurī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "माधुरी",
+              "iast": "mādhurī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mādhurī",
+              "gloss": "sweetness, amiableness, loveliness, charm"
+            },
+            "meaning": {
+              "en": "sweetness",
+              "hi": "मधुरता"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the sweetness of the flowing nectar",
+          "hi": "बहते रस की मधुरता"
+        },
+        "notes": {
+          "en": "rasa-pravāha 'stream of nectar' (ṣaṣṭhī tatpuruṣa), and its mādhurī 'sweetness'. rasa also means aesthetic delight, which suits nectar flowing from arts. No sandhi at the joins.",
+          "hi": "रस-प्रवाह 'रस की धारा' (षष्ठी तत्पुरुष), और उसकी माधुरी 'मधुरता'। 'रस' का अर्थ कला का आस्वाद भी है, जो कलाओं से बहते रस के लिए उपयुक्त है। जोड़ों पर कोई सन्धि नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-rasa",
+          "mw-pravaha",
+          "mw-madhuri",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w4": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "विजृम्भणा",
+            "iast": "vijṛmbhaṇā"
+          },
+          {
+            "sa": "मधुव्रतम्",
+            "iast": "madhuvratam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विजृम्भणा",
+            "iast": "vijṛmbhaṇā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "जृम्भ्",
+              "iast": "jṛmbh",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to open, to expand, to yawn",
+                "hi": "खुलना, फैलना, जम्हाई लेना"
+              }
+            },
+            "formation": "vi + √jṛmbh + lyuṭ (-ana, action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vijṛmbhaṇa",
+              "gloss": "opening, expanding, blossoming, budding"
+            },
+            "meaning": {
+              "en": "welling-up, unfolding",
+              "hi": "उमड़ना, खिलना"
+            }
+          },
+          {
+            "sa": "मधुव्रत",
+            "iast": "madhuvrata",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मधुव्रत",
+              "iast": "madhuvrata"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "madhuvrata",
+              "gloss": "a large black bee"
+            },
+            "meaning": {
+              "en": "bee",
+              "hi": "भँवरा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the bee at the welling-up (of that sweetness)",
+          "hi": "(उस मधुरता के) उमड़ने पर रीझा भँवरा"
+        },
+        "literal": {
+          "en": "the bee of the unfolding",
+          "hi": "उमड़ने का भँवरा"
+        },
+        "notes": {
+          "en": "madhuvratam is the accusative singular that ends the whole compound w1–w4; the bee is Śiva. MW lists only the neuter vijṛmbhaṇa; the text's long -ā (vijṛmbhaṇā) is needed by the metre (the syllable must be heavy) and is taken here as a feminine form of the same action noun.",
+          "hi": "मधुव्रतम् द्वितीया एकवचन है और पूरे समास w1–w4 का अन्त है; भँवरा शिव हैं। मोनियर-विलियम्स केवल नपुंसकलिंग 'विजृम्भण' देते हैं; पाठ का दीर्घ '-आ' (विजृम्भणा) छन्द के लिए आवश्यक है (यह अक्षर गुरु होना चाहिए) और यहाँ उसी क्रियावाचक संज्ञा का स्त्रीलिंग रूप माना गया है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "the open-mouthed, eager bee",
+              "hi": "मुँह खोले, तत्पर भँवरा"
+            },
+            "note": "vyakhya-sts-10 glosses विजृम्भणा as मुख खोले हुए, तत्पर, describing the bee itself (MW vijṛmbhaṇa also 'yawning'); shlokam-shiva-tandava gives 'expansion'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vijrmbhana",
+          "mw-madhuvrata",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w5": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "स्मर",
+            "iast": "smara"
+          },
+          {
+            "sa": "अन्तकम्",
+            "iast": "antakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "Final a of smara and initial a of antaka merge into long ā: smara + antaka → smarāntaka.",
+              "hi": "स्मर का अन्तिम 'अ' और अन्तक का आरम्भिक 'अ' मिलकर दीर्घ 'आ' बनते हैं: स्मर + अन्तक → स्मरान्तक।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the p of purāntakaṃ (next word): smarāntakam → smarāntakaṃ.",
+              "hi": "अगले शब्द (पुरान्तकं) के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: स्मरान्तकम् → स्मरान्तकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्मर",
+            "iast": "smara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्मृ",
+              "iast": "smṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to remember",
+                "hi": "स्मरण करना"
+              }
+            },
+            "formation": "√smṛ + ap (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "smara",
+              "gloss": "Kāma-deva (god of love)"
+            },
+            "meaning": {
+              "en": "Smara, Kāma, the god of love",
+              "hi": "स्मर, कामदेव"
+            }
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "antaka",
+              "gloss": "making an end, causing death"
+            },
+            "meaning": {
+              "en": "one who makes an end of, destroyer",
+              "hi": "अन्त करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the destroyer of Kāma",
+          "hi": "कामदेव का अन्त करने वाले"
+        },
+        "literal": {
+          "en": "the ender of Smara",
+          "hi": "स्मर का अन्तक"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "smarasya antakaḥ, 'ender of Smara'. Smara, 'the one remembered' or 'love', is a name of Kāma, whom Śiva burned with his third eye.",
+          "hi": "स्मरस्य अन्तकः, 'स्मर का अन्त करने वाले'। स्मर ('स्मरण' या 'प्रेम') कामदेव का नाम है, जिन्हें शिव ने तीसरे नेत्र से भस्म किया।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-smara",
+          "mw-antaka",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w6": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अन्तकम्",
+            "iast": "antakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "pura + antaka → purāntaka: the two short a's merge into ā.",
+              "hi": "पुर + अन्तक → पुरान्तक: दोनों ह्रस्व 'अ' मिलकर 'आ' बनते हैं।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra before the bh of bhavāntakaṃ (next word).",
+              "hi": "अगले शब्द (भवान्तकं) के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pura",
+              "gloss": "= tri-pura, the 3 strongholds of the Asuras"
+            },
+            "meaning": {
+              "en": "the (triple) city, Tripura",
+              "hi": "पुर, त्रिपुर"
+            }
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "antaka",
+              "gloss": "making an end, causing death"
+            },
+            "meaning": {
+              "en": "destroyer",
+              "hi": "अन्त करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the destroyer of Tripura",
+          "hi": "त्रिपुर का नाश करने वाले"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "purasya antakaḥ. pura, 'city', stands for Tripura, the three flying strongholds of the Asuras that Śiva destroyed; MW records this sense.",
+          "hi": "पुरस्य अन्तकः। 'पुर' (नगर) यहाँ त्रिपुर है, असुरों के तीन दुर्ग, जिन्हें शिव ने नष्ट किया; मोनियर-विलियम्स यह अर्थ देते हैं।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-pura",
+          "mw-antaka",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w7": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "भव",
+            "iast": "bhava"
+          },
+          {
+            "sa": "अन्तकम्",
+            "iast": "antakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "bhava + antaka → bhavāntaka: the two short a's merge into ā.",
+              "hi": "भव + अन्तक → भवान्तक: दोनों ह्रस्व 'अ' मिलकर 'आ' बनते हैं।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra before the m of makhāntakaṃ (next word).",
+              "hi": "अगले शब्द (मखान्तकं) के 'म' से पहले अन्तिम 'म्' अनुस्वार बन जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भव",
+            "iast": "bhava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "gloss": {
+                "en": "to become, to be",
+                "hi": "होना"
+              }
+            },
+            "formation": "√bhū + ap (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhava",
+              "gloss": "worldly existence, the world (= saṃsāra)"
+            },
+            "meaning": {
+              "en": "worldly existence, the cycle of birth",
+              "hi": "संसार, भव-बन्धन"
+            }
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "antaka",
+              "gloss": "making an end, causing death"
+            },
+            "meaning": {
+              "en": "one who ends",
+              "hi": "अन्त करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the one who ends worldly bondage",
+          "hi": "संसार-बन्धन का अन्त करने वाले"
+        },
+        "literal": {
+          "en": "the ender of becoming",
+          "hi": "भव का अन्तक"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "bhavasya antakaḥ. The commentary glosses it as the one who ends the fear of worldly existence. Bhava is also a name of Śiva himself (see the note).",
+          "hi": "भवस्य अन्तकः। व्याख्या इसे 'भवभय का अंत करने वाले' बताती है। 'भव' स्वयं शिव का नाम भी है (टिप्पणी देखें)।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-bhava",
+          "mw-antaka",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w8": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "मख",
+            "iast": "makha"
+          },
+          {
+            "sa": "अन्तकम्",
+            "iast": "antakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "makha + antaka → makhāntaka: the two short a's merge into ā.",
+              "hi": "मख + अन्तक → मखान्तक: दोनों ह्रस्व 'अ' मिलकर 'आ' बनते हैं।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra before the g of gajāntaka… (next word, on the next line).",
+              "hi": "अगले शब्द (गजान्तक…, अगली पंक्ति में) के 'ग' से पहले अन्तिम 'म्' अनुस्वार बन जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "मख",
+            "iast": "makha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मख",
+              "iast": "makha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "makha",
+              "gloss": "a sacrifice, sacrificial oblation"
+            },
+            "meaning": {
+              "en": "sacrifice",
+              "hi": "यज्ञ"
+            }
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "antaka",
+              "gloss": "making an end, causing death"
+            },
+            "meaning": {
+              "en": "destroyer",
+              "hi": "नाश करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the destroyer of (Dakṣa's) sacrifice",
+          "hi": "(दक्ष के) यज्ञ का विध्वंस करने वाले"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "makhasya antakaḥ. The commentary names the sacrifice as Dakṣa's, which Śiva wrecked.",
+          "hi": "मखस्य अन्तकः। व्याख्या इसे दक्ष का यज्ञ बताती है, जिसे शिव ने ध्वस्त किया।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-makha",
+          "mw-antaka",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w9": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "गज",
+            "iast": "gaja"
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka"
+          },
+          {
+            "sa": "अन्धक",
+            "iast": "andhaka"
+          },
+          {
+            "sa": "अन्तकम्",
+            "iast": "antakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "Three times: gaja + antaka → gajāntaka, gajāntaka + andhaka → gajāntakāndhaka, andhaka + antaka → andhakāntaka.",
+              "hi": "तीन बार: गज + अन्तक → गजान्तक, गजान्तक + अन्धक → गजान्तकान्धक, अन्धक + अन्तक → अन्धकान्तक।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra before the t of tam (next word).",
+              "hi": "अगले शब्द के 'त' (तम्) से पहले अन्तिम 'म्' अनुस्वार बन जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "गज",
+            "iast": "gaja",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गज",
+              "iast": "gaja"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "gaja",
+              "gloss": "N. of an Asura (conquered by Śiva)"
+            },
+            "meaning": {
+              "en": "Gaja, the elephant-demon",
+              "hi": "गजासुर"
+            }
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "antaka",
+              "gloss": "making an end, causing death"
+            },
+            "meaning": {
+              "en": "destroyer",
+              "hi": "अन्त करने वाला"
+            }
+          },
+          {
+            "sa": "अन्धक",
+            "iast": "andhaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्धक",
+              "iast": "andhaka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "andhaka",
+              "gloss": "N. of an Asura (son of Kaśyapa and Diti)"
+            },
+            "meaning": {
+              "en": "Andhaka, an Asura",
+              "hi": "अन्धकासुर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the slayer of Gaja and of Andhaka",
+          "hi": "गजासुर और अन्धकासुर का अन्त करने वाले"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Two epithets in one word: gajasya antakaḥ and andhakasya antakaḥ, both of Śiva. The second antaka carries the accusative ending for the whole.",
+          "hi": "एक शब्द में दो विशेषण: गजस्य अन्तकः और अन्धकस्य अन्तकः, दोनों शिव के। दूसरा 'अन्तक' पूरे शब्द की द्वितीया विभक्ति लेता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "the slayer of elephants and of Andhaka",
+              "hi": "हाथियों और अन्धकासुर का अन्त करने वाले"
+            },
+            "note": "sanskritdocuments-shivtand-meaning: 'the killer of the elephants'. vyakhya-sts-10 and MW gaja (an Asura conquered by Śiva) support the demon Gaja."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-gaja",
+          "mw-andhaka",
+          "mw-antaka",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "तम्",
+            "iast": "tam"
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka"
+          },
+          {
+            "sa": "अन्तकम्",
+            "iast": "antakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "antaka + antaka → antakāntaka: the two short a's merge into ā. tam simply joins the following vowel (tam + antaka → tamantaka).",
+              "hi": "अन्तक + अन्तक → अन्तकान्तक: दोनों ह्रस्व 'अ' मिलकर 'आ' बनते हैं। 'तम्' आगे के स्वर से सीधे जुड़ जाता है (तम् + अन्तक → तमन्तक)।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m becomes anusvāra before the bh of bhaje (next word).",
+              "hi": "अगले शब्द (भजे) के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "तद्",
+            "iast": "tad",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "meaning": {
+              "en": "him, that one",
+              "hi": "उन्हें, उनको"
+            }
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्तक",
+              "iast": "antaka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "antaka",
+              "gloss": "Yama, king or lord of death"
+            },
+            "meaning": {
+              "en": "Antaka, Yama, Death",
+              "hi": "अन्तक, यमराज"
+            }
+          },
+          {
+            "sa": "अन्तक",
+            "iast": "antaka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्त",
+              "iast": "anta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "antaka",
+              "gloss": "making an end, causing death"
+            },
+            "meaning": {
+              "en": "destroyer",
+              "hi": "अन्त करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Him, the ender of Death",
+          "hi": "उन, यमराज का भी अन्त करने वाले (शिव) को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Two padas in one display word: tam, accusative of tad 'him', the object of bhaje, and antakāntakam, antakasya antakaḥ 'ender of Antaka (Yama)', a ṣaṣṭhī tatpuruṣa describing him.",
+          "hi": "एक शब्द में दो पद: 'तम्', तद् की द्वितीया 'उन्हें', जो 'भजे' का कर्म है, और 'अन्तकान्तकम्', अन्तकस्य अन्तकः 'अन्तक (यम) का अन्त करने वाले', जो उनका विशेषण (षष्ठी तत्पुरुष) है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "the ender of darkness and of death",
+              "hi": "अन्धकार और मृत्यु का अन्त करने वाले"
+            },
+            "note": "shlokam-shiva-tandava divides tama 'darkness' + antaka + antakaṃ. sanskritdocuments-shivtand-meaning reads 'him-Yama-controller', i.e. tam + antakāntakam, followed here."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-antaka",
+          "vyakhya-sts-10",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to serve, honour, adore",
+                "hi": "भजना, सेवा करना, आराधना करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "I worship",
+              "hi": "मैं भजता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "भजता हूँ, आराधना करता हूँ"
+        },
+        "notes": {
+          "en": "Present tense (laṭ), first person singular, ātmanepada of √bhaj (gaṇa 1, ubhayapada). The only finite verb in the verse; its subject 'I' is understood from the ending. Vidyut also lists bhaje as a vocative of a stem bhaji; that does not fit here.",
+          "hi": "√भज् (भ्वादि, उभयपदी) का लट् लकार, उत्तम पुरुष एकवचन, आत्मनेपद। श्लोक की एकमात्र क्रिया; कर्ता 'मैं' प्रत्यय से समझा जाता है। Vidyut 'भजे' को 'भजि' का सम्बोधन भी बताता है; वह यहाँ नहीं बैठता।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "vyakhya-sts-10",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      }
+    }
+  }
+}

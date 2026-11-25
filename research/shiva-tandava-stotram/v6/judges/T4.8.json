@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "d7101a317919ccdc",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines[2][0]",
+      "message": "'…of its forehead, before which the lords of the gods bow' attaches to 'forehead', but w4 describes the head.",
+      "suggested_fix": "'the head before which the lords of the gods bow'"
+    }
+  ]
+}

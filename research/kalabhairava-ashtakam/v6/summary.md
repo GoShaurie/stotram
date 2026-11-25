@@ -1,0 +1,11 @@
+# v6: stotram-refine run, 2026-11-21
+
+**Outcome:** `ai_draft`. Penalty 0 → 100. 6/8 words agreed across 2 drafts. Exit-ready: False.
+
+## Needs a human
+
+1. **Confirm the text lock** after reading `text-report.md`:
+   `.venv/bin/python -m checks lock data/stotrams/kalabhairava-ashtakam.json --verse v6 --sources gitapress-shiv-stotra-ratnakar,greenmesg-kalabhairava,ramakrishna-math-mantrapushpam,sanskritdocuments-kaalabhairava,sanskritdocuments-shivarahasya-kalabhairava,shlokam-kalabhairava,vanivilas-1910-works-18 --confirm "<your name>"`
+- **FAIL T4.9** `annotations.a2.body.en`: 'The fangs are usually taken as Death's' goes further than the evidence. Of the three translations the note itself cites, only gitapress-shiv-stotra-ratnakar.md takes the fangs as Kāla's ('कालके भयंकर दाँतोंसे मोक्ष दिलानेवाले'). greenmesg-kalabhairava.md ('Whose Large Terrible Fangs Liberate us') and shlokam-kalabhairava.md ('by His fearsome fangs He grants liberation') take them as His own. Nothing in the evidence shows that the Death reading is the usual one. The Hindi ('प्रायः ये दाँत मृत्यु के माने जाते हैं') makes the same over-claim.
+- T4.5 `annotations.a1.body.en`: The gloss of a-dvitīya adds 'nothing beside Him'. MW a-dvitīya (mw-advitiya.md, p. 19,3) gives only 'without a second, sole, unique, matchless', which means no equal or rival. 'Nothing beside Him' can be read as the Advaita claim that nothing else exists. The Hindi ('जिनका कोई दूसरा नहीं') does not make this claim. Only a mild drift, so a human should decide. (suggested: *a-dvitīya*, 'without a second', none to equal Him;)
+- T4.9 `annotations.a2.body.en`: The bhīṣaṇam reading comes only from sanskritdocuments-shivarahasya-kalabhairava.md. That is a separate Śivarahasya recension, and the source says so itself. Its line reads 'करालं दंष्ट्रभीषणं', with karālaṃ as a separate word, not karāladaṃṣṭra-bhīṣaṇam. The note presents bhīṣaṇam as an ordinary variant of this line and glosses it 'fearsome with terrible fangs', so the reader is not told where it comes from or how the line differs. The citation locator is correct. A human should decide whether to say it comes from the related Śivarahasya version, in line with ancient-only citations. (suggested: …or, in the Śivarahasya version of the hymn, *karālaṃ daṃṣṭra-bhīṣaṇam*, 'terrible, fearsome with fangs', the fangs are plainly His own.)

@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "dce2bd1a44b3e484",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a1.body.en",
+      "message": "Reads as if the Śiśupālavadha says 'all the gods, Indra first'; MW only cites Śiś. for the sense 'a god'. HI is correct.",
+      "suggested_fix": "\"MW lists lekha as 'a god, deity' (citing the Śiśupālavadha); taken that way, the phrase means 'all the gods, Indra first'.\""
+    }
+  ]
+}

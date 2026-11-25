@@ -1,0 +1,2532 @@
+{
+  "group": "translation",
+  "checks": {
+    "T3.5": "checks/judges/T3.5.md",
+    "T4.6": "checks/judges/T4.6.md",
+    "T4.7": "checks/judges/T4.7.md",
+    "T4.8": "checks/judges/T4.8.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    }
+  },
+  "verse": {
+    "id": "v16",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "इमं",
+            "iast": "imaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "हि",
+            "iast": "hi"
+          },
+          {
+            "id": "w3",
+            "text": "नित्यमेवमुक्तमुत्तमोत्तमं",
+            "iast": "nityamevamuktamuttamottamaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "स्तवं",
+            "iast": "stavaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "पठन्",
+            "iast": "paṭhan"
+          },
+          {
+            "id": "w6",
+            "text": "स्मरन्ब्रुवन्नरो",
+            "iast": "smaranbruvannaro"
+          },
+          {
+            "id": "w7",
+            "text": "विशुद्धिमेति",
+            "iast": "viśuddhimeti"
+          },
+          {
+            "id": "w8",
+            "text": "सन्ततम्",
+            "iast": "santatam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "हरे",
+            "iast": "hare"
+          },
+          {
+            "id": "w10",
+            "text": "गुरौ",
+            "iast": "gurau"
+          },
+          {
+            "id": "w11",
+            "text": "सुभक्तिमाशु",
+            "iast": "subhaktimāśu"
+          },
+          {
+            "id": "w12",
+            "text": "याति",
+            "iast": "yāti"
+          },
+          {
+            "id": "w13",
+            "text": "नान्यथा",
+            "iast": "nānyathā"
+          },
+          {
+            "id": "w14",
+            "text": "गतिं",
+            "iast": "gatiṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w15",
+            "text": "विमोहनं",
+            "iast": "vimohanaṃ"
+          },
+          {
+            "id": "w16",
+            "text": "हि",
+            "iast": "hi"
+          },
+          {
+            "id": "w17",
+            "text": "देहिनां",
+            "iast": "dehināṃ"
+          },
+          {
+            "id": "w18",
+            "text": "सुशङ्करस्य",
+            "iast": "suśaṅkarasya"
+          },
+          {
+            "id": "w19",
+            "text": "चिन्तनम्",
+            "iast": "cintanam"
+          }
+        ],
+        "end": "॥ १६ ॥"
+      }
+    ],
+    "adhyahara": [
+      {
+        "id": "x1",
+        "sa": "करोति",
+        "iast": "karoti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "कृ",
+            "iast": "kṛ",
+            "gana": 8
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null,
+        "meaning": {
+          "en": "brings about, works",
+          "hi": "करता है"
+        }
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2",
+          "w3",
+          "w4"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "The hymn stops praising Śiva and starts describing itself. *Imaṃ stavam*, \"this hymn\", points back at everything sung so far, and *uttamottama*, \"best of the best\", is the poet's own verdict on it; vyakhya.org remarks that the title is earned, since the plain-looking verses keep revealing hidden layers.\n\nThis is the *phalaśruti*, the part that tells what reciting brings. It comes second-to-last, but its number is not fixed: sanskritdocuments.org and Sanskrit Wikisource number it 16, while the Ramakrishna Math print and shlokam.org, which print thirteen verses plus two closing verses, number it 14.",
+          "hi": "स्तोत्र अब शिव की स्तुति छोड़कर अपने बारे में बोलता है। *इमं स्तवम्*, \"यह स्तोत्र\", अब तक गाए गए सब श्लोकों की ओर संकेत करता है, और *उत्तमोत्तम*, \"उत्तमों में उत्तम\", कवि का अपना निर्णय है; vyakhya.org कहता है कि यह उपाधि अकारण नहीं, क्योंकि साधारण-से दिखते श्लोकों में भीतर गहरे अर्थ छिपे हैं।\n\nयह *फलश्रुति* है, वह भाग जो बताता है कि पाठ से क्या मिलता है। यह अन्त से दूसरा श्लोक है, पर इसकी संख्या तय नहीं: sanskritdocuments.org और संस्कृत विकिस्रोत इसे १६ गिनते हैं, जबकि रामकृष्ण मठ का मुद्रित पाठ और shlokam.org, जो तेरह श्लोकों के बाद दो समापन श्लोक छापते हैं, इसे १४ गिनते हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-uttamottama",
+            "locator": "MW uttamottama, p. 178,1",
+            "quote": "the best among the best, the very best"
+          },
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, व्याख्या",
+            "quote": "वह इस स्तोत्र को उत्तमोत्तमं स्तवम् कहता है, जो अकारण नहीं है"
+          },
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 16 (॥ १६॥)",
+            "quote": "सुशङ्करस्य चिन्तनम् ॥ १६॥"
+          },
+          {
+            "source": "sa-wikisource-shivatandava",
+            "locator": "॥१६॥",
+            "quote": "सुशङ्करस्य चिन्तनम् ॥१६॥"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 470, verse ॥ १४ ॥",
+            "quote": "सुशङ्करस्य चिन्तनम् ॥ १४ ॥"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse ॥ १४ ॥",
+            "quote": "सुशङ्करस्य चिन्तनम् ॥ १४ ॥"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w5",
+          "w6"
+        ],
+        "kind": "grammar",
+        "body": {
+          "en": "Three present participles in a row, *paṭhan*, *smaran*, *bruvan*: reading, remembering, speaking. All three are nominative and describe *naraḥ*, \"a person\", so the verse names the reader before it names the reward.\n\nThey cover three ways of keeping a text: off the page, in memory, aloud. vyakhya.org joins them with अथवा, \"or\", so any one of them counts. *Bruvan* comes from √brū, \"to speak\", a root of the second class that keeps its *-uv-* before a vowel. Its final *n* simply meets the *n* of *naraḥ* (*bruvan naraḥ* → *bruvannaraḥ*), and *naraḥ* itself turns into *naro* before the voiced *v* of *viśuddhim*.",
+          "hi": "लगातार तीन वर्तमान कृदन्त, *पठन्*, *स्मरन्*, *ब्रुवन्*: पढ़ता हुआ, स्मरण करता हुआ, बोलता हुआ। तीनों प्रथमा में हैं और *नरः* (मनुष्य) के विशेषण हैं, इसलिए श्लोक फल बताने से पहले पाठक को बताता है।\n\nये किसी पाठ को धारण करने के तीन ढंग हैं: पन्ने से, स्मृति में, बोलकर। vyakhya.org इन्हें 'अथवा' से जोड़ता है, अर्थात् इनमें से कोई एक भी पर्याप्त है। *ब्रुवन्* √ब्रू (बोलना) से है, जो अदादिगण की धातु है और स्वर से पहले *-उव्-* रखती है। इसका अन्तिम *न्* आगे के *नरः* के *न* से बस मिल जाता है (*ब्रुवन् नरः* → *ब्रुवन्नरः*), और *नरः* आगे के घोष *व* (*विशुद्धिम्*) के कारण *नरो* बन जाता है।"
+        },
+        "citations": [
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, भावार्थ",
+            "quote": "पाठ, स्मरण अथवा वर्णन करता है"
+          },
+          {
+            "source": "mw-path",
+            "locator": "MW √paṭh",
+            "quote": "to read or repeat aloud, to recite"
+          },
+          {
+            "source": "mw-smr",
+            "locator": "MW √smṛ, p. 1271,3",
+            "quote": "to remember, recollect, bear in mind"
+          },
+          {
+            "source": "mw-bru",
+            "locator": "MW √brū",
+            "quote": "to speak, say, tell"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w7",
+          "w8"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "What kind of purity? *Viśuddhi* is purification carried through, the *vi-* making *śuddhi* thorough, and Monier-Williams notes it is used figuratively as well as literally. The vyakhya.org commentary insists on the inner sense: the poet means a cleansing of the mind, not only of the body.\n\nThe verb pictures purity as a place you arrive at: *eti* is \"goes\" (√i), and *viśuddhim eti* is literally \"goes to purity\". *Santatam*, \"continually, without a break\", makes the arrival permanent, and the verse uses the same idea of steadiness for the reader, who recites *nityam*, every day.",
+          "hi": "कैसी शुद्धि? *विशुद्धि* पूरी की गई शुद्धि है; 'वि' उपसर्ग 'शुद्धि' को गहरा कर देता है, और मोनियर-विलियम्स बताते हैं कि यह शब्द लाक्षणिक अर्थ में भी आता है। vyakhya.org की व्याख्या भीतरी अर्थ पर ज़ोर देती है: कवि का आशय मन की शुद्धि से है, केवल शरीर की नहीं।\n\nक्रिया शुद्धि को एक गन्तव्य की तरह दिखाती है: *एति* का अर्थ है 'जाता है' (√इ), और *विशुद्धिम् एति* का शाब्दिक अर्थ है 'शुद्धि तक जाता है'। *सन्ततम्* (निरन्तर, बिना रुके) इस पहुँच को स्थायी बनाता है, और यही स्थिरता पाठक में भी है, जो *नित्यम्*, प्रतिदिन, पाठ करता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-vishuddhi",
+            "locator": "MW vi-śuddhi, p. 991,2",
+            "quote": "complete purification, purity (also fig.)"
+          },
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, व्याख्या",
+            "quote": "जिससे यहाँ तात्पर्य मानसिक शुद्धि से है, केवल दैहिक शुद्धि ही मात्र नहीं"
+          },
+          {
+            "source": "mw-i",
+            "locator": "MW √i, p. 163,3",
+            "quote": "to go, walk"
+          },
+          {
+            "source": "mw-samtatam",
+            "locator": "MW saṃ-tatam, p. 1141,3",
+            "quote": "continually, uninterruptedly, incessantly"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w9",
+          "w10",
+          "w11",
+          "w12",
+          "w13",
+          "w14"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Two short phrases, each read in two ways. *Hare gurau* can be one person or two. vyakhya.org and the Samskrit Academy translation take *guru* as a title of Hara himself, the teacher of the whole world; shlokam.org glosses the two words separately, Śiva and \"the teacher\", which allows devotion to Śiva and to one's own guru.\n\n*Nānyathā gatiṃ* is harder. The vyakhya.org anvaya repeats the verb, \"he does not go to any other *gati*\", that is, no other fate or end awaits him, and its commentary speaks of reaching the highest goal. The Samskrit Academy reads it as a claim about means: this devotion has no second road. *Gati* carries both senses in the dictionary, a path or means and a destination or state of being.",
+          "hi": "दो छोटे वाक्यांश, और दोनों के दो-दो अर्थ। *हरे गुरौ* एक व्यक्ति भी हो सकता है और दो भी। vyakhya.org और संस्कृत अकादमी का अनुवाद 'गुरु' को स्वयं हर की उपाधि मानते हैं, सारे जगत के गुरु; shlokam.org दोनों शब्दों का अलग अर्थ देता है, 'शिव में' और 'गुरु में', जिससे शिव और अपने गुरु, दोनों के प्रति भक्ति का अर्थ भी बनता है।\n\n*नान्यथा गतिं* अधिक कठिन है। vyakhya.org का अन्वय क्रिया को दोहराता है: 'वह किसी अन्य *गति* को नहीं जाता', अर्थात् उसका कोई दूसरा परिणाम नहीं होता, और उसकी व्याख्या परम गति पाने की बात करती है। संस्कृत अकादमी इसे साधन के बारे में कथन मानती है: इस भक्ति के लिए कोई दूसरा मार्ग नहीं। शब्दकोश में *गति* के दोनों अर्थ हैं: मार्ग या साधन, और गन्तव्य या दशा।"
+        },
+        "citations": [
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, भावार्थ",
+            "quote": "गुरु, भगवान हर यानि शंकर"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse ॥ १४॥, translation",
+            "quote": "For this devotion, there is no other way."
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse ॥ १४ ॥, word-meanings",
+            "quote": "गुरौ (gurau) – to the teacher"
+          },
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, अन्वय",
+            "quote": "अन्यथा गतिं न ( याति )"
+          },
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, व्याख्या",
+            "quote": "शिवोपासक परम गति अथवा सदाशिव का सान्निध्य पाता है"
+          },
+          {
+            "source": "mw-gati",
+            "locator": "MW gati, p. 347,3",
+            "quote": "state, condition, situation, proportion, mode of existence"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w15",
+          "w16",
+          "w17",
+          "w18",
+          "w19"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Vimohana* is a word that can point both ways. From √muh, \"to be bewildered\", Monier-Williams records it as confusion, or the art of bewildering someone. Every commentary here reads it the other way, as the dispelling of *moha*, so the thought of Śiva is what removes delusion. The commentaries and the context decide it, since a hymn would hardly praise Śaṅkara for confusing people.\n\nvyakhya.org's Hindi also plays on the name in line 3. *Hara* means \"one who takes away\", and the commentator says Śaṅkara's contemplation हर लेता है, *takes away*, the delusion of embodied beings; that pun lives in the commentary's Hindi wording, not in the Sanskrit line. *Śaṅkara* itself means \"maker of welfare\", and the extra *su-* adds reverence, like *śrī*.",
+          "hi": "*विमोहन* ऐसा शब्द है जो दोनों ओर इशारा कर सकता है। √मुह् (मोहित होना) से बने इस शब्द का अर्थ मोनियर-विलियम्स 'भ्रम, उलझन' या किसी को भ्रमित करने की कला देते हैं। पर यहाँ हर टीका इसे उलटे अर्थ में, मोह के निवारण के रूप में लेती है, इसलिए शिव का चिन्तन मोह को दूर करने वाला है। टीकाएँ और प्रसंग यही तय करते हैं, क्योंकि कोई स्तोत्र शंकर की स्तुति लोगों को भ्रमित करने के लिए नहीं करेगा।\n\nvyakhya.org की हिन्दी व्याख्या तीसरी पंक्ति के नाम से शब्द-क्रीड़ा भी करती है। *हर* का अर्थ है 'हर लेने वाला', और टीकाकार कहता है कि शंकर का चिन्तन देहधारियों का मोह हर लेता है; यह श्लेष टीका की हिन्दी में है, संस्कृत पंक्ति में नहीं। *शंकर* का अपना अर्थ है 'कल्याण करने वाला', और 'सु' जोड़ना 'श्री' की तरह आदर दिखाता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-vimohana",
+            "locator": "MW vi-mohana, p. 980,3",
+            "quote": "the art of confusing or bewildering"
+          },
+          {
+            "source": "mw-muh",
+            "locator": "MW √muh",
+            "quote": "be bewildered or perplexed"
+          },
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, पदच्छेद (word glosses)",
+            "quote": "विमोहनं = मोह को दूर करने वाला, माया को भेदने वाला"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse ॥ १४ ॥, word-meanings",
+            "quote": "विमोहनम् (vimohanam) – removal of delusion"
+          },
+          {
+            "source": "vyakhya-sts-16",
+            "locator": "श्लोक १६, भावार्थ",
+            "quote": "मोह-माया को हर लेने वाला"
+          },
+          {
+            "source": "mw-hara",
+            "locator": "MW hara, p. 1289,1",
+            "quote": "taking away, carrying off, removing, destroying"
+          },
+          {
+            "source": "mw-shamkara",
+            "locator": "MW śaṃkara, p. 1054,3",
+            "quote": "causing prosperity, auspicious, beneficent"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "इमम्",
+        "iast": "imam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "इदम्",
+            "iast": "idam"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p7"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "हि",
+        "iast": "hi",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w3"
+        ],
+        "sa": "नित्यम्",
+        "iast": "nityam",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w3"
+        ],
+        "sa": "एवम्",
+        "iast": "evam",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p5"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w3"
+        ],
+        "sa": "उक्तम्",
+        "iast": "uktam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "उक्त",
+            "iast": "ukta"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "वच्",
+              "iast": "vac",
+              "gana": 2
+            },
+            "prefixes": [],
+            "suffix": "kta"
+          }
+        },
+        "role": "viśeṣaṇa",
+        "head": "p7"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w3"
+        ],
+        "sa": "उत्तमोत्तमम्",
+        "iast": "uttamottamam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "उत्तमोत्तम",
+            "iast": "uttamottama"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p7"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w4"
+        ],
+        "sa": "स्तवम्",
+        "iast": "stavam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "स्तव",
+            "iast": "stava"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p8"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w5"
+        ],
+        "sa": "पठन्",
+        "iast": "paṭhan",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पठत्",
+            "iast": "paṭhat"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "पठ्",
+              "iast": "paṭh",
+              "gana": 1
+            },
+            "prefixes": [],
+            "suffix": "śatṛ"
+          }
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w6"
+        ],
+        "sa": "स्मरन्",
+        "iast": "smaran",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "स्मरत्",
+            "iast": "smarat"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "स्मृ",
+              "iast": "smṛ",
+              "gana": 1
+            },
+            "prefixes": [],
+            "suffix": "śatṛ"
+          }
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w6"
+        ],
+        "sa": "ब्रुवन्",
+        "iast": "bruvan",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "ब्रुवत्",
+            "iast": "bruvat"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "ब्रू",
+              "iast": "brū",
+              "gana": 2
+            },
+            "prefixes": [],
+            "suffix": "śatṛ"
+          }
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w6"
+        ],
+        "sa": "नरः",
+        "iast": "naraḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नर",
+            "iast": "nara"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p13"
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w7"
+        ],
+        "sa": "विशुद्धिम्",
+        "iast": "viśuddhim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विशुद्धि",
+            "iast": "viśuddhi"
+          },
+          "gender": "feminine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p13"
+      },
+      {
+        "id": "p13",
+        "words": [
+          "w7"
+        ],
+        "sa": "एति",
+        "iast": "eti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "इ",
+            "iast": "i",
+            "gana": 2
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p14",
+        "words": [
+          "w8"
+        ],
+        "sa": "सन्ततम्",
+        "iast": "santatam",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p15",
+        "words": [
+          "w9"
+        ],
+        "sa": "हरे",
+        "iast": "hare",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "हर",
+            "iast": "hara"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "adhikaraṇa",
+        "head": "p17"
+      },
+      {
+        "id": "p16",
+        "words": [
+          "w10"
+        ],
+        "sa": "गुरौ",
+        "iast": "gurau",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "गुरु",
+            "iast": "guru"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p15"
+      },
+      {
+        "id": "p17",
+        "words": [
+          "w11"
+        ],
+        "sa": "सुभक्तिम्",
+        "iast": "subhaktim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "सुभक्ति",
+            "iast": "subhakti"
+          },
+          "gender": "feminine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p19"
+      },
+      {
+        "id": "p18",
+        "words": [
+          "w11"
+        ],
+        "sa": "आशु",
+        "iast": "āśu",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p19"
+      },
+      {
+        "id": "p19",
+        "words": [
+          "w12"
+        ],
+        "sa": "याति",
+        "iast": "yāti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "या",
+            "iast": "yā",
+            "gana": 2
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p20",
+        "words": [
+          "w13"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": "p19"
+      },
+      {
+        "id": "p21",
+        "words": [
+          "w13"
+        ],
+        "sa": "अन्यथा",
+        "iast": "anyathā",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p19"
+      },
+      {
+        "id": "p22",
+        "words": [
+          "w14"
+        ],
+        "sa": "गतिम्",
+        "iast": "gatim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "गति",
+            "iast": "gati"
+          },
+          "gender": "feminine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p19"
+      },
+      {
+        "id": "p23",
+        "words": [
+          "w15"
+        ],
+        "sa": "विमोहनम्",
+        "iast": "vimohanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विमोहन",
+            "iast": "vimohana"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "x1"
+      },
+      {
+        "id": "p24",
+        "words": [
+          "w16"
+        ],
+        "sa": "हि",
+        "iast": "hi",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p25",
+        "words": [
+          "w17"
+        ],
+        "sa": "देहिनाम्",
+        "iast": "dehinām",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "देहिन्",
+            "iast": "dehin"
+          },
+          "gender": "masculine",
+          "case": "genitive",
+          "number": "plural"
+        },
+        "role": "sambandha",
+        "head": "p23"
+      },
+      {
+        "id": "p26",
+        "words": [
+          "w18"
+        ],
+        "sa": "सुशङ्करस्य",
+        "iast": "suśaṅkarasya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "सुशङ्कर",
+            "iast": "suśaṅkara"
+          },
+          "gender": "masculine",
+          "case": "genitive",
+          "number": "singular"
+        },
+        "role": "sambandha",
+        "head": "p27"
+      },
+      {
+        "id": "p27",
+        "words": [
+          "w19"
+        ],
+        "sa": "चिन्तनम्",
+        "iast": "cintanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "चिन्तन",
+            "iast": "cintana"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "x1"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "Truly,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "a person who"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "day after day"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "reads,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "remembers and recites"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "this"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "finest of all"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "hymns,"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "just as it has been set out here,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "continually"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "reaches purity;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "he"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "swiftly"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "gains"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "deep devotion"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "to Hara,"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "the Guru,"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "and goes"
+            },
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "to no other"
+            },
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "end."
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w16"
+              ],
+              "text": "For"
+            },
+            {
+              "refs": [
+                "w19"
+              ],
+              "text": "contemplating"
+            },
+            {
+              "refs": [
+                "w18"
+              ],
+              "text": "the gracious Śaṅkara"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "brings"
+            },
+            {
+              "refs": [
+                "w15"
+              ],
+              "text": "release from delusion"
+            },
+            {
+              "refs": [
+                "w17"
+              ],
+              "text": "to all embodied beings."
+            }
+          ]
+        ],
+        "bhavartha": "Here the hymn turns to speak about itself. It promises that whoever keeps reading it, holding it in memory or saying it aloud is made pure, and that the purity stays. Such a person soon finds full devotion to Śiva, honoured here as the Guru, and is headed for no other goal. The reason the verse gives is short: to think of Śaṅkara is to be loosened from the delusion every embodied creature carries."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "निश्चय ही,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "जो मनुष्य"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "यहाँ इस प्रकार कहे गए"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "इस"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "उत्तम से भी उत्तम"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "स्तोत्र का"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "नित्य"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "पाठ,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "स्मरण और कथन करता है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "वह निरन्तर"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "विशुद्धि को प्राप्त होता है;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "गुरु-स्वरूप"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "हर में"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "शीघ्र ही उत्तम भक्ति"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "पाता है,"
+            },
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "किसी अन्य"
+            },
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "गति को"
+            },
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "नहीं"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "जाता।"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w16"
+              ],
+              "text": "क्योंकि"
+            },
+            {
+              "refs": [
+                "w18"
+              ],
+              "text": "मंगलमय शंकर का"
+            },
+            {
+              "refs": [
+                "w19"
+              ],
+              "text": "चिन्तन"
+            },
+            {
+              "refs": [
+                "w17"
+              ],
+              "text": "देहधारियों का"
+            },
+            {
+              "refs": [
+                "w15"
+              ],
+              "text": "मोह-निवारण"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "करता है।"
+            }
+          ]
+        ],
+        "bhavartha": "यहाँ स्तोत्र स्वयं अपने बारे में बोलता है। वह कहता है कि जो कोई इसे नियम से पढ़ता है, मन में याद रखता है या ज़ोर से बोलता है, वह शुद्ध हो जाता है और यह शुद्धि टिकी रहती है। ऐसा व्यक्ति जल्दी ही गुरु-रूप शिव के प्रति भरपूर भक्ति पाता है, और उसकी कोई दूसरी गति नहीं होती। इसका कारण श्लोक छोटे में बताता है: शंकर का चिन्तन हर देहधारी के मोह को ढीला कर देता है।"
+      }
+    },
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "इमम्",
+            "iast": "imam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the h of the next word (hi): imam → imaṃ.",
+              "hi": "अगले शब्द (हि) के 'ह' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: इमम् → इमं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "इदम्",
+            "iast": "idam",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इदम्",
+              "iast": "idam"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "idam",
+              "gloss": "this, this here, referring to something near the speaker"
+            },
+            "meaning": {
+              "en": "this",
+              "hi": "यह"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "this",
+          "hi": "इस"
+        },
+        "notes": {
+          "en": "Accusative singular masculine of idam, agreeing with stavam: 'this hymn', the one just sung.",
+          "hi": "इदम् का द्वितीया एकवचन पुंलिंग, 'स्तवम्' से मेल खाता है: 'यह स्तोत्र', जो अभी गाया गया।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-idam",
+          "mw-ima",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "हि",
+            "iast": "hi"
+          }
+        ],
+        "components": [
+          {
+            "sa": "हि",
+            "iast": "hi",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "hi",
+              "gloss": "indeed, assuredly, surely, certainly"
+            },
+            "meaning": {
+              "en": "indeed, surely",
+              "hi": "निश्चय ही"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "truly, indeed",
+          "hi": "निश्चय ही"
+        },
+        "notes": {
+          "en": "Here an emphatic particle ('indeed'), as vyakhya.org and shlokam.org gloss it; the second hi in line 4 gives a reason ('for').",
+          "hi": "यहाँ बल देने वाला निपात (निश्चय ही), जैसा vyakhya.org और shlokam.org बताते हैं; चौथी पंक्ति का दूसरा 'हि' कारण बताता है (क्योंकि)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-hi",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "नित्यम्",
+            "iast": "nityam"
+          },
+          {
+            "sa": "एवम्",
+            "iast": "evam"
+          },
+          {
+            "sa": "उक्तम्",
+            "iast": "uktam"
+          },
+          {
+            "sa": "उत्तम",
+            "iast": "uttama"
+          },
+          {
+            "sa": "उत्तमम्",
+            "iast": "uttamam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + u → o",
+            "explanation": {
+              "en": "The final a of the first uttama and the initial u of the second merge into o: uttama + uttamam → uttamottamam.",
+              "hi": "पहले 'उत्तम' का अन्तिम 'अ' और दूसरे का आरम्भिक 'उ' मिलकर 'ओ' बनते हैं: उत्तम + उत्तमम् → उत्तमोत्तमम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the s of the next word (stavam): uttamottamam → uttamottamaṃ. Between nityam, evam and uktam the m simply runs on to the next vowel.",
+              "hi": "अगले शब्द (स्तवम्) के 'स' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: उत्तमोत्तमम् → उत्तमोत्तमं। नित्यम्, एवम् और उक्तम् के बीच 'म्' बस अगले स्वर से जुड़ जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नित्यम्",
+            "iast": "nityam",
+            "pos": "indeclinable",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नित्य",
+              "iast": "nitya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nitya",
+              "gloss": "continual, perpetual, eternal"
+            },
+            "meaning": {
+              "en": "regularly, every day",
+              "hi": "नियम से, प्रतिदिन"
+            }
+          },
+          {
+            "sa": "एवम्",
+            "iast": "evam",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "evam",
+              "gloss": "thus, in this way, in such a manner"
+            },
+            "meaning": {
+              "en": "thus, in this way",
+              "hi": "इस प्रकार"
+            }
+          },
+          {
+            "sa": "उक्त",
+            "iast": "ukta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वच्",
+              "iast": "vac",
+              "gana": 2,
+              "gloss": {
+                "en": "to speak, to say",
+                "hi": "बोलना, कहना"
+              }
+            },
+            "formation": "√vac + kta (past passive participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "ukta",
+              "gloss": "uttered, said, spoken"
+            },
+            "meaning": {
+              "en": "said, spoken",
+              "hi": "कहा गया"
+            }
+          },
+          {
+            "sa": "उत्तम",
+            "iast": "uttama",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "उत्तम",
+              "iast": "uttama"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "uttama",
+              "gloss": "best, excellent"
+            },
+            "meaning": {
+              "en": "best",
+              "hi": "उत्तम, श्रेष्ठ"
+            }
+          },
+          {
+            "sa": "उत्तम",
+            "iast": "uttama",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "उत्तम",
+              "iast": "uttama"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "uttamottama",
+              "gloss": "the best among the best, the very best"
+            },
+            "meaning": {
+              "en": "best (of the best)",
+              "hi": "(उत्तमों में) उत्तम"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "every day; thus set out; the very best",
+          "hi": "नित्य; इस प्रकार कहे गए; उत्तम से भी उत्तम"
+        },
+        "notes": {
+          "en": "Four words written as one: nityam 'regularly' (an adverb, with the reciting), evam uktam 'said in this way' and uttamottamam 'best of the best' (both describing stavam). vyakhya.org prints the line as नित्यमेव मुक्त…, which looks like eva + muktam, but its own padaccheda gives nityam + evam + uktam, and only that split leaves the m before u. shlokam.org takes nityam with 'said' ('eternally'); vyakhya.org and the Samskrit Academy take it with the reading ('daily').",
+          "hi": "चार शब्द एक साथ लिखे गए हैं: नित्यम् 'नियम से' (क्रिया-विशेषण, पाठ के साथ), एवम् उक्तम् 'इस प्रकार कहा गया' और उत्तमोत्तमम् 'उत्तमों में उत्तम' (दोनों 'स्तवम्' के विशेषण)। vyakhya.org पंक्ति को 'नित्यमेव मुक्त…' छापता है, जो एव + मुक्तम् जैसा लगता है, पर उसका अपना पदच्छेद नित्यम् + एवम् + उक्तम् देता है, और केवल यही विभाजन 'उ' से पहले 'म्' को समझाता है। shlokam.org 'नित्यम्' को 'कहा गया' से जोड़ता है (शाश्वत रूप से); vyakhya.org और संस्कृत अकादमी इसे पाठ से जोड़ते हैं (प्रतिदिन)।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "eternally declared (nityam with uktam)",
+              "hi": "सदा से कहा गया (नित्यम् को उक्तम् से जोड़कर)"
+            },
+            "note": "shlokam-shiva-tandava glosses नित्यम् as 'eternally'; vyakhya-sts-16 (नियमित रूप से) and sanskritdocuments-shivtand-meaning ('daily') attach it to the reciting."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-nitya",
+          "mw-evam",
+          "mw-ukta",
+          "mw-uttama",
+          "mw-uttamottama",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "स्तवम्",
+            "iast": "stavam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the p of the next word (paṭhan): stavam → stavaṃ.",
+              "hi": "अगले शब्द (पठन्) के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: स्तवम् → स्तवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्तव",
+            "iast": "stava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्तु",
+              "iast": "stu",
+              "gana": 2,
+              "gloss": {
+                "en": "to praise",
+                "hi": "स्तुति करना"
+              }
+            },
+            "formation": "√stu + ap (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "stava",
+              "gloss": "praise, eulogy, song of praise, hymn"
+            },
+            "meaning": {
+              "en": "hymn of praise",
+              "hi": "स्तुति, स्तोत्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "hymn",
+          "hi": "स्तोत्र"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-stava",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "पठन्",
+            "iast": "paṭhan"
+          }
+        ],
+        "components": [
+          {
+            "sa": "पठत्",
+            "iast": "paṭhat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पठ्",
+              "iast": "paṭh",
+              "gana": 1,
+              "gloss": {
+                "en": "to read aloud, to recite",
+                "hi": "पढ़ना, पाठ करना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "paṭh",
+              "gloss": "to read or repeat aloud, to recite"
+            },
+            "meaning": {
+              "en": "reading, reciting",
+              "hi": "पढ़ता हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(one who) reads",
+          "hi": "पाठ करने वाला"
+        },
+        "notes": {
+          "en": "Nominative singular masculine of paṭhat, describing naraḥ. Vidyut's split paṭha + n is not a word division; it is the participle stem paṭhat with its nominative ending.",
+          "hi": "पठत् का प्रथमा एकवचन पुंलिंग, 'नरः' का विशेषण। Vidyut का 'पठ + न्' विभाजन शब्द-विभाग नहीं है; यह कृदन्त पठत् का प्रथमा रूप है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-path",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "स्मरन्",
+            "iast": "smaran"
+          },
+          {
+            "sa": "ब्रुवन्",
+            "iast": "bruvan"
+          },
+          {
+            "sa": "नरः",
+            "iast": "naraḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "naraḥ ends in -aḥ, which becomes -o before the voiced v of the next word (viśuddhim): naraḥ → naro.",
+              "hi": "नरः का अन्तिम '-अः' आगे के घोष 'व' (विशुद्धिम्) के कारण '-ओ' बन जाता है: नरः → नरो।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्मरत्",
+            "iast": "smarat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्मृ",
+              "iast": "smṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to remember, to call to mind",
+                "hi": "स्मरण करना, याद करना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "smṛ",
+              "gloss": "to remember, recollect, bear in mind, call to mind"
+            },
+            "meaning": {
+              "en": "remembering",
+              "hi": "स्मरण करता हुआ"
+            }
+          },
+          {
+            "sa": "ब्रुवत्",
+            "iast": "bruvat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ब्रू",
+              "iast": "brū",
+              "gana": 2,
+              "gloss": {
+                "en": "to speak, to say",
+                "hi": "बोलना, कहना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "brū",
+              "gloss": "to speak, say, tell"
+            },
+            "meaning": {
+              "en": "speaking, reciting",
+              "hi": "बोलता हुआ"
+            }
+          },
+          {
+            "sa": "नर",
+            "iast": "nara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नर",
+              "iast": "nara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nara",
+              "gloss": "a man, a male, a person"
+            },
+            "meaning": {
+              "en": "a person",
+              "hi": "मनुष्य"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the person who remembers and recites",
+          "hi": "स्मरण और कथन करने वाला मनुष्य"
+        },
+        "notes": {
+          "en": "Three words: two more participles (smaran, bruvan) and their head naraḥ, the subject of eti. naraḥ here means anyone, a person, not specifically a male. bruvan + naraḥ just places n beside n, with no change.",
+          "hi": "तीन शब्द: दो और कृदन्त (स्मरन्, ब्रुवन्) और उनका विशेष्य 'नरः', जो 'एति' का कर्ता है। यहाँ 'नर' का अर्थ कोई भी व्यक्ति है, केवल पुरुष नहीं। ब्रुवन् + नरः में न् और न बिना बदले साथ आते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-smr",
+          "mw-bru",
+          "mw-nara",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "विशुद्धिम्",
+            "iast": "viśuddhim"
+          },
+          {
+            "sa": "एति",
+            "iast": "eti"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विशुद्धि",
+            "iast": "viśuddhi",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "शुध्",
+              "iast": "śudh",
+              "gana": 4,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to become pure",
+                "hi": "शुद्ध होना"
+              }
+            },
+            "formation": "vi + √śudh + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "viśuddhi",
+              "gloss": "complete purification, purity (also fig.)"
+            },
+            "meaning": {
+              "en": "complete purity",
+              "hi": "पूर्ण शुद्धि"
+            }
+          },
+          {
+            "sa": "एति",
+            "iast": "eti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "इ",
+              "iast": "i",
+              "gana": 2,
+              "gloss": {
+                "en": "to go",
+                "hi": "जाना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "i",
+              "gloss": "to go, walk"
+            },
+            "meaning": {
+              "en": "goes to, attains",
+              "hi": "प्राप्त होता है"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "attains purity",
+          "hi": "विशुद्धि को प्राप्त होता है"
+        },
+        "literal": {
+          "en": "goes to purity",
+          "hi": "शुद्धि तक जाता है"
+        },
+        "notes": {
+          "en": "viśuddhim (accusative) + eti, the present of √i 'to go'; the m simply joins the vowel. Vidyut also offers viśuddhi + meti, which yields no word.",
+          "hi": "विशुद्धिम् (द्वितीया) + एति, √इ (जाना) का वर्तमान; 'म्' बस स्वर से जुड़ जाता है। Vidyut 'विशुद्धि + मेति' भी सुझाता है, जिससे कोई शब्द नहीं बनता।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vishuddhi",
+          "mw-i",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "सन्ततम्",
+            "iast": "santatam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सन्ततम्",
+            "iast": "santatam",
+            "pos": "indeclinable",
+            "root": {
+              "kind": "dhatu",
+              "sa": "तन्",
+              "iast": "tan",
+              "gana": 8,
+              "prefixes": [
+                "sam"
+              ],
+              "gloss": {
+                "en": "to stretch, to extend",
+                "hi": "फैलाना, तानना"
+              }
+            },
+            "formation": "sam + √tan + kta, used adverbially",
+            "sense": {
+              "dict": "mw",
+              "headword": "saṃtatam",
+              "gloss": "continually, uninterruptedly, incessantly"
+            },
+            "meaning": {
+              "en": "continually, without a break",
+              "hi": "निरन्तर, सदा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "lastingly, without interruption",
+          "hi": "निरन्तर"
+        },
+        "notes": {
+          "en": "Literally 'stretched together', hence unbroken. The dictionary spells it saṃtatam; the text writes the nasal as न्त.",
+          "hi": "शाब्दिक अर्थ 'साथ तना हुआ', इसलिए अटूट। कोश में 'संततम्' है; पाठ नासिक्य को 'न्त' लिखता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-samtatam",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "हरे",
+            "iast": "hare"
+          }
+        ],
+        "components": [
+          {
+            "sa": "हर",
+            "iast": "hara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हृ",
+              "iast": "hṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to take away, to seize",
+                "hi": "हरना, ले लेना"
+              }
+            },
+            "formation": "√hṛ + ac (agent noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "hara",
+              "gloss": "‘Seizer’, ‘Destroyer’, N. of Śiva"
+            },
+            "meaning": {
+              "en": "Hara, the one who takes away (Śiva)",
+              "hi": "हर, हर लेने वाले (शिव)"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to Hara (Śiva)",
+          "hi": "हर (शिव) में"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Locative singular: the one in whom devotion is placed. Hara, 'the remover', is a name of Śiva.",
+          "hi": "सप्तमी एकवचन: जिसमें भक्ति रखी जाती है। 'हर' (हर लेने वाले) शिव का नाम है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-hara",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "गुरौ",
+            "iast": "gurau"
+          }
+        ],
+        "components": [
+          {
+            "sa": "गुरु",
+            "iast": "guru",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गुरु",
+              "iast": "guru"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "guru",
+              "gloss": "a spiritual parent or preceptor"
+            },
+            "meaning": {
+              "en": "teacher, guru",
+              "hi": "गुरु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the Guru (Hara himself)",
+          "hi": "गुरु-स्वरूप (स्वयं हर)"
+        },
+        "notes": {
+          "en": "Locative like hare and taken in apposition to it: Hara who is the Guru, as vyakhya.org and the Samskrit Academy translation read it.",
+          "hi": "'हरे' की तरह सप्तमी, और उसी का समानाधिकरण: हर, जो गुरु हैं, जैसा vyakhya.org और संस्कृत अकादमी का अनुवाद समझते हैं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "and in the (human) teacher",
+              "hi": "और गुरु (आचार्य) में"
+            },
+            "note": "shlokam-shiva-tandava glosses हरे 'to Shiva' and गुरौ 'to the teacher' separately, which allows two objects of devotion."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-guru",
+          "vyakhya-sts-16",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w11": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "सु",
+            "iast": "su"
+          },
+          {
+            "sa": "भक्तिम्",
+            "iast": "bhaktim"
+          },
+          {
+            "sa": "आशु",
+            "iast": "āśu"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सु",
+            "iast": "su",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "good, well, fully",
+              "hi": "अच्छी, भली-भाँति"
+            }
+          },
+          {
+            "sa": "भक्ति",
+            "iast": "bhakti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to share in, to be devoted to",
+                "hi": "भजना, सेवा करना"
+              }
+            },
+            "formation": "√bhaj + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhakti",
+              "gloss": "attachment, devotion, fondness for, devotion to (with loc.)"
+            },
+            "meaning": {
+              "en": "devotion",
+              "hi": "भक्ति"
+            }
+          },
+          {
+            "sa": "आशु",
+            "iast": "āśu",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "āśu",
+              "gloss": "quickly, quick, immediately, directly"
+            },
+            "meaning": {
+              "en": "quickly",
+              "hi": "शीघ्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "deep devotion, quickly",
+          "hi": "शीघ्र ही उत्तम भक्ति"
+        },
+        "notes": {
+          "en": "Two words: subhaktim (accusative, object of yāti) and the adverb āśu 'quickly'. bhakti takes the one it is directed to in the locative, which is why hare gurau stand in the locative.",
+          "hi": "दो शब्द: सुभक्तिम् (द्वितीया, 'याति' का कर्म) और क्रिया-विशेषण आशु (शीघ्र)। जिसके प्रति भक्ति होती है वह सप्तमी में आता है, इसलिए 'हरे गुरौ' सप्तमी में हैं।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-subhakti",
+          "mw-bhakti",
+          "mw-ashu",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w12": {
+        "padaccheda": [
+          {
+            "sa": "याति",
+            "iast": "yāti"
+          }
+        ],
+        "components": [
+          {
+            "sa": "याति",
+            "iast": "yāti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "या",
+              "iast": "yā",
+              "gana": 2,
+              "gloss": {
+                "en": "to go, to reach",
+                "hi": "जाना, पहुँचना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "yā",
+              "gloss": "to go towards or against, go or come to, enter, approach, arrive at, reach"
+            },
+            "meaning": {
+              "en": "goes to, attains",
+              "hi": "पाता है, पहुँचता है"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "gains",
+          "hi": "पाता है"
+        },
+        "literal": {
+          "en": "goes (to)",
+          "hi": "जाता है"
+        },
+        "notes": {
+          "en": "Present, third person singular of √yā; its subject is still naraḥ. With an abstract noun as object, 'going to' means attaining a state.",
+          "hi": "√या का वर्तमान, प्रथम पुरुष एकवचन; कर्ता अब भी 'नरः' है। भाववाचक कर्म के साथ 'जाना' का अर्थ किसी दशा को पाना है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-ya",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w13": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          },
+          {
+            "sa": "अन्यथा",
+            "iast": "anyathā"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The a of na and the initial a of anyathā merge into long ā: na + anyathā → nānyathā. Some witnesses mark the lost vowel with an avagraha (नाऽन्यथा).",
+              "hi": "न का 'अ' और अन्यथा का आरम्भिक 'अ' मिलकर दीर्घ 'आ' बनते हैं: न + अन्यथा → नान्यथा। कुछ प्रतियाँ इसे अवग्रह से दिखाती हैं (नाऽन्यथा)।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "na",
+              "gloss": "not, no"
+            },
+            "meaning": {
+              "en": "not",
+              "hi": "नहीं"
+            }
+          },
+          {
+            "sa": "अन्यथा",
+            "iast": "anyathā",
+            "pos": "indeclinable",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्य",
+              "iast": "anya"
+            },
+            "formation": "anya + thāl (adverb of manner)",
+            "sense": {
+              "dict": "mw",
+              "headword": "anyathā",
+              "gloss": "otherwise, in a different manner"
+            },
+            "meaning": {
+              "en": "otherwise, differently",
+              "hi": "अन्य प्रकार से"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to no other",
+          "hi": "किसी अन्य (को) नहीं"
+        },
+        "literal": {
+          "en": "not otherwise",
+          "hi": "अन्यथा नहीं"
+        },
+        "notes": {
+          "en": "Vidyut's split nān + yathā is not possible here; the words are na 'not' and anyathā 'otherwise'.",
+          "hi": "Vidyut का 'नान् + यथा' विभाजन यहाँ सम्भव नहीं; शब्द हैं न (नहीं) और अन्यथा (अन्य प्रकार से)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "mw-anyatha",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w14": {
+        "padaccheda": [
+          {
+            "sa": "गतिम्",
+            "iast": "gatim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the v of the next word (vimohanam): gatim → gatiṃ.",
+              "hi": "अगले शब्द (विमोहनम्) के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: गतिम् → गतिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "गति",
+            "iast": "gati",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "गम्",
+              "iast": "gam",
+              "gana": 1,
+              "gloss": {
+                "en": "to go",
+                "hi": "जाना"
+              }
+            },
+            "formation": "√gam + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "gati",
+              "gloss": "state, condition, situation, mode of existence"
+            },
+            "meaning": {
+              "en": "end, destination, state",
+              "hi": "गति, परिणाम, दशा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "end, destiny",
+          "hi": "गति, परिणाम"
+        },
+        "notes": {
+          "en": "A second object of yāti, negated by na: he gains devotion and goes to no other end (vyakhya.org's anvaya repeats the verb in brackets for this clause).",
+          "hi": "'याति' का दूसरा कर्म, जिसे 'न' नकारता है: वह भक्ति पाता है और किसी अन्य गति को नहीं जाता (vyakhya.org का अन्वय इस वाक्यांश के लिए क्रिया को कोष्ठक में दोहराता है)।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "path, means (no other way to this devotion)",
+              "hi": "मार्ग, साधन (इस भक्ति का दूसरा मार्ग नहीं)"
+            },
+            "note": "sanskritdocuments-shivtand-meaning takes it as the only path to this devotion; shlokam-shiva-tandava glosses gatim as 'path'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-gati",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w15": {
+        "padaccheda": [
+          {
+            "sa": "विमोहनम्",
+            "iast": "vimohanam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the h of the next word (hi): vimohanam → vimohanaṃ.",
+              "hi": "अगले शब्द (हि) के 'ह' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: विमोहनम् → विमोहनं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "विमोहन",
+            "iast": "vimohana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मुह्",
+              "iast": "muh",
+              "gana": 4,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to be bewildered, deluded",
+                "hi": "मोहित होना"
+              }
+            },
+            "formation": "vi + √muh (causative) + lyuṭ (action noun in -ana)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vimohana",
+              "gloss": "confusion, perplexity"
+            },
+            "meaning": {
+              "en": "(here) undoing of delusion",
+              "hi": "(यहाँ) मोह का निवारण"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "release from delusion",
+          "hi": "मोह-निवारण"
+        },
+        "literal": {
+          "en": "bewildering, confusion",
+          "hi": "मोहित करना, भ्रम"
+        },
+        "notes": {
+          "en": "The dictionary sense is confusion or bewildering; every commentary consulted takes vi- as reversing moha here, 'removal of delusion'. Following vyakhya.org's anvaya it is the object of a supplied karoti.",
+          "hi": "कोश का अर्थ 'भ्रम' या 'भ्रमित करना' है; देखी गई सभी टीकाएँ यहाँ 'वि' को मोह का उलटा मानती हैं: 'मोह को दूर करना'। vyakhya.org के अन्वय के अनुसार यह अध्याहृत 'करोति' का कर्म है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-vimohana",
+          "mw-muh",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w16": {
+        "padaccheda": [
+          {
+            "sa": "हि",
+            "iast": "hi"
+          }
+        ],
+        "components": [
+          {
+            "sa": "हि",
+            "iast": "hi",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "hi",
+              "gloss": "for, because, on account of"
+            },
+            "meaning": {
+              "en": "for, because",
+              "hi": "क्योंकि"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "for",
+          "hi": "क्योंकि"
+        },
+        "notes": {
+          "en": "Gives the reason for the promises of the first three lines.",
+          "hi": "पहली तीन पंक्तियों में कहे फलों का कारण बताता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-hi",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w17": {
+        "padaccheda": [
+          {
+            "sa": "देहिनाम्",
+            "iast": "dehinām"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the s of the next word (suśaṅkarasya): dehinām → dehināṃ.",
+              "hi": "अगले शब्द (सुशङ्करस्य) के 'स' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: देहिनाम् → देहिनां।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "देहिन्",
+            "iast": "dehin",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "देह",
+              "iast": "deha"
+            },
+            "formation": "deha + ini (possessive: 'having a body')",
+            "sense": {
+              "dict": "mw",
+              "headword": "dehin",
+              "gloss": "a living creature, man"
+            },
+            "meaning": {
+              "en": "embodied being",
+              "hi": "देहधारी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of embodied beings",
+          "hi": "देहधारियों का"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dehin",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w18": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "सु",
+            "iast": "su"
+          },
+          {
+            "sa": "शङ्करस्य",
+            "iast": "śaṅkarasya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सु",
+            "iast": "su",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "good, gracious (reverential)",
+              "hi": "शुभ, श्री (आदरसूचक)"
+            }
+          },
+          {
+            "sa": "शङ्कर",
+            "iast": "śaṅkara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृ",
+              "iast": "kṛ",
+              "gana": 8,
+              "gloss": {
+                "en": "to make, to do",
+                "hi": "करना"
+              }
+            },
+            "formation": "śam ('welfare') + √kṛ + ṭa (upapada: 'maker of welfare')",
+            "sense": {
+              "dict": "mw",
+              "headword": "śaṃkara",
+              "gloss": "causing prosperity, auspicious, beneficent; N. of Rudra or Śiva"
+            },
+            "meaning": {
+              "en": "Śaṅkara, the bringer of welfare (Śiva)",
+              "hi": "शंकर, कल्याण करने वाले (शिव)"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of the gracious Śaṅkara",
+          "hi": "मंगलमय शंकर का"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Genitive singular, depending on cintanam: the thinking of Śaṅkara, i.e. thinking about him.",
+          "hi": "षष्ठी एकवचन, 'चिन्तनम्' से जुड़ा: शंकर का चिन्तन, अर्थात् उनके विषय में मनन।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shamkara",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w19": {
+        "padaccheda": [
+          {
+            "sa": "चिन्तनम्",
+            "iast": "cintanam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "चिन्तन",
+            "iast": "cintana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "चिन्त्",
+              "iast": "cint",
+              "gana": 10,
+              "gloss": {
+                "en": "to think, to reflect upon",
+                "hi": "सोचना, मनन करना"
+              }
+            },
+            "formation": "√cint + lyuṭ (action noun in -ana)",
+            "sense": {
+              "dict": "mw",
+              "headword": "cintana",
+              "gloss": "thinking, thinking of, reflecting upon"
+            },
+            "meaning": {
+              "en": "contemplation, thinking of",
+              "hi": "चिन्तन, मनन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "contemplating, thinking of",
+          "hi": "चिन्तन"
+        },
+        "notes": {
+          "en": "Nominative singular neuter, the subject of the supplied karoti.",
+          "hi": "प्रथमा एकवचन नपुंसकलिंग, अध्याहृत 'करोति' का कर्ता।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-cintana",
+          "mw-cint",
+          "vyakhya-sts-16",
+          "shlokam-shiva-tandava"
+        ]
+      }
+    }
+  }
+}

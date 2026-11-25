@@ -1,0 +1,140 @@
+{
+  "_comment": "Meter definitions for check T3.1 (docs/QUALITY_CHECKS.md). Varṇa-vṛtta patterns are per pāda, L = laghu, G = guru; the last syllable of a pāda is free (pādānta). Patterns drafted from the standard gaṇa definitions (Vṛttaratnākara); a human should confirm each against a printed source before relying on it. We keep our own list because tool meter tables can differ (Vidyut 0.4 lists pañcacāmara with 12 syllables; the classical definition ja-ra-ja-ra-ja-ga has 16).",
+  "meters": {
+    "pancacamara": {
+      "name": "pañcacāmara",
+      "kind": "vrtta",
+      "ganas": "ja ra ja ra ja ga",
+      "pattern": "LGLGLGLGLGLGLGLG"
+    },
+    "bhujangaprayata": {
+      "name": "bhujaṅgaprayāta",
+      "kind": "vrtta",
+      "ganas": "ya ya ya ya",
+      "pattern": "LGGLGGLGGLGG"
+    },
+    "totaka": {
+      "name": "toṭaka",
+      "kind": "vrtta",
+      "ganas": "sa sa sa sa",
+      "pattern": "LLGLLGLLGLLG"
+    },
+    "pramanika": {
+      "name": "pramāṇikā",
+      "kind": "vrtta",
+      "ganas": "ja ra la ga",
+      "pattern": "LGLGLGLG"
+    },
+    "indravajra": {
+      "name": "indravajrā",
+      "kind": "vrtta",
+      "ganas": "ta ta ja ga ga",
+      "pattern": "GGLGGLLGLGG"
+    },
+    "upendravajra": {
+      "name": "upendravajrā",
+      "kind": "vrtta",
+      "ganas": "ja ta ja ga ga",
+      "pattern": "LGLGGLLGLGG"
+    },
+    "upajati": {
+      "name": "upajāti",
+      "kind": "vrtta",
+      "note": "Each pāda is indravajrā or upendravajrā.",
+      "patterns": [
+        "GGLGGLLGLGG",
+        "LGLGGLLGLGG"
+      ]
+    },
+    "vasantatilaka": {
+      "name": "vasantatilakā",
+      "kind": "vrtta",
+      "ganas": "ta bha ja ja ga ga",
+      "pattern": "GGLGLLLGLLGLGG"
+    },
+    "vasantatilaka-refrain": {
+      "name": "vasantatilakā (with an 11-syllable refrain)",
+      "kind": "vrtta",
+      "note": "Three vasantatilakā pādas and a closing refrain pāda of 11 syllables in indravajrā (Śivapañcākṣara v2: the refrain तस्मै मकाराय नमः शिवाय keeps the hymn's shared refrain, so the verse leaves vasantatilakā in its last pāda).",
+      "pada_patterns": [
+        "GGLGLLLGLLGLGG",
+        "GGLGLLLGLLGLGG",
+        "GGLGLLLGLLGLGG",
+        "GGLGGLLGLGG"
+      ]
+    },
+    "malini": {
+      "name": "mālinī",
+      "kind": "vrtta",
+      "ganas": "na na ma ya ya",
+      "pattern": "LLLLLLGGGLGGLGG"
+    },
+    "shikharini": {
+      "name": "śikhariṇī",
+      "kind": "vrtta",
+      "ganas": "ya ma na sa bha la ga",
+      "pattern": "LGGGGGLLLLLGGLLLG"
+    },
+    "mandakranta": {
+      "name": "mandākrāntā",
+      "kind": "vrtta",
+      "ganas": "ma bha na ta ta ga ga",
+      "pattern": "GGGGLLLLLGGLGGLGG"
+    },
+    "shardulavikridita": {
+      "name": "śārdūlavikrīḍita",
+      "kind": "vrtta",
+      "ganas": "ma sa ja sa ta ta ga",
+      "pattern": "GGGLLGLGLLLGGGLGGLG"
+    },
+    "sragdhara": {
+      "name": "sragdharā",
+      "kind": "vrtta",
+      "ganas": "ma ra bha na ya ya ya",
+      "pattern": "GGGGLGGLLLLLLGGLGGLGG"
+    },
+    "anushtubh": {
+      "name": "anuṣṭubh (pathyā)",
+      "kind": "anushtubh",
+      "syllables": 8,
+      "note": "Per pāda: 8 syllables; 5th laghu, 6th guru in every pāda; 7th guru in odd pādas and laghu in even pādas. Vipulā variants are reported as warnings, not failures."
+    },
+    "doha": {
+      "name": "dohā",
+      "kind": "matra",
+      "caranas": [
+        13,
+        11,
+        13,
+        11
+      ]
+    },
+    "soratha": {
+      "name": "soraṭhā",
+      "kind": "matra",
+      "caranas": [
+        11,
+        13,
+        11,
+        13
+      ]
+    },
+    "chaupai": {
+      "name": "caupāī",
+      "kind": "matra",
+      "caranas": [
+        16,
+        16,
+        16,
+        16
+      ]
+    },
+    "tunaka": {
+      "name": "tūṇaka",
+      "kind": "vrtta",
+      "ganas": "ra ja ra ja ra",
+      "pattern": "GLGLGLGLGLGLGLG",
+      "note": "15 syllables, strict guru-laghu alternation (Kālabhairavāṣṭakam). Often mislabelled pañcacāmara online (that is 16, starting laghu). Name not yet confirmed against a printed prosody."
+    }
+  }
+}

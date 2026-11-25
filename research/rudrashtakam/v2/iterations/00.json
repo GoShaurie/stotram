@@ -1,0 +1,2242 @@
+{
+  "before": {
+    "verse": {
+      "id": "v2",
+      "number": 2,
+      "kind": "verse",
+      "concepts": [
+        "nirguna-shiva",
+        "mahakala"
+      ],
+      "lines": [
+        {
+          "words": [
+            {
+              "id": "w1",
+              "text": "निराकारमोङ्कारमूलं",
+              "iast": "nirākāramoṅkāramūlaṃ"
+            },
+            {
+              "id": "w2",
+              "text": "तुरीयं",
+              "iast": "turīyaṃ"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w3",
+              "text": "गिराज्ञानगोतीतमीशं",
+              "iast": "girājñānagotītamīśaṃ"
+            },
+            {
+              "id": "w4",
+              "text": "गिरीशम्",
+              "iast": "girīśam"
+            }
+          ],
+          "end": "।"
+        },
+        {
+          "words": [
+            {
+              "id": "w5",
+              "text": "करालं",
+              "iast": "karālaṃ"
+            },
+            {
+              "id": "w6",
+              "text": "महाकालकालं",
+              "iast": "mahākālakālaṃ"
+            },
+            {
+              "id": "w7",
+              "text": "कृपालं",
+              "iast": "kṛpālaṃ"
+            }
+          ],
+          "end": ""
+        },
+        {
+          "words": [
+            {
+              "id": "w8",
+              "text": "गुणागारसंसारपारं",
+              "iast": "guṇāgārasaṃsārapāraṃ"
+            },
+            {
+              "id": "w9",
+              "text": "नतोऽहम्",
+              "iast": "nato'ham"
+            }
+          ],
+          "end": "॥ २ ॥"
+        }
+      ],
+      "compounds": {
+        "c1": {
+          "members": [
+            "w1"
+          ],
+          "iast": "nir-ākāram",
+          "type": "bahuvrīhi",
+          "subtype": "prādi-bahuvrīhi",
+          "vigraha": "निर्गतः आकारः यस्मात् सः, तम्",
+          "meaning": {
+            "en": "(Him) from whom all form has gone",
+            "hi": "(उन्हें) जिनका कोई आकार नहीं"
+          },
+          "note": {
+            "en": "nis 'without' + ākāra 'form, shape': one who has no form. The s of nis becomes r before the vowel. It describes the Lord (īśam) and takes his masculine accusative ending.",
+            "hi": "निस् 'रहित' + आकार 'रूप': जिसका कोई रूप नहीं। स्वर से पहले निस् का स् र् बन जाता है। यह ईशम् का विशेषण है, इसलिए उसी की तरह पुंलिंग द्वितीया में है।"
+          }
+        },
+        "c2": {
+          "members": [
+            "w1"
+          ],
+          "iast": "oṅkāra-mūlam",
+          "type": "tatpuruṣa",
+          "subtype": "ṣaṣṭhī-tatpuruṣa",
+          "vigraha": "ओङ्कारस्य मूलम्",
+          "meaning": {
+            "en": "the root of the syllable Om",
+            "hi": "ओंकार का मूल"
+          },
+          "note": {
+            "en": "oṅkāra 'the syllable Om' + mūla 'root, source': 'the root of Om'. A noun phrase, so it keeps the gender of mūla and stands beside īśam in the same case.",
+            "hi": "ओङ्कार 'ॐ अक्षर' + मूल 'जड़, स्रोत': 'ओंकार का मूल'। यह संज्ञा है, इसलिए मूल का लिंग रखता है और ईशम् के साथ उसी विभक्ति में है।"
+          }
+        },
+        "c3": {
+          "members": [
+            "w3"
+          ],
+          "iast": "girā-jñāna-go-atītam",
+          "type": "tatpuruṣa",
+          "subtype": "dvitīyā-tatpuruṣa",
+          "structure": "((girā-jñāna-go)-atīta)",
+          "vigraha": "गिरा च ज्ञानं च गावः च गिराज्ञानगावः, ताः अतीतः, तम्",
+          "meaning": {
+            "en": "(Him) who has gone beyond speech, knowledge and the senses",
+            "hi": "(उन्हें) जो वाणी, ज्ञान और इन्द्रियों से परे हैं"
+          },
+          "note": {
+            "en": "girā-jñāna-go is a dvandva, 'speech, knowledge and the senses'; atīta 'gone beyond' takes what is passed in the accusative, so the whole is a dvitīyā tatpuruṣa. go + atīta joins as gotīta (the a after o is dropped).",
+            "hi": "गिरा-ज्ञान-गो द्वन्द्व है, 'वाणी, ज्ञान और इन्द्रियाँ'; अतीत 'पार गया हुआ' जिसे पार करता है उसे द्वितीया में लेता है, इसलिए पूरा समास द्वितीया तत्पुरुष है। गो + अतीत मिलकर गोतीत बनता है (ओ के बाद का अ लुप्त)।"
+          }
+        },
+        "c4": {
+          "members": [
+            "w4"
+          ],
+          "iast": "giri-īśam",
+          "type": "tatpuruṣa",
+          "subtype": "ṣaṣṭhī-tatpuruṣa",
+          "vigraha": "गिरेः ईशः, तम्",
+          "meaning": {
+            "en": "the Lord of the mountain",
+            "hi": "पर्वत के स्वामी"
+          },
+          "note": {
+            "en": "giri 'mountain' + īśa 'lord'; i + ī merge into ī. A familiar name of Śiva, lord of Kailāsa.",
+            "hi": "गिरि 'पर्वत' + ईश 'स्वामी'; इ + ई मिलकर ई। शिव का प्रसिद्ध नाम, कैलास के स्वामी।"
+          }
+        },
+        "c5": {
+          "members": [
+            "w6"
+          ],
+          "iast": "mahā-kāla-kālam",
+          "type": "tatpuruṣa",
+          "subtype": "ṣaṣṭhī-tatpuruṣa",
+          "structure": "((mahā-kāla)-kāla)",
+          "vigraha": "महान् कालः महाकालः, तस्य कालः, तम्",
+          "meaning": {
+            "en": "the Death even of Mahākāla, great Death",
+            "hi": "महाकाल के भी काल"
+          },
+          "note": {
+            "en": "mahā-kāla 'great Time' is a karmadhāraya (mahat becomes mahā at the start of a compound); with a second kāla it forms a ṣaṣṭhī tatpuruṣa, 'the kāla (ender) of Mahākāla'.",
+            "hi": "महा-काल 'महान् काल' कर्मधारय है (समास के आरम्भ में महत् महा बन जाता है); दूसरे काल के साथ यह षष्ठी तत्पुरुष बनता है: 'महाकाल का काल (अन्त करने वाला)'।"
+          }
+        },
+        "c6": {
+          "members": [
+            "w8"
+          ],
+          "iast": "guṇa-āgāra-saṃsāra-pāram",
+          "type": "karmadhāraya",
+          "subtype": "viśeṣaṇobhayapada",
+          "structure": "((guṇa-āgāra)-(saṃsāra-pāra))",
+          "vigraha": "गुणानाम् आगारः गुणागारः, संसारस्य पारः संसारपारः; गुणागारः च असौ संसारपारः च, तम्",
+          "meaning": {
+            "en": "(Him) who is the home of virtues and the far shore of worldly life",
+            "hi": "(उन्हें) जो गुणों के धाम और संसार के पार हैं"
+          },
+          "note": {
+            "en": "Two ṣaṣṭhī tatpuruṣas, guṇa-āgāra 'house of virtues' and saṃsāra-pāra 'far shore of saṃsāra', joined as two descriptions of one person. The whole can also be read as one chain, (guṇa-āgāra-saṃsāra)-pāra, 'the far shore of saṃsāra, which is a house of the guṇas'; see the alternative on w8.",
+            "hi": "दो षष्ठी तत्पुरुष, गुण-आगार 'गुणों का घर' और संसार-पार 'संसार का उस पार का किनारा', एक ही व्यक्ति के दो विशेषणों की तरह जुड़े हैं। पूरे समास को एक शृंखला भी पढ़ा जा सकता है, (गुण-आगार-संसार)-पार, 'गुणों के घर रूपी संसार का पार'; w8 का विकल्प देखें।"
+          }
+        }
+      },
+      "padas": [
+        {
+          "id": "p1",
+          "words": [
+            "w1"
+          ],
+          "sa": "निराकारम्",
+          "iast": "nirākāram",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "निराकार",
+              "iast": "nirākāra"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "viśeṣaṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p2",
+          "words": [
+            "w1"
+          ],
+          "sa": "ओङ्कारमूलम्",
+          "iast": "oṅkāramūlam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "ओङ्कारमूल",
+              "iast": "oṅkāramūla"
+            },
+            "gender": "neuter",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p3",
+          "words": [
+            "w2"
+          ],
+          "sa": "तुरीयम्",
+          "iast": "turīyam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "तुरीय",
+              "iast": "turīya"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "viśeṣaṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p4",
+          "words": [
+            "w3"
+          ],
+          "sa": "गिराज्ञानगोतीतम्",
+          "iast": "girājñānagotītam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "गिराज्ञानगोतीत",
+              "iast": "girājñānagotīta"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "viśeṣaṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p5",
+          "words": [
+            "w3"
+          ],
+          "sa": "ईशम्",
+          "iast": "īśam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "ईश",
+              "iast": "īśa"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "karma",
+          "head": "p11"
+        },
+        {
+          "id": "p6",
+          "words": [
+            "w4"
+          ],
+          "sa": "गिरीशम्",
+          "iast": "girīśam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "गिरीश",
+              "iast": "girīśa"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p7",
+          "words": [
+            "w5"
+          ],
+          "sa": "करालम्",
+          "iast": "karālam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "कराल",
+              "iast": "karāla"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "viśeṣaṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p8",
+          "words": [
+            "w6"
+          ],
+          "sa": "महाकालकालम्",
+          "iast": "mahākālakālam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "महाकालकाल",
+              "iast": "mahākālakāla"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p9",
+          "words": [
+            "w7"
+          ],
+          "sa": "कृपालम्",
+          "iast": "kṛpālam",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "कृपाल",
+              "iast": "kṛpāla"
+            },
+            "gender": "masculine",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "viśeṣaṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p10",
+          "words": [
+            "w8"
+          ],
+          "sa": "गुणागारसंसारपारम्",
+          "iast": "guṇāgārasaṃsārapāram",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "गुणागारसंसारपार",
+              "iast": "guṇāgārasaṃsārapāra"
+            },
+            "gender": "neuter",
+            "case": "accusative",
+            "number": "singular"
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p5"
+        },
+        {
+          "id": "p11",
+          "words": [
+            "w9"
+          ],
+          "sa": "नतः",
+          "iast": "nataḥ",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "नत",
+              "iast": "nata"
+            },
+            "gender": "masculine",
+            "case": "nominative",
+            "number": "singular",
+            "krt": {
+              "dhatu": {
+                "sa": "नम्",
+                "iast": "nam",
+                "gana": 1
+              },
+              "prefixes": [],
+              "suffix": "kta"
+            }
+          },
+          "role": "samānādhikaraṇa",
+          "head": "p12"
+        },
+        {
+          "id": "p12",
+          "words": [
+            "w9"
+          ],
+          "sa": "अहम्",
+          "iast": "aham",
+          "morph": {
+            "type": "subanta",
+            "stem": {
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "case": "nominative",
+            "number": "singular"
+          },
+          "role": "kartā",
+          "head": "x1"
+        }
+      ],
+      "adhyahara": [
+        {
+          "id": "x1",
+          "sa": "अस्मि",
+          "iast": "asmi",
+          "morph": {
+            "type": "tinanta",
+            "dhatu": {
+              "sa": "अस्",
+              "iast": "as",
+              "gana": 2
+            },
+            "lakara": "laṭ",
+            "prayoga": "kartari",
+            "person": 1,
+            "number": "singular",
+            "pada": "parasmaipada"
+          },
+          "role": "kriyā",
+          "head": null,
+          "meaning": {
+            "en": "am",
+            "hi": "हूँ"
+          }
+        }
+      ],
+      "anvaya": [
+        "p12",
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "p5",
+        "p11",
+        "x1"
+      ],
+      "translations": {
+        "en": {
+          "lines": [
+            [
+              {
+                "refs": [
+                  "w1"
+                ],
+                "text": "To the formless one, the root of Om,"
+              },
+              {
+                "refs": [
+                  "w2"
+                ],
+                "text": "the Fourth,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w3"
+                ],
+                "text": "the Lord beyond speech, knowledge and the senses,"
+              },
+              {
+                "refs": [
+                  "w4"
+                ],
+                "text": "the Lord of the mountain,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w5"
+                ],
+                "text": "fearsome,"
+              },
+              {
+                "refs": [
+                  "w6"
+                ],
+                "text": "Death even to Mahākāla, great Death,"
+              },
+              {
+                "refs": [
+                  "w7"
+                ],
+                "text": "full of compassion,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w8"
+                ],
+                "text": "the home of virtues, beyond the world's round of birth and death,"
+              },
+              {
+                "refs": [
+                  "w9"
+                ],
+                "text": "I"
+              },
+              {
+                "refs": [
+                  "x1"
+                ],
+                "text": "am"
+              },
+              {
+                "refs": [
+                  "w9"
+                ],
+                "text": "bowed down."
+              }
+            ]
+          ],
+          "bhavartha": "The singer bows again, now to Śiva beyond every form. He has no shape, yet He is the root from which the sacred Om comes; He is the Fourth, beyond the three. Speech, knowledge and the senses cannot reach Him, yet He is Lord of the mountain. He is fearsome, the end even of great Death, and still full of compassion: the home of every virtue, standing beyond the world's round of birth and death."
+        },
+        "hi": {
+          "lines": [
+            [
+              {
+                "refs": [
+                  "w1"
+                ],
+                "text": "निराकार, ओंकार के मूल,"
+              },
+              {
+                "refs": [
+                  "w2"
+                ],
+                "text": "तुरीय (तीनों से परे),"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w3"
+                ],
+                "text": "वाणी, ज्ञान और इन्द्रियों से परे ईश्वर को,"
+              },
+              {
+                "refs": [
+                  "w4"
+                ],
+                "text": "कैलास के स्वामी,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w5"
+                ],
+                "text": "विकराल,"
+              },
+              {
+                "refs": [
+                  "w6"
+                ],
+                "text": "महाकाल के भी काल,"
+              },
+              {
+                "refs": [
+                  "w7"
+                ],
+                "text": "कृपालु,"
+              }
+            ],
+            [
+              {
+                "refs": [
+                  "w8"
+                ],
+                "text": "गुणों के धाम और संसार से परे,"
+              },
+              {
+                "refs": [
+                  "w9"
+                ],
+                "text": "मैं प्रणाम करता"
+              },
+              {
+                "refs": [
+                  "x1"
+                ],
+                "text": "हूँ।"
+              }
+            ]
+          ],
+          "bhavartha": "गायक फिर प्रणाम करता है, अब हर रूप से परे शिव को। उनका कोई आकार नहीं, फिर भी वे वह मूल हैं जिससे पवित्र ॐ निकलता है; वे तुरीय हैं, तीनों से परे चौथे। वाणी, ज्ञान और इन्द्रियाँ उन तक नहीं पहुँचतीं, फिर भी वे पर्वत के स्वामी हैं। वे विकराल हैं, महाकाल के भी काल, और फिर भी कृपा से भरे: हर सद्गुण के धाम, जन्म-मृत्यु के चक्र वाले संसार से परे।"
+        }
+      },
+      "annotations": [
+        {
+          "id": "a1",
+          "refs": [
+            "w1",
+            "w2"
+          ],
+          "kind": "theology",
+          "body": {
+            "en": "What lies behind everything, in two words. *Oṃkāra* is the sacred syllable Om, made of three sounds, *a*, *u* and *m*, and Śiva is its *mūla*, the root it grows from. The next word, *turīya*, simply means 'the fourth'. In the Upaniṣads it names a fourth state of the self, pure spirit beyond the other three; it is also read as beyond the three strands (*guṇa*) of nature. The formless Lord is where the sound begins, and what lies past every 'three'.",
+            "hi": "हर चीज़ के पीछे क्या है, दो शब्दों में। *ओंकार* पवित्र अक्षर ॐ है, जो तीन ध्वनियों, *अ*, *उ* और *म*, से बना है; और शिव उसका *मूल* हैं, वह जड़ जिससे वह उगता है। अगला शब्द *तुरीय* सीधे 'चौथा' है। उपनिषदों में यह आत्मा की चौथी अवस्था का नाम है, बाकी तीनों से परे शुद्ध चैतन्य; इसे प्रकृति के तीन गुणों से परे भी पढ़ा जाता है। निराकार प्रभु वह हैं जहाँ से ध्वनि शुरू होती है, और जो हर 'तीन' के पार हैं।"
+          },
+          "citations": [
+            {
+              "source": "mw-oMkAra",
+              "locator": "MW oṃ-kāra, p. 236",
+              "quote": "the sacred and mystical syllable om"
+            },
+            {
+              "source": "mw-om",
+              "locator": "MW om, p. 235",
+              "quote": "the three sounds a, u, m, of which it consists"
+            },
+            {
+              "source": "mw-mula",
+              "locator": "MW mūla, p. 826",
+              "quote": "basis, foundation, cause, origin"
+            },
+            {
+              "source": "mw-turiya",
+              "locator": "MW turīya, p. 451",
+              "quote": "the 4th state of spirit (pure impersonal Spirit or Brahma)"
+            },
+            {
+              "source": "gitapress-ramcharitmanas",
+              "locator": "Uttarakāṇḍa, stanza 2, Hindi translation",
+              "quote": "तुरीय (तीनों गुणोंसे अतीत)"
+            },
+            {
+              "source": "greenmesg-rudrashtakam",
+              "locator": "verse 2, meaning 2.1",
+              "quote": "the very Root from where the Sacred Omkara arises"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "id": "a2",
+          "refs": [
+            "w5",
+            "w6",
+            "w7"
+          ],
+          "kind": "theology",
+          "body": {
+            "en": "Two faces in one line. *Karāla* is the fearsome look of gaping jaws; *kṛpāla* is a heart full of mercy. Between them stands *mahākāla-kāla*. *Kāla* is time, which swallows everything, and Śiva as destroyer is called *Mahākāla*, Great Time. Here He is the *kāla* of even that: the Death of great Death. The story is set in Ujjain, home of the Mahākāla liṅga, where a teacher turns to this terrible Lord for mercy.",
+            "hi": "एक पंक्ति में दो रूप। *कराल* खुले जबड़ों वाला भयानक रूप है; *कृपाल* दया से भरा हृदय। दोनों के बीच है *महाकाल-काल*। *काल* समय है, जो सबको निगल जाता है, और संहार करने वाले शिव *महाकाल* कहलाते हैं। यहाँ वे उस महाकाल के भी काल हैं: महामृत्यु की भी मृत्यु। कथा उज्जैन की है, महाकाल लिंग की नगरी, जहाँ एक गुरु इसी भयंकर प्रभु से दया की विनती करते हैं।"
+          },
+          "citations": [
+            {
+              "source": "mw-karala",
+              "locator": "MW karāla, p. 255",
+              "quote": "having a gaping mouth and projecting teeth"
+            },
+            {
+              "source": "mw-krpalu",
+              "locator": "MW kṛpālu, p. 305",
+              "quote": "pitiful, compassionate"
+            },
+            {
+              "source": "mw-kala",
+              "locator": "MW 2. kāla, p. 278",
+              "quote": "time (in general)"
+            },
+            {
+              "source": "mw-mahakala",
+              "locator": "MW mahā-kāla, p. 795",
+              "quote": "a form of Śiva in his character of destroyer"
+            },
+            {
+              "source": "mw-mahakala",
+              "locator": "MW mahā-kāla (n.), p. 795",
+              "quote": "N. of a Liṅga in Ujjayinī"
+            },
+            {
+              "source": "gitapress-ramcharitmanas",
+              "locator": "Uttarakāṇḍa, stanza 2, Hindi translation",
+              "quote": "महाकालके भी काल"
+            },
+            {
+              "source": "sanskritdocuments-rudra8",
+              "locator": "verse 2, English meaning",
+              "quote": "the Devourer even of the great Time-Spirit"
+            },
+            {
+              "source": "ramcharitmanas-uttarakanda-104-108",
+              "locator": "Uttarakāṇḍa 104 (kha), caupāī 1 (Ujjain)"
+            },
+            {
+              "source": "ramcharitmanas-uttarakanda-104-108",
+              "locator": "Uttarakāṇḍa, dohā 107 (kha)",
+              "quote": "बिनय करत गदगद स्वर समुझि घोर गति मोरि"
+            }
+          ],
+          "confidence": "medium"
+        },
+        {
+          "id": "a3",
+          "refs": [
+            "w8"
+          ],
+          "kind": "theology",
+          "body": {
+            "en": "In verse 1 He was *nirguṇa*, without qualities ([verse 1](#v1-a3)); here He is *guṇāgāra*, a house of *guṇas*. Both hold, because *guṇa* has two senses. As 'virtue', He is the home of every good quality, and also the far shore (*pāra*) of *saṃsāra*, the endless round of birth and death. Read as one phrase, *guṇa* means the three strands of nature: the world is a house those strands build, and He is the shore beyond it.",
+            "hi": "पहले श्लोक में वे *निर्गुण* थे, गुणों से रहित ([पहला श्लोक](#v1-a3)); यहाँ वे *गुणागार* हैं, गुणों का घर। दोनों बातें सही हैं, क्योंकि *गुण* के दो अर्थ हैं। 'अच्छाई' के अर्थ में वे हर सद्गुण के धाम हैं, और *संसार*, यानी जन्म-मृत्यु के अन्तहीन चक्र, के उस *पार* का किनारा भी। पूरे शब्द को एक साथ पढ़ें तो *गुण* प्रकृति के तीन धागे हैं: संसार उन धागों से बना घर है, और वे उसके पार का किनारा।"
+          },
+          "citations": [
+            {
+              "source": "gitapress-ramcharitmanas",
+              "locator": "Uttarakāṇḍa, stanza 2, Hindi translation",
+              "quote": "गुणोंके धाम, संसारसे परे"
+            },
+            {
+              "source": "sanskritdocuments-rudra8",
+              "locator": "verse 2, English meaning",
+              "quote": "the abode of virtues"
+            },
+            {
+              "source": "greenmesg-rudrashtakam",
+              "locator": "verse 2, meaning 2.4",
+              "quote": "which is like a Dwelling Place made of Gunas"
+            },
+            {
+              "source": "mw-guna",
+              "locator": "MW guṇa, p. 357",
+              "quote": "good quality, virtue, merit, excellence"
+            },
+            {
+              "source": "mw-guna",
+              "locator": "MW guṇa, p. 357",
+              "quote": "chief quality of all existing beings"
+            },
+            {
+              "source": "mw-para",
+              "locator": "MW 1. pāra, p. 619",
+              "quote": "the further bank or shore"
+            },
+            {
+              "source": "mw-samsara",
+              "locator": "MW saṃ-sāra, p. 1119",
+              "quote": "circuit of mundane existence"
+            }
+          ],
+          "confidence": "medium"
+        }
+      ],
+      "words": {
+        "w1": {
+          "padaccheda": [
+            {
+              "sa": "निराकारम्",
+              "iast": "nirākāram"
+            },
+            {
+              "sa": "ओङ्कारमूलम्",
+              "iast": "oṅkāramūlam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "rutva",
+              "rule": "s + ā → r + ā",
+              "explanation": {
+                "en": "The s of nis becomes r before the vowel of ākāra: nis + ākāra → nirākāra.",
+                "hi": "आकार के स्वर से पहले निस् का स् र् बन जाता है: निस् + आकार → निराकार।"
+              }
+            },
+            {
+              "name": "anusvāra",
+              "rule": "m + consonant → ṃ",
+              "explanation": {
+                "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (turīyam): oṅkāramūlam → oṅkāramūlaṃ.",
+                "hi": "अगले शब्द (तुरीयम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: ओङ्कारमूलम् → ओङ्कारमूलं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "निस्",
+              "iast": "nis",
+              "pos": "indeclinable",
+              "meaning": {
+                "en": "without",
+                "hi": "रहित"
+              }
+            },
+            {
+              "sa": "आकार",
+              "iast": "ākāra",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "dhatu",
+                "sa": "कृ",
+                "iast": "kṛ",
+                "gana": 8,
+                "prefixes": [
+                  "ā"
+                ],
+                "gloss": {
+                  "en": "to make, to shape",
+                  "hi": "करना, बनाना"
+                }
+              },
+              "formation": "ā + √kṛ + ghañ (noun)",
+              "sense": {
+                "dict": "mw",
+                "headword": "ā-kāra",
+                "gloss": "form, figure, shape, stature, appearance"
+              },
+              "meaning": {
+                "en": "form",
+                "hi": "आकार"
+              }
+            },
+            {
+              "sa": "ओङ्कार",
+              "iast": "oṅkāra",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "ओङ्कार",
+                "iast": "oṅkāra"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "oṃkāra",
+                "gloss": "the sacred and mystical syllable om"
+              },
+              "meaning": {
+                "en": "Om",
+                "hi": "ओंकार"
+              }
+            },
+            {
+              "sa": "मूल",
+              "iast": "mūla",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "मूल",
+                "iast": "mūla"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "mūla",
+                "gloss": "basis, foundation, cause, origin"
+              },
+              "meaning": {
+                "en": "root",
+                "hi": "मूल"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "(Him, i.e. Śiva) who is formless, the root of Om",
+            "hi": "(उन शिव को) जो निराकार हैं, ओंकार के मूल"
+          },
+          "notes": {
+            "en": "Two padas in one display word: nirākāram 'formless' (describing īśam) and oṅkāramūlam 'the root of Om' (a noun beside it). The m of nirākāram simply joins the following vowel. The text spells the nasal as ङ (class nasal); most prints write the same word with anusvāra, मोंकार. Some online texts read मोङ्कर with a short a, which breaks the meter.",
+            "hi": "एक शब्द में दो पद: निराकारम् 'आकार-रहित' (ईशम् का विशेषण) और ओङ्कारमूलम् 'ओंकार का मूल' (उसके साथ संज्ञा)। निराकारम् का म् आगे के स्वर से बस जुड़ जाता है। पाठ में नासिक्य ङ लिखा है; अधिकतर मुद्रित पाठ यही शब्द अनुस्वार से मोंकार लिखते हैं। कुछ ऑनलाइन पाठों में ह्रस्व अ वाला मोङ्कर है, जिससे छन्द टूटता है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-nirakara",
+            "mw-akara",
+            "mw-oMkAra",
+            "mw-mula",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8",
+            "shlokam-rudrashtakam"
+          ]
+        },
+        "w2": {
+          "padaccheda": [
+            {
+              "sa": "तुरीयम्",
+              "iast": "turīyam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "anusvāra",
+              "rule": "m + consonant → ṃ",
+              "explanation": {
+                "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (girā…): turīyam → turīyaṃ.",
+                "hi": "अगले शब्द (गिरा…) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: तुरीयम् → तुरीयं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "तुरीय",
+              "iast": "turīya",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "तुरीय",
+                "iast": "turīya"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "turīya",
+                "gloss": "being in that state of soul"
+              },
+              "meaning": {
+                "en": "fourth",
+                "hi": "चौथा"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "(Him, i.e. Śiva) who is the Fourth, beyond the three",
+            "hi": "(उन शिव को) जो तुरीय हैं, तीनों से परे"
+          },
+          "literal": {
+            "en": "the fourth",
+            "hi": "चौथा"
+          },
+          "notes": {
+            "en": "turīya is the ordinal 'fourth', from catur 'four'. As a noun it is the fourth state of spirit; as an adjective, as here, 'being in that state'. It describes īśam.",
+            "hi": "तुरीय 'चौथा' है, चतुर् 'चार' से। संज्ञा के रूप में यह आत्मा की चौथी अवस्था है; विशेषण के रूप में, जैसे यहाँ, 'उस अवस्था में स्थित'। यह ईशम् का विशेषण है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-turiya",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8",
+            "greenmesg-rudrashtakam"
+          ]
+        },
+        "w3": {
+          "compound": "c3",
+          "padaccheda": [
+            {
+              "sa": "गिरा",
+              "iast": "girā"
+            },
+            {
+              "sa": "ज्ञान",
+              "iast": "jñāna"
+            },
+            {
+              "sa": "गो",
+              "iast": "go"
+            },
+            {
+              "sa": "अतीतम्",
+              "iast": "atītam"
+            },
+            {
+              "sa": "ईशम्",
+              "iast": "īśam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "pūrvarūpa",
+              "rule": "o + a → o",
+              "explanation": {
+                "en": "The a of atīta disappears after the o of go: go + atīta → gotīta.",
+                "hi": "गो के ओ के बाद अतीत का अ लुप्त हो जाता है: गो + अतीत → गोतीत।"
+              }
+            },
+            {
+              "name": "anusvāra",
+              "rule": "m + consonant → ṃ",
+              "explanation": {
+                "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (girīśam): īśam → īśaṃ.",
+                "hi": "अगले शब्द (गिरीशम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: ईशम् → ईशं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "गिरा",
+              "iast": "girā",
+              "pos": "noun",
+              "gender": "feminine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "गिरा",
+                "iast": "girā"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "gir",
+                "gloss": "speech, speaking, language, voice, words"
+              },
+              "meaning": {
+                "en": "speech",
+                "hi": "वाणी"
+              }
+            },
+            {
+              "sa": "ज्ञान",
+              "iast": "jñāna",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "dhatu",
+                "sa": "ज्ञा",
+                "iast": "jñā",
+                "gana": 9,
+                "gloss": {
+                  "en": "to know",
+                  "hi": "जानना"
+                }
+              },
+              "formation": "√jñā + lyuṭ (action noun)",
+              "sense": {
+                "dict": "mw",
+                "headword": "jñāna",
+                "gloss": "knowing, becoming acquainted with, knowledge"
+              },
+              "meaning": {
+                "en": "knowledge",
+                "hi": "ज्ञान"
+              }
+            },
+            {
+              "sa": "गो",
+              "iast": "go",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "गो",
+                "iast": "go"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "go",
+                "gloss": "an organ of sense"
+              },
+              "meaning": {
+                "en": "senses",
+                "hi": "इन्द्रियाँ"
+              }
+            },
+            {
+              "sa": "अतीत",
+              "iast": "atīta",
+              "pos": "participle",
+              "root": {
+                "kind": "dhatu",
+                "sa": "इ",
+                "iast": "i",
+                "gana": 2,
+                "prefixes": [
+                  "ati"
+                ],
+                "gloss": {
+                  "en": "to go beyond, to pass",
+                  "hi": "पार जाना"
+                }
+              },
+              "formation": "ati + √i + kta",
+              "sense": {
+                "dict": "mw",
+                "headword": "atīta",
+                "gloss": "one who has gone through or got over or beyond"
+              },
+              "meaning": {
+                "en": "beyond",
+                "hi": "परे"
+              }
+            },
+            {
+              "sa": "ईश",
+              "iast": "īśa",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "ईश",
+                "iast": "īśa"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "īśa",
+                "gloss": "a ruler, master, lord"
+              },
+              "meaning": {
+                "en": "Lord",
+                "hi": "ईश्वर"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "the Lord (Śiva), who is beyond speech, knowledge and the senses",
+            "hi": "वाणी, ज्ञान और इन्द्रियों से परे ईश्वर (शिव) को"
+          },
+          "literal": {
+            "en": "the Lord who has gone past speech, knowing and the sense organs",
+            "hi": "वाणी, ज्ञान और इन्द्रियों के पार गए हुए स्वामी को"
+          },
+          "aside": {
+            "en": "*Go* is the everyday word for a cow; here it has its other sense, the organs of sense.",
+            "hi": "*गो* का सामान्य अर्थ गाय है; यहाँ इसका दूसरा अर्थ है: इन्द्रियाँ।"
+          },
+          "notes": {
+            "en": "Two padas: the compound girājñānagotītam and īśam, 'the Lord', the noun every description in the verse qualifies and the object of the bow. girā is a feminine stem for 'speech' (beside gir). The Gita Press print spaces the words (गिरा ग्यान गोतीतमीशं) and spells ज्ञान the Avadhi way, ग्यान; the sense is the same.",
+            "hi": "दो पद: समास गिराज्ञानगोतीतम् और ईशम्, 'स्वामी', जिसके सब विशेषण इस श्लोक में हैं और जिसे प्रणाम किया जा रहा है। गिरा 'वाणी' का स्त्रीलिंग शब्द है (गिर् के साथ)। गीता प्रेस का पाठ शब्द अलग लिखता है (गिरा ग्यान गोतीतमीशं) और ज्ञान को अवधी ढंग से ग्यान लिखता है; अर्थ वही है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-gira",
+            "mw-gir",
+            "mw-jnana",
+            "mw-go",
+            "mw-atita",
+            "mw-isha",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8",
+            "shlokam-rudrashtakam"
+          ]
+        },
+        "w4": {
+          "compound": "c4",
+          "padaccheda": [
+            {
+              "sa": "गिरि",
+              "iast": "giri"
+            },
+            {
+              "sa": "ईशम्",
+              "iast": "īśam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "savarṇa-dīrgha",
+              "rule": "i + ī → ī",
+              "explanation": {
+                "en": "The final i of giri and the first ī of īśa merge into one long ī: giri + īśa → girīśa.",
+                "hi": "गिरि का अन्तिम 'इ' और ईश का 'ई' मिलकर एक दीर्घ 'ई' बन जाते हैं: गिरि + ईश → गिरीश।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "गिरि",
+              "iast": "giri",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "गिरि",
+                "iast": "giri"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "giri",
+                "gloss": "a mountain, hill, rock"
+              },
+              "meaning": {
+                "en": "mountain",
+                "hi": "पर्वत"
+              }
+            },
+            {
+              "sa": "ईश",
+              "iast": "īśa",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "ईश",
+                "iast": "īśa"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "īśa",
+                "gloss": "a ruler, master, lord"
+              },
+              "meaning": {
+                "en": "lord",
+                "hi": "स्वामी"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "Girīśa, the Lord of the mountain (Kailāsa), i.e. Śiva",
+            "hi": "गिरीश, पर्वत (कैलास) के स्वामी, अर्थात् शिव को"
+          },
+          "literal": {
+            "en": "the mountain-lord",
+            "hi": "पर्वत का स्वामी"
+          },
+          "epithet": true,
+          "aside": {
+            "en": "*Girā*, speech, opens this line and *Girīśa* closes it: the Lord who is beyond all words is also the Lord of the mountain, Kailāsa.",
+            "hi": "इस पंक्ति की शुरुआत *गिरा* (वाणी) से होती है और अन्त *गिरीश* से: जो सब शब्दों से परे हैं, वही पर्वत, कैलास, के स्वामी हैं।"
+          },
+          "notes": {
+            "en": "girīśa 'mountain-lord' is a name of Śiva. The same letters can also be split gir-īśa, 'lord of speech', a name of Bṛhaspati; here the mountain sense fits, as the Hindi translations (कैलासपति) agree.",
+            "hi": "गिरीश 'पर्वत के स्वामी' शिव का नाम है। इन्हीं अक्षरों को गिर्-ईश, 'वाणी के स्वामी' (बृहस्पति का नाम) भी पढ़ा जा सकता है; यहाँ पर्वत वाला अर्थ ठीक बैठता है, जैसा हिन्दी अनुवाद (कैलासपति) भी कहते हैं।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-girisha",
+            "mw-giri",
+            "mw-isha",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8",
+            "greenmesg-rudrashtakam"
+          ]
+        },
+        "w5": {
+          "padaccheda": [
+            {
+              "sa": "करालम्",
+              "iast": "karālam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "anusvāra",
+              "rule": "m + consonant → ṃ",
+              "explanation": {
+                "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (mahākālakālam): karālam → karālaṃ.",
+                "hi": "अगले शब्द (महाकालकालम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: करालम् → करालं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "कराल",
+              "iast": "karāla",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "कराल",
+                "iast": "karāla"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "karāla",
+                "gloss": "formidable, dreadful, terrible"
+              },
+              "meaning": {
+                "en": "fearsome",
+                "hi": "विकराल"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "(Him, i.e. Śiva) who is fearsome",
+            "hi": "(उन शिव को) जो विकराल हैं"
+          },
+          "notes": {
+            "en": "karāla first means 'gaping', and so 'with gaping mouth and jutting teeth', hence 'dreadful'. It describes īśam.",
+            "hi": "कराल का मूल अर्थ 'खुला हुआ' है, फिर 'खुले मुँह और निकले दाँतों वाला', इसलिए 'भयानक'। यह ईशम् का विशेषण है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-karala",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8",
+            "shlokam-rudrashtakam"
+          ]
+        },
+        "w6": {
+          "compound": "c5",
+          "padaccheda": [
+            {
+              "sa": "महा",
+              "iast": "mahā"
+            },
+            {
+              "sa": "काल",
+              "iast": "kāla"
+            },
+            {
+              "sa": "कालम्",
+              "iast": "kālam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "anusvāra",
+              "rule": "m + consonant → ṃ",
+              "explanation": {
+                "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (kṛpālam): kālam → kālaṃ.",
+                "hi": "अगले शब्द (कृपालम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: कालम् → कालं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "महत्",
+              "iast": "mahat",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "महत्",
+                "iast": "mahat"
+              },
+              "formation": "mahat becomes mahā at the start of a compound",
+              "sense": {
+                "dict": "mw",
+                "headword": "mahat",
+                "gloss": "great"
+              },
+              "meaning": {
+                "en": "great",
+                "hi": "महान्"
+              }
+            },
+            {
+              "sa": "काल",
+              "iast": "kāla",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "काल",
+                "iast": "kāla"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "kāla",
+                "gloss": "time (in general)"
+              },
+              "meaning": {
+                "en": "Time",
+                "hi": "काल"
+              }
+            },
+            {
+              "sa": "काल",
+              "iast": "kāla",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "काल",
+                "iast": "kāla"
+              },
+              "meaning": {
+                "en": "Death",
+                "hi": "काल"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "(Him, i.e. Śiva) who is Death even to Mahākāla, great Death",
+            "hi": "(उन शिव को) जो महाकाल के भी काल हैं"
+          },
+          "literal": {
+            "en": "the time (ender) of great Time",
+            "hi": "महाकाल का काल"
+          },
+          "epithet": true,
+          "notes": {
+            "en": "Mahākāla is itself a form of Śiva as destroyer; calling Him the kāla of Mahākāla puts Him beyond even that. It is explained as Mahāmṛtyuñjaya, conqueror of great death (sanskritdocuments-rudra8, Hindi). Some prints space it महाकाल कालं; the sense is the same.",
+            "hi": "महाकाल स्वयं संहारक शिव का रूप है; उन्हें महाकाल का भी काल कहना उन्हें उससे भी परे रखता है। इसे महामृत्युंजय भी समझाया जाता है। कुछ पाठों में महाकाल कालं अलग लिखा है; अर्थ वही है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-mahakala",
+            "mw-mahat",
+            "mw-kala",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8"
+          ]
+        },
+        "w7": {
+          "padaccheda": [
+            {
+              "sa": "कृपालम्",
+              "iast": "kṛpālam"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "anusvāra",
+              "rule": "m + consonant → ṃ",
+              "explanation": {
+                "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (guṇāgāra…): kṛpālam → kṛpālaṃ.",
+                "hi": "अगले शब्द (गुणागार…) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: कृपालम् → कृपालं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "कृपाल",
+              "iast": "kṛpāla",
+              "pos": "adjective",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "कृपा",
+                "iast": "kṛpā"
+              },
+              "formation": "kṛpā 'compassion' + -la 'having', a form of kṛpālu",
+              "sense": {
+                "dict": "mw",
+                "headword": "kṛpālu",
+                "gloss": "pitiful, compassionate"
+              },
+              "meaning": {
+                "en": "compassionate",
+                "hi": "कृपालु"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "(Him, i.e. Śiva) who is full of compassion",
+            "hi": "(उन शिव को) जो कृपालु हैं"
+          },
+          "notes": {
+            "en": "kṛpāla is Tulsīdās's form of the dictionary's kṛpālu 'compassionate' (kṛpā 'pity, compassion'); the Hindi translations render it कृपालु. The same form appears in the narrative just before the hymn, of the kind teacher: अति कृपाल चित. All witnesses read कृपालं, which the meter needs.",
+            "hi": "कृपाल तुलसीदास का रूप है, कोश का कृपालु 'दयालु' (कृपा 'दया')। हिन्दी अनुवाद इसे कृपालु लिखते हैं। स्तोत्र से ठीक पहले की कथा में दयालु गुरु के लिए यही रूप आया है: अति कृपाल चित। सभी पाठों में कृपालं है, और छन्द भी यही माँगता है।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-krpalu",
+            "mw-krpa",
+            "gitapress-ramcharitmanas",
+            "ramcharitmanas-uttarakanda-104-108",
+            "sanskritdocuments-rudra8",
+            "shlokam-rudrashtakam"
+          ]
+        },
+        "w8": {
+          "compound": "c6",
+          "padaccheda": [
+            {
+              "sa": "गुण",
+              "iast": "guṇa"
+            },
+            {
+              "sa": "आगार",
+              "iast": "āgāra"
+            },
+            {
+              "sa": "संसार",
+              "iast": "saṃsāra"
+            },
+            {
+              "sa": "पारम्",
+              "iast": "pāram"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "savarṇa-dīrgha",
+              "rule": "a + ā → ā",
+              "explanation": {
+                "en": "The final a of guṇa and the first ā of āgāra merge into one long ā: guṇa + āgāra → guṇāgāra.",
+                "hi": "गुण का अन्तिम 'अ' और आगार का 'आ' मिलकर एक दीर्घ 'आ' बन जाते हैं: गुण + आगार → गुणागार।"
+              }
+            },
+            {
+              "name": "anusvāra",
+              "rule": "m + consonant → ṃ",
+              "explanation": {
+                "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (nataḥ): pāram → pāraṃ.",
+                "hi": "अगले शब्द (नतः) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: पारम् → पारं।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "गुण",
+              "iast": "guṇa",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "गुण",
+                "iast": "guṇa"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "guṇa",
+                "gloss": "good quality, virtue, merit, excellence"
+              },
+              "meaning": {
+                "en": "virtue",
+                "hi": "गुण"
+              }
+            },
+            {
+              "sa": "आगार",
+              "iast": "āgāra",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "आगार",
+                "iast": "āgāra"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "āgāra",
+                "gloss": "apartment, dwelling, house"
+              },
+              "meaning": {
+                "en": "home",
+                "hi": "धाम"
+              }
+            },
+            {
+              "sa": "संसार",
+              "iast": "saṃsāra",
+              "pos": "noun",
+              "gender": "masculine",
+              "root": {
+                "kind": "dhatu",
+                "sa": "सृ",
+                "iast": "sṛ",
+                "gana": 1,
+                "prefixes": [
+                  "sam"
+                ],
+                "gloss": {
+                  "en": "to flow, to move along",
+                  "hi": "बहना, चलना"
+                }
+              },
+              "formation": "sam + √sṛ + ghañ (noun)",
+              "sense": {
+                "dict": "mw",
+                "headword": "saṃsāra",
+                "gloss": "circuit of mundane existence, transmigration"
+              },
+              "meaning": {
+                "en": "worldly life",
+                "hi": "संसार"
+              }
+            },
+            {
+              "sa": "पार",
+              "iast": "pāra",
+              "pos": "noun",
+              "gender": "neuter",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "पार",
+                "iast": "pāra"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "pāra",
+                "gloss": "the further bank or shore"
+              },
+              "meaning": {
+                "en": "far shore",
+                "hi": "पार"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "(Him, i.e. Śiva) who is the home of virtues and beyond the world's round of birth and death",
+            "hi": "(उन शिव को) जो गुणों के धाम और संसार से परे हैं"
+          },
+          "literal": {
+            "en": "the house of virtues, the far shore of saṃsāra",
+            "hi": "गुणों का घर, संसार का पार"
+          },
+          "notes": {
+            "en": "Read here as two descriptions, guṇāgāra 'home of virtues' and saṃsārapāra 'far shore of saṃsāra', as the Gita Press and sanskritdocuments Hindi translations take it (गुणोंके धाम, संसारसे परे); Gita Press, Belvedere and Wikisource also print a space after गुणागार. pāra is the bank on the other side of a river, so saṃsāra is pictured as water to be crossed.",
+            "hi": "यहाँ दो विशेषण माने गए हैं, गुणागार 'गुणों के धाम' और संसारपार 'संसार का पार', जैसा गीता प्रेस और sanskritdocuments के हिन्दी अनुवाद लेते हैं (गुणोंके धाम, संसारसे परे); गीता प्रेस, बेलवेडियर और विकिस्रोत गुणागार के बाद स्थान भी छोड़ते हैं। पार नदी का दूसरा किनारा है, इसलिए संसार पार करने योग्य जल की तरह चित्रित है।"
+          },
+          "alternatives": [
+            {
+              "reading": {
+                "en": "the far shore of saṃsāra, which is a house built of the three guṇas",
+                "hi": "तीन गुणों से बने घर रूपी संसार के पार"
+              },
+              "note": "greenmesg-rudrashtakam reads the whole as one chain: 'Crossing this Samsara ... which is like a Dwelling Place made of Gunas'. kashiraj, sanskritdocuments and greenmesg print it unspaced."
+            }
+          ],
+          "confidence": "medium",
+          "sources": [
+            "mw-guna",
+            "mw-agara",
+            "mw-samsara",
+            "mw-para",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8",
+            "greenmesg-rudrashtakam"
+          ]
+        },
+        "w9": {
+          "padaccheda": [
+            {
+              "sa": "नतः",
+              "iast": "nataḥ"
+            },
+            {
+              "sa": "अहम्",
+              "iast": "aham"
+            }
+          ],
+          "sandhi": [
+            {
+              "name": "utva + pūrvarūpa",
+              "rule": "aḥ + a → o + ऽ",
+              "explanation": {
+                "en": "The final -aḥ of nataḥ becomes o before the a of aham, and that a is dropped (marked ऽ): nataḥ + aham → nato'ham.",
+                "hi": "अहम् के अ से पहले नतः का अन्तिम -अः ओ बन जाता है, और वह अ लुप्त हो जाता है (ऽ से दिखाया गया): नतः + अहम् → नतोऽहम्।"
+              }
+            }
+          ],
+          "components": [
+            {
+              "sa": "नत",
+              "iast": "nata",
+              "pos": "participle",
+              "root": {
+                "kind": "dhatu",
+                "sa": "नम्",
+                "iast": "nam",
+                "gana": 1,
+                "gloss": {
+                  "en": "to bow",
+                  "hi": "झुकना, नमन करना"
+                }
+              },
+              "formation": "√nam + kta",
+              "sense": {
+                "dict": "mw",
+                "headword": "nata",
+                "gloss": "bowing to, saluting"
+              },
+              "meaning": {
+                "en": "bowed",
+                "hi": "झुका हुआ"
+              }
+            },
+            {
+              "sa": "अहम्",
+              "iast": "aham",
+              "pos": "pronoun",
+              "root": {
+                "kind": "pratipadika",
+                "sa": "अस्मद्",
+                "iast": "asmad"
+              },
+              "sense": {
+                "dict": "mw",
+                "headword": "aham",
+                "gloss": "‘I’"
+              },
+              "meaning": {
+                "en": "I",
+                "hi": "मैं"
+              }
+            }
+          ],
+          "meaning": {
+            "en": "I (am) bowed down (before Him, i.e. Śiva)",
+            "hi": "मैं (उन शिव को) प्रणाम करता हूँ"
+          },
+          "literal": {
+            "en": "bowed, I",
+            "hi": "झुका हुआ, मैं"
+          },
+          "aside": {
+            "en": "Verse 1 opened with *namāmi*, 'I bow'; this verse closes on the same bow, *nataḥ*, 'bowed down'.",
+            "hi": "पहला श्लोक *नमामि*, 'मैं प्रणाम करता हूँ', से खुला था; यह श्लोक उसी प्रणाम पर समाप्त होता है: *नतः*, 'झुका हुआ'।"
+          },
+          "notes": {
+            "en": "nataḥ is the past participle of √nam 'to bow', used of the one who bows (as with verbs of motion and verbs without an object); it agrees with aham, and 'am' (asmi) is understood. The objects it bows to are the accusatives of the verse, headed by īśam. Some prints write नतोहं / नतोहम् without the avagraha.",
+            "hi": "नतः √नम् 'झुकना' का भूत कृदन्त है, जो झुकने वाले के लिए आया है; यह अहम् के साथ है, और 'हूँ' (अस्मि) समझा जाता है। जिन्हें प्रणाम है वे श्लोक के द्वितीया पद हैं, जिनका मुख्य पद ईशम् है। कुछ पाठ अवग्रह के बिना नतोहं / नतोहम् लिखते हैं।"
+          },
+          "confidence": "high",
+          "sources": [
+            "mw-nata",
+            "mw-nam",
+            "mw-aham",
+            "gitapress-ramcharitmanas",
+            "sanskritdocuments-rudra8",
+            "shlokam-rudrashtakam"
+          ]
+        }
+      },
+      "review": {
+        "status": "ai_draft",
+        "history": [
+          {
+            "date": "2026-11-24",
+            "by": "ai",
+            "action": "Drafted from evidence pack."
+          }
+        ]
+      },
+      "lock": {
+        "hash": "sha256:1804b971dcea0b2cda52116ab8080f92cf243988dc1ccd0df08cd06f4055194a",
+        "sources": [
+          "belvedere-1926-ramcharitmanas",
+          "gitapress-ramcharitmanas",
+          "greenmesg-rudrashtakam",
+          "kashiraj-ramcharitmanas",
+          "ramcharitmanas-uttarakanda-104-108",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "wikisource-sa-rudrashtakam"
+        ],
+        "confirmed_by": null
+      }
+    },
+    "sources": [
+      {
+        "id": "ai-draft",
+        "name": "AI-generated first draft (unverified)",
+        "kind": "ai"
+      },
+      {
+        "id": "stotram-text",
+        "name": "Rudrāṣṭakam, the hymn's own text (incl. phalaśruti)",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "ramcharitmanas",
+        "name": "Tulsīdās, Rāmcaritmānas, Uttarakāṇḍa 104–108 (the story around the hymn)",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "gitapress-ramcharitmanas",
+        "name": "श्रीरामचरितमानस, Gita Press, Gorakhpur, pp. 1011–1012, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      },
+      {
+        "id": "kashiraj-ramcharitmanas",
+        "name": "Rāmcaritmānas, critical edition ed. Viśvanāth Prasād Miśra, Kāśirāj Trust, p. 443; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/fCfi_ram-charit-manas-of-tulsi-das-ed-by-viswanath-prasad-mishra-ramesh-chandra-dev"
+      },
+      {
+        "id": "belvedere-1926-ramcharitmanas",
+        "name": "Rāmcaritmānas, Belvedere Press, Prayag, 1926, pp. 427–428; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/in.ernet.dli.2015.343673"
+      },
+      {
+        "id": "sanskritdocuments-rudra8",
+        "name": "sanskritdocuments.org — Rudrashtakam (rudra8); Wayback copy of 2025-08-08",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20250808093835/https://sanskritdocuments.org/doc_shiva/rudra8.html"
+      },
+      {
+        "id": "greenmesg-rudrashtakam",
+        "name": "greenmesg.org — Rudrashtakam (line-by-line English); Wayback copy of 2026-08-12",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20260812050406/https://www.greenmesg.org/stotras/shiva/rudrashtakam.php"
+      },
+      {
+        "id": "shlokam-rudrashtakam",
+        "name": "shlokam.org — Rudrashtakam (translation with word meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/rudrashtakam/"
+      },
+      {
+        "id": "wikisource-sa-rudrashtakam",
+        "name": "Sanskrit Wikisource — रुद्राष्टकम् (comparison only; many typing slips)",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/रुद्राष्टकम्"
+      },
+      {
+        "id": "mw-aham",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aham' (SLP1 key: aham)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aham"
+      },
+      {
+        "id": "mw-aka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ākā' (SLP1 key: AkA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AkA"
+      },
+      {
+        "id": "mw-akasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ākāśa' (SLP1 key: AkASa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AkASa"
+      },
+      {
+        "id": "mw-ami",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'āmī' (SLP1 key: AmI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AmI"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-brahmaveda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'brahmaveda' (SLP1 key: brahmaveda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=brahmaveda"
+      },
+      {
+        "id": "mw-cid",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'cid' (SLP1 key: cid)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=cid"
+      },
+      {
+        "id": "mw-ishana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśāna' (SLP1 key: ISAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISAna"
+      },
+      {
+        "id": "mw-nam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nam' (SLP1 key: nam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nam"
+      },
+      {
+        "id": "mw-nija",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nija' (SLP1 key: nija)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nija"
+      },
+      {
+        "id": "mw-nirguna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirguṇa' (SLP1 key: nirguRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirguRa"
+      },
+      {
+        "id": "mw-niriha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirīha' (SLP1 key: nirIha)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirIha"
+      },
+      {
+        "id": "mw-nirvana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirvāṇa' (SLP1 key: nirvARa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirvARa"
+      },
+      {
+        "id": "mw-nirvikalpam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirvikalpam' (SLP1 key: nirvikalpam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirvikalpam"
+      },
+      {
+        "id": "mw-rupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rūpa' (SLP1 key: rUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rUpa"
+      },
+      {
+        "id": "mw-sham",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śam' (SLP1 key: Sam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Sam"
+      },
+      {
+        "id": "mw-svarupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'svarūpa' (SLP1 key: svarUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=svarUpa"
+      },
+      {
+        "id": "mw-vasa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vāsa' (SLP1 key: vAsa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vAsa"
+      },
+      {
+        "id": "mw-vibhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhu' (SLP1 key: viBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBu"
+      },
+      {
+        "id": "mw-vyapaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vyāpaka' (SLP1 key: vyApaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vyApaka"
+      },
+      {
+        "id": "mw-brahman",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'brahman' (SLP1 key: brahman)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=brahman"
+      },
+      {
+        "id": "mw-cit",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'cit' (SLP1 key: cit)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=cit"
+      },
+      {
+        "id": "mw-guna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'guṇa' (SLP1 key: guRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=guRa"
+      },
+      {
+        "id": "mw-iha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īhā' (SLP1 key: IhA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=IhA"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-moksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mokṣa' (SLP1 key: mokza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mokza"
+      },
+      {
+        "id": "mw-namas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'namas' (SLP1 key: namas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=namas"
+      },
+      {
+        "id": "mw-nirvikalpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirvikalpa' (SLP1 key: nirvikalpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirvikalpa"
+      },
+      {
+        "id": "mw-vasas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vāsas' (SLP1 key: vAsas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vAsas"
+      },
+      {
+        "id": "mw-veda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'veda' (SLP1 key: veda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=veda"
+      },
+      {
+        "id": "mw-vikalpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vikalpa' (SLP1 key: vikalpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vikalpa"
+      },
+      {
+        "id": "ramcharitmanas-uttarakanda-104-108",
+        "name": "Śrīrāmacaritamānasa, Uttarakāṇḍa, the narrative frame of the Rudrāṣṭaka (Kākabhuśuṇḍi tells Garuḍa about his former birth), Gita Press, Gorakhpur edition, with its Hindi translation. Same scan as `gitapress-ramcharitmanas`. Lines marked [image] were read from the page images (pp. 1009, 1010, 1012); lines marked [OCR] are from the archive.org OCR of p. 1008 and were not checked against the image.",
+        "kind": "text",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      },
+      {
+        "id": "mw-ago",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ago' (SLP1 key: ago)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ago"
+      },
+      {
+        "id": "mw-ajna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ājñā' (SLP1 key: AjYA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AjYA"
+      },
+      {
+        "id": "mw-ala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'āla' (SLP1 key: Ala)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Ala"
+      },
+      {
+        "id": "mw-atas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'atas' (SLP1 key: atas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=atas"
+      },
+      {
+        "id": "mw-gara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gāra' (SLP1 key: gAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gAra"
+      },
+      {
+        "id": "mw-gir",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gir' (SLP1 key: gir)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gir"
+      },
+      {
+        "id": "mw-girisha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'girīśa' (SLP1 key: girISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=girISa"
+      },
+      {
+        "id": "mw-gunaa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'guṇā' (SLP1 key: guRA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=guRA"
+      },
+      {
+        "id": "mw-kalam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kālam' (SLP1 key: kAlam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAlam"
+      },
+      {
+        "id": "mw-karala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'karāla' (SLP1 key: karAla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=karAla"
+      },
+      {
+        "id": "mw-krp",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kṛp' (SLP1 key: kfp)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kfp"
+      },
+      {
+        "id": "mw-mahakala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahākāla' (SLP1 key: mahAkAla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahAkAla"
+      },
+      {
+        "id": "mw-mula",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mūla' (SLP1 key: mUla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mUla"
+      },
+      {
+        "id": "mw-niraka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirāka' (SLP1 key: nirAka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirAka"
+      },
+      {
+        "id": "mw-para",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāra' (SLP1 key: pAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pAra"
+      },
+      {
+        "id": "mw-ram",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ram' (SLP1 key: ram)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ram"
+      },
+      {
+        "id": "mw-samsara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'saṃsāra' (SLP1 key: saMsAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=saMsAra"
+      },
+      {
+        "id": "mw-tam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tam' (SLP1 key: tam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tam"
+      },
+      {
+        "id": "mw-turiya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'turīya' (SLP1 key: turIya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=turIya"
+      },
+      {
+        "id": "mw-agara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'āgāra' (SLP1 key: AgAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AgAra"
+      },
+      {
+        "id": "mw-akara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ākāra' (SLP1 key: AkAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=AkAra"
+      },
+      {
+        "id": "mw-ati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ati' (SLP1 key: ati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ati"
+      },
+      {
+        "id": "mw-atii",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'atī' (SLP1 key: atI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=atI"
+      },
+      {
+        "id": "mw-atita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'atīta' (SLP1 key: atIta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=atIta"
+      },
+      {
+        "id": "mw-gira",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'girā' (SLP1 key: girA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=girA"
+      },
+      {
+        "id": "mw-giri",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'giri' (SLP1 key: giri)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=giri"
+      },
+      {
+        "id": "mw-go",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'go' (SLP1 key: go)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=go"
+      },
+      {
+        "id": "mw-i",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'i' (SLP1 key: i)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=i"
+      },
+      {
+        "id": "mw-jnana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jñāna' (SLP1 key: jYAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jYAna"
+      },
+      {
+        "id": "mw-kala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāla' (SLP1 key: kAla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAla"
+      },
+      {
+        "id": "mw-krpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kṛpā' (SLP1 key: kfpA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kfpA"
+      },
+      {
+        "id": "mw-krpalu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kṛpālu' (SLP1 key: kfpAlu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kfpAlu"
+      },
+      {
+        "id": "mw-mahat",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahat' (SLP1 key: mahat)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahat"
+      },
+      {
+        "id": "mw-nata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nata' (SLP1 key: nata)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nata"
+      },
+      {
+        "id": "mw-nirakara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirākāra' (SLP1 key: nirAkAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirAkAra"
+      },
+      {
+        "id": "mw-oMkAra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'oMkAra' (SLP1 key: oMkAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=oMkAra"
+      },
+      {
+        "id": "mw-om",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'om' (SLP1 key: om)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=om"
+      },
+      {
+        "id": "mw-tad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tad' (SLP1 key: tad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tad"
+      }
+    ]
+  },
+  "patch": [
+    {
+      "op": "replace",
+      "path": "/verses/1/words/w1/confidence",
+      "value": "medium"
+    },
+    {
+      "op": "replace",
+      "path": "/verses/1/words/w3/confidence",
+      "value": "medium"
+    }
+  ],
+  "disputes": []
+}

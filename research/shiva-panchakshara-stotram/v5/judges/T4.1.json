@@ -1,0 +1,11 @@
+{
+  "check": "T4.1",
+  "fields_hash": "8e678c951d560be0",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w7.components",
+      "message": "The component meanings diś 'direction' and ambara 'clothing' cite sources mw-dish and mw-ambara. Neither file is in research/shiva-panchakshara-stotram/v5/sources/, so the cited dictionary senses can't be checked against the evidence. The meanings are standard and fit the whole-word evidence. A human should make sure the two dictionary excerpts get saved."
+    }
+  ]
+}

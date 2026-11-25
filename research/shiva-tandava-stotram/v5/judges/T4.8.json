@@ -1,0 +1,18 @@
+{
+  "check": "T4.8",
+  "fields_hash": "36032ee4831b9324",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines[3]",
+      "message": "'long be there for my prosperity' is stilted; the EN bhāvārtha reads more naturally.",
+      "suggested_fix": "'… may He long uphold my prosperity.'"
+    },
+    {
+      "status": "flag",
+      "path": "translations.hi.bhavartha",
+      "message": "'बँधी' twice in one clause.",
+      "suggested_fix": "'उनका ऊँचा जटाजूट माला की जगह एक विशाल सर्प से बँधा है'"
+    }
+  ]
+}

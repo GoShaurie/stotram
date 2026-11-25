@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "0c84610bedbd09fa",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines[1]",
+      "message": "EN line 2 stacks five prepositional phrases plus an appositive; stilted though faithful.",
+      "suggested_fix": "'the bee drawn to the sweetness welling up in the nectar that flows from the blossom-cluster of the great Sarvamaṅgalā's arts;'"
+    }
+  ]
+}

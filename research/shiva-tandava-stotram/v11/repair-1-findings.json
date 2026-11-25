@@ -1,0 +1,42 @@
+[
+ {
+  "check": "T3.5",
+  "status": "flag",
+  "message": "Bhāvārtha (EN and HI) ends with Rāvaṇa crying out; he is in no pada and not in adhyāhāra (vyakhya's commentary supports the framing).",
+  "path": "translations.en.bhavartha",
+  "suggested_fix": "End with 'Glory to Śiva!' / 'शिव की जय हो!' and move the Rāvaṇa framing to an annotation, or keep it as commentary framing.",
+  "severity": "blocker",
+  "tier": 3,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.5",
+  "status": "flag",
+  "message": "Bhāvārthas present Rāvaṇa as the speaker without the traditional hedge used at stotram level.",
+  "path": "translations.en.bhavartha",
+  "suggested_fix": "'The poet (by tradition, Rāvaṇa) sees all of it…' / 'कवि (परम्परा से रावण)…'",
+  "severity": "major",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.9",
+  "status": "flag",
+  "message": "'the old title of Agni, who carries offerings to the gods' goes beyond mw-havyavaha ('Agni or fire').",
+  "path": "annotations.a3.body",
+  "suggested_fix": "'havya-vāh, \"oblation-bearer\" (havya, an oblation, MW), a name of Agni or fire' (HI too).",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.9",
+  "status": "flag",
+  "message": "'barrel drum' is stronger than the evidence (MW: 'a kind of drum, tabour').",
+  "path": "annotations.a4.body",
+  "suggested_fix": "'The mṛdaṅga is a kind of drum (MW: \"a kind of drum, tabour\")'",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ }
+]

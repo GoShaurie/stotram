@@ -1,0 +1,12 @@
+{
+  "check": "T4.2",
+  "fields_hash": "02c7671f1b02f896",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w9.components[0].sense",
+      "message": "The sense gloss for kiśora, 'a colt; a youth, lad', joins two separate MW senses (mw-kishora.md, IDs 50640 and 50641). 'a colt' is not the sense used here.",
+      "suggested_fix": "Set sense.gloss to 'a youth, lad' (MW kiśora, BhP.), and optionally note that the word is used adjectivally as 'young'."
+    }
+  ]
+}

@@ -1,0 +1,1532 @@
+{
+  "id": "v6",
+  "number": 6,
+  "kind": "verse",
+  "meter": "tunaka",
+  "concepts": [
+    "kalabhairava",
+    "kashi",
+    "moksha"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "रत्नपादुकाप्रभाभिरामपादयुग्मकं",
+          "iast": "ratnapādukāprabhābhirāmapādayugmakaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w2",
+          "text": "नित्यमद्वितीयमिष्टदैवतं",
+          "iast": "nityamadvitīyamiṣṭadaivataṃ"
+        },
+        {
+          "id": "w3",
+          "text": "निरञ्जनम्",
+          "iast": "nirañjanam"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w4",
+          "text": "मृत्युदर्पनाशनं",
+          "iast": "mṛtyudarpanāśanaṃ"
+        },
+        {
+          "id": "w5",
+          "text": "करालदंष्ट्रमोक्षणं",
+          "iast": "karāladaṃṣṭramokṣaṇaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w6",
+          "text": "काशिकापुराधिनाथ",
+          "iast": "kāśikāpurādhinātha"
+        },
+        {
+          "id": "w7",
+          "text": "कालभैरवं",
+          "iast": "kālabhairavaṃ"
+        },
+        {
+          "id": "w8",
+          "text": "भजे",
+          "iast": "bhaje"
+        }
+      ],
+      "end": "॥ ६ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": [
+        "w1"
+      ],
+      "iast": "ratna-pādukā-prabhā-abhirāma-pāda-yugmakam",
+      "type": "bahuvrīhi",
+      "structure": "((((ratna-pādukā)-prabhā)-abhirāma)-(pāda-yugmaka))",
+      "vigraha": "रत्नपादुकानां प्रभया अभिरामं पादयुग्मकं यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose pair of feet is lovely in the glow of jewelled sandals",
+        "hi": "उन्हें, जिनके चरण-युगल रत्नजड़ित पादुकाओं की चमक से सुन्दर हैं"
+      },
+      "note": {
+        "en": "ratna-pādukā 'jewelled sandals'; their prabhā 'glow' makes the feet abhirāma 'lovely'; pāda-yugmaka is 'the pair of feet'. The whole describes Kālabhairava, the one who has such feet, and so takes His ending.",
+        "hi": "रत्न-पादुका 'रत्नजड़ित खड़ाऊँ'; उनकी प्रभा 'चमक' चरणों को अभिराम 'सुन्दर' बनाती है; पाद-युग्मक 'चरणों का जोड़ा' है। पूरा समास उन कालभैरव का वर्णन करता है जिनके ऐसे चरण हैं।"
+      }
+    },
+    "c2": {
+      "members": [
+        "w2"
+      ],
+      "iast": "a-dvitīyam",
+      "type": "bahuvrīhi",
+      "vigraha": "न विद्यते द्वितीयः यस्य सः, तम्",
+      "meaning": {
+        "en": "Him who has no second",
+        "hi": "उन्हें, जिनके समान दूसरा कोई नहीं"
+      },
+      "note": {
+        "en": "a- 'not' + dvitīya 'second': the one beside whom there is no second.",
+        "hi": "अ- 'नहीं' + द्वितीय 'दूसरा': जिनके साथ कोई दूसरा नहीं।"
+      }
+    },
+    "c3": {
+      "members": [
+        "w2"
+      ],
+      "iast": "iṣṭa-daivatam",
+      "type": "karmadhāraya",
+      "vigraha": "इष्टं दैवतम्, तत्",
+      "meaning": {
+        "en": "the beloved deity",
+        "hi": "इष्टदेव"
+      },
+      "note": {
+        "en": "iṣṭa 'beloved, cherished' describes daivata 'deity'.",
+        "hi": "इष्ट 'प्रिय, आराध्य' दैवत 'देवता' का विशेषण है।"
+      }
+    },
+    "c4": {
+      "members": [
+        "w3"
+      ],
+      "iast": "nir-añjanam",
+      "type": "bahuvrīhi",
+      "vigraha": "निर्गतम् अञ्जनं यस्मात् सः, तम्",
+      "meaning": {
+        "en": "Him from whom every stain is gone, the spotless",
+        "hi": "उन्हें, जिनमें कोई दाग नहीं, निर्मल"
+      },
+      "note": {
+        "en": "nir 'without' + añjana 'paint, black eye-paint': the one with no paint or stain on Him.",
+        "hi": "निर् 'बिना' + अञ्जन 'लेप, काजल': जिन पर कोई लेप या दाग नहीं।"
+      }
+    },
+    "c5": {
+      "members": [
+        "w4"
+      ],
+      "iast": "mṛtyu-darpa-nāśanam",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "structure": "((mṛtyu-darpa)-nāśana)",
+      "vigraha": "मृत्योः दर्पः मृत्युदर्पः, तस्य नाशनः, तम्",
+      "meaning": {
+        "en": "the destroyer of Death's pride",
+        "hi": "मृत्यु के अभिमान का नाश करने वाले"
+      },
+      "note": {
+        "en": "mṛtyu-darpa 'the pride of Death'; nāśana 'one who destroys' it.",
+        "hi": "मृत्यु-दर्प 'मृत्यु का अभिमान'; नाशन 'उसे नष्ट करने वाले'।"
+      }
+    },
+    "c6": {
+      "members": [
+        "w5"
+      ],
+      "iast": "karāla-daṃṣṭra-mokṣaṇam",
+      "type": "tatpuruṣa",
+      "subtype": "pañcamī",
+      "structure": "((karāla-daṃṣṭra)-mokṣaṇa)",
+      "vigraha": "करालाः दंष्ट्राः करालदंष्ट्राः, तेभ्यः मोक्षणः, तम्",
+      "meaning": {
+        "en": "the one who frees from the terrible fangs",
+        "hi": "भयंकर दाँतों से छुड़ाने वाले"
+      },
+      "note": {
+        "en": "karāla-daṃṣṭra 'terrible fangs'; mokṣaṇa 'one who frees', here frees from those fangs. Read after mṛtyu-darpa-nāśana, the fangs are Death's.",
+        "hi": "कराल-दंष्ट्र 'भयंकर दाँत'; मोक्षण 'छुड़ाने वाले', यहाँ उन दाँतों से छुड़ाने वाले। मृत्यु-दर्प-नाशन के ठीक बाद आने से ये दाँत मृत्यु के हैं।"
+      }
+    },
+    "c7": {
+      "members": [
+        "w6",
+        "w7"
+      ],
+      "iast": "kāśikā-pura-adhinātha-kāla-bhairavam",
+      "type": "karmadhāraya",
+      "structure": "(((kāśikā-pura)-adhinātha)-(kāla-bhairava))",
+      "vigraha": "काशिका इति पुरम्, तस्य अधिनाथः, स एव कालभैरवः, तम्",
+      "meaning": {
+        "en": "Kālabhairava, the supreme lord of the city of Kāśī",
+        "hi": "काशी नगरी के अधिपति कालभैरव को"
+      },
+      "note": {
+        "en": "kāśikā-pura 'the city Kāśikā'; with adhinātha 'supreme lord' it means the lord of that city; that title and the name Kāla-bhairava stand for one and the same person.",
+        "hi": "काशिका-पुर 'काशी नगरी'; अधिनाथ 'अधिपति' के साथ अर्थ है उस नगरी के स्वामी; यह उपाधि और कालभैरव नाम एक ही के लिए हैं।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": [
+        "w1"
+      ],
+      "sa": "रत्नपादुकाप्रभाभिरामपादयुग्मकम्",
+      "iast": "ratnapādukāprabhābhirāmapādayugmakam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "रत्नपादुकाप्रभाभिरामपादयुग्मक",
+          "iast": "ratnapādukāprabhābhirāmapādayugmaka"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p8"
+    },
+    {
+      "id": "p2",
+      "words": [
+        "w2"
+      ],
+      "sa": "नित्यम्",
+      "iast": "nityam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "नित्य",
+          "iast": "nitya"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p8"
+    },
+    {
+      "id": "p3",
+      "words": [
+        "w2"
+      ],
+      "sa": "अद्वितीयम्",
+      "iast": "advitīyam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "अद्वितीय",
+          "iast": "advitīya"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p8"
+    },
+    {
+      "id": "p4",
+      "words": [
+        "w2"
+      ],
+      "sa": "इष्टदैवतम्",
+      "iast": "iṣṭadaivatam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "इष्टदैवत",
+          "iast": "iṣṭadaivata"
+        },
+        "gender": "neuter",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p8"
+    },
+    {
+      "id": "p5",
+      "words": [
+        "w3"
+      ],
+      "sa": "निरञ्जनम्",
+      "iast": "nirañjanam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "निरञ्जन",
+          "iast": "nirañjana"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p8"
+    },
+    {
+      "id": "p6",
+      "words": [
+        "w4"
+      ],
+      "sa": "मृत्युदर्पनाशनम्",
+      "iast": "mṛtyudarpanāśanam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "मृत्युदर्पनाशन",
+          "iast": "mṛtyudarpanāśana"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p8"
+    },
+    {
+      "id": "p7",
+      "words": [
+        "w5"
+      ],
+      "sa": "करालदंष्ट्रमोक्षणम्",
+      "iast": "karāladaṃṣṭramokṣaṇam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "करालदंष्ट्रमोक्षण",
+          "iast": "karāladaṃṣṭramokṣaṇa"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p8"
+    },
+    {
+      "id": "p8",
+      "words": [
+        "w6",
+        "w7"
+      ],
+      "sa": "काशिकापुराधिनाथकालभैरवम्",
+      "iast": "kāśikāpurādhināthakālabhairavam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "काशिकापुराधिनाथकालभैरव",
+          "iast": "kāśikāpurādhināthakālabhairava"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p9"
+    },
+    {
+      "id": "p9",
+      "words": [
+        "w8"
+      ],
+      "sa": "भजे",
+      "iast": "bhaje",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "भज्",
+          "iast": "bhaj",
+          "gana": 1
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9"
+  ],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "The One whose pair of feet is lovely in the glow of jewelled sandals,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "who is eternal, without a second, the beloved deity,"
+          },
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "spotless,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "who crushes the pride of Death"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "and rescues from the terrible fangs (of Death):"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "I worship"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "Kālabhairava,"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "the supreme lord of the city of Kāśī."
+          }
+        ]
+      ],
+      "bhavartha": "Kālabhairava's two feet look lovely in the glow of sandals set with jewels. He is eternal, there is no second beside Him, He is the beloved deity, and no stain touches Him. He breaks the pride of Death and rescues from Death's terrible fangs. The singer worships Him: Kālabhairava, the supreme lord of the city of Kāśī."
+    },
+    "hi": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "जिनके चरण-युगल रत्नजड़ित पादुकाओं की चमक से सुन्दर लगते हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "जो नित्य हैं, अद्वितीय हैं, इष्टदेव हैं,"
+          },
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "निर्मल हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "जो मृत्यु के अभिमान को नष्ट करते हैं"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "और (मृत्यु के) भयंकर दाँतों से छुड़ाते हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "काशी नगरी के अधिपति"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "कालभैरव को"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "मैं भजता हूँ।"
+          }
+        ]
+      ],
+      "bhavartha": "कालभैरव के दोनों चरण रत्नजड़ित खड़ाऊँ की चमक से सुन्दर लगते हैं। वे नित्य हैं, उनके समान दूसरा कोई नहीं, वे इष्टदेव हैं और कोई दाग उन्हें छूता नहीं। वे मृत्यु का अभिमान तोड़ते हैं और मृत्यु के भयंकर दाँतों से छुड़ाते हैं। ऐसे काशी नगरी के अधिपति कालभैरव को भक्त भजता है।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": [
+        "w2",
+        "w3"
+      ],
+      "kind": "theology",
+      "body": {
+        "en": "The first line dresses His feet in jewels and light. The second says what no ornament can touch. *Nitya*: He always is. *Advitīya*: there is no second beside Him. And *nir-añjana*: *añjana* is the black paint put round the eyes, so He is 'unpainted', with no stain at all.\n\nJewels may shine at His feet, but nothing clings to Him. *Nirañjana* is also a name of Śiva, and a word for the Supreme Being.",
+        "hi": "पहली पंक्ति उनके चरणों को रत्नों और चमक से सजाती है। दूसरी बताती है कि कोई आभूषण उन्हें छू नहीं सकता। *नित्य*: वे सदा हैं। *अद्वितीय*: उनके साथ कोई दूसरा नहीं। और *निर्-अञ्जन*: *अञ्जन* आँखों में लगाया जाने वाला काजल है, इसलिए वे 'बिना लेप के' हैं, उन पर कोई दाग नहीं।\n\nरत्न उनके चरणों में चमक सकते हैं, पर उन पर कुछ चिपकता नहीं। *निरञ्जन* शिव का एक नाम भी है, और परम सत्ता के लिए भी आता है।"
+      },
+      "citations": [
+        {
+          "source": "mw-nitya",
+          "locator": "MW nitya, p. 547,2",
+          "quote": "continual, perpetual, eternal"
+        },
+        {
+          "source": "mw-advitiya",
+          "locator": "MW a-dvitīya, p. 19,3",
+          "quote": "without a second, sole, unique"
+        },
+        {
+          "source": "mw-anjana",
+          "locator": "MW añjana, p. 11,1",
+          "quote": "black pigment or collyrium applied to the eyelashes"
+        },
+        {
+          "source": "mw-niranjana",
+          "locator": "MW nir-añjana, p. 539,2",
+          "quote": "unpainted, spotless, pure"
+        },
+        {
+          "source": "mw-niranjana",
+          "locator": "MW nir-añjana, p. 539,2",
+          "quote": "the Supreme Being"
+        },
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 203, verse 6, Hindi translation",
+          "quote": "निर्मल (मलरहित—स्वच्छ), अविनाशी, अद्वितीय"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": [
+        "w5"
+      ],
+      "kind": "variant",
+      "body": {
+        "en": "Whose fangs? Most printings read *karāla-daṃṣṭra-mokṣaṇa*, 'freeing from terrible fangs'. Right after Death's broken pride, the fangs are Death's: He rescues from Death's jaws. The words can also say that His own fangs set free.\n\nThe line is also found as *-mokṣadam*, 'giver of liberation'; as *-bhūṣaṇam*, 'whose ornament is terrible fangs'; and as *karālaṃ daṃṣṭra-bhīṣaṇam*, 'fearsome with fangs'. There the fangs are His own, and they frighten.",
+        "hi": "किसके दाँत? अधिकतर मुद्रित पाठ *करालदंष्ट्रमोक्षणं* पढ़ते हैं, 'भयंकर दाँतों से छुड़ाने वाले'। मृत्यु के टूटे अभिमान के ठीक बाद ये दाँत मृत्यु के हैं: वे मृत्यु के जबड़ों से छुड़ाते हैं। शब्द यह भी कह सकते हैं कि उनके अपने दाँत मुक्त करते हैं।\n\nयह पंक्ति *-मोक्षदं* ('मोक्ष देने वाले'), *-भूषणं* ('भयंकर दाँत जिनका आभूषण हैं') और *करालं दंष्ट्रभीषणं* ('दाँतों से भयानक') रूप में भी मिलती है। वहाँ दाँत उनके अपने हैं, और डराते हैं।"
+      },
+      "citations": [
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 203, verse 6",
+          "quote": "करालदंष्ट्रमोक्षणं"
+        },
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 203, verse 6, Hindi translation",
+          "quote": "कालके भयंकर दाँतोंसे मोक्ष दिलानेवाले"
+        },
+        {
+          "source": "ramakrishna-math-mantrapushpam",
+          "locator": "p. 483, verse 6",
+          "quote": "करालदंष्ट्र-मोक्षणं"
+        },
+        {
+          "source": "sanskritdocuments-kaalabhairava",
+          "locator": "verse 6",
+          "quote": "करालदंष्ट्रमोक्षदं (भूषणं)"
+        },
+        {
+          "source": "vanivilas-1910-works-18",
+          "locator": "p. 90, verse 6",
+          "quote": "करालदंष्ट्रभूषण"
+        },
+        {
+          "source": "sanskritdocuments-shivarahasya-kalabhairava",
+          "locator": "Śivarahasya 11.34.57 (stanza 5)",
+          "quote": "करालं दंष्ट्रभीषणं"
+        },
+        {
+          "source": "greenmesg-kalabhairava",
+          "locator": "verse 6, meaning 6.3",
+          "quote": "Whose Large Terrible Fangs Liberate us"
+        },
+        {
+          "source": "mw-mokshana",
+          "locator": "MW mokṣaṇa, p. 835,1",
+          "quote": "liberation, releasing, rescuing"
+        },
+        {
+          "source": "mw-karaladamshtra",
+          "locator": "MW karāla-daṃṣṭra, p. 255,2",
+          "quote": "having terrific teeth"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "रत्न",
+          "iast": "ratna"
+        },
+        {
+          "sa": "पादुका",
+          "iast": "pādukā"
+        },
+        {
+          "sa": "प्रभा",
+          "iast": "prabhā"
+        },
+        {
+          "sa": "अभिराम",
+          "iast": "abhirāma"
+        },
+        {
+          "sa": "पाद",
+          "iast": "pāda"
+        },
+        {
+          "sa": "युग्मकम्",
+          "iast": "yugmakam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "ā + a → ā",
+          "explanation": {
+            "en": "The long ā of prabhā and the first a of abhirāma merge into one long ā: prabhā + abhirāma → prabhābhirāma.",
+            "hi": "प्रभा का दीर्घ 'आ' और अभिराम का पहला 'अ' मिलकर एक दीर्घ 'आ' बन जाते हैं: प्रभा + अभिराम → प्रभाभिराम।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (nityam): yugmakam → yugmakaṃ.",
+            "hi": "अगले शब्द (नित्यम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: युग्मकम् → युग्मकं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "रत्न",
+          "iast": "ratna",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "रत्न",
+            "iast": "ratna"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ratna",
+            "gloss": "a jewel, gem, treasure, precious stone"
+          },
+          "meaning": {
+            "en": "jewel",
+            "hi": "रत्न"
+          }
+        },
+        {
+          "sa": "पादुका",
+          "iast": "pādukā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "पादुका",
+            "iast": "pādukā"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "pādukā",
+            "gloss": "a shoe or slipper"
+          },
+          "meaning": {
+            "en": "sandal",
+            "hi": "खड़ाऊँ"
+          }
+        },
+        {
+          "sa": "प्रभा",
+          "iast": "prabhā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भा",
+            "iast": "bhā",
+            "gana": 2,
+            "prefixes": [
+              "pra"
+            ],
+            "gloss": {
+              "en": "to shine",
+              "hi": "चमकना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "prabhā",
+            "gloss": "light, splendour, radiance"
+          },
+          "meaning": {
+            "en": "glow",
+            "hi": "चमक"
+          }
+        },
+        {
+          "sa": "अभिराम",
+          "iast": "abhirāma",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "रम्",
+            "iast": "ram",
+            "gana": 1,
+            "prefixes": [
+              "abhi"
+            ],
+            "gloss": {
+              "en": "to delight",
+              "hi": "रमना, आनन्द देना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "abhi-rāma",
+            "gloss": "pleasing, delightful, agreeable, beautiful"
+          },
+          "meaning": {
+            "en": "lovely",
+            "hi": "सुन्दर"
+          }
+        },
+        {
+          "sa": "पाद",
+          "iast": "pāda",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "पाद",
+            "iast": "pāda"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "pāda",
+            "gloss": "the foot"
+          },
+          "meaning": {
+            "en": "foot",
+            "hi": "चरण"
+          }
+        },
+        {
+          "sa": "युग्मक",
+          "iast": "yugmaka",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "युग्मक",
+            "iast": "yugmaka"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "yugmaka",
+            "gloss": "a pair, couple, brace"
+          },
+          "meaning": {
+            "en": "pair",
+            "hi": "जोड़ा"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) whose pair of feet is lovely in the glow of jewelled sandals",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जिनके चरण-युगल रत्नजड़ित खड़ाऊँ की चमक से सुन्दर हैं"
+      },
+      "notes": {
+        "en": "One description of six parts. pādukā is a sandal or slipper (the wooden khaḍāūṃ in Hindi). yugmaka, 'pair', is yugma with the small ending -ka, which here adds no sense of its own.",
+        "hi": "छह भागों वाला एक वर्णन। पादुका यानी खड़ाऊँ या चप्पल। युग्मक, 'जोड़ा', युग्म ही है; अन्त का '-क' यहाँ अपना कोई अलग अर्थ नहीं जोड़ता।"
+      },
+      "aside": {
+        "en": "The hymn returns to His feet. In verse 1 Indra served them; here they glow, lit by sandals set with jewels.",
+        "hi": "स्तोत्र फिर उनके चरणों पर लौटता है। पहले श्लोक में इन्द्र उनकी सेवा करते थे; यहाँ वे रत्नजड़ित खड़ाऊँ की चमक से जगमगाते हैं।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-ratna",
+        "mw-paduka",
+        "mw-prabha",
+        "mw-abhirama",
+        "mw-pada",
+        "mw-yugmaka",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w2": {
+      "compound": "c3",
+      "padaccheda": [
+        {
+          "sa": "नित्यम्",
+          "iast": "nityam"
+        },
+        {
+          "sa": "अद्वितीयम्",
+          "iast": "advitīyam"
+        },
+        {
+          "sa": "इष्ट",
+          "iast": "iṣṭa"
+        },
+        {
+          "sa": "दैवतम्",
+          "iast": "daivatam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (nirañjanam): daivatam → daivataṃ. Before a vowel the m simply joins it: nityam + advitīyam → nityamadvitīyam, advitīyam + iṣṭa → advitīyamiṣṭa.",
+            "hi": "अगले शब्द (निरञ्जनम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: दैवतम् → दैवतं। स्वर से पहले 'म्' उसी से जुड़ जाता है: नित्यम् + अद्वितीयम् → नित्यमद्वितीयम्, अद्वितीयम् + इष्ट → अद्वितीयमिष्ट।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नित्य",
+          "iast": "nitya",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "नित्य",
+            "iast": "nitya"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "nitya",
+            "gloss": "continual, perpetual, eternal"
+          },
+          "meaning": {
+            "en": "eternal",
+            "hi": "नित्य"
+          }
+        },
+        {
+          "sa": "अ",
+          "iast": "a",
+          "pos": "indeclinable",
+          "meaning": {
+            "en": "not",
+            "hi": "नहीं"
+          }
+        },
+        {
+          "sa": "द्वितीय",
+          "iast": "dvitīya",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "द्वितीय",
+            "iast": "dvitīya"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "a-dvitīya",
+            "gloss": "without a second, sole, unique"
+          },
+          "meaning": {
+            "en": "second",
+            "hi": "दूसरा"
+          }
+        },
+        {
+          "sa": "इष्ट",
+          "iast": "iṣṭa",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "इष्",
+            "iast": "iṣ",
+            "gana": 6,
+            "gloss": {
+              "en": "to wish, to desire",
+              "hi": "चाहना"
+            }
+          },
+          "formation": "√iṣ + kta (past passive participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "iṣṭa",
+            "gloss": "wished, desired; liked, beloved; cherished"
+          },
+          "meaning": {
+            "en": "beloved",
+            "hi": "प्रिय"
+          }
+        },
+        {
+          "sa": "दैवत",
+          "iast": "daivata",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "दैवत",
+            "iast": "daivata"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "daivata",
+            "gloss": "a god, a deity"
+          },
+          "meaning": {
+            "en": "deity",
+            "hi": "देवता"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who is eternal, without a second, the beloved deity",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो नित्य हैं, अद्वितीय हैं, इष्टदेव हैं"
+      },
+      "notes": {
+        "en": "Three descriptions written as one word: nityam 'eternal', advitīyam 'without a second', iṣṭa-daivatam 'the beloved deity'. Each ends in its own -m, and all point to Kālabhairava. iṣṭa here is 'wished for, held dear', not the other iṣṭa, 'offered in sacrifice'.",
+        "hi": "एक शब्द में लिखे तीन वर्णन: नित्यम् 'सदा रहने वाले', अद्वितीयम् 'जिनके समान दूसरा नहीं', इष्ट-दैवतम् 'प्रिय आराध्य देव'। तीनों का अपना '-म्' है और तीनों कालभैरव की ओर संकेत करते हैं। यहाँ इष्ट का अर्थ 'चाहा हुआ, प्रिय' है, यज्ञ वाला 'इष्ट' नहीं।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-nitya",
+        "mw-advitiya",
+        "mw-ishta",
+        "mw-daivata",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w3": {
+      "compound": "c4",
+      "padaccheda": [
+        {
+          "sa": "निर्",
+          "iast": "nir"
+        },
+        {
+          "sa": "अञ्जनम्",
+          "iast": "añjanam"
+        }
+      ],
+      "components": [
+        {
+          "sa": "निर्",
+          "iast": "nir",
+          "pos": "indeclinable",
+          "meaning": {
+            "en": "without",
+            "hi": "बिना"
+          }
+        },
+        {
+          "sa": "अञ्जन",
+          "iast": "añjana",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "dhatu",
+            "sa": "अञ्ज्",
+            "iast": "añj",
+            "gana": 7,
+            "gloss": {
+              "en": "to smear, to anoint",
+              "hi": "लेप करना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "añjana",
+            "gloss": "black pigment or collyrium applied to the eyelashes; paint"
+          },
+          "meaning": {
+            "en": "stain",
+            "hi": "दाग"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who is spotless, untouched by any stain",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो निर्मल हैं, जिन पर कोई दाग नहीं"
+      },
+      "literal": {
+        "en": "unpainted, without eye-paint",
+        "hi": "बिना अञ्जन (काजल) के"
+      },
+      "notes": {
+        "en": "añjana is the black paint put on the eyes, or any paint or smear; nir-añjana is 'with no paint on', so spotless and pure. Vidyut also offers the split niran + janam, which gives no sense here.",
+        "hi": "अञ्जन आँखों का काजल या कोई भी लेप है; निर्-अञ्जन यानी 'जिस पर कोई लेप नहीं', इसलिए निर्मल, शुद्ध। Vidyut 'निरन् + जनम्' विभाजन भी सुझाता है, जिसका यहाँ कोई अर्थ नहीं बनता।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-niranjana",
+        "mw-anjana",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w4": {
+      "compound": "c5",
+      "padaccheda": [
+        {
+          "sa": "मृत्यु",
+          "iast": "mṛtyu"
+        },
+        {
+          "sa": "दर्प",
+          "iast": "darpa"
+        },
+        {
+          "sa": "नाशनम्",
+          "iast": "nāśanam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (karāla): nāśanam → nāśanaṃ.",
+            "hi": "अगले शब्द (कराल) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: नाशनम् → नाशनं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "मृत्यु",
+          "iast": "mṛtyu",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "मृत्यु",
+            "iast": "mṛtyu"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "mṛtyu",
+            "gloss": "death, dying; Death personified"
+          },
+          "meaning": {
+            "en": "Death",
+            "hi": "मृत्यु"
+          }
+        },
+        {
+          "sa": "दर्प",
+          "iast": "darpa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "दर्प",
+            "iast": "darpa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "darpa",
+            "gloss": "pride, arrogance, haughtiness"
+          },
+          "meaning": {
+            "en": "pride",
+            "hi": "अभिमान"
+          }
+        },
+        {
+          "sa": "नाशन",
+          "iast": "nāśana",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नश्",
+            "iast": "naś",
+            "gana": 4,
+            "gloss": {
+              "en": "to perish; (causing to) perish",
+              "hi": "नष्ट होना; नष्ट करना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "nāśana",
+            "gloss": "destroying"
+          },
+          "meaning": {
+            "en": "destroyer",
+            "hi": "नाशक"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who destroys the pride of Death",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो मृत्यु के अभिमान का नाश करते हैं"
+      },
+      "notes": {
+        "en": "mṛtyu is death, and Death as a person, the god of death. nāśana, 'destroying', comes from √naś 'to perish' in the sense 'make perish'.",
+        "hi": "मृत्यु यानी मरण, और व्यक्ति के रूप में मृत्यु, मृत्यु के देवता। नाशन, 'नष्ट करने वाला', √नश् 'नष्ट होना' से 'नष्ट करना' के अर्थ में बना है।"
+      },
+      "aside": {
+        "en": "Verse 2 called Him Death even to Death ([kāla-kāla](#v2-a3)). Here Death stands proud, and He breaks that pride.",
+        "hi": "दूसरे श्लोक ने उन्हें काल का भी काल कहा था ([काल-काल](#v2-a3))। यहाँ मृत्यु अभिमान से खड़ी है, और वे उस अभिमान को तोड़ते हैं।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-mrtyu",
+        "mw-darpa",
+        "mw-nashana",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w5": {
+      "compound": "c6",
+      "padaccheda": [
+        {
+          "sa": "कराल",
+          "iast": "karāla"
+        },
+        {
+          "sa": "दंष्ट्र",
+          "iast": "daṃṣṭra"
+        },
+        {
+          "sa": "मोक्षणम्",
+          "iast": "mokṣaṇam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (kāśikā): mokṣaṇam → mokṣaṇaṃ.",
+            "hi": "अगले शब्द (काशिका) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: मोक्षणम् → मोक्षणं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "कराल",
+          "iast": "karāla",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "कराल",
+            "iast": "karāla"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "karāla",
+            "gloss": "formidable, dreadful, terrible"
+          },
+          "meaning": {
+            "en": "terrible",
+            "hi": "भयंकर"
+          }
+        },
+        {
+          "sa": "दंष्ट्र",
+          "iast": "daṃṣṭra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "दंष्ट्र",
+            "iast": "daṃṣṭra"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "daṃṣṭra",
+            "gloss": "a large tooth, tusk, fang"
+          },
+          "meaning": {
+            "en": "fang",
+            "hi": "दाँत"
+          }
+        },
+        {
+          "sa": "मोक्षण",
+          "iast": "mokṣaṇa",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "मोक्ष्",
+            "iast": "mokṣ",
+            "gana": 10,
+            "gloss": {
+              "en": "to set free",
+              "hi": "छुड़ाना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "mokṣaṇa",
+            "gloss": "liberating, emancipating; liberation, releasing, rescuing"
+          },
+          "meaning": {
+            "en": "freeing",
+            "hi": "छुड़ाने वाले"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who frees from the terrible fangs (of Death)",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो (मृत्यु के) भयंकर दाँतों से छुड़ाते हैं"
+      },
+      "notes": {
+        "en": "Read with the words just before it (Death's pride), the fangs are Death's and Kālabhairava frees from them. The text varies here: see the card on this word.",
+        "hi": "ठीक पहले के शब्दों (मृत्यु का अभिमान) के साथ पढ़ने पर दाँत मृत्यु के हैं और कालभैरव उनसे छुड़ाते हैं। यहाँ पाठ बदलता है: इस शब्द का कार्ड देखिए।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "whose terrible fangs set free",
+            "hi": "जिनके भयंकर दाँत मुक्त करते हैं"
+          },
+          "note": "greenmesg-kalabhairava ('Whose Large Terrible Fangs Liberate us') and shlokam-kalabhairava ('by His fearsome fangs He grants liberation') take the fangs as His own. Followed here: gitapress-shiv-stotra-ratnakar, 'कालके भयंकर दाँतोंसे मोक्ष दिलानेवाले' (freeing from Kāla's terrible fangs), and MW mokṣaṇa 'releasing, rescuing'."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-karala",
+        "mw-damshtra",
+        "mw-mokshana",
+        "mw-karaladamshtra",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w6": {
+      "compound": "c7",
+      "padaccheda": [
+        {
+          "sa": "काशिका",
+          "iast": "kāśikā"
+        },
+        {
+          "sa": "पुर",
+          "iast": "pura"
+        },
+        {
+          "sa": "अधिनाथ",
+          "iast": "adhinātha"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of pura and the first a of adhinātha merge into a long ā: pura + adhinātha → purādhinātha.",
+            "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "काशिका",
+          "iast": "kāśikā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "काशिका",
+            "iast": "kāśikā"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kāśikā",
+            "gloss": "'the city of the Kāśis', Benares"
+          },
+          "meaning": {
+            "en": "Kāśī",
+            "hi": "काशी"
+          }
+        },
+        {
+          "sa": "पुर",
+          "iast": "pura",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "pura",
+            "gloss": "a fortress, castle, city, town"
+          },
+          "meaning": {
+            "en": "city",
+            "hi": "नगरी"
+          }
+        },
+        {
+          "sa": "अधिनाथ",
+          "iast": "adhinātha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "अधिनाथ",
+            "iast": "adhinātha"
+          },
+          "formation": "adhi ('over, above') + nātha ('lord')",
+          "sense": {
+            "dict": "mw",
+            "headword": "adhi-nātha",
+            "gloss": "a supreme lord, chieftain"
+          },
+          "meaning": {
+            "en": "supreme lord",
+            "hi": "अधिपति"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the supreme lord of the city of Kāśī",
+        "hi": "काशी नगरी के अधिपति"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Kāśikā is Kāśī, the city also called Benares (Vārāṇasī). adhi-nātha is more than nātha 'lord': the prefix adhi- makes Him the lord over all. The title runs on into the name Kālabhairava.",
+        "hi": "काशिका यानी काशी, जिसे बनारस (वाराणसी) भी कहते हैं। अधि-नाथ केवल नाथ 'स्वामी' नहीं: 'अधि' उन्हें सबके ऊपर का स्वामी बनाता है। यह उपाधि कालभैरव नाम से जुड़ी है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-kashika",
+        "mw-kashi",
+        "mw-pura",
+        "mw-adhinatha",
+        "mw-natha",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w7": {
+      "compound": "c7",
+      "padaccheda": [
+        {
+          "sa": "काल",
+          "iast": "kāla"
+        },
+        {
+          "sa": "भैरवम्",
+          "iast": "bhairavam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): kālabhairavam → kālabhairavaṃ.",
+            "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "काल",
+          "iast": "kāla",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kāla",
+            "gloss": "black, of a dark colour; time (in general)"
+          },
+          "meaning": {
+            "en": "black; time",
+            "hi": "काला; समय"
+          }
+        },
+        {
+          "sa": "भैरव",
+          "iast": "bhairava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "भैरव",
+            "iast": "bhairava"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "bhairava",
+            "gloss": "N. of a form of Śiva; frightful, terrible"
+          },
+          "meaning": {
+            "en": "Bhairava",
+            "hi": "भैरव"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "Kālabhairava",
+        "hi": "कालभैरव को"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Kāla-bhairava is a form of Bhairava, the fierce form of Śiva. kāla can mean 'black' and 'time'; bhairava means 'terrible'. The ending -m marks Him as the one worshipped (bhaje).",
+        "hi": "काल-भैरव भैरव का एक रूप है, जो शिव का उग्र रूप है। काल का अर्थ 'काला' भी है और 'समय' भी; भैरव का अर्थ है 'भयानक'। अन्त का '-म्' बताता है कि उन्हीं को भजा जा रहा है (भजे)।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-kalabhairava",
+        "mw-kala",
+        "mw-bhairava",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    },
+    "w8": {
+      "padaccheda": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje"
+        }
+      ],
+      "components": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": {
+              "en": "to serve, to worship",
+              "hi": "भजना, सेवा करना"
+            }
+          },
+          "formation": "laṭ, first person singular, ātmanepada",
+          "sense": {
+            "dict": "mw",
+            "headword": "bhaj",
+            "gloss": "to serve, honour, revere, love, adore"
+          },
+          "meaning": {
+            "en": "I worship",
+            "hi": "भजता हूँ"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "I worship",
+        "hi": "मैं भजता हूँ"
+      },
+      "notes": {
+        "en": "From √bhaj, 'to serve, revere, love': the root of bhakti and bhajan. The form itself says 'I', so no separate word for 'I' is needed.",
+        "hi": "√भज् से, 'सेवा करना, आदर करना, प्रेम करना': इसी धातु से भक्ति और भजन बने हैं। रूप स्वयं 'मैं' बताता है, इसलिए 'मैं' के लिए अलग शब्द नहीं चाहिए।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-bhaj",
+        "gitapress-shiv-stotra-ratnakar",
+        "shlokam-kalabhairava",
+        "greenmesg-kalabhairava"
+      ]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  },
+  "_new_concepts": {}
+}

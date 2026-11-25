@@ -1,0 +1,1436 @@
+{
+  "group": "structure",
+  "checks": {
+    "T2.8b": "checks/judges/T2.8b.md",
+    "T2.9b": "checks/judges/T2.9b.md",
+    "T3.4": "checks/judges/T3.4.md",
+    "T3.6": "checks/judges/T3.6.md"
+  },
+  "stotram": {
+    "id": "kalabhairava-ashtakam",
+    "title": {
+      "sa": "कालभैरवाष्टकम्",
+      "iast": "Kālabhairavāṣṭakam",
+      "en": "Kalabhairava Ashtakam",
+      "hi": "कालभैरवाष्टकम्"
+    }
+  },
+  "verse": {
+    "id": "v3",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "शूलटङ्कपाशदण्डपाणिमादिकारणं",
+            "iast": "śūlaṭaṅkapāśadaṇḍapāṇimādikāraṇaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w2",
+            "text": "श्यामकायमादिदेवमक्षरं",
+            "iast": "śyāmakāyamādidevamakṣaraṃ"
+          },
+          {
+            "id": "w3",
+            "text": "निरामयम्",
+            "iast": "nirāmayam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "भीमविक्रमं",
+            "iast": "bhīmavikramaṃ"
+          },
+          {
+            "id": "w5",
+            "text": "प्रभुं",
+            "iast": "prabhuṃ"
+          },
+          {
+            "id": "w6",
+            "text": "विचित्रताण्डवप्रियं",
+            "iast": "vicitratāṇḍavapriyaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "काशिकापुराधिनाथ",
+            "iast": "kāśikāpurādhinātha"
+          },
+          {
+            "id": "w8",
+            "text": "कालभैरवं",
+            "iast": "kālabhairavaṃ"
+          },
+          {
+            "id": "w9",
+            "text": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "end": "॥ ३ ॥"
+      }
+    ],
+    "adhyahara": [],
+    "anvaya": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w1"
+        ],
+        "iast": "śūla-ṭaṅka-pāśa-daṇḍa-pāṇim",
+        "type": "bahuvrīhi",
+        "structure": "((śūla-ṭaṅka-pāśa-daṇḍa)-pāṇi)",
+        "vigraha": "शूलं च टङ्कः च पाशः च दण्डः च पाणौ यस्य सः, तम्",
+        "meaning": {
+          "en": "Him in whose hands are the trident, the hatchet, the noose and the rod",
+          "hi": "उन्हें, जिनके हाथों में शूल, टङ्क, पाश और दण्ड हैं"
+        },
+        "note": {
+          "en": "śūla, ṭaṅka, pāśa and daṇḍa are simply listed side by side ('and … and'); with pāṇi 'hand' the whole describes the one who holds them in His hand. The first of two descriptions packed into the display word w1.",
+          "hi": "शूल, टङ्क, पाश और दण्ड एक साथ गिनाए गए हैं ('और … और'); पाणि 'हाथ' के साथ पूरा पद उनका वर्णन करता है जो इन्हें हाथ में लिए हैं। w1 में जुड़े दो वर्णनों में पहला।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w1"
+        ],
+        "iast": "ādi-kāraṇam",
+        "type": "karmadhāraya",
+        "vigraha": "आदि च तत् कारणं च, तत्",
+        "meaning": {
+          "en": "the first cause",
+          "hi": "आदि कारण"
+        },
+        "note": {
+          "en": "ādi 'beginning, first' + kāraṇa 'cause': the cause at the very beginning. It names Him directly, so it keeps its own neuter form beside the other descriptions.",
+          "hi": "आदि 'आरम्भ, प्रथम' + कारण: सबसे पहला कारण। यह सीधे उन्हीं का नाम है, इसलिए दूसरे विशेषणों के साथ भी अपना नपुंसक रूप रखता है।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w2"
+        ],
+        "iast": "śyāma-kāyam",
+        "type": "bahuvrīhi",
+        "vigraha": "श्यामः कायः यस्य सः, तम्",
+        "meaning": {
+          "en": "Him whose body is dark",
+          "hi": "उन्हें, जिनका शरीर श्याम है"
+        },
+        "note": {
+          "en": "śyāma 'dark' + kāya 'body': the one whose body is dark.",
+          "hi": "श्याम 'साँवला, काला' + काय 'शरीर': जिनका शरीर श्याम है।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w2"
+        ],
+        "iast": "ādi-devam",
+        "type": "karmadhāraya",
+        "vigraha": "आदिः च असौ देवः च, तम्",
+        "meaning": {
+          "en": "the first god",
+          "hi": "आदिदेव, पहले देवता"
+        },
+        "note": {
+          "en": "ādi 'first' + deva 'god': the god who was there first. Ādideva is also a name of Śiva.",
+          "hi": "आदि 'प्रथम' + देव 'देवता': जो सबसे पहले थे। आदिदेव शिव का भी नाम है।"
+        }
+      },
+      "c5": {
+        "members": [
+          "w3"
+        ],
+        "iast": "nir-āmayam",
+        "type": "bahuvrīhi",
+        "vigraha": "निर्गतः आमयः यस्मात् सः, तम्",
+        "meaning": {
+          "en": "Him who is free from sickness",
+          "hi": "उन्हें, जो रोग से रहित हैं"
+        },
+        "note": {
+          "en": "nis 'without, free from' + āmaya 'sickness': the one from whom sickness is gone.",
+          "hi": "निस् 'बिना, रहित' + आमय 'रोग': जिनसे रोग दूर है।"
+        }
+      },
+      "c6": {
+        "members": [
+          "w4"
+        ],
+        "iast": "bhīma-vikramam",
+        "type": "bahuvrīhi",
+        "vigraha": "भीमः विक्रमः यस्य सः, तम्",
+        "meaning": {
+          "en": "Him whose might is terrible",
+          "hi": "उन्हें, जिनका पराक्रम भयानक है"
+        },
+        "note": {
+          "en": "bhīma 'terrible' + vikrama 'stride; might': the one whose might is terrible.",
+          "hi": "भीम 'भयानक' + विक्रम 'कदम; पराक्रम': जिनका पराक्रम भयानक है।"
+        }
+      },
+      "c7": {
+        "members": [
+          "w6"
+        ],
+        "iast": "vicitra-tāṇḍava-priyam",
+        "type": "bahuvrīhi",
+        "structure": "((vicitra-tāṇḍava)-priya)",
+        "vigraha": "विचित्रं ताण्डवं प्रियं यस्य सः, तम्",
+        "meaning": {
+          "en": "Him to whom the wondrous tāṇḍava dance is dear",
+          "hi": "उन्हें, जिन्हें विचित्र ताण्डव प्रिय है"
+        },
+        "note": {
+          "en": "vicitra 'wondrous' describes tāṇḍava, Śiva's wild dance; with priya 'dear' the whole describes the one who loves that dance.",
+          "hi": "विचित्र 'अद्भुत' ताण्डव (शिव का उग्र नृत्य) का विशेषण है; प्रिय के साथ पूरा पद उनका वर्णन करता है जिन्हें यह नृत्य प्रिय है।"
+        }
+      },
+      "c8": {
+        "members": [
+          "w7",
+          "w8"
+        ],
+        "iast": "kāśikā-pura-adhinātha-kāla-bhairavam",
+        "type": "karmadhāraya",
+        "structure": "(((kāśikā-pura)-adhinātha)-(kāla-bhairava))",
+        "vigraha": "काशिका इति पुरम्, तस्य अधिनाथः, स एव कालभैरवः, तम्",
+        "meaning": {
+          "en": "Kālabhairava, the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति कालभैरव को"
+        },
+        "note": {
+          "en": "kāśikā-pura 'the city Kāśikā'; with adhinātha 'supreme lord' it means the lord of that city; that title and the name Kāla-bhairava stand for one and the same person.",
+          "hi": "काशिका-पुर 'काशी नगरी'; अधिनाथ 'अधिपति' के साथ अर्थ है उस नगरी के स्वामी; यह उपाधि और कालभैरव नाम एक ही के लिए हैं।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "शूलटङ्कपाशदण्डपाणिम्",
+        "iast": "śūlaṭaṅkapāśadaṇḍapāṇim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शूलटङ्कपाशदण्डपाणि",
+            "iast": "śūlaṭaṅkapāśadaṇḍapāṇi"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w1"
+        ],
+        "sa": "आदिकारणम्",
+        "iast": "ādikāraṇam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "आदिकारण",
+            "iast": "ādikāraṇa"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w2"
+        ],
+        "sa": "श्यामकायम्",
+        "iast": "śyāmakāyam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "श्यामकाय",
+            "iast": "śyāmakāya"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w2"
+        ],
+        "sa": "आदिदेवम्",
+        "iast": "ādidevam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "आदिदेव",
+            "iast": "ādideva"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w2"
+        ],
+        "sa": "अक्षरम्",
+        "iast": "akṣaram",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अक्षर",
+            "iast": "akṣara"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w3"
+        ],
+        "sa": "निरामयम्",
+        "iast": "nirāmayam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "निरामय",
+            "iast": "nirāmaya"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w4"
+        ],
+        "sa": "भीमविक्रमम्",
+        "iast": "bhīmavikramam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भीमविक्रम",
+            "iast": "bhīmavikrama"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w5"
+        ],
+        "sa": "प्रभुम्",
+        "iast": "prabhum",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "प्रभु",
+            "iast": "prabhu"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w6"
+        ],
+        "sa": "विचित्रताण्डवप्रियम्",
+        "iast": "vicitratāṇḍavapriyam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विचित्रताण्डवप्रिय",
+            "iast": "vicitratāṇḍavapriya"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w7",
+          "w8"
+        ],
+        "sa": "काशिकापुराधिनाथकालभैरवम्",
+        "iast": "kāśikāpurādhināthakālabhairavam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "काशिकापुराधिनाथकालभैरव",
+            "iast": "kāśikāpurādhināthakālabhairava"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p11"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w9"
+        ],
+        "sa": "भजे",
+        "iast": "bhaje",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "ātmanepada"
+        },
+        "role": "kriyā",
+        "head": null
+      }
+    ],
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "शूल",
+            "iast": "śūla"
+          },
+          {
+            "sa": "टङ्क",
+            "iast": "ṭaṅka"
+          },
+          {
+            "sa": "पाश",
+            "iast": "pāśa"
+          },
+          {
+            "sa": "दण्ड",
+            "iast": "daṇḍa"
+          },
+          {
+            "sa": "पाणिम्",
+            "iast": "pāṇim"
+          },
+          {
+            "sa": "आदि",
+            "iast": "ādi"
+          },
+          {
+            "sa": "कारणम्",
+            "iast": "kāraṇam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (śyāma): kāraṇam → kāraṇaṃ. Before the vowel of ādi the m of pāṇim simply joins it: pāṇim + ādi → pāṇimādi.",
+              "hi": "अगले शब्द (श्याम) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कारणम् → कारणं। आदि के स्वर से पहले पाणिम् का 'म्' उसी से जुड़ जाता है: पाणिम् + आदि → पाणिमादि।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शूल",
+            "iast": "śūla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शूल",
+              "iast": "śūla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śūla",
+              "gloss": "any sharp instrument or pointed dart, lance, pike, spear (esp. the trident of Śiva)"
+            },
+            "meaning": {
+              "en": "trident",
+              "hi": "त्रिशूल"
+            }
+          },
+          {
+            "sa": "टङ्क",
+            "iast": "ṭaṅka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "टङ्क",
+              "iast": "ṭaṅka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ṭaṅka",
+              "gloss": "a spade, hoe, hatchet, stone-cutter's chisel"
+            },
+            "meaning": {
+              "en": "hatchet",
+              "hi": "कुल्हाड़ी"
+            }
+          },
+          {
+            "sa": "पाश",
+            "iast": "pāśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाश",
+              "iast": "pāśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāśa",
+              "gloss": "the noose as attribute of Śiva or Yama"
+            },
+            "meaning": {
+              "en": "noose",
+              "hi": "पाश"
+            }
+          },
+          {
+            "sa": "दण्ड",
+            "iast": "daṇḍa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दण्ड",
+              "iast": "daṇḍa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "daṇḍa",
+              "gloss": "a stick, staff, rod, pole, cudgel, club"
+            },
+            "meaning": {
+              "en": "rod",
+              "hi": "दण्ड"
+            }
+          },
+          {
+            "sa": "पाणि",
+            "iast": "pāṇi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाणि",
+              "iast": "pāṇi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāṇi",
+              "gloss": "the hand"
+            },
+            "meaning": {
+              "en": "hand",
+              "hi": "हाथ"
+            }
+          },
+          {
+            "sa": "आदि",
+            "iast": "ādi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "आदि",
+              "iast": "ādi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ādi",
+              "gloss": "beginning, commencement"
+            },
+            "meaning": {
+              "en": "first",
+              "hi": "आदि"
+            }
+          },
+          {
+            "sa": "कारण",
+            "iast": "kāraṇa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कारण",
+              "iast": "kāraṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāraṇa",
+              "gloss": "cause, reason, the cause of anything"
+            },
+            "meaning": {
+              "en": "cause",
+              "hi": "कारण"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who holds the trident, hatchet, noose and rod in His hands, the first cause",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनके हाथों में शूल, टङ्क, पाश और दण्ड हैं, जो आदि कारण हैं"
+        },
+        "literal": {
+          "en": "having trident, hatchet, noose and rod in hand; the first cause",
+          "hi": "शूल, टङ्क, पाश और दण्ड जिनके हाथ में हैं; आदि कारण"
+        },
+        "notes": {
+          "en": "Two descriptions run together in one display word: śūla-ṭaṅka-pāśa-daṇḍa-pāṇim, 'who has trident, hatchet, noose and rod in hand', and ādi-kāraṇam, 'the first cause'. ṭaṅka covers several cutting tools (spade, hoe, hatchet, chisel); the translation follows 'hatchet'.",
+          "hi": "एक ही शब्द में दो वर्णन जुड़े हैं: शूल-टङ्क-पाश-दण्ड-पाणिम्, 'जिनके हाथ में शूल, टङ्क, पाश और दण्ड हैं', और आदि-कारणम्, 'आदि कारण'। टङ्क कई काटने-खोदने वाले औज़ारों का नाम है (कुदाल, कुल्हाड़ी, छेनी); अनुवाद 'कुल्हाड़ी' लेता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "holding a trident, a spade, a cord and a staff",
+              "hi": "त्रिशूल, कुदाल, रस्सी और डण्डा लिए हुए"
+            },
+            "note": "shlokam-kalabhairava glosses ṭaṅka as 'spade' and pāśa as 'cord'; greenmesg-kalabhairava has 'Hatchet'; MW lists spade, hoe, hatchet and chisel."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-shula",
+          "mw-tanka",
+          "mw-pasha",
+          "mw-danda",
+          "mw-dandapani",
+          "mw-pani",
+          "mw-adi",
+          "mw-adikarana",
+          "mw-karana",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w2": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "श्याम",
+            "iast": "śyāma"
+          },
+          {
+            "sa": "कायम्",
+            "iast": "kāyam"
+          },
+          {
+            "sa": "आदि",
+            "iast": "ādi"
+          },
+          {
+            "sa": "देवम्",
+            "iast": "devam"
+          },
+          {
+            "sa": "अक्षरम्",
+            "iast": "akṣaram"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (nirāmayam): akṣaram → akṣaraṃ. Before a vowel the m simply joins it: kāyam + ādi → kāyamādi, devam + akṣaram → devamakṣaram.",
+              "hi": "अगले शब्द (निरामयम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अक्षरम् → अक्षरं। स्वर से पहले 'म्' उसी से जुड़ जाता है: कायम् + आदि → कायमादि, देवम् + अक्षरम् → देवमक्षरम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "श्याम",
+            "iast": "śyāma",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "श्याम",
+              "iast": "śyāma"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śyāma",
+              "gloss": "black, dark-coloured, dark blue or brown or grey or green"
+            },
+            "meaning": {
+              "en": "dark",
+              "hi": "श्याम"
+            }
+          },
+          {
+            "sa": "काय",
+            "iast": "kāya",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काय",
+              "iast": "kāya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāya",
+              "gloss": "the body"
+            },
+            "meaning": {
+              "en": "body",
+              "hi": "शरीर"
+            }
+          },
+          {
+            "sa": "आदि",
+            "iast": "ādi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "आदि",
+              "iast": "ādi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ādi-deva",
+              "gloss": "'the first god'"
+            },
+            "meaning": {
+              "en": "first",
+              "hi": "आदि"
+            }
+          },
+          {
+            "sa": "देव",
+            "iast": "deva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "देव",
+              "iast": "deva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "deva",
+              "gloss": "a deity, god"
+            },
+            "meaning": {
+              "en": "god",
+              "hi": "देव"
+            }
+          },
+          {
+            "sa": "अक्षर",
+            "iast": "akṣara",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अक्षर",
+              "iast": "akṣara"
+            },
+            "formation": "a ('not') + kṣara ('perishing')",
+            "sense": {
+              "dict": "mw",
+              "headword": "a-kṣara",
+              "gloss": "imperishable"
+            },
+            "meaning": {
+              "en": "imperishable",
+              "hi": "अविनाशी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) dark of body, the first god, imperishable",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनका शरीर श्याम है, जो आदिदेव और अविनाशी हैं"
+        },
+        "notes": {
+          "en": "Three descriptions run together: śyāma-kāyam 'whose body is dark', ādi-devam 'the first god' (a name also given to Śiva) and akṣaram 'imperishable' (akṣara is also listed as a name of Śiva).",
+          "hi": "तीन वर्णन एक साथ जुड़े हैं: श्याम-कायम् 'जिनका शरीर श्याम है', आदि-देवम् 'पहले देवता' (यह शिव का भी नाम है) और अक्षरम् 'अविनाशी' (अक्षर भी शिव का एक नाम है)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shyama",
+          "mw-kaya",
+          "mw-adideva",
+          "mw-deva",
+          "mw-akshara",
+          "mw-kshara",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w3": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "निः",
+            "iast": "niḥ"
+          },
+          {
+            "sa": "आमयम्",
+            "iast": "āmayam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "rutva",
+            "rule": "ḥ + vowel → r",
+            "explanation": {
+              "en": "The final ḥ of niḥ (nis) becomes r before the vowel of āmaya: niḥ + āmaya → nirāmaya.",
+              "hi": "निः (निस्) का अन्तिम विसर्ग आमय के स्वर से पहले 'र्' बन जाता है: निः + आमय → निरामय।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निस्",
+            "iast": "nis",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "nis",
+              "gloss": "'without', 'destitute of', 'free from'"
+            },
+            "meaning": {
+              "en": "without",
+              "hi": "रहित"
+            }
+          },
+          {
+            "sa": "आमय",
+            "iast": "āmaya",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "आमय",
+              "iast": "āmaya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "āmaya",
+              "gloss": "sickness, disease"
+            },
+            "meaning": {
+              "en": "sickness",
+              "hi": "रोग"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) untouched by sickness",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो रोग से रहित हैं"
+        },
+        "literal": {
+          "en": "from whom sickness is gone",
+          "hi": "जिनसे रोग दूर है"
+        },
+        "notes": {
+          "en": "nirāmaya can also mean pure, untainted. It describes Him, not a benefit to the singer.",
+          "hi": "निरामय का अर्थ निर्मल, बेदाग़ भी होता है। यह उनका वर्णन है, गाने वाले के लिए किसी फल का नहीं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "free from the three kinds of suffering",
+              "hi": "त्रिविध तापों से रहित"
+            },
+            "note": "gitapress-shiv-stotra-ratnakar renders nirāmayam as 'त्रिविध तापोंसे रहित'; greenmesg-kalabhairava has 'beyond Diseases [of the World]'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-niramaya",
+          "mw-amaya",
+          "mw-nis",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w4": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "भीम",
+            "iast": "bhīma"
+          },
+          {
+            "sa": "विक्रमम्",
+            "iast": "vikramam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (prabhum): bhīmavikramam → bhīmavikramaṃ.",
+              "hi": "अगले शब्द (प्रभुम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भीमविक्रमम् → भीमविक्रमं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भीम",
+            "iast": "bhīma",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भीम",
+              "iast": "bhīma"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhīma",
+              "gloss": "fearful, terrific, terrible, awful, formidable, tremendous"
+            },
+            "meaning": {
+              "en": "terrible",
+              "hi": "भयानक"
+            }
+          },
+          {
+            "sa": "विक्रम",
+            "iast": "vikrama",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "क्रम्",
+              "iast": "kram",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to step, to stride",
+                "hi": "कदम रखना, डग भरना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-krama",
+              "gloss": "valour, courage, heroism, power, strength"
+            },
+            "meaning": {
+              "en": "might",
+              "hi": "पराक्रम"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) of terrible might",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनका पराक्रम भयानक है"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhimavikrama",
+          "mw-bhima",
+          "mw-vikrama",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "प्रभुम्",
+            "iast": "prabhum"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (vicitra): prabhum → prabhuṃ.",
+              "hi": "अगले शब्द (विचित्र) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रभुम् → प्रभुं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रभु",
+            "iast": "prabhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to be strong, to have power",
+                "hi": "समर्थ होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-bhu",
+              "gloss": "a master, lord, king"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "प्रभु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the Lord, i.e. Kālabhairava",
+          "hi": "प्रभु को, अर्थात् कालभैरव को"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prabhu",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w6": {
+        "compound": "c7",
+        "padaccheda": [
+          {
+            "sa": "विचित्र",
+            "iast": "vicitra"
+          },
+          {
+            "sa": "ताण्डव",
+            "iast": "tāṇḍava"
+          },
+          {
+            "sa": "प्रियम्",
+            "iast": "priyam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (kāśikā): vicitratāṇḍavapriyam → vicitratāṇḍavapriyaṃ.",
+              "hi": "अगले शब्द (काशिका) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: विचित्रताण्डवप्रियम् → विचित्रताण्डवप्रियं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "विचित्र",
+            "iast": "vicitra",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विचित्र",
+              "iast": "vicitra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-citra",
+              "gloss": "strange, wonderful, surprising"
+            },
+            "meaning": {
+              "en": "wondrous",
+              "hi": "विचित्र"
+            }
+          },
+          {
+            "sa": "ताण्डव",
+            "iast": "tāṇḍava",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ताण्डव",
+              "iast": "tāṇḍava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tāṇḍava",
+              "gloss": "dancing (esp. with violent gesticulation), frantic dance (of Śiva and his votaries)"
+            },
+            "meaning": {
+              "en": "tāṇḍava dance",
+              "hi": "ताण्डव नृत्य"
+            }
+          },
+          {
+            "sa": "प्रिय",
+            "iast": "priya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रिय",
+              "iast": "priya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "priya",
+              "gloss": "beloved, dear to"
+            },
+            "meaning": {
+              "en": "dear",
+              "hi": "प्रिय"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who loves the wondrous tāṇḍava dance",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिन्हें विचित्र ताण्डव नृत्य प्रिय है"
+        },
+        "literal": {
+          "en": "to whom the wondrous tāṇḍava is dear",
+          "hi": "विचित्र ताण्डव जिन्हें प्रिय है"
+        },
+        "notes": {
+          "en": "Tāṇḍava-priya, 'fond of the tāṇḍava', is also a name of Śiva; vicitra adds 'wondrous', and can also mean many-coloured or varied.",
+          "hi": "ताण्डव-प्रिय, 'ताण्डव के प्रेमी', शिव का भी नाम है; विचित्र 'अद्भुत' जोड़ता है, और इसका अर्थ रंग-बिरंगा या विविध भी हो सकता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "who loves the strange, vigorous tāṇḍava",
+              "hi": "जिन्हें अनोखा, प्रचण्ड ताण्डव प्रिय है"
+            },
+            "note": "greenmesg-kalabhairava renders vicitra as 'Strange, Vigorous'; shlokam-kalabhairava has 'special'; MW gives both 'strange' and 'wonderful'."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vicitra",
+          "mw-tandava",
+          "mw-tandavapriya",
+          "mw-priya",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w7": {
+        "compound": "c8",
+        "padaccheda": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā"
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of pura and the first a of adhinātha merge into a long ā: pura + adhinātha → purādhinātha.",
+              "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काशिका",
+              "iast": "kāśikā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāśikā",
+              "gloss": "'the city of the Kāśis', Benares"
+            },
+            "meaning": {
+              "en": "Kāśī",
+              "hi": "काशी"
+            }
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pura",
+              "gloss": "a fortress, castle, city, town"
+            },
+            "meaning": {
+              "en": "city",
+              "hi": "नगरी"
+            }
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अधिनाथ",
+              "iast": "adhinātha"
+            },
+            "formation": "adhi ('over, above') + nātha ('lord')",
+            "sense": {
+              "dict": "mw",
+              "headword": "adhi-nātha",
+              "gloss": "a supreme lord, chieftain"
+            },
+            "meaning": {
+              "en": "supreme lord",
+              "hi": "अधिपति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāśikā is Kāśī, the city also called Benares (Vārāṇasī). adhi-nātha is more than nātha 'lord': the prefix adhi- makes Him the lord over all. The title runs on into the name Kālabhairava.",
+          "hi": "काशिका यानी काशी, जिसे बनारस (वाराणसी) भी कहते हैं। अधि-नाथ केवल नाथ 'स्वामी' नहीं: 'अधि' उन्हें सबके ऊपर का स्वामी बनाता है। यह उपाधि कालभैरव नाम से जुड़ी है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kashika",
+          "mw-kashi",
+          "mw-pura",
+          "mw-adhinatha",
+          "mw-natha",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w8": {
+        "compound": "c8",
+        "padaccheda": [
+          {
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          {
+            "sa": "भैरवम्",
+            "iast": "bhairavam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): kālabhairavam → kālabhairavaṃ.",
+              "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काल",
+            "iast": "kāla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काल",
+              "iast": "kāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla",
+              "gloss": "black, of a dark colour; time (in general)"
+            },
+            "meaning": {
+              "en": "black; time",
+              "hi": "काला; समय"
+            }
+          },
+          {
+            "sa": "भैरव",
+            "iast": "bhairava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भैरव",
+              "iast": "bhairava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhairava",
+              "gloss": "N. of a form of Śiva; frightful, terrible"
+            },
+            "meaning": {
+              "en": "Bhairava",
+              "hi": "भैरव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Kālabhairava",
+          "hi": "कालभैरव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāla-bhairava is a form of Bhairava, the fierce form of Śiva. kāla can mean 'black' and 'time'; bhairava means 'terrible'. The ending -m marks Him as the one worshipped (bhaje).",
+          "hi": "काल-भैरव भैरव का एक रूप है, जो शिव का उग्र रूप है। काल का अर्थ 'काला' भी है और 'समय' भी; भैरव का अर्थ है 'भयानक'। अन्त का '-म्' बताता है कि उन्हीं को भजा जा रहा है (भजे)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kalabhairava",
+          "mw-kala",
+          "mw-bhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to serve, to worship",
+                "hi": "भजना, सेवा करना"
+              }
+            },
+            "formation": "laṭ, first person singular, ātmanepada",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "I worship",
+              "hi": "भजता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "From √bhaj, 'to serve, revere, love': the root of bhakti and bhajan. The form itself says 'I', so no separate word for 'I' is needed.",
+          "hi": "√भज् से, 'सेवा करना, आदर करना, प्रेम करना': इसी धातु से भक्ति और भजन बने हैं। रूप स्वयं 'मैं' बताता है, इसलिए 'मैं' के लिए अलग शब्द नहीं चाहिए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      }
+    }
+  }
+}

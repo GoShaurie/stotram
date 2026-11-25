@@ -1,0 +1,1701 @@
+{
+  "id": "v15",
+  "number": 15,
+  "kind": "verse",
+  "concepts": [
+    "shiva-parvati-vivaha"
+  ],
+  "_new_concepts": {
+    "shiva-parvati-vivaha": {
+      "name": {
+        "en": "Wedding of Śiva and Pārvatī",
+        "hi": "शिव-पार्वती विवाह"
+      },
+      "description": {
+        "en": "The marriage of Śiva with Pārvatī, the daughter of the mountain king, pictured as a divine festival with songs, guests and auspicious sound.",
+        "hi": "पर्वतराज की पुत्री पार्वती के साथ शिव का विवाह, जिसे मंगल-गीतों, अतिथियों और शुभ ध्वनि से भरे दिव्य उत्सव के रूप में चित्रित किया जाता है।"
+      }
+    }
+  },
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "प्रचण्डवाडवानल",
+          "iast": "pracaṇḍavāḍavānala"
+        },
+        {
+          "id": "w2",
+          "text": "प्रभाशुभप्रचारणी",
+          "iast": "prabhāśubhapracāraṇī"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "महाष्टसिद्धिकामिनी",
+          "iast": "mahāṣṭasiddhikāminī"
+        },
+        {
+          "id": "w4",
+          "text": "जनाऽवहूतजल्पना",
+          "iast": "janā'vahūtajalpanā"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "विमुक्तवामलोचना",
+          "iast": "vimuktavāmalocanā"
+        },
+        {
+          "id": "w6",
+          "text": "विवाहकालिकध्वनिः",
+          "iast": "vivāhakālikadhvaniḥ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w7",
+          "text": "शिवेति",
+          "iast": "śiveti"
+        },
+        {
+          "id": "w8",
+          "text": "मन्त्रभूषणा",
+          "iast": "mantrabhūṣaṇā"
+        },
+        {
+          "id": "w9",
+          "text": "जगज्जयाय",
+          "iast": "jagajjayāya"
+        },
+        {
+          "id": "w10",
+          "text": "जायताम्",
+          "iast": "jāyatām"
+        }
+      ],
+      "end": "॥ १५ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": [
+        "w1",
+        "w2"
+      ],
+      "iast": "pracaṇḍa-vāḍavānala-prabhā-śubha-pracāraṇī",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā",
+      "structure": "(((pracaṇḍa-(vāḍava-anala))-prabhā)-(śubha-pracāraṇī))",
+      "vigraha": "प्रचण्डः वाडवानलः, तस्य प्रभा, तया शुभस्य प्रचारणी",
+      "meaning": {
+        "en": "she who spreads what is auspicious with a blaze like that of the fierce submarine fire",
+        "hi": "प्रचण्ड बड़वानल की-सी दीप्ति से शुभ का प्रसार करने वाली"
+      },
+      "note": {
+        "en": "One compound running across the pāda break, inflected only at the end (pracāraṇī, feminine nominative). pracaṇḍa-vāḍavānala 'the fierce submarine fire' is a karmadhāraya; with prabhā it gives 'the blaze of that fire'; śubha-pracāraṇī 'spreader of the auspicious' is a ṣaṣṭhī tatpuruṣa. The blaze is the means by which the spreading happens, so the whole is read as a tṛtīyā tatpuruṣa. It qualifies the feminine subject jalpanā.",
+        "hi": "चरण की सीमा पार करने वाला एक समास, जिसकी विभक्ति केवल अन्त में है (प्रचारणी, स्त्रीलिंग प्रथमा)। प्रचण्ड-वाडवानल 'प्रचण्ड बड़वाग्नि' कर्मधारय है; प्रभा के साथ अर्थ बनता है 'उस अग्नि की दीप्ति'; शुभ-प्रचारणी 'शुभ का प्रसार करने वाली' षष्ठी तत्पुरुष है। दीप्ति वह साधन है जिससे प्रसार होता है, इसलिए पूरा समास तृतीया तत्पुरुष माना गया है। यह स्त्रीलिंग कर्ता जल्पना का विशेषण है।"
+      }
+    },
+    "c2": {
+      "members": [
+        "w3",
+        "w4"
+      ],
+      "iast": "mahāṣṭa-siddhi-kāminī-janā'vahūta-jalpanā",
+      "type": "karmadhāraya",
+      "structure": "((((mahā-(aṣṭa-siddhi))-(kāminī-jana))-avahūta)-jalpanā)",
+      "vigraha": "महत्यः अष्टसिद्धयः एव कामिनीजनः, तेन अवहूता जल्पना",
+      "meaning": {
+        "en": "the chatter voiced by the women who are the eight great siddhis",
+        "hi": "आठ महासिद्धियों-रूपी स्त्रियों द्वारा मुखरित बोल"
+      },
+      "note": {
+        "en": "aṣṭa-siddhi 'the eight siddhis' is a dvigu, qualified by mahā 'great'; the siddhis are identified with kāminī-jana 'women' (a rūpaka karmadhāraya). That group is the agent of avahūta 'called out' (tṛtīyā tatpuruṣa, as with a past participle), and avahūta qualifies jalpanā 'chatter' (karmadhāraya). The final -ā is the feminine nominative singular: this is the subject of jāyatām.",
+        "hi": "अष्ट-सिद्धि 'आठ सिद्धियाँ' द्विगु है, जिसका विशेषण महा 'महान्' है; सिद्धियों को कामिनी-जन 'स्त्रियाँ' कहा गया है (रूपक कर्मधारय)। यही समूह अवहूत 'पुकारा गया, बोला गया' का कर्ता है (भूतकृदन्त के साथ तृतीया तत्पुरुष), और अवहूत जल्पना 'बातचीत' का विशेषण है (कर्मधारय)। अन्तिम '-आ' स्त्रीलिंग प्रथमा एकवचन है: यही जायताम् का कर्ता है।"
+      }
+    },
+    "c3": {
+      "members": [
+        "w5",
+        "w6"
+      ],
+      "iast": "vimukta-vāma-locanā-vivāha-kālika-dhvaniḥ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "structure": "((vimukta-(vāma-locanā))-((vivāha-kālika)-dhvani))",
+      "vigraha": "विमुक्ते वामे लोचने यासां ताः विमुक्तवामलोचनाः, तासां विवाहकालिकः ध्वनिः",
+      "meaning": {
+        "en": "the wedding-hour sound of the women whose lovely eyes roam free",
+        "hi": "चंचल, सुन्दर नेत्रों वाली स्त्रियों की विवाह-बेला की ध्वनि"
+      },
+      "note": {
+        "en": "vimukta-vāma-locanā is a bahuvrīhi, 'women whose lovely eyes are unrestrained', i.e. playful, roving glances, as the vyakhya.org gloss takes it. vivāha-kālika 'belonging to the time of the wedding' qualifies dhvani 'sound'. The two halves stand in a genitive relation: the sound is the women's. The ending -ḥ is masculine nominative, so the compound stands beside the subject jalpanā rather than qualifying it.",
+        "hi": "विमुक्त-वाम-लोचना बहुव्रीहि है: 'जिनके सुन्दर नेत्र उन्मुक्त हैं', अर्थात् चंचल, इधर-उधर घूमती चितवन वाली स्त्रियाँ, जैसा vyakhya.org का अर्थ है। विवाह-कालिक 'विवाह के समय का' ध्वनि का विशेषण है। दोनों भागों में षष्ठी सम्बन्ध है: ध्वनि उन स्त्रियों की है। अन्तिम '-ः' पुंलिंग प्रथमा है, इसलिए यह समास कर्ता जल्पना का विशेषण नहीं, उसके साथ समानाधिकरण में खड़ा है।"
+      }
+    },
+    "c4": {
+      "members": [
+        "w8"
+      ],
+      "iast": "mantra-bhūṣaṇā",
+      "type": "bahuvrīhi",
+      "vigraha": "मन्त्रः भूषणं यस्याः सा",
+      "meaning": {
+        "en": "she whose ornament is the mantra",
+        "hi": "जिसका आभूषण मन्त्र है"
+      },
+      "note": {
+        "en": "MW records bhūṣaṇa at the end of a compound, with a feminine in -ā, for 'having something as ornament'. The mantra is the word quoted just before it, śiva iti. The feminine agrees with jalpanā.",
+        "hi": "मोनियर-विलियम्स के अनुसार समास के अन्त में भूषण (स्त्रीलिंग में '-आ') का अर्थ है 'जिसका भूषण कोई वस्तु हो'। मन्त्र वही शब्द है जो ठीक पहले उद्धृत है: 'शिव' इति। स्त्रीलिंग रूप जल्पना से मेल खाता है।"
+      }
+    },
+    "c5": {
+      "members": [
+        "w9"
+      ],
+      "iast": "jagaj-jayāya",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "जगतः जयः, तस्मै",
+      "meaning": {
+        "en": "for the conquest of the world",
+        "hi": "जगत् की विजय के लिए"
+      },
+      "note": {
+        "en": "jagat 'the world' is the object of the action noun jaya 'conquest' (karmaṇi ṣaṣṭhī). The dative states the purpose.",
+        "hi": "जगत् क्रियावाचक संज्ञा जय 'विजय' का कर्म है (कर्मणि षष्ठी)। चतुर्थी प्रयोजन बताती है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": [
+        "w1",
+        "w2"
+      ],
+      "sa": "प्रचण्डवाडवानलप्रभाशुभप्रचारणी",
+      "iast": "pracaṇḍavāḍavānalaprabhāśubhapracāraṇī",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "प्रचण्डवाडवानलप्रभाशुभप्रचारणी",
+          "iast": "pracaṇḍavāḍavānalaprabhāśubhapracāraṇī"
+        },
+        "gender": "feminine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p2"
+    },
+    {
+      "id": "p2",
+      "words": [
+        "w3",
+        "w4"
+      ],
+      "sa": "महाष्टसिद्धिकामिनीजनाऽवहूतजल्पना",
+      "iast": "mahāṣṭasiddhikāminījanā'vahūtajalpanā",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "महाष्टसिद्धिकामिनीजनाऽवहूतजल्पना",
+          "iast": "mahāṣṭasiddhikāminījanā'vahūtajalpanā"
+        },
+        "gender": "feminine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p8"
+    },
+    {
+      "id": "p3",
+      "words": [
+        "w5",
+        "w6"
+      ],
+      "sa": "विमुक्तवामलोचनाविवाहकालिकध्वनिः",
+      "iast": "vimuktavāmalocanāvivāhakālikadhvaniḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "विमुक्तवामलोचनाविवाहकालिकध्वनि",
+          "iast": "vimuktavāmalocanāvivāhakālikadhvani"
+        },
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p2"
+    },
+    {
+      "id": "p4",
+      "words": [
+        "w7"
+      ],
+      "sa": "शिव",
+      "iast": "śiva",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "शिव",
+          "iast": "śiva"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p5",
+      "words": [
+        "w7"
+      ],
+      "sa": "इति",
+      "iast": "iti",
+      "morph": {
+        "type": "avyaya"
+      },
+      "role": "nipāta",
+      "head": null
+    },
+    {
+      "id": "p6",
+      "words": [
+        "w8"
+      ],
+      "sa": "मन्त्रभूषणा",
+      "iast": "mantrabhūṣaṇā",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "मन्त्रभूषण",
+          "iast": "mantrabhūṣaṇa"
+        },
+        "gender": "feminine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p2"
+    },
+    {
+      "id": "p7",
+      "words": [
+        "w9"
+      ],
+      "sa": "जगज्जयाय",
+      "iast": "jagajjayāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "जगज्जय",
+          "iast": "jagajjaya"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "sampradāna",
+      "head": "p8"
+    },
+    {
+      "id": "p8",
+      "words": [
+        "w10"
+      ],
+      "sa": "जायताम्",
+      "iast": "jāyatām",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "जन्",
+          "iast": "jan",
+          "gana": 4
+        },
+        "prefixes": [],
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8"
+  ],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "Blazing"
+          },
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "like the fierce fire beneath the sea"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "and spreading what is auspicious,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "the chatter raised"
+          },
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "by the women who are the eight great siddhis,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "the sound of the wedding hour"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "from women whose lovely eyes roam free,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "adorned with the mantra"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "“Śiva”:"
+          },
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "may it arise"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "for the conquest of the world."
+          }
+        ]
+      ],
+      "bhavartha": "The scene, as the commentary reads it, is the wedding of Śiva and Pārvatī. The eight great siddhis have come as women and their voices ring out, while bright-eyed women sing the wedding songs. Through all that sound runs one word, “Śiva!”, and the poet calls it the ornament of the whole: a mantra. He asks that this sound, blazing like the fire under the ocean and spreading what is auspicious, should rise and win the world."
+    },
+    "hi": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "प्रचण्ड बड़वानल-सी"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "दीप्ति वाली और शुभ का प्रसार करने वाली,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "आठ महासिद्धियों-रूपी स्त्रियों द्वारा"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "मुखरित बोल,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "चंचल, सुन्दर नेत्रों वाली स्त्रियों की"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "विवाह-बेला की ध्वनि,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "'शिव' इस"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "मन्त्र से सुशोभित,"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "जगत् की विजय के लिए"
+          },
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "प्रकट हो।"
+          }
+        ]
+      ],
+      "bhavartha": "व्याख्या के अनुसार यह दृश्य शिव और पार्वती के विवाह का है। आठों महासिद्धियाँ स्त्रियों का रूप लेकर आई हैं और उनकी वाणी गूँज रही है, साथ ही चंचल नेत्रों वाली स्त्रियाँ विवाह के मंगल-गीत गा रही हैं। इस सारी ध्वनि में एक ही शब्द बार-बार गूँजता है, 'शिव!', और कवि उसे पूरे उत्सव का आभूषण, एक मन्त्र, कहता है। वह चाहता है कि समुद्र के भीतर की आग की तरह दमकती और शुभ फैलाती यह ध्वनि उठे और जगत् को जीत ले।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": [
+        "w1",
+        "w2"
+      ],
+      "kind": "context",
+      "body": {
+        "en": "What is a *vāḍava* fire? Monier-Williams spells the word *vāḍaba* or *vāḍava*, derives it from *vaḍabā*, a mare, and gives it the sense of the submarine fire, the blaze believed to burn under the ocean. *Anala* is simply 'fire', so *vāḍavānala* says the idea twice over, and *pracaṇḍa* makes it furious.\n\nWhy compare a sound to it? The vyakhya.org commentary explains: like that undersea fire, this power burns up the whole heap of sins, and once they are gone only the auspicious (*śubha*) remains to be spread. The Samskrit Academy translation on sanskritdocuments.org reads the pāda the same way, as a force that burns away sin and spreads welfare.",
+        "hi": "*वाडव* अग्नि क्या है? मोनियर-विलियम्स इस शब्द को *वाडब* या *वाडव* लिखते हैं, इसे *वडबा* (घोड़ी) से निकला बताते हैं और इसका अर्थ देते हैं समुद्र के भीतर जलने वाली आग, बड़वाग्नि। *अनल* का अर्थ सीधे 'आग' है, इसलिए *वाडवानल* एक ही बात दो बार कहता है, और *प्रचण्ड* उसे उग्र बना देता है।\n\nकिसी ध्वनि की तुलना इससे क्यों? vyakhya.org की व्याख्या बताती है: उस समुद्री आग की तरह यह शक्ति पापों के ढेर को जला देती है, और उनके नष्ट होने पर केवल शुभ (*शुभ*) बचता है, जिसका वह प्रसार करती है। sanskritdocuments.org पर संस्कृत अकादमी का अनुवाद भी इस चरण को इसी तरह पढ़ता है: पाप जलाने और कल्याण फैलाने वाली शक्ति।"
+      },
+      "citations": [
+        {
+          "source": "mw-vadaba",
+          "locator": "MW vāḍaba, p. 939",
+          "quote": "submarine fire (cf. under vaḍaba and aurva)"
+        },
+        {
+          "source": "mw-vadabaa",
+          "locator": "MW vaḍabā, p. 915",
+          "quote": "a female horse, mare"
+        },
+        {
+          "source": "mw-anala",
+          "locator": "MW anala, p. 26",
+          "quote": "m. (√ an), fire"
+        },
+        {
+          "source": "vyakhya-sts-15",
+          "locator": "श्लोक १५, व्याख्या",
+          "quote": "पाप-राशि को बड़वानल की भांति जला कर नष्ट करने वालीं"
+        },
+        {
+          "source": "sanskritdocuments-shivtand-meaning",
+          "locator": "appendix verse 15, translation",
+          "quote": "capable of burning all the sins"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": [
+        "w3",
+        "w4"
+      ],
+      "kind": "context",
+      "body": {
+        "en": "Who is talking at this wedding? The *aṣṭa-siddhi*, the eight great powers won by yoga. Monier-Williams quotes the śloka that lists them: *aṇimā, laghimā, prāpti, prākāmya, mahimā, īśitva, vaśitva* and *kāmāvasāyitā*. Here they are not abstractions but *kāminī-jana*, women, and their talk rings out. *Jalpanā*, from √jalp, is easy, murmuring speech, chatter rather than recitation.\n\nThe vyakhya.org commentary fills in the occasion: at the marriage of Śiva and Pārvatī the siddhis took female form and attended the festivities. The verse itself names the wedding only in the next line (*vivāha*), so we meet the guests before we learn the event.",
+        "hi": "इस विवाह में कौन बोल रहा है? *अष्ट-सिद्धि*, योग से प्राप्त होने वाली आठ महान् शक्तियाँ। मोनियर-विलियम्स वह श्लोक उद्धृत करते हैं जो इन्हें गिनाता है: *अणिमा, लघिमा, प्राप्ति, प्राकाम्य, महिमा, ईशित्व, वशित्व* और *कामावसायिता*। यहाँ वे अमूर्त शक्तियाँ नहीं, *कामिनी-जन*, अर्थात् स्त्रियाँ हैं, और उनकी बातचीत गूँज रही है। *जल्पना* (√जल्प् से) सहज, गुनगुनाती बोली है, पाठ नहीं, बतकही।\n\nvyakhya.org की व्याख्या अवसर बताती है: शिव और पार्वती के विवाह में सिद्धियाँ स्त्री-रूप धारण कर उत्सव में उपस्थित हुईं। श्लोक स्वयं विवाह (*विवाह*) का नाम अगली पंक्ति में ही लेता है, इसलिए हम घटना जानने से पहले अतिथियों से मिलते हैं।"
+      },
+      "citations": [
+        {
+          "source": "mw-siddhi",
+          "locator": "MW siddhi, p. 1216",
+          "quote": "aṇimā laghimā prāptiḥ prākāmyam mahimā tathā"
+        },
+        {
+          "source": "mw-kamini",
+          "locator": "MW kāminī, p. 273",
+          "quote": "a woman in general"
+        },
+        {
+          "source": "mw-jalp",
+          "locator": "MW √jalp, p. 416",
+          "quote": "to speak inarticulately, murmur"
+        },
+        {
+          "source": "vyakhya-sts-15",
+          "locator": "श्लोक १५, व्याख्या",
+          "quote": "रावण के अनुसार समस्त अष्ट महासिद्धियाँ स्त्रीस्वरूप धारण करके"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": [
+        "w5",
+        "w6"
+      ],
+      "kind": "variant",
+      "body": {
+        "en": "The witnesses split over gender, and the split runs through two words. sanskritdocuments.org and Sanskrit Wikisource print *vimukta-vāma-locanā-vivāha-kālika-dhvaniḥ* as one unbroken compound and end the verse with *mantra-bhūṣaṇā*, both with a feminine -ā. The vyakhya.org text breaks the line after a masculine *vimukta-vāma-locano* and reads *mantra-bhūṣaṇo*. In that version the subject is the masculine *dhvaniḥ*, the sound of the wedding hour, adorned with the mantra.\n\nThe feminine reading is followed here, so the subject is the women's *jalpanā* and the sound stands beside it. Only these three sources print the verse at all, and two of them agree letter for letter, so the text rests on thin support.",
+        "hi": "यहाँ पाठों में लिंग को लेकर भेद है, और यह भेद दो शब्दों तक जाता है। sanskritdocuments.org और संस्कृत विकिस्रोत *विमुक्त-वाम-लोचना-विवाह-कालिक-ध्वनिः* को एक अखण्ड समास छापते हैं और श्लोक *मन्त्र-भूषणा* पर समाप्त करते हैं, दोनों में स्त्रीलिंग '-आ'। vyakhya.org का पाठ पुंलिंग *विमुक्त-वाम-लोचनो* के बाद पंक्ति तोड़ता है और *मन्त्र-भूषणो* पढ़ता है। उस पाठ में कर्ता पुंलिंग *ध्वनिः* है, विवाह-बेला की ध्वनि, जो मन्त्र से सुशोभित है।\n\nयहाँ स्त्रीलिंग पाठ लिया गया है, इसलिए कर्ता स्त्रियों की *जल्पना* है और ध्वनि उसके साथ खड़ी है। यह श्लोक केवल इन्हीं तीन स्रोतों में मिलता है, और उनमें से दो अक्षरशः एक हैं, इसलिए पाठ का आधार कमज़ोर है।"
+      },
+      "citations": [
+        {
+          "source": "sanskritdocuments-shivtand",
+          "locator": "verse 15",
+          "quote": "विमुक्तवामलोचनाविवाहकालिकध्वनिः"
+        },
+        {
+          "source": "sanskritdocuments-shivtand",
+          "locator": "verse 15",
+          "quote": "शिवेति मन्त्रभूषणा जगज्जयाय जायताम्"
+        },
+        {
+          "source": "sa-wikisource-shivatandava",
+          "locator": "॥१५॥",
+          "quote": "विमुक्तवामलोचनाविवाहकालिकध्वनिः शिवेति मन्त्रभूषणा जगज्जयाय जायताम्"
+        },
+        {
+          "source": "vyakhya-sts-15",
+          "locator": "श्लोक १५",
+          "quote": "विमुक्तवामलोचनो विवाहकालिकध्वनिः"
+        },
+        {
+          "source": "vyakhya-sts-15",
+          "locator": "श्लोक १५",
+          "quote": "शिवेति मन्त्रभूषणो जगज्जयाय जायताम्"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a4",
+      "refs": [
+        "w7",
+        "w8"
+      ],
+      "kind": "grammar",
+      "body": {
+        "en": "Why *śiveti* and not *śiva iti*? A nominative *śivaḥ* before *iti* would drop its visarga and leave a gap: *śiva iti*. The fused *e* shows a plain *a* meeting *i*, so the word here is the bare *śiva*: the cry \"Śiva!\" or the name quoted as a word. *Iti*, Monier-Williams notes, works like inverted commas at the end of what is said, and so it fences off one word, *Śiva*, as the mantra.\n\n*Mantra-bhūṣaṇā* then calls that word an ornament: MW records *bhūṣaṇa* at the end of a compound for \"having something as ornament\". The vyakhya.org gloss turns it round and calls the name the jewel among mantras, the *mantra-rāja*. Either way, the name itself is what the verse praises.",
+        "hi": "*शिवेति* क्यों, *शिव इति* क्यों नहीं? *इति* से पहले प्रथमा *शिवः* का विसर्ग लुप्त हो जाता और बीच में अन्तर रह जाता: *शिव इति*। मिला हुआ *ए* दिखाता है कि साधारण *अ* और *इ* मिले हैं, इसलिए यहाँ शब्द केवल *शिव* है: पुकार \"शिव!\" या शब्द के रूप में उद्धृत नाम। मोनियर-विलियम्स के अनुसार *इति* कथन के अन्त में उद्धरण-चिह्न का काम करता है, और इस तरह यह एक ही शब्द, *शिव*, को मन्त्र के रूप में अलग कर देता है।\n\nफिर *मन्त्र-भूषणा* उस शब्द को आभूषण कहता है: मोनियर-विलियम्स समास के अन्त में *भूषण* का अर्थ 'जिसका भूषण कोई वस्तु हो' देते हैं। vyakhya.org का अर्थ इसे उलट देता है और नाम को मन्त्रों का रत्न, *मन्त्रराज*, कहता है। दोनों तरह से, श्लोक जिसकी स्तुति करता है वह यह नाम ही है।"
+      },
+      "citations": [
+        {
+          "source": "mw-iti",
+          "locator": "MW iti, p. 165",
+          "quote": "placed thus at the end of a speech it serves the purpose of inverted commas"
+        },
+        {
+          "source": "mw-bhushana",
+          "locator": "MW bhūṣaṇa, p. 764",
+          "quote": "having anything as ornament"
+        },
+        {
+          "source": "vyakhya-sts-15",
+          "locator": "श्लोक १५, पदच्छेद",
+          "quote": "मन्त्रभूषणः = श्रेष्ठ मन्त्र, मन्त्रराज, मन्त्रों में सिरमौर"
+        },
+        {
+          "source": "mw-shiva",
+          "locator": "MW śiva, p. 1074",
+          "quote": "auspicious, propitious, gracious"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a5",
+      "refs": [
+        "w9",
+        "w10"
+      ],
+      "kind": "sound",
+      "body": {
+        "en": "Say the close aloud: *jagaj-jayāya jāyatām*. The syllables *ja-ya* and *jā-ya* chime, though the words grow from different roots: *jaya*, victory, from √ji, and *jāyatām* from √jan, \"to be born, to come into being\". So the wish is not quite \"may it win\" but \"may it be born for the winning of the world\": let this sound come forth and prevail.\n\nThe dative *jayāya* names the purpose. The vyakhya.org commentary hears the line as a victory cry for the mantra, that it should win the world and raise its flag everywhere.",
+        "hi": "अन्तिम पंक्ति ज़ोर से बोलिए: *जगज्-जयाय जायताम्*। *ज-य* और *जा-य* की ध्वनि मेल खाती है, यद्यपि शब्द अलग-अलग धातुओं से हैं: *जय* (विजय) √जि से, और *जायताम्* √जन् से, \"जन्म लेना, अस्तित्व में आना\"। इसलिए कामना ठीक \"जीते\" नहीं, बल्कि \"जगत् की विजय के लिए जन्मे\" है: यह ध्वनि प्रकट हो और छा जाए।\n\nचतुर्थी *जयाय* प्रयोजन बताती है। vyakhya.org की व्याख्या इस पंक्ति को मन्त्र का जय-घोष मानती है: वह जगत् को जीते और हर जगह उसकी जय-पताका लहराए।"
+      },
+      "citations": [
+        {
+          "source": "mw-jaya",
+          "locator": "MW jaya, p. 412",
+          "quote": "conquest, victory, triumph"
+        },
+        {
+          "source": "mw-jan",
+          "locator": "MW √jan, p. 410",
+          "quote": "to be born or produced, come into existence"
+        },
+        {
+          "source": "vyakhya-sts-15",
+          "locator": "श्लोक १५, पदच्छेद",
+          "quote": "जगज्जयाय जायताम् = जगविजय करे, जग में उत्कर्ष हो"
+        },
+        {
+          "source": "vyakhya-sts-15",
+          "locator": "श्लोक १५, भावार्थ",
+          "quote": "इसकी जय-पताका लहराए"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "प्रचण्ड",
+          "iast": "pracaṇḍa"
+        },
+        {
+          "sa": "वाडव",
+          "iast": "vāḍava"
+        },
+        {
+          "sa": "अनल",
+          "iast": "anala"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "Final a of vāḍava and initial a of anala merge into long ā: vāḍava + anala → vāḍavānala.",
+            "hi": "वाडव का अन्तिम 'अ' और अनल का आरम्भिक 'अ' मिलकर दीर्घ 'आ' बनते हैं: वाडव + अनल → वाडवानल।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रचण्ड",
+          "iast": "pracaṇḍa",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "प्रचण्ड",
+            "iast": "pracaṇḍa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "pracaṇḍa",
+            "gloss": "excessively violent, impetuous, furious, fierce"
+          },
+          "meaning": {
+            "en": "fierce, furious",
+            "hi": "प्रचण्ड, उग्र"
+          }
+        },
+        {
+          "sa": "वाडव",
+          "iast": "vāḍava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "वाडव",
+            "iast": "vāḍava"
+          },
+          "formation": "from vaḍabā 'mare' (MW: vāḍaba, also written vāḍava)",
+          "sense": {
+            "dict": "mw",
+            "headword": "vāḍaba",
+            "gloss": "submarine fire"
+          },
+          "meaning": {
+            "en": "the submarine fire",
+            "hi": "बड़वाग्नि, समुद्र के भीतर की आग"
+          }
+        },
+        {
+          "sa": "अनल",
+          "iast": "anala",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "अनल",
+            "iast": "anala"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "anala",
+            "gloss": "fire"
+          },
+          "meaning": {
+            "en": "fire",
+            "hi": "अग्नि"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the fierce submarine fire",
+        "hi": "प्रचण्ड बड़वानल"
+      },
+      "notes": {
+        "en": "vāḍava alone already means the fire under the ocean; anala 'fire' repeats the idea (MW also lists vāḍabānala and vāḍabāgni in the same sense). The word has no case ending: it is the first part of the compound that ends in pracāraṇī (w2).",
+        "hi": "अकेला वाडव ही समुद्र के भीतर की आग का अर्थ देता है; अनल 'आग' उसी भाव को दोहराता है (मोनियर-विलियम्स वाडबानल और वाडबाग्नि भी इसी अर्थ में देते हैं)। इस शब्द की कोई विभक्ति नहीं: यह उस समास का पहला भाग है जो प्रचारणी (w2) पर समाप्त होता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-pracanda",
+        "mw-vadaba",
+        "mw-vadabanala",
+        "mw-anala",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "प्रभा",
+          "iast": "prabhā"
+        },
+        {
+          "sa": "शुभ",
+          "iast": "śubha"
+        },
+        {
+          "sa": "प्रचारणी",
+          "iast": "pracāraṇī"
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रभा",
+          "iast": "prabhā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भा",
+            "iast": "bhā",
+            "gana": 2,
+            "prefixes": [
+              "pra"
+            ],
+            "gloss": {
+              "en": "to shine forth",
+              "hi": "चमकना"
+            }
+          },
+          "formation": "pra + √bhā + aṅ (feminine action noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "prabhā",
+            "gloss": "light, splendour, radiance"
+          },
+          "meaning": {
+            "en": "blaze, radiance",
+            "hi": "दीप्ति, तेज"
+          }
+        },
+        {
+          "sa": "शुभ",
+          "iast": "śubha",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "शुभ",
+            "iast": "śubha"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "śubha",
+            "gloss": "auspiciousness, happiness, bliss, welfare"
+          },
+          "meaning": {
+            "en": "what is auspicious, welfare",
+            "hi": "शुभ, मंगल"
+          }
+        },
+        {
+          "sa": "प्रचारणी",
+          "iast": "pracāraṇī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "चर्",
+            "iast": "car",
+            "gana": 1,
+            "prefixes": [
+              "pra"
+            ],
+            "gloss": {
+              "en": "to move; (causative) to set going, spread",
+              "hi": "चलना; (णिजन्त) फैलाना"
+            }
+          },
+          "formation": "pracāraṇa (pra + causative of √car + -ana) + ṅīp (feminine -ī)",
+          "sense": {
+            "dict": "mw",
+            "headword": "pracāraṇa",
+            "gloss": "(prob.) scattering, strewing"
+          },
+          "meaning": {
+            "en": "she who spreads",
+            "hi": "प्रसार करने वाली"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "spreading what is auspicious with (that fire's) blaze",
+        "hi": "(उस अग्नि-सी) दीप्ति से शुभ का प्रसार करने वाली"
+      },
+      "notes": {
+        "en": "The feminine -ī ends the whole compound w1–w2, which qualifies the subject jalpanā (w4). sanskritdocuments.org, Wikisource and vyakhya.org's own word-split read pracāraṇī; vyakhya.org's verse text and gloss give pracāriṇī (from pracārin), with the same sense, 'she who spreads'. The commentary applies the description to the siddhis themselves rather than to their speech.",
+        "hi": "स्त्रीलिंग '-ई' पूरे समास w1–w2 का अन्त है, जो कर्ता जल्पना (w4) का विशेषण है। sanskritdocuments.org, विकिस्रोत और vyakhya.org का अपना पदच्छेद प्रचारणी पढ़ते हैं; vyakhya.org का मूल पाठ और अर्थ प्रचारिणी (प्रचारिन् से) देते हैं, अर्थ वही है: 'प्रसार करने वाली'। व्याख्या यह वर्णन उनकी वाणी पर नहीं, स्वयं सिद्धियों पर लागू करती है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(the siddhis,) fierce as the submarine fire, radiant, spreading auspiciousness",
+            "hi": "(सिद्धियाँ,) बड़वानल-सी प्रचण्ड, तेजोमयी, शुभ का प्रसार करने वाली"
+          },
+          "note": "vyakhya-sts-15 (भावार्थ) refers the three qualities to the eight siddhis, splitting the compound as pracaṇḍa + vāḍava + anala + prabhā + śubhapracāriṇī."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-prabha",
+        "mw-shubha",
+        "mw-pracarana",
+        "mw-pracarin",
+        "vyakhya-sts-15",
+        "sanskritdocuments-shivtand-meaning"
+      ]
+    },
+    "w3": {
+      "compound": "c2",
+      "padaccheda": [
+        {
+          "sa": "महा",
+          "iast": "mahā"
+        },
+        {
+          "sa": "अष्ट",
+          "iast": "aṣṭa"
+        },
+        {
+          "sa": "सिद्धि",
+          "iast": "siddhi"
+        },
+        {
+          "sa": "कामिनी",
+          "iast": "kāminī"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "ā + a → ā",
+          "explanation": {
+            "en": "Final ā of mahā and initial a of aṣṭa merge into one long ā: mahā + aṣṭa → mahāṣṭa.",
+            "hi": "महा का अन्तिम 'आ' और अष्ट का आरम्भिक 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: महा + अष्ट → महाष्ट।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "महत्",
+          "iast": "mahat",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "महत्",
+            "iast": "mahat"
+          },
+          "formation": "mahā, the compound form of mahat",
+          "sense": {
+            "dict": "mw",
+            "headword": "mahā",
+            "gloss": "in comp. for mahat"
+          },
+          "meaning": {
+            "en": "great",
+            "hi": "महान्"
+          }
+        },
+        {
+          "sa": "अष्टन्",
+          "iast": "aṣṭan",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "अष्टन्",
+            "iast": "aṣṭan"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "aṣṭan",
+            "gloss": "eight"
+          },
+          "meaning": {
+            "en": "eight",
+            "hi": "आठ"
+          }
+        },
+        {
+          "sa": "सिद्धि",
+          "iast": "siddhi",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "सिध्",
+            "iast": "sidh",
+            "gana": 4,
+            "gloss": {
+              "en": "to succeed, be accomplished",
+              "hi": "सिद्ध होना"
+            }
+          },
+          "formation": "√sidh + ktin (action noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "siddhi",
+            "gloss": "the acquisition of supernatural powers by magical means or the sup˚ faculty so acquired"
+          },
+          "meaning": {
+            "en": "supernatural power (one of the eight)",
+            "hi": "सिद्धि, अलौकिक शक्ति"
+          }
+        },
+        {
+          "sa": "कामिनी",
+          "iast": "kāminī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "कामिनी",
+            "iast": "kāminī"
+          },
+          "formation": "feminine of kāmin",
+          "sense": {
+            "dict": "mw",
+            "headword": "kāminī",
+            "gloss": "a loving or affectionate woman; a woman in general"
+          },
+          "meaning": {
+            "en": "woman",
+            "hi": "स्त्री, कामिनी"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the women who are the eight great siddhis",
+        "hi": "आठ महासिद्धियों-रूपी स्त्रियाँ"
+      },
+      "notes": {
+        "en": "The eight siddhis (aṇimā and the rest, as MW lists them) are pictured as women. kāminī joins jana in the next display word (kāminī-jana, 'womenfolk').",
+        "hi": "आठ सिद्धियों (अणिमा आदि, जैसा मोनियर-विलियम्स गिनाते हैं) को स्त्रियों के रूप में चित्रित किया गया है। कामिनी अगले शब्द के जन से जुड़ती है (कामिनी-जन, 'स्त्रियाँ')।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-maha",
+        "mw-ashtan",
+        "mw-siddhi",
+        "mw-kamini",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w4": {
+      "compound": "c2",
+      "padaccheda": [
+        {
+          "sa": "जन",
+          "iast": "jana"
+        },
+        {
+          "sa": "अवहूत",
+          "iast": "avahūta"
+        },
+        {
+          "sa": "जल्पना",
+          "iast": "jalpanā"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "Final a of jana and initial a of avahūta merge into long ā: jana + avahūta → janāvahūta. The avagraha (ऽ) in the printed text only marks where the a of ava was absorbed.",
+            "hi": "जन का अन्तिम 'अ' और अवहूत का आरम्भिक 'अ' मिलकर दीर्घ 'आ' बनते हैं: जन + अवहूत → जनावहूत। छपे पाठ का अवग्रह (ऽ) केवल यह दिखाता है कि अव का 'अ' कहाँ समा गया।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जन",
+          "iast": "jana",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "जन",
+            "iast": "jana"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jana",
+            "gloss": "often ifc. denoting one person or a number of persons collectively"
+          },
+          "meaning": {
+            "en": "folk, a group of people",
+            "hi": "जन, समूह"
+          }
+        },
+        {
+          "sa": "अवहूत",
+          "iast": "avahūta",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "ह्वे",
+            "iast": "hve",
+            "gana": 1,
+            "prefixes": [
+              "ava"
+            ],
+            "gloss": {
+              "en": "to call, call upon",
+              "hi": "पुकारना"
+            }
+          },
+          "formation": "ava + √hve + kta (past passive participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "hūta",
+            "gloss": "called, summoned, invited"
+          },
+          "meaning": {
+            "en": "called out, voiced",
+            "hi": "पुकारा गया, बोला गया"
+          }
+        },
+        {
+          "sa": "जल्पना",
+          "iast": "jalpanā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "जल्प्",
+            "iast": "jalp",
+            "gana": 1,
+            "gloss": {
+              "en": "to murmur, chatter, speak",
+              "hi": "बोलना, बतियाना"
+            }
+          },
+          "formation": "√jalp + -anā (feminine action noun; MW lists the neuter jalpana)",
+          "sense": {
+            "dict": "mw",
+            "headword": "jalpana",
+            "gloss": "saying, speaking; chattering"
+          },
+          "meaning": {
+            "en": "chatter, murmured talk",
+            "hi": "बातचीत, मुखरित बोल"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the chatter (those women) voiced",
+        "hi": "(उन स्त्रियों द्वारा) मुखरित बोल"
+      },
+      "notes": {
+        "en": "jalpanā, feminine nominative singular, closes the compound w3–w4 and is the subject of jāyatām. vyakhya.org also reads it as speech: 'मुखरित बोल, अस्फुट बातचीत का रव'. MW has only the neuter jalpana; the feminine noun is taken in the same sense. sanskritdocuments.org and Wikisource print जनाऽवहूत with an avagraha and no space; vyakhya.org prints जनावहूत जल्पना. The difference is only in spelling.",
+        "hi": "जल्पना (स्त्रीलिंग प्रथमा एकवचन) समास w3–w4 का अन्त है और जायताम् का कर्ता है। vyakhya.org भी इसे वाणी ही मानता है: 'मुखरित बोल, अस्फुट बातचीत का रव'। मोनियर-विलियम्स में केवल नपुंसक जल्पन है; स्त्रीलिंग संज्ञा उसी अर्थ में ली गई है। sanskritdocuments.org और विकिस्रोत 'जनाऽवहूत' अवग्रह के साथ और बिना अन्तर छापते हैं; vyakhya.org 'जनावहूत जल्पना' छापता है। यह केवल वर्तनी का भेद है।"
+      },
+      "confidence": "medium",
+      "sources": [
+        "mw-jana",
+        "mw-huta",
+        "mw-hve",
+        "mw-jalp",
+        "mw-jalpana",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w5": {
+      "compound": "c3",
+      "padaccheda": [
+        {
+          "sa": "विमुक्त",
+          "iast": "vimukta"
+        },
+        {
+          "sa": "वाम",
+          "iast": "vāma"
+        },
+        {
+          "sa": "लोचना",
+          "iast": "locanā"
+        }
+      ],
+      "components": [
+        {
+          "sa": "विमुक्त",
+          "iast": "vimukta",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "मुच्",
+            "iast": "muc",
+            "gana": 6,
+            "prefixes": [
+              "vi"
+            ],
+            "gloss": {
+              "en": "to loosen, set free",
+              "hi": "छोड़ना, मुक्त करना"
+            }
+          },
+          "formation": "vi + √muc + kta (past passive participle)",
+          "sense": {
+            "dict": "mw",
+            "headword": "vimukta",
+            "gloss": "unloosed, unharnessed; set free"
+          },
+          "meaning": {
+            "en": "let loose, unrestrained",
+            "hi": "उन्मुक्त, खुला छूटा"
+          }
+        },
+        {
+          "sa": "वाम",
+          "iast": "vāma",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "वाम",
+            "iast": "vāma"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "vāma",
+            "gloss": "lovely, dear, pleasant, agreeable, fair, beautiful"
+          },
+          "meaning": {
+            "en": "lovely, fair",
+            "hi": "सुन्दर"
+          }
+        },
+        {
+          "sa": "लोचन",
+          "iast": "locana",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "लोचन",
+            "iast": "locana"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "locana",
+            "gloss": "the eye (ifc. f(ā))"
+          },
+          "meaning": {
+            "en": "eye",
+            "hi": "नेत्र"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(of the) women whose lovely eyes roam free",
+        "hi": "चंचल, सुन्दर नेत्रों वाली (स्त्रियों की)"
+      },
+      "notes": {
+        "en": "vāma-locanā, 'the fair-eyed one', is a word for a woman (MW). With vimukta it becomes a bahuvrīhi, women whose lovely eyes are let loose: playful, darting glances, as vyakhya.org renders it (कटीले, चपल-चंचल नेत्रों वाली). The final -ā is the feminine stem kept inside the compound, not a case ending. vyakhya.org reads masculine vimuktavāmalocano as a separate word; see the note.",
+        "hi": "वाम-लोचना, 'सुन्दर नेत्रों वाली', स्त्री का पर्याय है (मोनियर-विलियम्स)। विमुक्त के साथ यह बहुव्रीहि बनता है: वे स्त्रियाँ जिनके सुन्दर नेत्र उन्मुक्त हैं, यानी चंचल, इधर-उधर दौड़ती चितवन, जैसा vyakhya.org कहता है (कटीले, चपल-चंचल नेत्रों वाली)। अन्तिम '-आ' समास के भीतर रखा गया स्त्रीलिंग प्रातिपदिक है, विभक्ति नहीं। vyakhya.org पुंलिंग 'विमुक्तवामलोचनो' को अलग शब्द पढ़ता है; टिप्पणी देखें।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(he) whose lovely eyes roam free (masculine, qualifying the sound)",
+            "hi": "चंचल, सुन्दर नेत्रों वाला (पुंलिंग, ध्वनि का विशेषण)"
+          },
+          "note": "vyakhya-sts-15 reads विमुक्तवामलोचनो as a separate masculine word; sanskritdocuments-shivtand and sa-wikisource-shivatandava read the feminine compound member."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-vimukta",
+        "mw-vama",
+        "mw-vamalocana",
+        "mw-locana",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w6": {
+      "compound": "c3",
+      "padaccheda": [
+        {
+          "sa": "विवाह",
+          "iast": "vivāha"
+        },
+        {
+          "sa": "कालिक",
+          "iast": "kālika"
+        },
+        {
+          "sa": "ध्वनिः",
+          "iast": "dhvaniḥ"
+        }
+      ],
+      "components": [
+        {
+          "sa": "विवाह",
+          "iast": "vivāha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "वह्",
+            "iast": "vah",
+            "gana": 1,
+            "prefixes": [
+              "vi"
+            ],
+            "gloss": {
+              "en": "to carry, lead",
+              "hi": "ले जाना"
+            }
+          },
+          "formation": "vi + √vah + ghañ (action noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "vivāha",
+            "gloss": "leading away (of the bride from her father's house), taking a wife, marriage"
+          },
+          "meaning": {
+            "en": "wedding, marriage",
+            "hi": "विवाह"
+          }
+        },
+        {
+          "sa": "कालिक",
+          "iast": "kālika",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          "formation": "kāla + ṭhañ (-ika, 'relating to')",
+          "sense": {
+            "dict": "mw",
+            "headword": "kālika",
+            "gloss": "relating to or connected with or depending on time (often ifc.)"
+          },
+          "meaning": {
+            "en": "belonging to the time (of)",
+            "hi": "समय का, बेला का"
+          }
+        },
+        {
+          "sa": "ध्वनि",
+          "iast": "dhvani",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "ध्वन्",
+            "iast": "dhvan",
+            "gana": 1,
+            "gloss": {
+              "en": "to sound",
+              "hi": "ध्वनि करना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "dhvani",
+            "gloss": "sound, echo, noise, voice, tone, tune"
+          },
+          "meaning": {
+            "en": "sound",
+            "hi": "ध्वनि"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the sound of the wedding hour",
+        "hi": "विवाह-बेला की ध्वनि"
+      },
+      "notes": {
+        "en": "Masculine nominative singular, ending the compound w5–w6. It stands in apposition to the feminine subject jalpanā: the women's chatter and the wedding sound are one stream of voices. vyakhya.org explains it as the auspicious songs sung at the time of the wedding.",
+        "hi": "पुंलिंग प्रथमा एकवचन, समास w5–w6 का अन्त। यह स्त्रीलिंग कर्ता जल्पना के समानाधिकरण में है: स्त्रियों की बातचीत और विवाह की ध्वनि एक ही स्वर-धारा हैं। vyakhya.org इसे विवाह के समय गाए जाने वाले मंगल-गीतों की ध्वनि बताता है।"
+      },
+      "confidence": "medium",
+      "sources": [
+        "mw-vivaha",
+        "mw-kalika",
+        "mw-dhvani",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w7": {
+      "padaccheda": [
+        {
+          "sa": "शिव",
+          "iast": "śiva"
+        },
+        {
+          "sa": "इति",
+          "iast": "iti"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "a + i → e",
+          "explanation": {
+            "en": "Final a of śiva and initial i of iti merge into e: śiva + iti → śiveti.",
+            "hi": "शिव का अन्तिम 'अ' और इति का आरम्भिक 'इ' मिलकर 'ए' बनते हैं: शिव + इति → शिवेति।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "शिव",
+          "iast": "śiva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "śiva",
+            "gloss": "‘The Auspicious one’, N. of the disintegrating or destroying and reproducing deity"
+          },
+          "meaning": {
+            "en": "Śiva, the auspicious one",
+            "hi": "शिव, मंगलमय"
+          }
+        },
+        {
+          "sa": "इति",
+          "iast": "iti",
+          "pos": "indeclinable",
+          "sense": {
+            "dict": "mw",
+            "headword": "iti",
+            "gloss": "in this manner, thus (marks the preceding words as quoted)"
+          },
+          "meaning": {
+            "en": "thus (closing a quotation)",
+            "hi": "इस प्रकार (उद्धरण-सूचक)"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the word “Śiva”",
+        "hi": "'शिव' यह शब्द"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "śiva here is the bare name, the cry 'Śiva!', not the nominative śivaḥ, which would give śiva iti with a gap. iti marks it as a quoted word: the name itself is the mantra of w8.",
+        "hi": "यहाँ शिव केवल नाम है, पुकार 'शिव!', प्रथमा 'शिवः' नहीं, जिससे 'शिव इति' (बीच में अन्तर) बनता। इति इसे उद्धृत शब्द के रूप में चिह्नित करता है: यही नाम w8 का मन्त्र है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-shiva",
+        "mw-iti",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w8": {
+      "compound": "c4",
+      "padaccheda": [
+        {
+          "sa": "मन्त्र",
+          "iast": "mantra"
+        },
+        {
+          "sa": "भूषणा",
+          "iast": "bhūṣaṇā"
+        }
+      ],
+      "components": [
+        {
+          "sa": "मन्त्र",
+          "iast": "mantra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "मन्त्र",
+            "iast": "mantra"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "mantra",
+            "gloss": "a sacred formula addressed to any individual deity"
+          },
+          "meaning": {
+            "en": "mantra, sacred formula",
+            "hi": "मन्त्र"
+          }
+        },
+        {
+          "sa": "भूषण",
+          "iast": "bhūṣaṇa",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "भूषण",
+            "iast": "bhūṣaṇa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "bhūṣaṇa",
+            "gloss": "embellishment, ornament, decoration (often ifc., with f(ā), ‘having anything as ornament’)"
+          },
+          "meaning": {
+            "en": "ornament",
+            "hi": "आभूषण, भूषण"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "adorned with the mantra",
+        "hi": "मन्त्र से सुशोभित"
+      },
+      "literal": {
+        "en": "having the mantra as ornament",
+        "hi": "जिसका भूषण मन्त्र है"
+      },
+      "notes": {
+        "en": "Feminine nominative, agreeing with jalpanā. vyakhya.org reads masculine mantrabhūṣaṇo and glosses it as the finest of mantras, the mantra-rāja, with the name Śiva as the subject.",
+        "hi": "स्त्रीलिंग प्रथमा, जल्पना से मेल। vyakhya.org पुंलिंग 'मन्त्रभूषणो' पढ़ता है और इसका अर्थ श्रेष्ठ मन्त्र, मन्त्रराज, देता है, जिसमें शिव-नाम ही कर्ता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(the name Śiva,) the jewel among mantras",
+            "hi": "(शिव-नाम,) मन्त्रों में सिरमौर"
+          },
+          "note": "vyakhya-sts-15 reads मन्त्रभूषणो and glosses 'श्रेष्ठ मन्त्र, मन्त्रराज'; sanskritdocuments-shivtand and sa-wikisource-shivatandava read मन्त्रभूषणा."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-mantra",
+        "mw-bhushana",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w9": {
+      "compound": "c5",
+      "padaccheda": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        {
+          "sa": "जयाय",
+          "iast": "jayāya"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + j → j + j",
+          "explanation": {
+            "en": "Final t of jagat becomes j before the j of jaya: jagat + jaya → jagajjaya.",
+            "hi": "जगत् का अन्तिम 'त्' आगे के 'ज' के कारण 'ज्' बन जाता है: जगत् + जय → जगज्जय।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jagat",
+            "gloss": "the world, esp. this world, earth"
+          },
+          "meaning": {
+            "en": "the world",
+            "hi": "जगत्, संसार"
+          }
+        },
+        {
+          "sa": "जय",
+          "iast": "jaya",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "जि",
+            "iast": "ji",
+            "gana": 1,
+            "gloss": {
+              "en": "to conquer, win",
+              "hi": "जीतना"
+            }
+          },
+          "formation": "√ji + ac (action noun)",
+          "sense": {
+            "dict": "mw",
+            "headword": "jaya",
+            "gloss": "conquest, victory, triumph"
+          },
+          "meaning": {
+            "en": "victory, conquest",
+            "hi": "विजय"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "for the conquest of the world",
+        "hi": "जगत् की विजय के लिए"
+      },
+      "notes": {
+        "en": "Dative singular of purpose: what the sound should arise for.",
+        "hi": "प्रयोजन में चतुर्थी एकवचन: ध्वनि किस लिए प्रकट हो।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-jagat",
+        "mw-jagaj",
+        "mw-jaya",
+        "vyakhya-sts-15"
+      ]
+    },
+    "w10": {
+      "padaccheda": [
+        {
+          "sa": "जायताम्",
+          "iast": "jāyatām"
+        }
+      ],
+      "components": [
+        {
+          "sa": "जायताम्",
+          "iast": "jāyatām",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "जन्",
+            "iast": "jan",
+            "gana": 4,
+            "gloss": {
+              "en": "to be born, come into existence",
+              "hi": "जन्म लेना, उत्पन्न होना"
+            }
+          },
+          "formation": "loṭ (imperative), 3rd person singular, ātmanepada",
+          "sense": {
+            "dict": "mw",
+            "headword": "jan",
+            "gloss": "to be born or produced, come into existence"
+          },
+          "meaning": {
+            "en": "may (it) arise",
+            "hi": "प्रकट हो, उत्पन्न हो"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "may it arise",
+        "hi": "प्रकट हो"
+      },
+      "notes": {
+        "en": "√jan in the fourth class (jāyate) is ātmanepada; jāyatām is its imperative, a wish. vyakhya.org renders the line as 'may it conquer the world'. Vidyut also lists a form of √jai here, which does not fit the sense.",
+        "hi": "चतुर्थ गण में √जन् (जायते) आत्मनेपदी है; जायताम् उसका लोट् (कामना) रूप है। vyakhya.org पंक्ति का अर्थ 'जग-विजय करे' देता है। Vidyut यहाँ √जै का रूप भी बताता है, जो अर्थ में नहीं बैठता।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-jan",
+        "vyakhya-sts-15",
+        "sanskritdocuments-shivtand-meaning"
+      ]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-10-24",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  }
+}

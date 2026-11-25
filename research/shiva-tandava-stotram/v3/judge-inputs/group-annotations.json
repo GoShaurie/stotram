@@ -1,0 +1,1802 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Rāvaṇa, the king of Laṅkā and a devotee of Śiva.",
+      "hi": "परम्परा से लंकापति रावण द्वारा रचित माना जाता है, जो शिव के परम भक्त थे।"
+    },
+    "sources": [
+      {
+        "id": "ai-draft",
+        "name": "AI-generated first draft (unverified)",
+        "kind": "ai"
+      },
+      {
+        "id": "stotram-text",
+        "name": "Śivatāṇḍavastotram, the hymn's own text (incl. phalaśruti)",
+        "kind": "text",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "valmiki-ramayana",
+        "name": "Vālmīki Rāmāyaṇa",
+        "kind": "text",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "nandikeshvara-kashika",
+        "name": "Nandikeśvara-kāśikā (verses on the Māheśvara sūtras)",
+        "kind": "commentary",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "ashtadhyayi",
+        "name": "Pāṇini, Aṣṭādhyāyī",
+        "kind": "text",
+        "note": "Locator suggested in an AI draft; confirm against a printed edition before review."
+      },
+      {
+        "id": "mw-bhram",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√bhram' (SLP1 key: Bram)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Bram&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-dhagaddhagiti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhagaddhag-iti' (SLP1 key: DagadDagiti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DagadDagiti&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-dhagiti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhag-iti' (SLP1 key: Dagiti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Dagiti&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-jval",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√jval' (SLP1 key: jval)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jval&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-kataha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kaṭāha' (SLP1 key: kawAha)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kawAha&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-kishora",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kiśora' (SLP1 key: kiSora)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kiSora&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-lalata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'lalāṭa' (SLP1 key: lalAwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lalAwa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-lul",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√lul' (SLP1 key: lul)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lul&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-murdhan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mūrdhan' (SLP1 key: mUrDan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mUrDan&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-nilimpa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nilimpa' (SLP1 key: nilimpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nilimpa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-nirjhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirjhara / nirjharī' (SLP1 key: nirJarI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirJarI&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-patta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paṭṭa' (SLP1 key: pawwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pawwa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-pavaka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāvaka' (SLP1 key: pAvaka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pAvaka&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-pratikshanam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pratikṣaṇam' (SLP1 key: pratikzaRam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pratikzaRam&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-raj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√rāj' (SLP1 key: rAj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rAj&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-rati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rati' (SLP1 key: rati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rati&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-sambhrama",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sambhrama' (SLP1 key: samBrama)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=samBrama&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-shekhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śekhara' (SLP1 key: SeKara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SeKara&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vallari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vallarī' (SLP1 key: vallarI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vallarI&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vici",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vīci' (SLP1 key: vIci)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vIci&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vilola",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vilola' (SLP1 key: vilola)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vilola&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-viraj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vi-√rāj' (SLP1 key: virAj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=virAj&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), ed. Swami Devarupananda, Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007 — शिवताण्डवस्तोत्रम् [15] (श्री रावण कृतम्); scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/468/mode/1up"
+      },
+      {
+        "id": "sa-wikisource-shivatandava",
+        "name": "विकिस्रोतः (Sanskrit Wikisource) — शिवताण्डवस्तोत्रम् (रावण); headed \"॥अथ सुसंशुद्धं रावणकृतशिवताण्डवस्तोत्रम्॥\"",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"
+      },
+      {
+        "id": "sanskritdocuments-shivtand-meaning",
+        "name": "sanskritdocuments.org — Shivatandava Stotra with meaning (shivTAND_meaning.itx); word-meanings and translation by Dr. Sarasvati Mohan and students, Samskrit Academy, San Jose CA",
+        "kind": "translation",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivTAND_meaning.html"
+      },
+      {
+        "id": "sanskritdocuments-shivtand",
+        "name": "sanskritdocuments.org — श्रीशिवताण्डवस्तोत्रम् रावणरचितम् (shivtAND.itx; transliterated and proofread by Girish Beeharry and Sushil D. Sharma; \"Extended version with 17 verses\")",
+        "kind": "text",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivtAND.html"
+      },
+      {
+        "id": "shlokam-shiva-tandava",
+        "name": "shlokam.org — Shiva Tandava Stotram (Devanagari, IAST, simplified roman, verse translation, word-meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/shiva-tandava-stotram.htm"
+      },
+      {
+        "id": "vyakhya-sts-2",
+        "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक २ (Shloka 2 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+        "kind": "commentary",
+        "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-2/"
+      },
+      {
+        "id": "vyakhya-sts-3",
+        "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक ३ (Shloka 3 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+        "kind": "commentary",
+        "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-3/"
+      },
+      {
+        "id": "mw-apad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '2. āpad' (SLP1 key: Apad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Apad&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-bandhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bandhu' (SLP1 key: banDu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=banDu&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-bandhura",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bandhura' (SLP1 key: banDura)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=banDura&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-dharadhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dharā-dhara' (SLP1 key: DarADara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DarADara&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-dhorani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhoraṇī' (SLP1 key: DoraRI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DoraRI&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-digambara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dig-ambara' (SLP1 key: digambara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=digambara&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-diganta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dig-anta' (SLP1 key: diganta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=diganta&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-durdhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dur-dhara' (SLP1 key: durDara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=durDara&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-i",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '5. √i' (SLP1 key: i)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=i&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-kataksha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kaṭākṣa' (SLP1 key: kawAkza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kawAkza&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-nandini",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nandinī' (SLP1 key: nandinI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nandinI&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-nirudh",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ni-√rudh' (SLP1 key: niruD)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=niruD&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-pramud",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pra-√mud' (SLP1 key: pramud)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pramud&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-santati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'saṃ-tati' (SLP1 key: saMtati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=saMtati&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-sphur",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '√sphur' (SLP1 key: sPur)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sPur&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vastu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry '2. vastu' (SLP1 key: vastu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vastu&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vilasa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vi-lāsa' (SLP1 key: vilAsa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vilAsa&input=slp1&output=iast&accent=no"
+      },
+      {
+        "id": "mw-vinoda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vi-noda' (SLP1 key: vinoda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vinoda&input=slp1&output=iast&accent=no"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v3",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "धराधरेन्द्रनन्दिनी",
+            "iast": "dharādharendranandinī"
+          },
+          {
+            "id": "w2",
+            "text": "विलासबन्धुबन्धुर",
+            "iast": "vilāsabandhubandhura"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "स्फुरद्दिगन्तसन्तति",
+            "iast": "sphuraddigantasantati"
+          },
+          {
+            "id": "w4",
+            "text": "प्रमोदमानमानसे",
+            "iast": "pramodamānamānase"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "कृपाकटाक्षधोरणी",
+            "iast": "kṛpākaṭākṣadhoraṇī"
+          },
+          {
+            "id": "w6",
+            "text": "निरुद्धदुर्धरापदि",
+            "iast": "niruddhadurdharāpadi"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "क्वचिद्दिगम्बरे",
+            "iast": "kvaciddigambare"
+          },
+          {
+            "id": "w8",
+            "text": "मनो",
+            "iast": "mano"
+          },
+          {
+            "id": "w9",
+            "text": "विनोदमेतु",
+            "iast": "vinodametu"
+          },
+          {
+            "id": "w10",
+            "text": "वस्तुनि",
+            "iast": "vastuni"
+          }
+        ],
+        "end": "॥ ३ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "Who is the daughter of the 'lord of the earth-bearers'? *Dharā-dhara*, 'earth-bearer', is a name for a mountain, so *dharādharendra* is the king of mountains, and his *nandinī* (daughter) is Pārvatī; the vyakhya.org commentary names the father as Himālaya.\n\nŚiva enters only as her *bandhu*, her companion in play, and a *bandhura*, charming, one: two different words set side by side so the sound chimes. The commentary dwells on the pair: Śiva and Śakti cannot live apart, and Pārvatī, born in the mountain's house, did penance to win Mahādeva under a vow:\n\n> vriye 'haṃ varadaṃ śambhuṃ nānyaṃ devaṃ maheśvarāt\n\n'I choose Śambhu, the giver of boons, and no god but Maheśvara.'",
+          "hi": "'धरा धारण करने वालों के स्वामी' की पुत्री कौन है? *धराधर*, यानी 'पृथ्वी को धारण करने वाला', पर्वत का नाम है; इसलिए *धराधरेन्द्र* पर्वतों का राजा है और उसकी *नन्दिनी* (पुत्री) पार्वती हैं। vyakhya.org की व्याख्या पिता का नाम हिमालय बताती है।\n\nशिव यहाँ केवल उनके *बन्धु* बनकर आते हैं, क्रीड़ा के साथी, और वह भी *बन्धुर* यानी मनोहर: दो अलग शब्द पास-पास रखे गए हैं, जिससे ध्वनि गूँजती है। व्याख्या इस जोड़ी पर ठहरती है: शिव और शक्ति एक-दूसरे से अलग नहीं रह सकते, और पर्वतराज के घर जन्मी पार्वती ने महादेव को पाने के लिए तप किया, इस प्रण के साथ:\n\n> व्रियेऽहं वरदं शम्भुं नान्यं देवं महेश्वरात्\n\n'मैं वर देने वाले शम्भु को ही चुनती हूँ, महेश्वर के सिवा किसी और देव को नहीं।'"
+        },
+        "citations": [
+          {
+            "source": "mw-dharadhara",
+            "locator": "MW dharā-dhara, p. 510",
+            "quote": "earth-bearer"
+          },
+          {
+            "source": "mw-nandini",
+            "locator": "MW nandinī, p. 527",
+            "quote": "f. a daughter"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 3, word-meanings",
+            "quote": "lord of mountains (dharā:earth | dhara:bearer | indra:lord)"
+          },
+          {
+            "source": "mw-bandhu",
+            "locator": "MW bandhu, p. 721",
+            "quote": "a friend (opp. to ripu)"
+          },
+          {
+            "source": "mw-bandhura",
+            "locator": "MW bandhura, p. 721",
+            "quote": "curved, rounded, pleasant, beautiful, charming"
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, व्याख्या",
+            "quote": "शिव तथा शक्ति एक-दूसरे से वियुक्त हो कर नहीं रह सकते"
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, व्याख्या",
+            "quote": "व्रियेऽहं वरदं शम्भुं नान्यं देवं महेश्वरात्"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w3",
+          "w4"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Why would Śiva's heart rejoice at the horizon? The words paint it: *sphurat* 'flashing', *diganta* 'the ends of the quarters', *santati* 'an unbroken stretch', the whole skyline glittering at once. The vyakhya.org paraphrase finds the cause in the first line: Pārvatī's play lights up the quarters, and her companion is glad to see it.\n\nNot every reader sees a skyline. The Samskrit Academy gloss takes *santati* in another dictionary sense, a multitude or progeny, and reads 'all living beings'. shlokam.org splits the end as *pramoda-māna-mānase* and finds 'pride' (*māna*) in it; the split followed here, with vyakhya.org, is *pramodamāna* 'rejoicing', from pra-√mud.",
+          "hi": "शिव का मन क्षितिज को देखकर क्यों खिलता है? शब्द ही चित्र बनाते हैं: *स्फुरत्* 'चमकता', *दिगन्त* 'दिशाओं का छोर', *सन्तति* 'अटूट फैलाव', पूरा क्षितिज एक साथ जगमगाता हुआ। vyakhya.org का भावार्थ इसका कारण पहली पंक्ति में देखता है: पार्वती की क्रीड़ा से दिशाएँ प्रकाशित होती हैं, और उन्हें देखकर उनके साथी का मन प्रसन्न होता है।\n\nसब इसे क्षितिज नहीं पढ़ते। संस्कृत अकादमी का शब्दार्थ *सन्तति* का दूसरा कोश-अर्थ (समूह, सन्तान) लेकर 'सभी प्राणी' अर्थ करता है। shlokam.org अन्त को *प्रमोद-मान-मानसे* तोड़कर उसमें 'मान' (गर्व) पाता है; यहाँ vyakhya.org के साथ *प्रमोदमान* 'आनन्दित होता हुआ' (प्र-√मुद्) लिया गया है।"
+        },
+        "citations": [
+          {
+            "source": "mw-sphur",
+            "locator": "MW √sphur, p. 1270",
+            "quote": "to flash, glitter, gleam, glisten, twinkle, sparkle"
+          },
+          {
+            "source": "mw-diganta",
+            "locator": "MW dig-anta, p. 479",
+            "quote": "the end of the horizon"
+          },
+          {
+            "source": "mw-santati",
+            "locator": "MW saṃ-tati, p. 1142",
+            "quote": "a continuous line or series or flow, heap, mass, multitude"
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, भावार्थ",
+            "quote": "दिशाओं को प्रकाशित होते देख"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 3, word-meanings",
+            "quote": "glorious-horizon-all living beings-rejoicing-mind"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 3, word-meanings",
+            "quote": "in the mind of pride"
+          },
+          {
+            "source": "mw-pramud",
+            "locator": "MW pra-√mud, p. 686",
+            "quote": "to become joyful, rejoice greatly, exult, be delighted"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w5",
+          "w6"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "What protects here is a look. A *kaṭākṣa* is a glance or side look, and this one is full of *kṛpā*, compassion. It never comes alone: *dhoraṇī* means 'an uninterrupted series', glance after glance like a steady current. What it stops (*niruddha*, from ni-√rudh 'to hold back, check') are *durdhara* calamities, ones 'difficult to be borne'.\n\nshlokam.org and the Samskrit Academy gloss give the unbroken flow to the glances, as the order of the compound suggests. The vyakhya.org paraphrase gives it to the troubles instead: calamities that keep on coming, ended by a single gracious look.",
+          "hi": "यहाँ रक्षा एक दृष्टि करती है। *कटाक्ष* तिरछी नज़र या दृष्टि है, और यह *कृपा* से भरी है। यह अकेली नहीं आती: *धोरणी* का अर्थ है 'अटूट क्रम', एक के बाद एक दृष्टि, लगातार बहती धारा की तरह। यह जिन्हें रोकती है (*निरुद्ध*, नि-√रुध् 'रोकना, थामना' से), वे *दुर्धर* विपत्तियाँ हैं, जिन्हें 'सहना कठिन' है।\n\nshlokam.org और संस्कृत अकादमी का शब्दार्थ अटूट धारा को दृष्टि से जोड़ते हैं, जैसा समास का क्रम भी बताता है। vyakhya.org का भावार्थ इसे विपत्तियों से जोड़ता है: लगातार आती विपदाएँ, जो कृपा की एक दृष्टि से मिट जाती हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-kataksha",
+            "locator": "MW kaṭākṣa, p. 243",
+            "quote": "a glance or side look"
+          },
+          {
+            "source": "mw-dhorani",
+            "locator": "MW dhoraṇī, p. 520",
+            "quote": "an uninterrupted series"
+          },
+          {
+            "source": "mw-nirudh",
+            "locator": "MW ni-√rudh, p. 553",
+            "quote": "to hold back, stop, hinder"
+          },
+          {
+            "source": "mw-durdhara",
+            "locator": "MW dur-dhara, p. 485",
+            "quote": "difficult to be carried or borne or suffered"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 3, word-meanings",
+            "quote": "stream of merciful glance"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 3, word-meanings",
+            "quote": "compassion-look-continuous flow-obstructed-hardships"
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, भावार्थ",
+            "quote": "निरंतर आने वाली दुस्सह आपदाएं"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w7"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "*Dig-ambara*, 'whose garment is the quarters', is the sky-clad one, wearing nothing but space; Monier-Williams lists it as a name of Śiva. The vyakhya.org commentary reads it inward as well: Rāvaṇa praises a Lord who is *digambara* and beyond the senses (*indriyātīta*).\n\nOne witness records another reading. sanskritdocuments.org prints *kvacic-cidambare* in parentheses beside *kvacid-digambare*, with *cit* (consciousness) in place of *dik* (quarter). The swap keeps the short-long rhythm of the line exactly. Every other witness gathered here, including the Ramakrishna Math print and Wikisource, has *digambare*, and that reading is kept.",
+          "hi": "*दिग्-अम्बर*, 'दिशाएँ ही जिसका वस्त्र हैं', वह है जो आकाश को ही ओढ़े है; मोनियर-विलियम्स इसे शिव का नाम बताते हैं। vyakhya.org की व्याख्या इसे भीतर की ओर भी पढ़ती है: रावण ऐसे आराध्य का गान करता है जो दिगम्बर भी है और *इन्द्रियातीत* भी।\n\nएक स्रोत में दूसरा पाठ भी मिलता है। sanskritdocuments.org *क्वचिद्-दिगम्बरे* के पास कोष्ठक में *क्वचिच्-चिदम्बरे* छापता है, जिसमें *दिक्* (दिशा) की जगह *चित्* (चेतना) है। इस बदलाव से पंक्ति की लघु-गुरु लय ज्यों की त्यों रहती है। यहाँ जुटाए गए बाकी सभी स्रोत, रामकृष्ण मठ की छपी प्रति और विकिस्रोत समेत, *दिगम्बरे* पढ़ते हैं, और वही पाठ रखा गया है।"
+        },
+        "citations": [
+          {
+            "source": "mw-digambara",
+            "locator": "MW dig-ambara, p. 480",
+            "quote": "N. of Śiva or Skanda, L."
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, शब्दार्थ",
+            "quote": "दिशाएं हैं वस्त्र जिसके"
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, व्याख्या",
+            "quote": "रावण अपने दिगम्बर, इन्द्रियातीत आराध्य की महिमा का गान करता है"
+          },
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 3, line 4",
+            "quote": "क्वचिद्दिगम्बरे(क्वचिच्चिदम्बरे)"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 468, verse ३",
+            "quote": "क्वचिद्दिगम्बरे"
+          },
+          {
+            "source": "sa-wikisource-shivatandava",
+            "locator": "॥३॥",
+            "quote": "क्वचिद्दिगम्बरे मनो विनोदमेतु वस्तुनि"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w8",
+          "w9",
+          "w10"
+        ],
+        "kind": "grammar",
+        "body": {
+          "en": "Why is every description in this verse a locative (*-mānase*, *-āpadi*, *digambare*)? They all lean on the last word, *vastuni*, 'in the thing'. *Vastu* is a plain neuter noun, a thing or object, but Monier-Williams also gives the philosophers' sense, 'the real'. The poet never says 'in Śiva': he says in a certain (*kvacit*) sky-clad Reality.\n\nThe verb is *etu*, 'may it go' (√i, imperative): the mind is to go to *vinoda*, a word that first means 'driving away' and then 'diversion, pastime'. Whose mind? The vyakhya.org anvaya supplies *me*, 'my'. Verse 2 asked that love rest in Śiva ([rati](#v2-a5)); here the restless mind is sent there to play.",
+          "hi": "इस श्लोक का हर वर्णन सप्तमी में क्यों है (*-मानसे*, *-आपदि*, *दिगम्बरे*)? सब अन्तिम शब्द *वस्तुनि* ('वस्तु में') पर टिके हैं। *वस्तु* सीधा-सादा नपुंसक शब्द है, चीज़ या पदार्थ, पर मोनियर-विलियम्स इसका दार्शनिक अर्थ 'सत्, जो वास्तव में है' भी देते हैं। कवि 'शिव में' नहीं कहता; वह कहता है: किसी (*क्वचित्*) दिगम्बर वस्तु में।\n\nक्रिया *एतु* है, 'जाए' (√इ, लोट्): मन को *विनोद* तक जाना है, जिसका पहला अर्थ 'दूर भगाना' है और फिर 'बहलाव, मनोरंजन'। किसका मन? vyakhya.org का अन्वय *मे* (मेरा) जोड़ता है। दूसरे श्लोक में प्रार्थना थी कि प्रीति शिव में टिकी रहे ([रति](#v2-a5)); यहाँ चंचल मन को वहीं रमने भेजा जाता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-vastu",
+            "locator": "MW 2. vastu, p. 932",
+            "quote": "(in phil.) the real"
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, शब्दार्थ",
+            "quote": "क्वचित् = ऐसे किसी"
+          },
+          {
+            "source": "mw-i",
+            "locator": "MW 5. √i",
+            "quote": "to arrive at, reach, obtain"
+          },
+          {
+            "source": "mw-vinoda",
+            "locator": "MW vi-noda, p. 972",
+            "quote": "driving away, removal"
+          },
+          {
+            "source": "mw-vinoda",
+            "locator": "MW vi-noda, p. 972",
+            "quote": "diversion, sport, pastime, pleasure"
+          },
+          {
+            "source": "vyakhya-sts-3",
+            "locator": "श्लोक ३, अन्वय",
+            "quote": "क्वचिद् दिगम्बरे वस्तुनि ( मे )"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "May"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "my"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "mind"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "find its delight"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "in a certain sky-clad"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "Reality:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "the charming companion"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "of the mountain king's daughter"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "in her play,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "whose heart rejoices"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "at the shining expanse of the far horizons,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "whose unbroken stream of compassionate glances"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "holds back calamities too heavy to bear."
+            }
+          ]
+        ],
+        "bhavartha": "The whole verse is one wish, kept back until the last line: that the poet's mind may find its pleasure in Śiva, whom he does not even name, calling Him only a certain sky-clad Reality. Three portraits come first. He is the handsome partner of Pārvatī, the mountain king's daughter, in her play; His heart fills with joy as the horizons gleam on every side; and His steady stream of kind glances stops misfortunes that no one could otherwise bear."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "पर्वतराज की पुत्री (पार्वती) की"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "क्रीड़ाओं के मनोहर साथी,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "दूर-दूर तक जगमगाती दिशाओं के विस्तार पर"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "जिनका मन आनन्द से खिल उठता है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "जिनकी करुणा-भरी दृष्टि की अविरल धारा"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "असहनीय विपत्तियों को रोक देती है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "ऐसे किसी दिगम्बर"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "तत्त्व में"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "मेरा"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "मन"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "आनन्द पाए।"
+            }
+          ]
+        ],
+        "bhavartha": "पूरा श्लोक एक ही कामना है, जो अन्तिम पंक्ति में जाकर खुलती है: कवि का मन शिव में रमे, जिन्हें वह नाम से नहीं पुकारता, केवल 'कोई दिगम्बर वस्तु' कहता है। उससे पहले तीन चित्र आते हैं। वे पर्वतराज की बेटी पार्वती की क्रीड़ाओं के सुन्दर साथी हैं; चारों ओर क्षितिज को जगमगाता देखकर उनका मन खिल उठता है; और उनकी दया-भरी दृष्टि की लगातार धारा उन संकटों को रोक देती है जिन्हें कोई और सह नहीं सकता।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "धरा",
+            "iast": "dharā"
+          },
+          {
+            "sa": "धर",
+            "iast": "dhara"
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra"
+          },
+          {
+            "sa": "नन्दिनी",
+            "iast": "nandinī"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + i → e",
+            "explanation": {
+              "en": "The final a of dharādhara and the initial i of indra merge into e: dharādhara + indra → dharādharendra.",
+              "hi": "धराधर का अन्तिम 'अ' और इन्द्र का आरम्भिक 'इ' मिलकर 'ए' बनते हैं: धराधर + इन्द्र → धराधरेन्द्र।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "धरा",
+            "iast": "dharā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "धरा",
+              "iast": "dharā"
+            },
+            "meaning": {
+              "en": "the earth",
+              "hi": "पृथ्वी"
+            }
+          },
+          {
+            "sa": "धर",
+            "iast": "dhara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धृ",
+              "iast": "dhṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to hold, to bear",
+                "hi": "धारण करना"
+              }
+            },
+            "formation": "√dhṛ + ac (agent noun, 'bearer')",
+            "sense": {
+              "dict": "mw",
+              "headword": "dharā-dhara",
+              "gloss": "‘earth-bearer’"
+            },
+            "meaning": {
+              "en": "bearer, holder",
+              "hi": "धारण करने वाला"
+            }
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इन्द्र",
+              "iast": "indra"
+            },
+            "meaning": {
+              "en": "lord, king (at the end of a compound: chief of)",
+              "hi": "स्वामी, राजा (समास के अन्त में: श्रेष्ठ)"
+            }
+          },
+          {
+            "sa": "नन्दिनी",
+            "iast": "nandinī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नन्द्",
+              "iast": "nand",
+              "gana": 1,
+              "gloss": {
+                "en": "to rejoice, to gladden",
+                "hi": "आनन्दित होना"
+              }
+            },
+            "formation": "feminine of nandin, 'one who gladdens'",
+            "sense": {
+              "dict": "mw",
+              "headword": "nandinī",
+              "gloss": "a daughter"
+            },
+            "meaning": {
+              "en": "daughter",
+              "hi": "पुत्री"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Pārvatī, daughter of the king of mountains",
+          "hi": "पर्वतराज (हिमालय) की पुत्री पार्वती"
+        },
+        "literal": {
+          "en": "the daughter of the lord of the earth-bearers",
+          "hi": "पृथ्वी धारण करने वालों (पर्वतों) के स्वामी की पुत्री"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "dharādharendrasya nandinī, 'the daughter of the king of mountains' (ṣaṣṭhī tatpuruṣa). dharā-dhara, 'earth-bearer', is a mountain; with indra 'chief' it is the king of mountains, whom the vyakhya.org commentary names as Himālaya. MW also lists dharā-dhara as a name of Viṣṇu or Kṛṣṇa, which does not fit here. Vidyut's split dharādharendra + nandinī agrees.",
+          "hi": "धराधरेन्द्रस्य नन्दिनी, 'पर्वतराज की पुत्री' (षष्ठी तत्पुरुष)। धराधर, 'पृथ्वी को धारण करने वाला', पर्वत है; 'इन्द्र' (श्रेष्ठ) के साथ यह पर्वतों का राजा है, जिसे vyakhya.org हिमालय बताता है। मोनियर-विलियम्स धराधर को विष्णु या कृष्ण का नाम भी बताते हैं, जो यहाँ लागू नहीं। Vidyut का विभाजन 'धराधरेन्द्र + नन्दिनी' इससे मेल खाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dharadhara",
+          "mw-nandini",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "विलास",
+            "iast": "vilāsa"
+          },
+          {
+            "sa": "बन्धु",
+            "iast": "bandhu"
+          },
+          {
+            "sa": "बन्धुर",
+            "iast": "bandhura"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विलास",
+            "iast": "vilāsa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "लस्",
+              "iast": "las",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to play, to sport",
+                "hi": "क्रीड़ा करना"
+              }
+            },
+            "formation": "vi + √las + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-lāsa",
+              "gloss": "sport, play, pastime, pleasure, diversion"
+            },
+            "meaning": {
+              "en": "play, graceful sport",
+              "hi": "क्रीड़ा, लीला"
+            }
+          },
+          {
+            "sa": "बन्धु",
+            "iast": "bandhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "बन्धु",
+              "iast": "bandhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bandhu",
+              "gloss": "a friend (opp. to ripu); a husband"
+            },
+            "meaning": {
+              "en": "companion, beloved partner",
+              "hi": "साथी, प्रिय सहचर"
+            }
+          },
+          {
+            "sa": "बन्धुर",
+            "iast": "bandhura",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "बन्धुर",
+              "iast": "bandhura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bandhura",
+              "gloss": "curved, rounded, pleasant, beautiful, charming"
+            },
+            "meaning": {
+              "en": "charming, handsome",
+              "hi": "मनोहर, सुन्दर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the charming companion in (her) play",
+          "hi": "(उनकी) क्रीड़ाओं का मनोहर साथी"
+        },
+        "notes": {
+          "en": "vilāsa-bandhu 'companion in play' is Śiva himself, and bandhura says he is charming in that role. bandhu and bandhura are separate dictionary words, set side by side for the chime. MW also records 'husband' for bandhu, which is how shlokam.org reads it ('consort'). No sandhi at either join.",
+          "hi": "विलास-बन्धु 'क्रीड़ा का साथी' स्वयं शिव हैं, और बन्धुर बताता है कि इस रूप में वे मनोहर हैं। बन्धु और बन्धुर कोश के दो अलग शब्द हैं, जिन्हें ध्वनि की गूँज के लिए पास रखा गया है। मोनियर-विलियम्स बन्धु का अर्थ 'पति' भी देते हैं, और shlokam.org इसे ऐसे ही पढ़ता है ('consort')। दोनों जोड़ों पर कोई सन्धि नहीं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "made lovely by (her) charming play",
+              "hi": "(उनकी) मनोहर क्रीड़ा से सुन्दर"
+            },
+            "note": "vyakhya-sts-3's bhāvārtha attaches the charm to Pārvatī's play ('चारु हास-विलास'), which lights up the quarters, rather than to Śiva as companion; its व्याख्या, however, calls Śiva her 'सुन्दर सहचर'. shlokam-shiva-tandava and sanskritdocuments-shivtand-meaning take bandhu as Śiva the companion."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vilasa",
+          "mw-bandhu",
+          "mw-bandhura",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "स्फुरत्",
+            "iast": "sphurat"
+          },
+          {
+            "sa": "दिगन्त",
+            "iast": "diganta"
+          },
+          {
+            "sa": "सन्तति",
+            "iast": "santati"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + d → d + d",
+            "explanation": {
+              "en": "Final t becomes the voiced d before the voiced d of diganta: sphurat + diganta → sphuraddiganta.",
+              "hi": "अन्तिम 'त्' आगे के घोष 'द' (दिगन्त) के कारण 'द्' बन जाता है: स्फुरत् + दिगन्त → स्फुरद्दिगन्त।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्फुरत्",
+            "iast": "sphurat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्फुर्",
+              "iast": "sphur",
+              "gana": 6,
+              "gloss": {
+                "en": "to flash, to glitter",
+                "hi": "चमकना, स्फुरित होना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "sphur",
+              "gloss": "to flash, glitter, gleam, glisten, twinkle, sparkle"
+            },
+            "meaning": {
+              "en": "shining, flashing",
+              "hi": "चमकता हुआ"
+            }
+          },
+          {
+            "sa": "दिगन्त",
+            "iast": "diganta",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दिगन्त",
+              "iast": "diganta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dig-anta",
+              "gloss": "‘the end of the horizon’, remote distance"
+            },
+            "meaning": {
+              "en": "the far ends of the quarters, the horizon",
+              "hi": "दिशाओं का छोर, क्षितिज"
+            }
+          },
+          {
+            "sa": "सन्तति",
+            "iast": "santati",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "तन्",
+              "iast": "tan",
+              "gana": 8,
+              "prefixes": [
+                "sam"
+              ],
+              "gloss": {
+                "en": "to stretch, to extend",
+                "hi": "फैलाना"
+              }
+            },
+            "formation": "sam + √tan + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "saṃ-tati",
+              "gloss": "stretching or extending along, expanse, continuity"
+            },
+            "meaning": {
+              "en": "expanse, unbroken stretch",
+              "hi": "विस्तार, फैलाव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the shining expanse of the far horizons",
+          "hi": "दूर-दूर तक चमकती दिशाओं का विस्तार"
+        },
+        "notes": {
+          "en": "diganta is diś 'quarter, direction' + anta 'end': the final ś of diś becomes k and then g before the vowel (dik + anta → diganta). santati is spelt here with the class nasal न्त; MW writes the same word saṃ-tati.",
+          "hi": "दिगन्त = दिश् 'दिशा' + अन्त 'छोर': दिश् का अन्तिम 'श्' पहले 'क्' और फिर स्वर से पहले 'ग्' बनता है (दिक् + अन्त → दिगन्त)। सन्तति यहाँ वर्गीय नासिक्य 'न्त' से लिखा है; मोनियर-विलियम्स इसी शब्द को 'संतति' (saṃ-tati) लिखते हैं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "all the living beings of the glorious universe",
+              "hi": "तेजस्वी जगत् के सभी प्राणी"
+            },
+            "note": "sanskritdocuments-shivtand-meaning glosses santati as 'all living beings' (MW's senses 'multitude', 'progeny'); shlokam-shiva-tandava glosses it 'continuity'. vyakhya-sts-3 glosses it as spreading out ('बढ़ना') and diganta as 'दूर तक', the reading followed."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-sphur",
+          "mw-diganta",
+          "mw-santati",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w4": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "प्रमोदमान",
+            "iast": "pramodamāna"
+          },
+          {
+            "sa": "मानसे",
+            "iast": "mānase"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रमोदमान",
+            "iast": "pramodamāna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मुद्",
+              "iast": "mud",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to rejoice",
+                "hi": "प्रसन्न होना"
+              }
+            },
+            "formation": "pra + √mud + śānac (present participle, ātmanepada)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-mud",
+              "gloss": "to become joyful, rejoice greatly, exult, be delighted"
+            },
+            "meaning": {
+              "en": "rejoicing, delighted",
+              "hi": "आनन्दित होता हुआ"
+            }
+          },
+          {
+            "sa": "मानस",
+            "iast": "mānasa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मानस",
+              "iast": "mānasa"
+            },
+            "meaning": {
+              "en": "mind, heart",
+              "hi": "मन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(in that) whose heart rejoices (at it)",
+          "hi": "(उस में) जिसका मन (उसे देखकर) आनन्दित है"
+        },
+        "notes": {
+          "en": "The locative -e belongs to the whole compound w1–w4; it is neuter, agreeing with vastuni. Vidyut offers pramodamāna + mānase, which is followed, and pramodamānam + ānase, which is rejected: ānase is not a word, and an accusative ending cannot sit inside a compound.",
+          "hi": "सप्तमी '-ए' पूरे समास w1–w4 की विभक्ति है; यह नपुंसक है और 'वस्तुनि' से मेल खाती है। Vidyut 'प्रमोदमान + मानसे' (स्वीकृत) और 'प्रमोदमानम् + आनसे' (अस्वीकृत) दोनों देता है; दूसरा इसलिए नहीं, कि 'आनसे' कोई शब्द नहीं और समास के भीतर द्वितीया विभक्ति नहीं रह सकती।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "in a mind of joy and pride",
+              "hi": "आनन्द और गर्व से भरे मन में"
+            },
+            "note": "shlokam-shiva-tandava splits pramoda + māna + mānase ('in the mind of pride'). vyakhya-sts-3 (प्रमोदमान + मानसे) and sanskritdocuments-shivtand-meaning ('rejoicing-mind') read the participle pramodamāna."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-pramud",
+          "vyakhya-sts-3",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w5": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "कृपा",
+            "iast": "kṛpā"
+          },
+          {
+            "sa": "कटाक्ष",
+            "iast": "kaṭākṣa"
+          },
+          {
+            "sa": "धोरणी",
+            "iast": "dhoraṇī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "कृपा",
+            "iast": "kṛpā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कृपा",
+              "iast": "kṛpā"
+            },
+            "meaning": {
+              "en": "compassion, grace",
+              "hi": "कृपा, करुणा"
+            }
+          },
+          {
+            "sa": "कटाक्ष",
+            "iast": "kaṭākṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कटाक्ष",
+              "iast": "kaṭākṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kaṭākṣa",
+              "gloss": "a glance or side look"
+            },
+            "meaning": {
+              "en": "glance",
+              "hi": "दृष्टि, कटाक्ष"
+            }
+          },
+          {
+            "sa": "धोरणी",
+            "iast": "dhoraṇī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "धोरणी",
+              "iast": "dhoraṇī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dhoraṇī",
+              "gloss": "an uninterrupted series"
+            },
+            "meaning": {
+              "en": "unbroken stream, steady succession",
+              "hi": "अटूट क्रम, अविरल धारा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the unbroken stream of compassionate glances",
+          "hi": "करुणा-भरी दृष्टि की अविरल धारा"
+        },
+        "literal": {
+          "en": "an uninterrupted series of glances of compassion",
+          "hi": "कृपा-कटाक्षों का अटूट क्रम"
+        },
+        "notes": {
+          "en": "kṛpā-kaṭākṣa 'a glance of compassion', then dhoraṇī 'an uninterrupted series' of them. No sandhi at the joins. The glances are Śiva's own (vyakhya.org: जिनकी कृपादृष्टि).",
+          "hi": "कृपा-कटाक्ष 'करुणा की दृष्टि', फिर उनकी धोरणी 'अटूट क्रम'। जोड़ों पर कोई सन्धि नहीं। दृष्टि स्वयं शिव की है (vyakhya.org: जिनकी कृपादृष्टि)।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(by a look of grace) calamities that come without pause",
+              "hi": "(कृपा-दृष्टि से) लगातार आने वाली विपत्तियाँ"
+            },
+            "note": "vyakhya-sts-3's bhāvārtha applies the unbroken series to the calamities ('निरंतर आने वाली दुस्सह आपदाएं'); shlokam-shiva-tandava ('stream of merciful glance') and sanskritdocuments-shivtand-meaning ('continuous flow') apply it to the glances, as the compound order does."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-kataksha",
+          "mw-dhorani",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w6": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "निरुद्ध",
+            "iast": "niruddha"
+          },
+          {
+            "sa": "दुर्धर",
+            "iast": "durdhara"
+          },
+          {
+            "sa": "आपदि",
+            "iast": "āpadi"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + ā → ā",
+            "explanation": {
+              "en": "The final a of durdhara and the initial ā of āpadi merge into one long ā: durdhara + āpadi → durdharāpadi.",
+              "hi": "दुर्धर का अन्तिम 'अ' और आपदि का आरम्भिक 'आ' मिलकर एक दीर्घ 'आ' बनते हैं: दुर्धर + आपदि → दुर्धरापदि।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "निरुद्ध",
+            "iast": "niruddha",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "रुध्",
+              "iast": "rudh",
+              "gana": 7,
+              "prefixes": [
+                "ni"
+              ],
+              "gloss": {
+                "en": "to hold back, to check",
+                "hi": "रोकना"
+              }
+            },
+            "formation": "ni + √rudh + kta (past passive participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "ni-rudh",
+              "gloss": "to hold back, stop, hinder, shut up, confine, restrain, check, suppress, destroy"
+            },
+            "meaning": {
+              "en": "held back, checked",
+              "hi": "रोका हुआ"
+            }
+          },
+          {
+            "sa": "दुर्धर",
+            "iast": "durdhara",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धृ",
+              "iast": "dhṛ",
+              "gana": 1,
+              "prefixes": [
+                "dus"
+              ],
+              "gloss": {
+                "en": "to hold, to bear",
+                "hi": "धारण करना, सहना"
+              }
+            },
+            "formation": "dus + √dhṛ + khal ('hard to …')",
+            "sense": {
+              "dict": "mw",
+              "headword": "dur-dhara",
+              "gloss": "difficult to be carried or borne or suffered, unrestrainable, irresistible"
+            },
+            "meaning": {
+              "en": "hard to bear, overwhelming",
+              "hi": "दुःसह, असहनीय"
+            }
+          },
+          {
+            "sa": "आपद्",
+            "iast": "āpad",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पद्",
+              "iast": "pad",
+              "gana": 4,
+              "prefixes": [
+                "ā"
+              ],
+              "gloss": {
+                "en": "to fall, to befall",
+                "hi": "आ पड़ना"
+              }
+            },
+            "formation": "ā + √pad + kvip",
+            "sense": {
+              "dict": "mw",
+              "headword": "2. āpad",
+              "gloss": "misfortune, calamity, distress"
+            },
+            "meaning": {
+              "en": "calamity, misfortune",
+              "hi": "विपत्ति, आपदा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(in that) by which calamities too heavy to bear are held back",
+          "hi": "(उस में) जिससे असहनीय विपत्तियाँ रोक दी जाती हैं"
+        },
+        "notes": {
+          "en": "āpadi is the locative of the whole compound w5–w6, a bahuvrīhi describing vastuni, not 'in a calamity'. āpad is a consonant stem, so the neuter locative is also āpadi.",
+          "hi": "आपदि पूरे समास w5–w6 की सप्तमी है, जो 'वस्तुनि' का वर्णन करने वाला बहुव्रीहि है; इसका अर्थ 'विपत्ति में' नहीं है। आपद् व्यञ्जनान्त है, इसलिए नपुंसक सप्तमी भी 'आपदि' ही बनती है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nirudh",
+          "mw-durdhara",
+          "mw-apad",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "क्वचित्",
+            "iast": "kvacit"
+          },
+          {
+            "sa": "दिगम्बरे",
+            "iast": "digambare"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + d → d + d",
+            "explanation": {
+              "en": "Final t of kvacit becomes the voiced d before the d of digambare: kvacit + digambare → kvaciddigambare.",
+              "hi": "क्वचित् का अन्तिम 'त्' आगे के घोष 'द' (दिगम्बरे) के कारण 'द्' बन जाता है: क्वचित् + दिगम्बरे → क्वचिद्दिगम्बरे।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "क्वचित्",
+            "iast": "kvacit",
+            "pos": "indeclinable",
+            "formation": "kva ('where') + cit (indefinite particle)",
+            "meaning": {
+              "en": "some, a certain (literally 'somewhere')",
+              "hi": "किसी, कोई (शाब्दिक: कहीं)"
+            }
+          },
+          {
+            "sa": "दिगम्बर",
+            "iast": "digambara",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दिगम्बर",
+              "iast": "digambara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dig-ambara",
+              "gloss": "‘sky clothed’ i.e. quite naked; N. of Śiva or Skanda"
+            },
+            "meaning": {
+              "en": "sky-clad, clothed only in the quarters",
+              "hi": "दिगम्बर, दिशाएँ ही जिसका वस्त्र हैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "in a certain sky-clad (Reality)",
+          "hi": "किसी दिगम्बर (तत्त्व) में"
+        },
+        "literal": {
+          "en": "somewhere, in one whose garment is the quarters",
+          "hi": "कहीं, उस में जिसका वस्त्र दिशाएँ हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "digambara is a bahuvrīhi: diśaḥ ambaraṃ yasya, 'he whose garment is the quarters', i.e. clothed in nothing but space; MW lists it as a name of Śiva. dik + ambara → digambara (k becomes g before a vowel). It agrees with vastuni (neuter locative). kvacit is an indeclinable; here it works as an indefinite marker on vastuni, 'a certain', which is how vyakhya.org reads it ('ऐसे किसी'), so it is given the role nipāta rather than an adverb of place.",
+          "hi": "दिगम्बर बहुव्रीहि है: दिशः अम्बरं यस्य, 'दिशाएँ ही जिसका वस्त्र हैं', यानी केवल आकाश ओढ़े हुए; मोनियर-विलियम्स इसे शिव का नाम बताते हैं। दिक् + अम्बर → दिगम्बर (स्वर से पहले 'क्' का 'ग्')। यह 'वस्तुनि' (नपुंसक सप्तमी) का विशेषण है। क्वचित् अव्यय है; यहाँ यह 'वस्तुनि' के साथ अनिश्चय का भाव देता है, 'कोई', जैसा vyakhya.org पढ़ता है ('ऐसे किसी'); इसलिए इसे स्थान-वाचक क्रियाविशेषण नहीं, निपात माना गया है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "at some time / somewhere (may my mind find delight)",
+              "hi": "कभी / कहीं (मेरा मन आनन्द पाए)"
+            },
+            "note": "sanskritdocuments-shivtand-meaning glosses kvacit 'some time', shlokam-shiva-tandava 'somewhere', taking it adverbially with etu."
+          },
+          {
+            "reading": {
+              "en": "kvacic cidambare: in (the Lord whose garment is) consciousness",
+              "hi": "क्वचिच्चिदम्बरे: चिदम्बर (चेतना-रूपी आकाश) में"
+            },
+            "note": "Variant printed in parentheses by sanskritdocuments-shivtand; all other witnesses read क्वचिद्दिगम्बरे. See annotation a4."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-digambara",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning",
+          "sanskritdocuments-shivtand"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "मनः",
+            "iast": "manaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga (utva)",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before a voiced consonant, here the v of vinodam (next display word): manaḥ + vinodam → mano vinodam.",
+              "hi": "घोष व्यंजन से पहले अन्तिम '-अः' '-ओ' बन जाता है, यहाँ अगले शब्द विनोदम् के 'व' के कारण: मनः + विनोदम् → मनो विनोदम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "मनस्",
+            "iast": "manas",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मन्",
+              "iast": "man",
+              "gana": 4,
+              "gloss": {
+                "en": "to think",
+                "hi": "सोचना, मानना"
+              }
+            },
+            "formation": "√man + asun (uṇādi)",
+            "meaning": {
+              "en": "mind",
+              "hi": "मन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "mind",
+          "hi": "मन"
+        },
+        "notes": {
+          "en": "Nominative singular of the neuter manas, the subject of etu. Vidyut's lexicon lists vocatives of manu and garbled 'manaū' forms; a vocative is impossible here (no one is addressed, and etu needs a third-person subject), so they are not followed.",
+          "hi": "नपुंसक मनस् का प्रथमा एकवचन, 'एतु' का कर्ता। Vidyut 'मनु' के सम्बोधन और कुछ अशुद्ध 'manaū' रूप देता है; यहाँ सम्बोधन सम्भव नहीं (किसी को पुकारा नहीं गया, और 'एतु' को प्रथम पुरुष कर्ता चाहिए), इसलिए वे नहीं लिए गए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "विनोदम्",
+            "iast": "vinodam"
+          },
+          {
+            "sa": "एतु",
+            "iast": "etu"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विनोद",
+            "iast": "vinoda",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नुद्",
+              "iast": "nud",
+              "gana": 6,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to push, to drive away",
+                "hi": "धकेलना, दूर करना"
+              }
+            },
+            "formation": "vi + √nud + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-noda",
+              "gloss": "diversion, sport, pastime, pleasure"
+            },
+            "meaning": {
+              "en": "delight, diversion",
+              "hi": "आनन्द, बहलाव"
+            }
+          },
+          {
+            "sa": "एतु",
+            "iast": "etu",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "इ",
+              "iast": "i",
+              "gana": 2,
+              "gloss": {
+                "en": "to go, to reach",
+                "hi": "जाना, पहुँचना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "5. i",
+              "gloss": "to arrive at, reach, obtain"
+            },
+            "meaning": {
+              "en": "may (it) go to, may (it) reach",
+              "hi": "जाए, प्राप्त करे"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "may (it) find delight",
+          "hi": "आनन्द पाए"
+        },
+        "literal": {
+          "en": "may (it) go to diversion",
+          "hi": "विनोद को जाए"
+        },
+        "notes": {
+          "en": "√i 'to go' with the accusative of the state reached: vinodam etu, 'may it come to delight'. The final m of vinodam stays m before the vowel of etu (anusvāra is used only before a consonant), so the two are written together. Vidyut's split vinodam + etu agrees.",
+          "hi": "√इ 'जाना' के साथ प्राप्त होने वाली अवस्था द्वितीया में: विनोदम् एतु, 'आनन्द को प्राप्त हो'। विनोदम् का अन्तिम 'म्' आगे के स्वर (एतु) से पहले 'म्' ही रहता है (अनुस्वार केवल व्यंजन से पहले होता है), इसलिए दोनों मिलाकर लिखे जाते हैं। Vidyut का विभाजन 'विनोदम् + एतु' इससे मेल खाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vinoda",
+          "mw-i",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "वस्तुनि",
+            "iast": "vastuni"
+          }
+        ],
+        "components": [
+          {
+            "sa": "वस्तु",
+            "iast": "vastu",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वस्तु",
+              "iast": "vastu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "2. vastu",
+              "gloss": "any really existing or abiding substance or essence, thing, object; (in phil.) the real"
+            },
+            "meaning": {
+              "en": "reality, that which truly is",
+              "hi": "तत्त्व, सत् वस्तु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "in the Reality (Śiva)",
+          "hi": "उस तत्त्व (शिव) में"
+        },
+        "literal": {
+          "en": "in a thing, an object",
+          "hi": "वस्तु में"
+        },
+        "notes": {
+          "en": "Locative singular of the neuter vastu (Vidyut agrees). Every other locative in the verse (the two long compounds and digambare) qualifies this word, which is why they are all neuter.",
+          "hi": "नपुंसक वस्तु का सप्तमी एकवचन (Vidyut सहमत)। श्लोक की बाकी सभी सप्तमियाँ (दोनों लम्बे समास और दिगम्बरे) इसी शब्द के विशेषण हैं, इसीलिए सब नपुंसक हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vastu",
+          "vyakhya-sts-3",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      }
+    }
+  }
+}

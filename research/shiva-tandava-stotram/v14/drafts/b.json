@@ -1,0 +1,1184 @@
+{
+  "id": "v14",
+  "number": 14,
+  "kind": "verse",
+  "concepts": [],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "निलिम्पनाथनागरी",
+          "iast": "nilimpanāthanāgarī"
+        },
+        {
+          "id": "w2",
+          "text": "कदम्बमौलमल्लिका",
+          "iast": "kadambamaulamallikā"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "निगुम्फनिर्भरक्षरन्",
+          "iast": "nigumphanirbharakṣaran"
+        },
+        {
+          "id": "w4",
+          "text": "मधूष्णिकामनोहरः",
+          "iast": "madhūṣṇikāmanoharaḥ"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "तनोतु",
+          "iast": "tanotu"
+        },
+        {
+          "id": "w6",
+          "text": "नो",
+          "iast": "no"
+        },
+        {
+          "id": "w7",
+          "text": "मनोमुदं",
+          "iast": "manomudaṃ"
+        },
+        {
+          "id": "w8",
+          "text": "विनोदिनीमहर्निशं",
+          "iast": "vinodinīmaharniśaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w9",
+          "text": "परश्रियः",
+          "iast": "paraśriyaḥ"
+        },
+        {
+          "id": "w10",
+          "text": "परं",
+          "iast": "paraṃ"
+        },
+        {
+          "id": "w11",
+          "text": "पदं",
+          "iast": "padaṃ"
+        },
+        {
+          "id": "w12",
+          "text": "तदङ्गजत्विषां",
+          "iast": "tadaṅgajatviṣāṃ"
+        },
+        {
+          "id": "w13",
+          "text": "चयः",
+          "iast": "cayaḥ"
+        }
+      ],
+      "end": "॥ १४ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1", "w2", "w3", "w4"],
+      "iast": "nilimpa-nātha-nāgarī-kadamba-maula-mallikā-nigumpha-nirbhara-kṣaran-madhūṣṇikā-mano-haraḥ",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā",
+      "structure": "((((((((nilimpa-nātha)-nāgarī)-kadamba)-(maula-mallikā))-nigumpha)-(nirbhara-kṣarat))-(madhu-uṣṇikā))-(manas-hara))",
+      "vigraha": "निलिम्पनाथस्य नागर्यः, तासां कदम्बम्, तस्य मौलाः मल्लिकाः, तासां निगुम्फात् निर्भरं क्षरन्ती मधूष्णिका, तया मनोहरः",
+      "meaning": {
+        "en": "charming with the honey-drops that trickle in plenty from the strung jasmine worn on the heads of the throng of women of the lord of the gods",
+        "hi": "देवताओं के स्वामी की नागरियों (सुन्दरियों) के समूह के सिरों पर गुँथी मल्लिका से भरपूर झरते मधु-कणों से मनोहर"
+      },
+      "note": {
+        "en": "One compound of twelve members across the pāda break; only the last member, manohara 'heart-stealing', is declined (nominative masculine), and it agrees with cayaḥ, 'the mass' of radiance, at the end of the verse. Everything before it says what makes that radiance charming: honey-drops (madhu-uṣṇikā), flowing abundantly (nirbhara-kṣarat) from the stringing (nigumpha) of jasmine (mallikā) on the heads (maula) of a crowd (kadamba) of women (nāgarī) of the lord of the gods (nilimpa-nātha). The last join is instrumental: charming by means of the honey.",
+        "hi": "बारह पदों का एक समास, जो चरण की सीमा पार करता है; केवल अन्तिम पद मनोहर 'मन हरने वाला' विभक्ति लेता है (प्रथमा, पुंलिंग), और श्लोक के अन्त के 'चयः' (कान्ति-पुंज) का विशेषण है। उससे पहले का सब बताता है कि वह कान्ति क्यों मनोहर है: मधु-कण (मधु-उष्णिका), जो भरपूर झर रहे हैं (निर्भर-क्षरत्), देवताओं के स्वामी (निलिम्प-नाथ) की नागरियों के समूह (कदम्ब) के सिरों (मौल) पर गुँथी (निगुम्फ) मल्लिका से। अन्तिम जोड़ तृतीया तत्पुरुष है: मधु के द्वारा मनोहर।"
+      }
+    },
+    "c2": {
+      "members": ["w7"],
+      "iast": "mano-mudaṃ",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "मनसः मुत्, ताम्",
+      "meaning": {
+        "en": "joy of the heart",
+        "hi": "मन का आनन्द"
+      },
+      "note": {
+        "en": "manas 'mind, heart' + mud 'joy' (a feminine root-noun); the joy belongs to the mind, a genitive tatpuruṣa.",
+        "hi": "मनस् 'मन' + मुद् 'आनन्द' (स्त्रीलिंग); आनन्द मन का है, इसलिए षष्ठी तत्पुरुष।"
+      }
+    },
+    "c3": {
+      "members": ["w9"],
+      "iast": "para-śriyaḥ",
+      "type": "karmadhāraya",
+      "vigraha": "परा श्रीः, तस्याः",
+      "meaning": {
+        "en": "of the supreme glory",
+        "hi": "परम श्री की"
+      },
+      "note": {
+        "en": "para 'highest, supreme' qualifies śrī 'glory, splendour, prosperity'; the compound is in the genitive and depends on padam.",
+        "hi": "पर 'परम, सर्वोच्च' श्री (शोभा, ऐश्वर्य) का विशेषण है; समास षष्ठी में है और 'पदम्' से जुड़ता है।"
+      }
+    },
+    "c4": {
+      "members": ["w12"],
+      "iast": "tad-aṅga-ja-tviṣāṃ",
+      "type": "karmadhāraya",
+      "structure": "(((tad-aṅga)-ja)-tviṣ)",
+      "vigraha": "तस्य अङ्गानि तदङ्गानि, तेभ्यः जाताः तदङ्गजाः, तदङ्गजाः त्विषः, तासाम्",
+      "meaning": {
+        "en": "of the radiances born of His limbs",
+        "hi": "उनके अंगों से उपजी कान्तियों का"
+      },
+      "note": {
+        "en": "tad-aṅga 'His limbs' is a genitive tatpuruṣa; with ja 'born from' it forms an upapada compound, 'born of His limbs'; that whole qualifies tviṣ 'radiance' (karmadhāraya). tad 'that one' points to Śiva, the subject of the hymn.",
+        "hi": "तद्-अङ्ग 'उनके अंग' षष्ठी तत्पुरुष है; 'ज' (जन्मा) के साथ यह उपपद समास बनता है, 'उनके अंगों से जन्मी'; यह पूरा 'त्विष्' (कान्ति) का विशेषण है (कर्मधारय)। 'तद्' (वह) स्तोत्र के विषय शिव की ओर संकेत करता है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1", "w2", "w3", "w4"],
+      "sa": "निलिम्पनाथनागरीकदम्बमौलमल्लिकानिगुम्फनिर्भरक्षरन्मधूष्णिकामनोहरः",
+      "iast": "nilimpanāthanāgarīkadambamaulamallikānigumphanirbharakṣaranmadhūṣṇikāmanoharaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "निलिम्पनाथनागरीकदम्बमौलमल्लिकानिगुम्फनिर्भरक्षरन्मधूष्णिकामनोहर",
+          "iast": "nilimpanāthanāgarīkadambamaulamallikānigumphanirbharakṣaranmadhūṣṇikāmanohara"
+        },
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p2",
+      "words": ["w5"],
+      "sa": "तनोतु",
+      "iast": "tanotu",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "तन्",
+          "iast": "tan",
+          "gana": 8
+        },
+        "prefixes": [],
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p3",
+      "words": ["w6"],
+      "sa": "नः",
+      "iast": "naḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "अस्मद्",
+          "iast": "asmad"
+        },
+        "case": "genitive",
+        "number": "plural"
+      },
+      "role": "sambandha",
+      "head": "p4"
+    },
+    {
+      "id": "p4",
+      "words": ["w7"],
+      "sa": "मनोमुदम्",
+      "iast": "manomudam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "मनोमुद्",
+          "iast": "manomud"
+        },
+        "gender": "feminine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p2"
+    },
+    {
+      "id": "p5",
+      "words": ["w8"],
+      "sa": "विनोदिनीम्",
+      "iast": "vinodinīm",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "विनोदिनी",
+          "iast": "vinodinī"
+        },
+        "gender": "feminine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p4"
+    },
+    {
+      "id": "p6",
+      "words": ["w8"],
+      "sa": "अहर्निशम्",
+      "iast": "aharniśam",
+      "morph": {
+        "type": "avyaya"
+      },
+      "role": "kriyā-viśeṣaṇa",
+      "head": "p2"
+    },
+    {
+      "id": "p7",
+      "words": ["w9"],
+      "sa": "परश्रियः",
+      "iast": "paraśriyaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "परश्री",
+          "iast": "paraśrī"
+        },
+        "gender": "feminine",
+        "case": "genitive",
+        "number": "singular"
+      },
+      "role": "sambandha",
+      "head": "p9"
+    },
+    {
+      "id": "p8",
+      "words": ["w10"],
+      "sa": "परम्",
+      "iast": "param",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "पर",
+          "iast": "para"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p9"
+    },
+    {
+      "id": "p9",
+      "words": ["w11"],
+      "sa": "पदम्",
+      "iast": "padam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "पद",
+          "iast": "pada"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p10",
+      "words": ["w12"],
+      "sa": "तदङ्गजत्विषाम्",
+      "iast": "tadaṅgajatviṣām",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "तदङ्गजत्विष्",
+          "iast": "tadaṅgajatviṣ"
+        },
+        "gender": "feminine",
+        "case": "genitive",
+        "number": "plural"
+      },
+      "role": "sambandha",
+      "head": "p11"
+    },
+    {
+      "id": "p11",
+      "words": ["w13"],
+      "sa": "चयः",
+      "iast": "cayaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "चय",
+          "iast": "caya"
+        },
+        "gender": "masculine",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p2"
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": ["p1", "p10", "p11", "p7", "p8", "p9", "p6", "p3", "p5", "p4", "p2"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w5"], "text": "May" },
+          { "refs": ["w13"], "text": "the mass" },
+          { "refs": ["w12"], "text": "of radiance born of His limbs," },
+          { "refs": ["w10"], "text": "the highest" },
+          { "refs": ["w11"], "text": "seat" },
+          { "refs": ["w9"], "text": "of supreme glory," }
+        ],
+        [
+          { "refs": ["w4"], "text": "charming with the honey-drops" },
+          { "refs": ["w3"], "text": "that trickle in plenty from the strung garlands" },
+          { "refs": ["w2"], "text": "of jasmine on the heads of the throng" },
+          { "refs": ["w1"], "text": "of the women of the lord of the gods," }
+        ],
+        [
+          { "refs": ["w5"], "text": "spread," },
+          { "refs": ["w8"], "text": "day and night," },
+          { "refs": ["w6"], "text": "our" },
+          { "refs": ["w8"], "text": "delightful" },
+          { "refs": ["w7"], "text": "joy of heart." }
+        ]
+      ],
+      "bhavartha": "The poet looks at the light that streams from Śiva's body and calls it the highest home of glory. Around it hangs a scent: jasmine strung in the hair of heavenly women drips its honey, and the radiance is lovelier for it. He prays that this glow keep widening the happiness of his listeners' hearts, a lively, playful joy, through every day and every night."
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "देवताओं के स्वामी की नागरियों के" },
+          { "refs": ["w2"], "text": "समूह के सिरों पर सजी मल्लिका (चमेली) की" },
+          { "refs": ["w3"], "text": "गुँथी मालाओं से भरपूर झरते" },
+          { "refs": ["w4"], "text": "मधु-कणों से मनोहर," }
+        ],
+        [
+          { "refs": ["w9"], "text": "परम श्री का" },
+          { "refs": ["w10"], "text": "सर्वोच्च" },
+          { "refs": ["w11"], "text": "धाम," },
+          { "refs": ["w12"], "text": "उन (शिव) के अंगों से उपजी कान्तियों का" },
+          { "refs": ["w13"], "text": "पुंज" }
+        ],
+        [
+          { "refs": ["w8"], "text": "दिन-रात" },
+          { "refs": ["w6"], "text": "हमारे" },
+          { "refs": ["w8"], "text": "प्रसन्न रखने वाले" },
+          { "refs": ["w7"], "text": "मन के आनन्द को" },
+          { "refs": ["w5"], "text": "बढ़ाए।" }
+        ]
+      ],
+      "bhavartha": "कवि शिव के शरीर से फूटती ज्योति को देखता है और उसे परम शोभा का सर्वोच्च धाम कहता है। उस ज्योति के चारों ओर सुगन्ध है: स्वर्ग की सुन्दरियों के केशों में गुँथी चमेली से मधु टपक रहा है, और उससे वह कान्ति और भी मनोहर हो उठी है। कवि प्रार्थना करता है कि यह तेज दिन-रात हमारे मन का चंचल, खिलखिलाता आनन्द बढ़ाता रहे।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1"],
+      "kind": "context",
+      "body": {
+        "en": "Whose hair holds the jasmine? *Nilimpa* is a god and *nātha* a lord, so *nilimpa-nātha* is 'the lord of the gods', and Monier-Williams gives *nāgarī* as a clever woman. The verse does not say which lord, and readers split. The Samskrit Academy translation on sanskritdocuments.org sees a crowd of heavenly women ('angels' in its English) with blossoms in their braided hair. The vyakhya.org commentary instead reads the lord as Śiva himself and the *nāgarī* as Pārvatī, his skilful wife, so that the fragrance on Śiva is the fragrance of his own Śakti. Our translation keeps the plural crowd, since *kadamba* (a multitude) follows directly.",
+        "hi": "चमेली किसके केशों में है? *निलिम्प* देवता है और *नाथ* स्वामी, इसलिए *निलिम्प-नाथ* 'देवताओं का स्वामी' है; मोनियर-विलियम्स *नागरी* का अर्थ चतुर स्त्री देते हैं। श्लोक यह नहीं बताता कि कौन-सा स्वामी, और व्याख्याकार अलग-अलग पढ़ते हैं। sanskritdocuments.org पर संस्कृत अकादमी का अनुवाद स्वर्ग की स्त्रियों का समूह देखता है, जिनकी गुँथी लटों में फूल सजे हैं। vyakhya.org की व्याख्या स्वामी को स्वयं शिव और *नागरी* को उनकी प्रवीण पत्नी पार्वती मानती है, जिससे शिव पर छाई सुगन्ध उनकी अपनी शक्ति की सुगन्ध बन जाती है। हमारा अनुवाद बहुवचन समूह रखता है, क्योंकि ठीक बाद *कदम्ब* (समूह) आता है।"
+      },
+      "citations": [
+        { "source": "mw-nilimpa", "locator": "MW nilimpa, p. 558", "quote": "a god, L." },
+        { "source": "mw-natha", "locator": "MW nātha, p. 534", "quote": "a protector, patron, possessor, owner, lord" },
+        { "source": "mw-nagari", "locator": "MW nāgarī, p. 534", "quote": "a clever or intriguing woman" },
+        { "source": "sanskritdocuments-shivtand-meaning", "locator": "appendix verse 14, translation", "quote": "the twisted\nhair locks of angels" },
+        { "source": "vyakhya-sts-14", "locator": "श्लोक १४, पदच्छेद", "quote": "निलिम्पनाथनागरी = शिवजी की प्रवीण पत्नी,  पार्वती" },
+        { "source": "mw-kadamba", "locator": "MW kadamba, p. 247", "quote": "a multitude, assemblage, collection, troop, herd" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": ["w2"],
+      "kind": "variant",
+      "body": {
+        "en": "One vowel separates the witnesses here. sanskritdocuments.org and Wikisource read *kadamba-maula-mallikā*; vyakhya.org reads *kadamba-mauli-mallikā*. *Mauli* is the head or crest, and also hair braided round the head, which is exactly the sense the image needs: jasmine worn in the hair. *Maula* in Monier-Williams means something quite different, 'derived from roots, ancient, hereditary'. We print *maula*, the reading of two witnesses, but take it in the sense of *mauli*; it could be understood as an adjective formed from *mauli*, 'of the head', though the dictionary does not list that use. The metre is unaffected, since both syllables are long.",
+        "hi": "यहाँ पाठों में केवल एक स्वर का अन्तर है। sanskritdocuments.org और विकिस्रोत *कदम्ब-मौल-मल्लिका* पढ़ते हैं; vyakhya.org *कदम्ब-मौलि-मल्लिका*। *मौलि* सिर या शिखा है, और सिर के चारों ओर गुँथे केश भी, जो इस चित्र को ठीक चाहिए: केशों में सजी चमेली। मोनियर-विलियम्स में *मौल* का अर्थ बिल्कुल अलग है, 'मूल से निकला, प्राचीन, वंशानुगत'। हम दो साक्ष्यों का पाठ *मौल* छापते हैं, पर अर्थ *मौलि* का लेते हैं; इसे *मौलि* से बना विशेषण 'सिर का' समझा जा सकता है, यद्यपि कोश यह प्रयोग दर्ज नहीं करता। छन्द पर कोई असर नहीं, क्योंकि दोनों अक्षर गुरु हैं।"
+      },
+      "citations": [
+        { "source": "sanskritdocuments-shivtand", "locator": "verse 14, pāda 1", "quote": "निलिम्पनाथनागरीकदम्बमौलमल्लिका-" },
+        { "source": "sa-wikisource-shivatandava", "locator": "॥१४॥, first half", "quote": "निलिम्पनाथनागरीकदम्बमौलमल्लिकानिगुम्फनिर्भरक्षरन्मधूष्णिकामनोहरः" },
+        { "source": "vyakhya-sts-14", "locator": "श्लोक १४, verse text", "quote": "निलिम्पनाथनागरी कदम्बमौलिमल्लिका-" },
+        { "source": "mw-mauli", "locator": "MW mauli, p. 837", "quote": "hair ornamented and braided round the head" },
+        { "source": "mw-maula", "locator": "MW maula, p. 837", "quote": "derived from roots (as poison)" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w3", "w4"],
+      "kind": "context",
+      "body": {
+        "en": "This is the softest image in the hymn. After the fire, the poison and the serpents of earlier verses, Śiva's radiance is here made lovely by scent. The jasmine is strung (*nigumpha*, from the sense of stringing a garland), and from those strings honey trickles (*kṣarat*, flowing, distilling) in abundance (*nirbhara*, full, without measure). The vyakhya.org gloss reads *madhūṣṇikā* as drops of honey or pollen. Monier-Williams has *uṣṇikā* only as a lexicographers' word for rice-broth, so the commentary's 'honey-drops' is the sense followed here. All of this is *manohara*, literally 'heart-stealing'.",
+        "hi": "यह स्तोत्र का सबसे कोमल चित्र है। पिछले श्लोकों की आग, विष और सर्पों के बाद, यहाँ शिव की कान्ति सुगन्ध से मनोहर बनती है। चमेली गुँथी हुई है (*निगुम्फ*, माला पिरोने के अर्थ से), और उन लड़ियों से भरपूर (*निर्भर*, पूरित, बिना माप के) मधु झर रहा है (*क्षरत्*, टपकता हुआ)। vyakhya.org *मधूष्णिका* को मधुकण या पराग बताता है। मोनियर-विलियम्स में *उष्णिका* केवल कोशकारों का शब्द है, 'चावल का माँड', इसलिए यहाँ व्याख्या का 'मधु-कण' अर्थ लिया गया है। यह सब *मनोहर* है, शब्दशः 'मन चुराने वाला'।"
+      },
+      "citations": [
+        { "source": "mw-gumpha", "locator": "MW gumpha, p. 359", "quote": "tying or stringing as a garland" },
+        { "source": "mw-kshar", "locator": "MW √kṣar, p. 327", "quote": "to flow, stream, glide, distil, trickle" },
+        { "source": "mw-nirbhara", "locator": "MW nirbhara, p. 541", "quote": "full of, abounding in" },
+        { "source": "vyakhya-sts-14", "locator": "श्लोक १४, पदच्छेद", "quote": "मधूष्णिका = मधुकण,  पराग" },
+        { "source": "mw-ushnika", "locator": "MW uṣṇikā, p. 220", "quote": "rice-broth, L." },
+        { "source": "mw-manohara", "locator": "MW manohara, p. 785", "quote": "‘heart-stealing’" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a4",
+      "refs": ["w5", "w6", "w7", "w8"],
+      "kind": "grammar",
+      "body": {
+        "en": "The verse is a blessing, and its verb *tanotu* is an imperative of √tan, 'to stretch, spread, augment': may it widen. What widens is *mano-mud*, joy of the heart, and *naḥ* (here sandhied to *no*) makes it ours, the plural of [verse 1](#v1-a5) rather than the single *mama* of the love-refrains. The joy is *vinodinī*, playful or diverting, an accusative feminine agreeing with *mud*; *aharniśam*, 'day and night', is glued to it in one written word. The subject only arrives at the very end of the verse: *cayaḥ*, the heap of radiance.",
+        "hi": "श्लोक एक आशीर्वाद है, और उसकी क्रिया *तनोतु* √तन् ('फैलाना, बढ़ाना') का लोट् है: बढ़ाए। जो बढ़े, वह *मनो-मुद्* है, मन का आनन्द, और *नः* (सन्धि से *नो*) उसे हमारा बनाता है; यह [पहले श्लोक](#v1-a5) का बहुवचन है, प्रेम वाली टेक का एकवचन *मम* नहीं। यह आनन्द *विनोदिनी* है, यानी खिलखिलाता, मन बहलाने वाला; यह द्वितीया स्त्रीलिंग है और *मुद्* से मेल खाता है; *अहर्निशम्* 'दिन-रात' लिखावट में उसी से जुड़ा है। कर्ता श्लोक के बिल्कुल अन्त में आता है: *चयः*, कान्ति का पुंज।"
+      },
+      "citations": [
+        { "source": "mw-tan", "locator": "MW √tan, p. 435", "quote": "to put forth, show, manifest, display, augment" },
+        { "source": "mw-mud", "locator": "MW mud, p. 822", "quote": "joy, delight, gladness, happiness" },
+        { "source": "mw-vinodin", "locator": "MW vinodin, p. 972", "quote": "amusing, diverting" },
+        { "source": "mw-aharnisham", "locator": "MW aharniśam, p. 124", "quote": "day and night, continually" },
+        { "source": "vyakhya-sts-14", "locator": "श्लोक १४, पदच्छेद", "quote": "नो = नः (= हमारी)" }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a5",
+      "refs": ["w9", "w10", "w11", "w12", "w13"],
+      "kind": "variant",
+      "body": {
+        "en": "The last pāda turns on one ending. sanskritdocuments.org and Wikisource read *paraśriyaḥ*, a genitive: the mass of radiance from Śiva's limbs is 'the highest seat of supreme glory'. vyakhya.org reads *paraśriyaṃ*, an accusative, and its anvaya makes both *paraśriyam* and *paraṃ padam* things the radiance should grant us, glory and the highest state, which it explains as liberation. We follow the majority reading. Either way the subject is *cayaḥ*, a heap (Monier-Williams: heap, pile, multitude), of *tviṣ*, light or splendour, born (*ja*) from 'His' (*tad*) limbs.",
+        "hi": "अन्तिम चरण एक विभक्ति पर टिका है। sanskritdocuments.org और विकिस्रोत *परश्रियः* (षष्ठी) पढ़ते हैं: शिव के अंगों से निकला कान्ति-पुंज 'परम श्री का सर्वोच्च धाम' है। vyakhya.org *परश्रियं* (द्वितीया) पढ़ता है, और उसका अन्वय *परश्रियम्* और *परं पदम्* दोनों को वह मानता है जो यह तेज हमें दे, यानी परम श्री और परम पद, जिसे वह मोक्ष बताता है। हम बहुमत का पाठ लेते हैं। दोनों पाठों में कर्ता *चयः* है, यानी पुंज या राशि (मोनियर-विलियम्स: ढेर, समूह), *त्विष्* (प्रकाश, कान्ति) का, जो 'उनके' (*तद्*) अंगों से जन्मी (*ज*) है।"
+      },
+      "citations": [
+        { "source": "sanskritdocuments-shivtand", "locator": "verse 14, pāda 4", "quote": "परश्रियः परं पदं तदङ्गजत्विषां चयः" },
+        { "source": "sa-wikisource-shivatandava", "locator": "॥१४॥, second half", "quote": "परश्रियः परं पदं तदङ्गजत्विषां चयः" },
+        { "source": "vyakhya-sts-14", "locator": "श्लोक १४, verse text", "quote": "परश्रियं परं पदं तदंगजत्विषां चयः" },
+        { "source": "vyakhya-sts-14", "locator": "श्लोक १४, अन्वय", "quote": "विनोदिनीं मनोमुदं परश्रियं परं पदं तद् अंगज त्विषां चय: न: तनोतु" },
+        { "source": "vyakhya-sts-14", "locator": "श्लोक १४, भावार्थ", "quote": "परम पद अर्थात् मोक्ष के प्रदाता" },
+        { "source": "mw-caya", "locator": "MW caya, p. 394", "quote": "a heap, pile, collection, multitude" },
+        { "source": "mw-tvish", "locator": "MW tviṣ, p. 464", "quote": "light, brilliance, glitter, splendour" }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "निलिम्प", "iast": "nilimpa" },
+        { "sa": "नाथ", "iast": "nātha" },
+        { "sa": "नागरी", "iast": "nāgarī" }
+      ],
+      "components": [
+        {
+          "sa": "निलिम्प",
+          "iast": "nilimpa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "निलिम्प", "iast": "nilimpa" },
+          "sense": { "dict": "mw", "headword": "nilimpa", "gloss": "a god" },
+          "meaning": { "en": "a god", "hi": "देवता" }
+        },
+        {
+          "sa": "नाथ",
+          "iast": "nātha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "नाथ", "iast": "nātha" },
+          "sense": { "dict": "mw", "headword": "nātha", "gloss": "a protector, patron, possessor, owner, lord" },
+          "meaning": { "en": "lord, protector", "hi": "स्वामी" }
+        },
+        {
+          "sa": "नागरी",
+          "iast": "nāgarī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "नागरी", "iast": "nāgarī" },
+          "sense": { "dict": "mw", "headword": "nāgarī", "gloss": "a clever or intriguing woman" },
+          "meaning": { "en": "an elegant, clever woman", "hi": "चतुर, सुघड़ स्त्री" }
+        }
+      ],
+      "meaning": {
+        "en": "the elegant women of the lord of the gods",
+        "hi": "देवताओं के स्वामी की नागरियाँ (सुन्दरियाँ)"
+      },
+      "notes": {
+        "en": "nilimpa-nātha 'lord of the gods' is a genitive tatpuruṣa, and nāgarī depends on it. No sandhi at either join. Which lord is meant is left open by the verse; see the note.",
+        "hi": "निलिम्प-नाथ 'देवताओं का स्वामी' षष्ठी तत्पुरुष है, और नागरी उससे जुड़ता है। किसी जोड़ पर सन्धि नहीं। कौन-सा स्वामी, यह श्लोक खुला छोड़ता है; टिप्पणी देखें।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "Pārvatī, the skilful wife of Śiva, the lord of the gods",
+            "hi": "पार्वती, देवताओं के स्वामी शिव की प्रवीण पत्नी"
+          },
+          "note": "vyakhya-sts-14 takes nilimpanātha as Śiva and nāgarī (singular) as Pārvatī, and then reads kadamba as a cluster of jasmine; sanskritdocuments-shivtand-meaning speaks of the hair of 'angels' (plural)."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-nilimpa", "mw-natha", "mw-nagari", "vyakhya-sts-14", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "कदम्ब", "iast": "kadamba" },
+        { "sa": "मौल", "iast": "maula" },
+        { "sa": "मल्लिका", "iast": "mallikā" }
+      ],
+      "components": [
+        {
+          "sa": "कदम्ब",
+          "iast": "kadamba",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "कदम्ब", "iast": "kadamba" },
+          "sense": { "dict": "mw", "headword": "kadamba", "gloss": "a multitude, assemblage, collection, troop, herd" },
+          "meaning": { "en": "throng, multitude", "hi": "समूह" }
+        },
+        {
+          "sa": "मौल",
+          "iast": "maula",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "मौलि", "iast": "mauli" },
+          "sense": { "dict": "mw", "headword": "mauli", "gloss": "the head, the top of anything; hair ornamented and braided round the head" },
+          "meaning": { "en": "of the head, worn on the head", "hi": "सिर का, सिर पर सजा" }
+        },
+        {
+          "sa": "मल्लिका",
+          "iast": "mallikā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "मल्लिका", "iast": "mallikā" },
+          "sense": { "dict": "mw", "headword": "mallikā", "gloss": "Jasminum Zambac (both the plant and the flower)" },
+          "meaning": { "en": "jasmine", "hi": "मल्लिका, चमेली" }
+        }
+      ],
+      "meaning": {
+        "en": "the jasmine worn on the heads of the throng",
+        "hi": "समूह के सिरों पर सजी मल्लिका"
+      },
+      "notes": {
+        "en": "Read maula here as 'of the head', the sense of mauli (the reading of vyakhya.org). MW's own maula ('derived from roots, ancient') gives no sense in this picture. No sandhi at the joins.",
+        "hi": "यहाँ मौल का अर्थ 'सिर का' लिया गया है, जो मौलि (vyakhya.org का पाठ) का अर्थ है। कोश का अपना मौल ('मूल से निकला, प्राचीन') इस चित्र में अर्थ नहीं देता। जोड़ों पर सन्धि नहीं।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "a garland of jasmine clusters on the head",
+            "hi": "सिर पर चमेली के गुच्छों की माला"
+          },
+          "note": "vyakhya-sts-14 reads mauli and glosses kadamba as गुच्छा (cluster), joining it to mallikā rather than to the women of w1."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-kadamba", "mw-mauli", "mw-maula", "mw-mallika", "vyakhya-sts-14"]
+    },
+    "w3": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "निगुम्फ", "iast": "nigumpha" },
+        { "sa": "निर्भर", "iast": "nirbhara" },
+        { "sa": "क्षरत्", "iast": "kṣarat" }
+      ],
+      "sandhi": [
+        {
+          "name": "anunāsika",
+          "rule": "t + m → n + m",
+          "explanation": {
+            "en": "The final t of kṣarat becomes the nasal n before the m of madhu (next display word): kṣarat + madhu → kṣaranmadhu.",
+            "hi": "क्षरत् का अन्तिम 'त्' आगे के 'म' (मधु) के कारण अनुनासिक 'न्' बन जाता है: क्षरत् + मधु → क्षरन्मधु।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "निगुम्फ",
+          "iast": "nigumpha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "गुम्फ्",
+            "iast": "gumph",
+            "gana": 6,
+            "prefixes": ["ni"],
+            "gloss": { "en": "to string, to tie together", "hi": "गूँथना, पिरोना" }
+          },
+          "formation": "ni + √gumph + ghañ (action noun)",
+          "sense": { "dict": "mw", "headword": "gumpha", "gloss": "tying or stringing as a garland" },
+          "meaning": { "en": "stringing, a strung garland", "hi": "गुँथाई, गुँथी माला" }
+        },
+        {
+          "sa": "निर्भर",
+          "iast": "nirbhara",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "निर्भर", "iast": "nirbhara" },
+          "sense": { "dict": "mw", "headword": "nirbhara", "gloss": "excessive, vehement; full of, abounding in" },
+          "meaning": { "en": "abundant, in plenty", "hi": "भरपूर, पूरित" }
+        },
+        {
+          "sa": "क्षरत्",
+          "iast": "kṣarat",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "क्षर्",
+            "iast": "kṣar",
+            "gana": 1,
+            "gloss": { "en": "to flow, to trickle", "hi": "बहना, झरना" }
+          },
+          "formation": "śatṛ (present active participle)",
+          "sense": { "dict": "mw", "headword": "kṣar", "gloss": "to flow, stream, glide, distil, trickle" },
+          "meaning": { "en": "trickling, flowing", "hi": "झरता हुआ" }
+        }
+      ],
+      "meaning": {
+        "en": "trickling in plenty from the strung garlands",
+        "hi": "गुँथी मालाओं से भरपूर झरता हुआ"
+      },
+      "notes": {
+        "en": "kṣarat describes the honey-drops (madhūṣṇikā, feminine) but appears in its compound stem form. nirbhara is read adverbially with it, 'flowing abundantly'.",
+        "hi": "क्षरत् मधु-कणों (मधूष्णिका, स्त्रीलिंग) का विशेषण है, पर समास में मूल रूप में आता है। निर्भर उसके साथ क्रियाविशेषण की तरह पढ़ा गया है: 'भरपूर झरता'।"
+      },
+      "confidence": "high",
+      "sources": ["mw-gumpha", "mw-nirbhara", "mw-kshar", "vyakhya-sts-14"]
+    },
+    "w4": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "मधु", "iast": "madhu" },
+        { "sa": "उष्णिका", "iast": "uṣṇikā" },
+        { "sa": "मनः", "iast": "manaḥ" },
+        { "sa": "हरः", "iast": "haraḥ" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "u + u → ū",
+          "explanation": {
+            "en": "The final u of madhu and the initial u of uṣṇikā merge into long ū: madhu + uṣṇikā → madhūṣṇikā.",
+            "hi": "मधु का अन्तिम 'उ' और उष्णिका का आरम्भिक 'उ' मिलकर दीर्घ 'ऊ' बनते हैं: मधु + उष्णिका → मधूष्णिका।"
+          }
+        },
+        {
+          "name": "utva",
+          "rule": "as + h → o + h",
+          "explanation": {
+            "en": "Final -as of manas becomes -o before the voiced h of hara: manas + hara → manohara.",
+            "hi": "मनस् का अन्तिम '-अस्' घोष 'ह' (हर) से पहले '-ओ' बन जाता है: मनस् + हर → मनोहर।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "मधु",
+          "iast": "madhu",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "मधु", "iast": "madhu" },
+          "sense": { "dict": "mw", "headword": "madhu", "gloss": "honey; the juice or nectar of flowers" },
+          "meaning": { "en": "honey, flower-nectar", "hi": "मधु, पुष्प-रस" }
+        },
+        {
+          "sa": "उष्णिका",
+          "iast": "uṣṇikā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "उष्णिका", "iast": "uṣṇikā" },
+          "sense": { "dict": "mw", "headword": "uṣṇikā", "gloss": "rice-broth" },
+          "meaning": { "en": "drops (here: honey-drops)", "hi": "कण (यहाँ: मधु-कण)" }
+        },
+        {
+          "sa": "मनस्",
+          "iast": "manas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "मनस्", "iast": "manas" },
+          "meaning": { "en": "mind, heart", "hi": "मन" }
+        },
+        {
+          "sa": "हर",
+          "iast": "hara",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "हृ",
+            "iast": "hṛ",
+            "gana": 1,
+            "gloss": { "en": "to take, to carry away", "hi": "हरना, ले जाना" }
+          },
+          "formation": "√hṛ + ac (agent)",
+          "sense": { "dict": "mw", "headword": "manohara", "gloss": "‘heart-stealing’, taking the fancy, fascinating, attractive, charming" },
+          "meaning": { "en": "stealing", "hi": "हरने वाला" }
+        }
+      ],
+      "meaning": {
+        "en": "charming with the honey-drops",
+        "hi": "मधु-कणों से मनोहर"
+      },
+      "literal": {
+        "en": "heart-stealing by the honey-drops",
+        "hi": "मधु-कणों से मन हरने वाला"
+      },
+      "notes": {
+        "en": "madhūṣṇikā is glossed by vyakhya.org as मधुकण (honey-drops) or पराग (pollen); MW's only uṣṇikā is a lexicographers' 'rice-broth', so the commentary's sense is followed. manoharaḥ, nominative masculine singular, ends the whole compound w1–w4 and agrees with cayaḥ (w13).",
+        "hi": "vyakhya.org मधूष्णिका का अर्थ मधुकण या पराग देता है; मोनियर-विलियम्स में उष्णिका केवल कोशकारों का 'चावल का माँड' है, इसलिए व्याख्या का अर्थ लिया गया। मनोहरः (प्रथमा, पुंलिंग, एकवचन) पूरे समास w1–w4 का अन्त है और चयः (w13) से मेल खाता है।"
+      },
+      "confidence": "medium",
+      "sources": ["mw-madhu", "mw-ushnika", "mw-manohara", "vyakhya-sts-14"]
+    },
+    "w5": {
+      "padaccheda": [
+        { "sa": "तनोतु", "iast": "tanotu" }
+      ],
+      "components": [
+        {
+          "sa": "तनोतु",
+          "iast": "tanotu",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "तन्",
+            "iast": "tan",
+            "gana": 8,
+            "gloss": { "en": "to spread, to extend, to augment", "hi": "फैलाना, बढ़ाना" }
+          },
+          "formation": "loṭ, 3rd person singular, parasmaipada",
+          "sense": { "dict": "mw", "headword": "tan", "gloss": "to put forth, show, manifest, display, augment" },
+          "meaning": { "en": "may it spread, may it increase", "hi": "फैलाए, बढ़ाए" }
+        }
+      ],
+      "meaning": {
+        "en": "may (it) spread, may (it) increase",
+        "hi": "बढ़ाए"
+      },
+      "notes": {
+        "en": "Imperative (loṭ) of √tan, 8th class: tan + u + tu, with the u strengthened to o. Its subject is cayaḥ (w13). vyakhya.org glosses it loosely as रक्षा करें ('may he protect').",
+        "hi": "√तन् (अष्टम गण) का लोट्: तन् + उ + तु, जिसमें उ गुण होकर ओ बनता है। इसका कर्ता चयः (w13) है। vyakhya.org इसका भावानुवाद 'रक्षा करें' देता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-tan", "vyakhya-sts-14"]
+    },
+    "w6": {
+      "padaccheda": [
+        { "sa": "नः", "iast": "naḥ" }
+      ],
+      "sandhi": [
+        {
+          "name": "utva",
+          "rule": "aḥ + voiced consonant → o",
+          "explanation": {
+            "en": "naḥ becomes no before the voiced m of manomudam (next display word): naḥ + manomudam → no manomudam.",
+            "hi": "आगे के घोष 'म' (मनोमुदम्) से पहले नः 'नो' बन जाता है: नः + मनोमुदम् → नो मनोमुदम्।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नः",
+          "iast": "naḥ",
+          "pos": "pronoun",
+          "root": { "kind": "pratipadika", "sa": "अस्मद्", "iast": "asmad" },
+          "meaning": { "en": "our, of us", "hi": "हमारा, हमारी" }
+        }
+      ],
+      "meaning": {
+        "en": "our",
+        "hi": "हमारे"
+      },
+      "notes": {
+        "en": "Enclitic genitive plural of asmad, 'we'; it can also be dative ('for us'), with the same sense here. Vidyut offers a vocative of nu, which has no place in this sentence.",
+        "hi": "अस्मद् (हम) का अनुदात्त षष्ठी बहुवचन रूप; यह चतुर्थी ('हमारे लिए') भी हो सकता है, अर्थ वही रहता है। Vidyut 'नु' का सम्बोधन रूप भी सुझाता है, जिसका इस वाक्य में स्थान नहीं।"
+      },
+      "confidence": "high",
+      "sources": ["vyakhya-sts-14", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w7": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "मनः", "iast": "manaḥ" },
+        { "sa": "मुदम्", "iast": "mudam" }
+      ],
+      "sandhi": [
+        {
+          "name": "utva",
+          "rule": "as + m → o + m",
+          "explanation": {
+            "en": "Final -as of manas becomes -o before the voiced m of mud: manas + mudam → manomudam.",
+            "hi": "मनस् का अन्तिम '-अस्' घोष 'म' (मुद्) से पहले '-ओ' बन जाता है: मनस् + मुदम् → मनोमुदम्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the v of vinodinīm (next display word): manomudam → manomudaṃ.",
+            "hi": "अगले शब्द (विनोदिनीम्) के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: मनोमुदम् → मनोमुदं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "मनस्",
+          "iast": "manas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "मनस्", "iast": "manas" },
+          "sense": { "dict": "mw", "headword": "manas", "gloss": "mind, intellect, intelligence, understanding" },
+          "meaning": { "en": "mind, heart", "hi": "मन" }
+        },
+        {
+          "sa": "मुद्",
+          "iast": "mud",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "मुद्",
+            "iast": "mud",
+            "gana": 1,
+            "gloss": { "en": "to rejoice, to be glad", "hi": "प्रसन्न होना" }
+          },
+          "formation": "√mud + kvip (root noun)",
+          "sense": { "dict": "mw", "headword": "mud", "gloss": "joy, delight, gladness, happiness" },
+          "meaning": { "en": "joy, gladness", "hi": "आनन्द, हर्ष" }
+        }
+      ],
+      "meaning": {
+        "en": "joy of heart",
+        "hi": "मन का आनन्द"
+      },
+      "confidence": "high",
+      "sources": ["mw-manas", "mw-mud", "vyakhya-sts-14"]
+    },
+    "w8": {
+      "padaccheda": [
+        { "sa": "विनोदिनीम्", "iast": "vinodinīm" },
+        { "sa": "अहर्निशम्", "iast": "aharniśam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m of aharniśam is written as anusvāra before the p of paraśriyaḥ (next display word): aharniśam → aharniśaṃ. The m of vinodinīm simply joins the following vowel: vinodinīm + aharniśam → vinodinīmaharniśam.",
+            "hi": "अहर्निशम् का अन्तिम 'म्' अगले शब्द (परश्रियः) के 'प' से पहले अनुस्वार बन जाता है: अहर्निशम् → अहर्निशं। विनोदिनीम् का 'म्' आगे के स्वर से सीधे जुड़ जाता है: विनोदिनीम् + अहर्निशम् → विनोदिनीमहर्निशम्।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विनोदिनी",
+          "iast": "vinodinī",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नुद्",
+            "iast": "nud",
+            "gana": 6,
+            "prefixes": ["vi"],
+            "gloss": { "en": "to push, to drive away; with vi-, to divert, amuse", "hi": "धकेलना; वि- के साथ, मन बहलाना" }
+          },
+          "formation": "vi + √nud + ṇini, feminine in -ī",
+          "sense": { "dict": "mw", "headword": "vinodin", "gloss": "amusing, diverting" },
+          "meaning": { "en": "playful, delighting", "hi": "मन बहलाने वाली, प्रसन्न रखने वाली" }
+        },
+        {
+          "sa": "अहर्निशम्",
+          "iast": "aharniśam",
+          "pos": "indeclinable",
+          "formation": "ahan 'day' + niśā 'night'; the n of ahan becomes r",
+          "sense": { "dict": "mw", "headword": "aharniśam", "gloss": "day and night, continually" },
+          "meaning": { "en": "day and night", "hi": "दिन-रात" }
+        }
+      ],
+      "meaning": {
+        "en": "delightful; day and night",
+        "hi": "प्रसन्न रखने वाली; दिन-रात"
+      },
+      "notes": {
+        "en": "Two words written as one: vinodinīm, accusative feminine singular agreeing with manomudam (mud is feminine), and the adverb aharniśam. vyakhya.org prints विनोदिनीं with an anusvāra; A and B do not, and the sense is the same.",
+        "hi": "एक साथ लिखे दो शब्द: विनोदिनीम्, द्वितीया स्त्रीलिंग एकवचन, जो मनोमुदम् से मेल खाता है (मुद् स्त्रीलिंग है), और क्रियाविशेषण अहर्निशम्। vyakhya.org अनुस्वार सहित विनोदिनीं छापता है; अन्य पाठ नहीं, अर्थ वही है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vinodin", "mw-aharnisham", "vyakhya-sts-14"]
+    },
+    "w9": {
+      "compound": "c3",
+      "padaccheda": [
+        { "sa": "पर", "iast": "para" },
+        { "sa": "श्रियः", "iast": "śriyaḥ" }
+      ],
+      "components": [
+        {
+          "sa": "पर",
+          "iast": "para",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "पर", "iast": "para" },
+          "sense": { "dict": "mw", "headword": "para", "gloss": "highest, supreme, chief" },
+          "meaning": { "en": "supreme", "hi": "परम" }
+        },
+        {
+          "sa": "श्री",
+          "iast": "śrī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "श्री", "iast": "śrī" },
+          "sense": { "dict": "mw", "headword": "śrī", "gloss": "light, lustre, radiance, splendour, glory, beauty" },
+          "meaning": { "en": "glory, splendour, fortune", "hi": "श्री, शोभा, ऐश्वर्य" }
+        }
+      ],
+      "meaning": {
+        "en": "of supreme glory",
+        "hi": "परम श्री का"
+      },
+      "notes": {
+        "en": "Genitive singular of the feminine stem paraśrī (śriyaḥ, as in the dictionary's śriyaḥ putrāḥ). vyakhya.org reads the accusative paraśriyam; see the note.",
+        "hi": "स्त्रीलिंग परश्री का षष्ठी एकवचन (श्रियः)। vyakhya.org द्वितीया 'परश्रियम्' पढ़ता है; टिप्पणी देखें।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(may it grant) supreme glory",
+            "hi": "परम श्री (प्रदान करे)"
+          },
+          "note": "With vyakhya-sts-14's reading परश्रियं (accusative), paraśrī becomes a second object of tanotu."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-para", "mw-shri", "vyakhya-sts-14", "sanskritdocuments-shivtand"]
+    },
+    "w10": {
+      "padaccheda": [
+        { "sa": "परम्", "iast": "param" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the p of padam (next display word): param → paraṃ.",
+            "hi": "अगले शब्द (पदम्) के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: परम् → परं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "पर",
+          "iast": "para",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "पर", "iast": "para" },
+          "sense": { "dict": "mw", "headword": "para", "gloss": "highest, supreme, chief" },
+          "meaning": { "en": "highest", "hi": "सर्वोच्च, परम" }
+        }
+      ],
+      "meaning": {
+        "en": "the highest",
+        "hi": "सर्वोच्च"
+      },
+      "confidence": "high",
+      "sources": ["mw-para", "vyakhya-sts-14"]
+    },
+    "w11": {
+      "padaccheda": [
+        { "sa": "पदम्", "iast": "padam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the t of tadaṅga (next display word): padam → padaṃ.",
+            "hi": "अगले शब्द (तदङ्ग) के 'त' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पदम् → पदं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "पद",
+          "iast": "pada",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "पद", "iast": "pada" },
+          "sense": { "dict": "mw", "headword": "pada", "gloss": "position, rank, station, site, abode, home" },
+          "meaning": { "en": "seat, abode, state", "hi": "पद, धाम" }
+        }
+      ],
+      "meaning": {
+        "en": "seat, abode",
+        "hi": "धाम"
+      },
+      "notes": {
+        "en": "Nominative, in apposition to cayaḥ: the radiance is itself the highest seat of glory. vyakhya.org, reading paraśriyam, takes paraṃ padam as an object instead and explains it as liberation (mokṣa).",
+        "hi": "प्रथमा, चयः से समानाधिकरण: कान्ति-पुंज स्वयं परम श्री का सर्वोच्च धाम है। vyakhya.org, 'परश्रियम्' पढ़कर, परं पदम् को कर्म मानता है और उसे मोक्ष बताता है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(may it grant) the highest state, liberation",
+            "hi": "परम पद, अर्थात् मोक्ष (प्रदान करे)"
+          },
+          "note": "vyakhya-sts-14 anvaya and bhāvārtha: परम पद अर्थात् मोक्ष."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-pada", "vyakhya-sts-14", "sanskritdocuments-shivtand"]
+    },
+    "w12": {
+      "compound": "c4",
+      "padaccheda": [
+        { "sa": "तत्", "iast": "tat" },
+        { "sa": "अङ्ग", "iast": "aṅga" },
+        { "sa": "ज", "iast": "ja" },
+        { "sa": "त्विषाम्", "iast": "tviṣām" }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + vowel → d",
+          "explanation": {
+            "en": "Final t of tat becomes voiced d before the vowel a of aṅga: tat + aṅga → tadaṅga.",
+            "hi": "तत् का अन्तिम 'त्' आगे के स्वर 'अ' (अङ्ग) से पहले घोष 'द्' बन जाता है: तत् + अङ्ग → तदङ्ग।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the c of cayaḥ (next display word): tviṣām → tviṣāṃ.",
+            "hi": "अगले शब्द (चयः) के 'च' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: त्विषाम् → त्विषां।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "तद्",
+          "iast": "tad",
+          "pos": "pronoun",
+          "root": { "kind": "pratipadika", "sa": "तद्", "iast": "tad" },
+          "sense": { "dict": "mw", "headword": "tad", "gloss": "he, she, it, that, this" },
+          "meaning": { "en": "he, that one (Śiva)", "hi": "वह (शिव)" }
+        },
+        {
+          "sa": "अङ्ग",
+          "iast": "aṅga",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "अङ्ग", "iast": "aṅga" },
+          "sense": { "dict": "mw", "headword": "aṅga", "gloss": "a limb of the body; the body" },
+          "meaning": { "en": "limb, body", "hi": "अंग, देह" }
+        },
+        {
+          "sa": "ज",
+          "iast": "ja",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "जन्",
+            "iast": "jan",
+            "gana": 4,
+            "gloss": { "en": "to be born, to arise", "hi": "जन्म लेना, उत्पन्न होना" }
+          },
+          "formation": "√jan + ḍa (upapada, 'born from')",
+          "sense": { "dict": "mw", "headword": "aṅgaja", "gloss": "produced from or on the body" },
+          "meaning": { "en": "born of, arising from", "hi": "से उत्पन्न" }
+        },
+        {
+          "sa": "त्विष्",
+          "iast": "tviṣ",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "त्विष्", "iast": "tviṣ" },
+          "sense": { "dict": "mw", "headword": "tviṣ", "gloss": "light, brilliance, glitter, splendour, beauty" },
+          "meaning": { "en": "radiance, brilliance", "hi": "कान्ति, तेज" }
+        }
+      ],
+      "meaning": {
+        "en": "of the radiances born of His limbs",
+        "hi": "उनके अंगों से उपजी कान्तियों का"
+      },
+      "notes": {
+        "en": "tviṣām is the genitive plural of the feminine tviṣ. MW also lists aṅgaja as a name of the god of love, which would give no sense here; the plain sense 'produced from the body' is meant, as vyakhya.org's अंग से प्रस्फुटित confirms.",
+        "hi": "त्विषाम् स्त्रीलिंग त्विष् का षष्ठी बहुवचन है। कोश में 'अङ्गज' कामदेव का नाम भी है, जो यहाँ अर्थ नहीं देता; सीधा अर्थ 'देह से उत्पन्न' अभिप्रेत है, जैसा vyakhya.org का 'अंग से प्रस्फुटित' पुष्ट करता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-tad", "mw-anga", "mw-angaja", "mw-tvish", "vyakhya-sts-14"]
+    },
+    "w13": {
+      "padaccheda": [
+        { "sa": "चयः", "iast": "cayaḥ" }
+      ],
+      "components": [
+        {
+          "sa": "चय",
+          "iast": "caya",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "चि",
+            "iast": "ci",
+            "gana": 5,
+            "gloss": { "en": "to gather, to heap up", "hi": "इकट्ठा करना, चुनना" }
+          },
+          "formation": "√ci + ac (action/result noun)",
+          "sense": { "dict": "mw", "headword": "caya", "gloss": "a heap, pile, collection, multitude, assemblage" },
+          "meaning": { "en": "heap, mass", "hi": "पुंज, राशि" }
+        }
+      ],
+      "meaning": {
+        "en": "the mass",
+        "hi": "पुंज"
+      },
+      "notes": {
+        "en": "Nominative singular and the subject of tanotu; the long compound w1–w4 and padam (w11) both describe it.",
+        "hi": "प्रथमा एकवचन और तनोतु का कर्ता; लम्बा समास w1–w4 और पदम् (w11) दोनों इसी का वर्णन करते हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-caya", "vyakhya-sts-14"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-10-23",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  }
+}

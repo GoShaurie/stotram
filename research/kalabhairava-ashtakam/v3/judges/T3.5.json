@@ -1,0 +1,12 @@
+{
+  "check": "T3.5",
+  "fields_hash": "86e47d73fe134b61",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.hi.bhavartha",
+      "message": "HI bhāvārtha says 'वे सबके आदि कारण हैं' ('the first cause of all'). No pada says 'सबके' (of all): ādikāraṇam is only 'a primary cause' (mw-adikarana.md, MW p. 137,1). The line segment ('जो आदि कारण हैं') and the EN bhāvārtha ('He is the first cause') both leave it out. It is a small addition and a reasonable thing to infer, so a human should decide whether to keep it.",
+      "suggested_fix": "'…, और वे आदि कारण हैं।'"
+    }
+  ]
+}

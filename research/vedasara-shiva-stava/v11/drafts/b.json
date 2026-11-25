@@ -1,0 +1,2196 @@
+{
+  "id": "v11",
+  "number": 11,
+  "kind": "verse",
+  "meter": "vasantatilaka",
+  "concepts": [
+    "srishti-sthiti-laya",
+    "smarari",
+    "vishvarupa",
+    "linga"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "त्वत्तो",
+          "iast": "tvatto"
+        },
+        {
+          "id": "w2",
+          "text": "जगद्भवति",
+          "iast": "jagadbhavati"
+        },
+        {
+          "id": "w3",
+          "text": "देव",
+          "iast": "deva"
+        },
+        {
+          "id": "w4",
+          "text": "भव",
+          "iast": "bhava"
+        },
+        {
+          "id": "w5",
+          "text": "स्मरारे",
+          "iast": "smarāre"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w6",
+          "text": "त्वय्येव",
+          "iast": "tvayyeva"
+        },
+        {
+          "id": "w7",
+          "text": "तिष्ठति",
+          "iast": "tiṣṭhati"
+        },
+        {
+          "id": "w8",
+          "text": "जगन्मृड",
+          "iast": "jaganmṛḍa"
+        },
+        {
+          "id": "w9",
+          "text": "विश्वनाथ",
+          "iast": "viśvanātha"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w10",
+          "text": "त्वय्येव",
+          "iast": "tvayyeva"
+        },
+        {
+          "id": "w11",
+          "text": "गच्छति",
+          "iast": "gacchati"
+        },
+        {
+          "id": "w12",
+          "text": "लयं",
+          "iast": "layaṃ"
+        },
+        {
+          "id": "w13",
+          "text": "जगदेतदीश",
+          "iast": "jagadetadīśa"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w14",
+          "text": "लिङ्गात्मकं",
+          "iast": "liṅgātmakaṃ"
+        },
+        {
+          "id": "w15",
+          "text": "हर",
+          "iast": "hara"
+        },
+        {
+          "id": "w16",
+          "text": "चराचरविश्वरूपिन्",
+          "iast": "carācaraviśvarūpin"
+        }
+      ],
+      "end": "॥ ११ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": [
+        "w5"
+      ],
+      "iast": "smara-are",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "स्मरस्य अरिः",
+      "meaning": {
+        "en": "enemy of Smara (Kāma)",
+        "hi": "स्मर (कामदेव) के शत्रु"
+      },
+      "note": {
+        "en": "smara 'Smara, the god of love' + ari 'enemy': the enemy of Kāma, Śiva; here called on directly.",
+        "hi": "स्मर 'कामदेव' + अरि 'शत्रु': कामदेव के शत्रु, अर्थात् शिव; यहाँ उन्हें सीधे पुकारा गया है।"
+      }
+    },
+    "c2": {
+      "members": [
+        "w9"
+      ],
+      "iast": "viśva-nātha",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "विश्वस्य नाथः",
+      "meaning": {
+        "en": "Lord of the universe",
+        "hi": "विश्व के स्वामी"
+      },
+      "note": {
+        "en": "viśva 'all, the universe' + nātha 'lord, protector': the Lord of the universe.",
+        "hi": "विश्व 'सब, संसार' + नाथ 'स्वामी, रक्षक': विश्व के स्वामी।"
+      }
+    },
+    "c3": {
+      "members": [
+        "w14"
+      ],
+      "iast": "liṅga-ātmakaṃ",
+      "type": "bahuvrīhi",
+      "vigraha": "लिङ्गम् आत्मा स्वरूपं यस्य तत्",
+      "meaning": {
+        "en": "whose nature is the liṅga",
+        "hi": "जिसका स्वरूप लिङ्ग है"
+      },
+      "note": {
+        "en": "liṅga 'sign, the liṅga' + ātmaka 'having the nature of': (the world) whose very nature is the liṅga. It describes jagat 'world' and takes its form.",
+        "hi": "लिङ्ग 'चिह्न, लिङ्ग' + आत्मक 'के स्वरूप वाला': (वह जगत्) जिसका स्वरूप ही लिङ्ग है। यह 'जगत्' का विशेषण है और उसी का रूप लेता है।"
+      }
+    },
+    "c4": {
+      "members": [
+        "w16"
+      ],
+      "iast": "cara-acara-viśva-rūpin",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "structure": "(((cara-acara)-viśva)-rūpin)",
+      "vigraha": "चरं च अचरं च चराचरम्; चराचरं विश्वं चराचरविश्वम्; चराचरविश्वस्य रूपम् अस्य अस्ति इति चराचरविश्वरूपी",
+      "meaning": {
+        "en": "whose form is the whole universe of moving and unmoving things",
+        "hi": "चर-अचर सारा विश्व जिनका रूप है"
+      },
+      "note": {
+        "en": "cara 'moving' and acara 'unmoving' pair up as carācara, which describes viśva 'the universe'; rūpin 'having the form of' closes the compound: the one who has the form of that whole universe, Śiva; here called on directly.",
+        "hi": "चर 'चलने वाला' और अचर 'न चलने वाला' मिलकर चराचर बनते हैं, जो विश्व का विशेषण है; अन्त में रूपिन् 'के रूप वाला': उस सारे विश्व के रूप वाले, अर्थात् शिव; यहाँ उन्हें सीधे पुकारा गया है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": [
+        "w1"
+      ],
+      "sa": "त्वत्तः",
+      "iast": "tvattaḥ",
+      "morph": {
+        "type": "avyaya"
+      },
+      "role": "apādāna",
+      "head": "p3"
+    },
+    {
+      "id": "p2",
+      "words": [
+        "w2"
+      ],
+      "sa": "जगत्",
+      "iast": "jagat",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p3"
+    },
+    {
+      "id": "p3",
+      "words": [
+        "w2"
+      ],
+      "sa": "भवति",
+      "iast": "bhavati",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "भू",
+          "iast": "bhū",
+          "gana": 1
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p4",
+      "words": [
+        "w3"
+      ],
+      "sa": "देव",
+      "iast": "deva",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "देव",
+          "iast": "deva"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p5",
+      "words": [
+        "w4"
+      ],
+      "sa": "भव",
+      "iast": "bhava",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "भव",
+          "iast": "bhava"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p6",
+      "words": [
+        "w5"
+      ],
+      "sa": "स्मरारे",
+      "iast": "smarāre",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "स्मरारि",
+          "iast": "smarāri"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p7",
+      "words": [
+        "w6"
+      ],
+      "sa": "त्वयि",
+      "iast": "tvayi",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "युष्मद्",
+          "iast": "yuṣmad"
+        },
+        "case": "locative",
+        "number": "singular"
+      },
+      "role": "adhikaraṇa",
+      "head": "p9"
+    },
+    {
+      "id": "p8",
+      "words": [
+        "w6"
+      ],
+      "sa": "एव",
+      "iast": "eva",
+      "morph": {
+        "type": "avyaya"
+      },
+      "role": "nipāta",
+      "head": null
+    },
+    {
+      "id": "p9",
+      "words": [
+        "w7"
+      ],
+      "sa": "तिष्ठति",
+      "iast": "tiṣṭhati",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "स्था",
+          "iast": "sthā",
+          "gana": 1
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p10",
+      "words": [
+        "w8"
+      ],
+      "sa": "जगत्",
+      "iast": "jagat",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p9"
+    },
+    {
+      "id": "p11",
+      "words": [
+        "w8"
+      ],
+      "sa": "मृड",
+      "iast": "mṛḍa",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "मृड",
+          "iast": "mṛḍa"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p12",
+      "words": [
+        "w9"
+      ],
+      "sa": "विश्वनाथ",
+      "iast": "viśvanātha",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "विश्वनाथ",
+          "iast": "viśvanātha"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p13",
+      "words": [
+        "w10"
+      ],
+      "sa": "त्वयि",
+      "iast": "tvayi",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "युष्मद्",
+          "iast": "yuṣmad"
+        },
+        "case": "locative",
+        "number": "singular"
+      },
+      "role": "adhikaraṇa",
+      "head": "p15"
+    },
+    {
+      "id": "p14",
+      "words": [
+        "w10"
+      ],
+      "sa": "एव",
+      "iast": "eva",
+      "morph": {
+        "type": "avyaya"
+      },
+      "role": "nipāta",
+      "head": null
+    },
+    {
+      "id": "p15",
+      "words": [
+        "w11"
+      ],
+      "sa": "गच्छति",
+      "iast": "gacchati",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "गम्",
+          "iast": "gam",
+          "gana": 1
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p16",
+      "words": [
+        "w12"
+      ],
+      "sa": "लयम्",
+      "iast": "layam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "लय",
+          "iast": "laya"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p15"
+    },
+    {
+      "id": "p17",
+      "words": [
+        "w13"
+      ],
+      "sa": "जगत्",
+      "iast": "jagat",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p15"
+    },
+    {
+      "id": "p18",
+      "words": [
+        "w13"
+      ],
+      "sa": "एतत्",
+      "iast": "etat",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "एतद्",
+          "iast": "etad"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p17"
+    },
+    {
+      "id": "p19",
+      "words": [
+        "w13"
+      ],
+      "sa": "ईश",
+      "iast": "īśa",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "ईश",
+          "iast": "īśa"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p20",
+      "words": [
+        "w14"
+      ],
+      "sa": "लिङ्गात्मकम्",
+      "iast": "liṅgātmakam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "लिङ्गात्मक",
+          "iast": "liṅgātmaka"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p17"
+    },
+    {
+      "id": "p21",
+      "words": [
+        "w15"
+      ],
+      "sa": "हर",
+      "iast": "hara",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "हर",
+          "iast": "hara"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    },
+    {
+      "id": "p22",
+      "words": [
+        "w16"
+      ],
+      "sa": "चराचरविश्वरूपिन्",
+      "iast": "carācaraviśvarūpin",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "चराचरविश्वरूपिन्",
+          "iast": "carācaraviśvarūpin"
+        },
+        "gender": "masculine",
+        "case": "vocative",
+        "number": "singular"
+      },
+      "role": "sambodhana",
+      "head": null
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": [
+    "p4",
+    "p5",
+    "p6",
+    "p11",
+    "p12",
+    "p19",
+    "p21",
+    "p22",
+    "p1",
+    "p2",
+    "p3",
+    "p7",
+    "p8",
+    "p10",
+    "p9",
+    "p13",
+    "p14",
+    "p18",
+    "p20",
+    "p17",
+    "p16",
+    "p15"
+  ],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "From You"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "the world comes into being,"
+          },
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "O God,"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "O Bhava,"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "enemy of Smara (Kāma)!"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "In You alone"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "the world"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "stays,"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "O gracious One,"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "Lord of the universe!"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "And into You alone"
+          },
+          {
+            "refs": [
+              "w11"
+            ],
+            "text": "goes,"
+          },
+          {
+            "refs": [
+              "w12"
+            ],
+            "text": "melting away,"
+          },
+          {
+            "refs": [
+              "w13"
+            ],
+            "text": "O Lord,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w13",
+              "w14"
+            ],
+            "text": "this world whose very nature is the liṅga,"
+          },
+          {
+            "refs": [
+              "w15"
+            ],
+            "text": "O Hara,"
+          },
+          {
+            "refs": [
+              "w16"
+            ],
+            "text": "whose form is the whole universe, all that moves and all that stays still!"
+          }
+        ]
+      ],
+      "bhavartha": "In the last verse the poet speaks straight to Śiva and calls Him name after name: God, Bhava, enemy of Kāma, gracious One, Lord of the universe, Lord, Hara, the One whose form is the whole universe, moving and still. Then he says it plainly: this world comes into being from You, stays in You alone, and melts away into You alone; and this world itself has the liṅga as its nature."
+    },
+    "hi": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "आपसे"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "जगत् उत्पन्न होता है,"
+          },
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "हे देव!"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "हे भव!"
+          },
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "हे स्मर (कामदेव) के शत्रु!"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "आप में ही"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "जगत्"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "टिका रहता है,"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "हे कृपालु!"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "हे विश्वनाथ!"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "और आप में ही"
+          },
+          {
+            "refs": [
+              "w12"
+            ],
+            "text": "विलीन"
+          },
+          {
+            "refs": [
+              "w11"
+            ],
+            "text": "हो जाता है,"
+          },
+          {
+            "refs": [
+              "w13"
+            ],
+            "text": "हे ईश,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w13",
+              "w14"
+            ],
+            "text": "यह लिङ्गस्वरूप जगत्।"
+          },
+          {
+            "refs": [
+              "w15"
+            ],
+            "text": "हे हर!"
+          },
+          {
+            "refs": [
+              "w16"
+            ],
+            "text": "हे चर-अचर सारे विश्व के रूप वाले!"
+          }
+        ]
+      ],
+      "bhavartha": "अन्तिम श्लोक में कवि शिव से सीधे बात करता है और उन्हें नाम पर नाम से पुकारता है: देव, भव, कामदेव के शत्रु, कृपालु, विश्वनाथ, ईश, हर, और वे जिनका रूप चलता-ठहरा सारा विश्व है। फिर वह साफ़ कहता है: यह जगत् आपसे उत्पन्न होता है, आप में ही टिका रहता है और आप में ही विलीन हो जाता है; और यह जगत् स्वयं लिङ्गस्वरूप है।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": [
+        "w2",
+        "w3",
+        "w4"
+      ],
+      "kind": "wordplay",
+      "body": {
+        "en": "Listen to line one: *jagad bhavati … bhava*. *Bhavati*, 'comes into being', grows from *bhū*, to become, and so does *Bhava*. As a plain word, *bhava* means birth, coming into existence; as a name it is an old one, first of a god beside Rudra, later of Śiva Himself. So the name says what the line says: from You the world comes to be, O Bhava. One root gives both the verb and the call, so calling Him is already a word about birth.",
+        "hi": "पहली पंक्ति सुनिए: *जगद् भवति … भव*। *भवति*, 'उत्पन्न होता है', *भू* (होना) से बना है, और *भव* भी। साधारण शब्द के रूप में *भव* का अर्थ है जन्म, अस्तित्व में आना; नाम के रूप में यह पुराना है, पहले रुद्र के साथ रहने वाले एक देव का, फिर स्वयं शिव का। इसलिए नाम वही कहता है जो पंक्ति कहती है: आपसे जगत् उत्पन्न होता है, हे भव। क्रिया और पुकार एक ही जड़ से उगे हैं, इसलिए उन्हें पुकारना ही जन्म की बात कहना है।"
+      },
+      "citations": [
+        {
+          "source": "mw-bhava",
+          "locator": "MW bhava, p. 748,3",
+          "quote": "coming into existence, birth, production, origin"
+        },
+        {
+          "source": "mw-bhava",
+          "locator": "MW bhava, p. 749,1",
+          "quote": "of a deity attending on Rudra and frequently connected with Śarva (later N. of Śiva or a form of Śiva"
+        },
+        {
+          "source": "mw-bhu",
+          "locator": "MW √bhū, p. 760,1",
+          "quote": "to become, be"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": [
+        "w6",
+        "w7",
+        "w8",
+        "w9",
+        "w10",
+        "w11",
+        "w12"
+      ],
+      "kind": "theology",
+      "body": {
+        "en": "Birth, life, return: [verse 5](#v5-a3) walked this path from the Upaniṣad, and [verse 10](#v10-a4) ran it backwards. Here it comes again in its first order, but the voice has changed. Verse 5 spoke of the One from whom the world is born; now the poet says 'from You', 'in You', 'into You'. Twice he adds *eva*, 'alone': the world has nowhere else to stand and nowhere else to go. The Māṇḍūkya says it briefly: He is where beings begin and where they end.",
+        "hi": "जन्म, स्थिति, लय: [पाँचवाँ श्लोक](#v5-a3) उपनिषद् से यही मार्ग लाया था, और [दसवें श्लोक](#v10-a4) ने इसे उलटे क्रम में कहा। यहाँ यह फिर अपने पहले क्रम में आता है, पर स्वर बदल गया है। पाँचवें श्लोक ने उनकी बात की थी जिनसे जगत् जन्म लेता है; अब कवि सीधे कहता है 'आपसे', 'आप में', 'आप में ही विलीन'। दो बार वह *एव*, 'ही', जोड़ता है: जगत् के पास न टिकने को कोई और जगह है, न जाने को। माण्डूक्य उपनिषद् इसे थोड़े में कहता है: वही प्राणियों का आरम्भ हैं और वही अन्त।"
+      },
+      "citations": [
+        {
+          "source": "taittiriya-upanishad-3-1",
+          "locator": "Taittirīya Up. 3.1.1",
+          "quote": "यतो वा इमानि भूतानि जायन्ते"
+        },
+        {
+          "source": "mandukya-upanishad",
+          "locator": "Māṇḍūkya Up. 6",
+          "quote": "प्रभवाप्ययौ हि भूतानाम्"
+        },
+        {
+          "source": "mw-eva",
+          "locator": "MW eva, p. 232,2",
+          "quote": "just, exactly, very, same, only, even, alone"
+        },
+        {
+          "source": "mw-laya",
+          "locator": "MW laya, p. 903,2",
+          "quote": "melting, dissolution, disappearance or absorption in (loc. or comp.)"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": [
+        "w14"
+      ],
+      "kind": "variant",
+      "body": {
+        "en": "Whose nature is the liṅga, the world's or His? Some printings read *liṅgātmakaṃ*, which goes with 'this world': the whole world is a liṅga, a sign of Him. Others read *liṅgātmake*, which goes with 'You': into You, whose nature is the liṅga. Old texts hold both ideas. The Liṅga Purāṇa calls the liṅga the body of the worlds (*vigraho jagatāṃ liṅgam*); the Śiva Purāṇa says that because He has no parts, the formless liṅga is His.",
+        "hi": "लिङ्ग किसका स्वरूप है, जगत् का या उनका? कुछ छपे पाठों में *लिङ्गात्मकं* है, जो 'इस जगत्' के साथ जाता है: पूरा जगत् ही लिङ्ग है, उनका चिह्न। दूसरों में *लिङ्गात्मके* है, जो 'आप' के साथ जाता है: आप में, जिनका स्वरूप लिङ्ग है। प्राचीन ग्रन्थों में दोनों भाव मिलते हैं। लिङ्ग पुराण लिङ्ग को लोकों का शरीर (*विग्रहो जगतां लिङ्गम्*) कहता है; शिव पुराण कहता है कि अंश-रहित होने से निराकार लिङ्ग उन्हीं का है।"
+      },
+      "citations": [
+        {
+          "source": "ramakrishna-math-mantrapushpam",
+          "locator": "Mantrapushpam (Ramakrishna Math, 2007), p. 465, verse ११",
+          "quote": "लिङ्गात्मकं हर चराचरविश्वरूपिन्"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "Stotraratnavali (Gita Press), p. 29, verse ११",
+          "quote": "लिङ्गात्मकं हर चराचरविश्वरूपिन्"
+        },
+        {
+          "source": "brihat-stotra-ratnakar-wikisource",
+          "locator": "Bṛhatstotraratnākara vol. 1 (1953), p. 252, verse ११",
+          "quote": "लिङ्गात्मकं हर चराचरविश्वरूपिन्"
+        },
+        {
+          "source": "sanskritdocuments-vedasarast",
+          "locator": "sanskritdocuments.org vedasarast, verse ११",
+          "quote": "लिङ्गात्मके हर चराचरविश्वरूपिन्"
+        },
+        {
+          "source": "vanivilas-1910-works-17",
+          "locator": "Works of Sri Sankaracharya vol. 17 (Vani Vilas, 1910), p. 73, verse ११",
+          "quote": "लिङ्गात्मके हर चराचरविश्वरूपिन्"
+        },
+        {
+          "source": "linga-purana-1-3",
+          "locator": "Liṅga Purāṇa 1.3.4",
+          "quote": "vigraho jagatāṃ liṅgam"
+        },
+        {
+          "source": "shiva-purana-vidyeshvara",
+          "locator": "Śiva Purāṇa 1.5.11cd",
+          "quote": "niṣkalatvānnirākāraṃ liṃgaṃ tasya samāgatam"
+        },
+        {
+          "source": "mw-linga",
+          "locator": "MW liṅga, p. 901,3",
+          "quote": "a mark, spot, sign, token, badge, emblem, characteristic"
+        },
+        {
+          "source": "mw-vigraha",
+          "locator": "MW vigraha, p. 957,2",
+          "quote": "form, figure, the body"
+        },
+        {
+          "source": "mw-nishkala",
+          "locator": "MW niṣkala, p. 542,3",
+          "quote": "without parts, undivided"
+        },
+        {
+          "source": "mw-nirakara",
+          "locator": "MW nirākāra, p. 540,1",
+          "quote": "formless, shapeless, incorporeal"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "padaccheda": [
+        {
+          "sa": "त्वत्तः",
+          "iast": "tvattaḥ"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "visarga (utva)",
+          "rule": "aḥ + voiced consonant → o",
+          "explanation": {
+            "en": "Final -aḥ becomes -o before the voiced j of jagat (next word): tvattaḥ + jagat → tvatto jagat.",
+            "hi": "अन्तिम '-अः' आगे के घोष 'ज' (जगत्) के कारण '-ओ' बन जाता है: त्वत्तः + जगत् → त्वत्तो जगत्।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "त्वत्तस्",
+          "iast": "tvattas",
+          "pos": "indeclinable",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "युष्मद्",
+            "iast": "yuṣmad"
+          },
+          "formation": "tvat (you) + tas ('from')",
+          "meaning": {
+            "en": "from You",
+            "hi": "आपसे"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "from You, i.e. Śiva",
+        "hi": "आपसे, अर्थात् शिव से"
+      },
+      "notes": {
+        "en": "tvat- 'you (one person)' with the ending -tas 'from': the place the world comes out of.",
+        "hi": "त्वत् 'आप (एक व्यक्ति)' के साथ '-तस्' 'से': वह जिससे जगत् निकलता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-tvattas",
+        "mw-yushmad",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w2": {
+      "padaccheda": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        {
+          "sa": "भवति",
+          "iast": "bhavati"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + bh → d + bh",
+          "explanation": {
+            "en": "Final t becomes the voiced d before the voiced bh: jagat + bhavati → jagad bhavati.",
+            "hi": "अन्तिम 'त्' आगे के घोष 'भ' के कारण 'द्' बन जाता है: जगत् + भवति → जगद्भवति।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jagat",
+            "gloss": "the world, esp. this world, earth"
+          },
+          "meaning": {
+            "en": "world",
+            "hi": "जगत्"
+          }
+        },
+        {
+          "sa": "भवति",
+          "iast": "bhavati",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "gloss": {
+              "en": "to become, come into being",
+              "hi": "होना, उत्पन्न होना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "bhū",
+            "gloss": "to become, be, arise, come into being, exist"
+          },
+          "meaning": {
+            "en": "arises",
+            "hi": "उत्पन्न होता है"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the world comes into being",
+        "hi": "जगत् उत्पन्न होता है"
+      },
+      "notes": {
+        "en": "Two words run together: jagat 'the world' is what comes into being, bhavati 'comes to be' is what it does.",
+        "hi": "दो शब्द जुड़े हैं: जगत् 'संसार' वह है जो उत्पन्न होता है, और भवति 'उत्पन्न होता है' उसका काम।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-jagat",
+        "mw-bhu",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w3": {
+      "padaccheda": [
+        {
+          "sa": "देव",
+          "iast": "deva"
+        }
+      ],
+      "components": [
+        {
+          "sa": "देव",
+          "iast": "deva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "देव",
+            "iast": "deva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "deva",
+            "gloss": "a deity, god"
+          },
+          "meaning": {
+            "en": "God",
+            "hi": "देव"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "O God, i.e. Śiva",
+        "hi": "हे देव, अर्थात् शिव"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": [
+        "mw-deva",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w4": {
+      "padaccheda": [
+        {
+          "sa": "भव",
+          "iast": "bhava"
+        }
+      ],
+      "components": [
+        {
+          "sa": "भव",
+          "iast": "bhava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "gloss": {
+              "en": "to become, come into being",
+              "hi": "होना, उत्पन्न होना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "bhava",
+            "gloss": "N. of a deity attending on Rudra (later N. of Śiva)"
+          },
+          "meaning": {
+            "en": "Bhava",
+            "hi": "भव"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "O Bhava, i.e. Śiva",
+        "hi": "हे भव, अर्थात् शिव"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "A name of Śiva, called on directly. The same word also means 'coming into being, birth', which is just what the line is about.",
+        "hi": "शिव का नाम, यहाँ सीधे पुकारा गया। यही शब्द 'उत्पत्ति, जन्म' भी है, और पंक्ति इसी की बात करती है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "existence (itself comes into being)",
+            "hi": "अस्तित्व (स्वयं उत्पन्न होता है)"
+          },
+          "note": "shlokam-vedasara-shiva-stava takes bhava as the noun 'existence', a second subject of bhavati. gitapress-stotraratnavali gives a string of vocatives (हे शंकर!) and mw-bhava lists Bhava as a name of Śiva; the vocative fits the run of names around it."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-bhava",
+        "mw-bhu",
+        "gitapress-stotraratnavali",
+        "shlokam-vedasara-shiva-stava"
+      ]
+    },
+    "w5": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "स्मर",
+          "iast": "smara"
+        },
+        {
+          "sa": "अरे",
+          "iast": "are"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of smara and the first a of ari merge into a long ā: smara + ari → smarāri.",
+            "hi": "स्मर का अन्तिम 'अ' और अरि का 'अ' मिलकर दीर्घ 'आ' बनते हैं: स्मर + अरि → स्मरारि।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "स्मर",
+          "iast": "smara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "स्मर",
+            "iast": "smara"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "smara",
+            "gloss": "Kāma-deva (god of love)"
+          },
+          "meaning": {
+            "en": "Smara (Kāma)",
+            "hi": "स्मर (कामदेव)"
+          }
+        },
+        {
+          "sa": "अरि",
+          "iast": "ari",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "अरि",
+            "iast": "ari"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ari",
+            "gloss": "an enemy"
+          },
+          "meaning": {
+            "en": "enemy",
+            "hi": "शत्रु"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "O enemy of Smara (Kāma, god of love), i.e. Śiva",
+        "hi": "हे स्मर (कामदेव) के शत्रु, अर्थात् शिव"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "The first verse ended on this name: *smarāmi smarārim*, 'I remember the enemy of Smara' ([verse 1](#v1-a3)). In the last verse the poet calls on Him by it once more.",
+        "hi": "पहला श्लोक इसी नाम पर समाप्त हुआ था: *स्मरामि स्मरारिम्*, 'मैं स्मर के शत्रु का स्मरण करता हूँ' ([पहला श्लोक](#v1-a3))। अन्तिम श्लोक में कवि उन्हें फिर इसी नाम से पुकारता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-smarari",
+        "mw-smara",
+        "mw-ari",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w6": {
+      "padaccheda": [
+        {
+          "sa": "त्वयि",
+          "iast": "tvayi"
+        },
+        {
+          "sa": "एव",
+          "iast": "eva"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "yaṇ",
+          "rule": "i + e → y + e",
+          "explanation": {
+            "en": "Final i turns into y before the vowel e: tvayi + eva → tvayy eva.",
+            "hi": "अन्तिम 'इ' आगे के स्वर 'ए' से पहले 'य्' बन जाता है: त्वयि + एव → त्वय्येव।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "त्वयि",
+          "iast": "tvayi",
+          "pos": "pronoun",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "युष्मद्",
+            "iast": "yuṣmad"
+          },
+          "meaning": {
+            "en": "in You",
+            "hi": "आप में"
+          }
+        },
+        {
+          "sa": "एव",
+          "iast": "eva",
+          "pos": "indeclinable",
+          "sense": {
+            "dict": "mw",
+            "headword": "eva",
+            "gloss": "just, exactly, very, same, only, even, alone"
+          },
+          "meaning": {
+            "en": "alone",
+            "hi": "ही"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "in You alone, i.e. in Śiva",
+        "hi": "आप में ही, अर्थात् शिव में"
+      },
+      "notes": {
+        "en": "tvayi 'in You' says where the world stays; eva 'alone, only' shuts out every other place.",
+        "hi": "त्वयि 'आप में' बताता है कि जगत् कहाँ टिका है; एव 'ही' हर दूसरी जगह को हटा देता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-yushmad",
+        "mw-eva",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w7": {
+      "padaccheda": [
+        {
+          "sa": "तिष्ठति",
+          "iast": "tiṣṭhati"
+        }
+      ],
+      "components": [
+        {
+          "sa": "तिष्ठति",
+          "iast": "tiṣṭhati",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "स्था",
+            "iast": "sthā",
+            "gana": 1,
+            "gloss": {
+              "en": "to stand, stay",
+              "hi": "ठहरना, टिकना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "sthā",
+            "gloss": "to stay, remain, continue in any condition or action"
+          },
+          "meaning": {
+            "en": "stays",
+            "hi": "टिका रहता है"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "stays, lasts",
+        "hi": "टिका रहता है, स्थित रहता है"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-stha",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w8": {
+      "padaccheda": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        {
+          "sa": "मृड",
+          "iast": "mṛḍa"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anunāsika",
+          "rule": "t + m → n + m",
+          "explanation": {
+            "en": "Final t becomes the nasal n before the nasal m: jagat + mṛḍa → jagan mṛḍa.",
+            "hi": "अन्तिम 'त्' आगे के अनुनासिक 'म' के कारण 'न्' बन जाता है: जगत् + मृड → जगन्मृड।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jagat",
+            "gloss": "the world, esp. this world, earth"
+          },
+          "meaning": {
+            "en": "world",
+            "hi": "जगत्"
+          }
+        },
+        {
+          "sa": "मृड",
+          "iast": "mṛḍa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "मृड",
+            "iast": "mṛḍa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "mṛḍa",
+            "gloss": "showing compassion or mercy, gracious; N. of Śiva"
+          },
+          "meaning": {
+            "en": "gracious",
+            "hi": "कृपालु"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the world; O gracious One, i.e. Śiva",
+        "hi": "जगत्; हे कृपालु, अर्थात् शिव"
+      },
+      "notes": {
+        "en": "Two words run together: jagat 'the world' is what stays in Him; mṛḍa 'gracious', a name of Śiva, calls on Him.",
+        "hi": "दो शब्द जुड़े हैं: जगत् 'संसार' वह है जो उनमें टिका है; मृड 'कृपालु', शिव का नाम, उन्हें पुकारता है।"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": [
+        "mw-jagat",
+        "mw-jagan",
+        "mw-mrda",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w9": {
+      "compound": "c2",
+      "padaccheda": [
+        {
+          "sa": "विश्व",
+          "iast": "viśva"
+        },
+        {
+          "sa": "नाथ",
+          "iast": "nātha"
+        }
+      ],
+      "components": [
+        {
+          "sa": "विश्व",
+          "iast": "viśva",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "विश्व",
+            "iast": "viśva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "viśva",
+            "gloss": "all, every, every one; whole, entire, universal"
+          },
+          "meaning": {
+            "en": "universe",
+            "hi": "विश्व"
+          }
+        },
+        {
+          "sa": "नाथ",
+          "iast": "nātha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "नाथ",
+            "iast": "nātha"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "nātha",
+            "gloss": "a protector, patron, possessor, owner, lord"
+          },
+          "meaning": {
+            "en": "lord",
+            "hi": "स्वामी"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "O Lord of the universe, i.e. Śiva",
+        "hi": "हे विश्व के स्वामी, अर्थात् शिव"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "*Viśvanātha* is the name Śiva bears above all as the Lord worshipped in Kāśī, the city the hymn praised Him for in [verse 10](#v10-a3).",
+        "hi": "*विश्वनाथ* शिव का वह नाम है जो विशेषकर काशी में पूजे जाने वाले स्वामी के लिए आता है; उसी काशी के स्वामी के रूप में स्तोत्र ने उन्हें [दसवें श्लोक](#v10-a3) में पुकारा था।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-vishvanatha",
+        "mw-vishva",
+        "mw-natha",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w10": {
+      "padaccheda": [
+        {
+          "sa": "त्वयि",
+          "iast": "tvayi"
+        },
+        {
+          "sa": "एव",
+          "iast": "eva"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "yaṇ",
+          "rule": "i + e → y + e",
+          "explanation": {
+            "en": "Final i turns into y before the vowel e: tvayi + eva → tvayy eva.",
+            "hi": "अन्तिम 'इ' आगे के स्वर 'ए' से पहले 'य्' बन जाता है: त्वयि + एव → त्वय्येव।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "त्वयि",
+          "iast": "tvayi",
+          "pos": "pronoun",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "युष्मद्",
+            "iast": "yuṣmad"
+          },
+          "meaning": {
+            "en": "into You",
+            "hi": "आप में"
+          }
+        },
+        {
+          "sa": "एव",
+          "iast": "eva",
+          "pos": "indeclinable",
+          "sense": {
+            "dict": "mw",
+            "headword": "eva",
+            "gloss": "just, exactly, very, same, only, even, alone"
+          },
+          "meaning": {
+            "en": "alone",
+            "hi": "ही"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "into You alone, i.e. into Śiva",
+        "hi": "आप में ही, अर्थात् शिव में"
+      },
+      "notes": {
+        "en": "The same pair as in line 2; here tvayi 'in You' marks where the world melts away.",
+        "hi": "दूसरी पंक्ति वाला ही जोड़ा; यहाँ त्वयि 'आप में' बताता है कि जगत् कहाँ विलीन होता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-yushmad",
+        "mw-eva",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w11": {
+      "padaccheda": [
+        {
+          "sa": "गच्छति",
+          "iast": "gacchati"
+        }
+      ],
+      "components": [
+        {
+          "sa": "गच्छति",
+          "iast": "gacchati",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "गम्",
+            "iast": "gam",
+            "gana": 1,
+            "gloss": {
+              "en": "to go",
+              "hi": "जाना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "gam",
+            "gloss": "to go to any state or condition, undergo"
+          },
+          "meaning": {
+            "en": "goes",
+            "hi": "जाता है"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "goes (into a state), comes to",
+        "hi": "जाता है, प्राप्त होता है"
+      },
+      "notes": {
+        "en": "With layam 'dissolution' it means 'goes into dissolution', i.e. melts away.",
+        "hi": "लयम् 'लय' के साथ इसका अर्थ है 'लय को प्राप्त होता है', यानी विलीन हो जाता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-gam",
+        "mw-laya",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w12": {
+      "padaccheda": [
+        {
+          "sa": "लयम्",
+          "iast": "layam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the j of jagat: layam → layaṃ.",
+            "hi": "आगे के 'ज' (जगत्) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: लयम् → लयं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "लय",
+          "iast": "laya",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "लय",
+            "iast": "laya"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "laya",
+            "gloss": "melting, dissolution, disappearance or absorption in"
+          },
+          "meaning": {
+            "en": "dissolution",
+            "hi": "लय"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "dissolution, melting away",
+        "hi": "लय, विलीन होना"
+      },
+      "aside": {
+        "en": "*Laya* belongs with *līyate*, the gentle word for the world's ending in [verse 5](#v5-a4). Its first sense is clinging to something; from there it means melting into it.",
+        "hi": "*लय* उसी परिवार का है जिसका *लीयते*, [पाँचवें श्लोक](#v5-a4) में जगत् के अन्त का कोमल शब्द। इसका पहला अर्थ है किसी से चिपकना; वहीं से इसका अर्थ बनता है उसमें घुल जाना।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-laya",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w13": {
+      "padaccheda": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        {
+          "sa": "एतत्",
+          "iast": "etat"
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + e → d + e",
+          "explanation": {
+            "en": "Final t becomes d before a vowel: jagat + etat → jagad etat.",
+            "hi": "स्वर से पहले अन्तिम 'त्' 'द्' बन जाता है: जगत् + एतत् → जगदेतत्।"
+          }
+        },
+        {
+          "name": "jaśtva",
+          "rule": "t + ī → d + ī",
+          "explanation": {
+            "en": "The same change again: etat + īśa → etad īśa.",
+            "hi": "फिर वही बदलाव: एतत् + ईश → एतदीश।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jagat",
+            "gloss": "the world, esp. this world, earth"
+          },
+          "meaning": {
+            "en": "world",
+            "hi": "जगत्"
+          }
+        },
+        {
+          "sa": "एतद्",
+          "iast": "etad",
+          "pos": "pronoun",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "एतद्",
+            "iast": "etad"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "etad",
+            "gloss": "this, this here"
+          },
+          "meaning": {
+            "en": "this",
+            "hi": "यह"
+          }
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "ईश",
+            "iast": "īśa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "īśa",
+            "gloss": "a ruler, master, lord"
+          },
+          "meaning": {
+            "en": "Lord",
+            "hi": "ईश"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "this world; O Lord, i.e. Śiva",
+        "hi": "यह जगत्; हे ईश, अर्थात् शिव"
+      },
+      "notes": {
+        "en": "Three words run together: jagat 'world' and etat 'this' are what melts away; īśa 'Lord' calls on Śiva.",
+        "hi": "तीन शब्द जुड़े हैं: जगत् 'संसार' और एतत् 'यह' वह है जो विलीन होता है; ईश 'स्वामी' शिव को पुकारता है।"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": [
+        "mw-jagat",
+        "mw-etad",
+        "mw-isha",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w14": {
+      "compound": "c3",
+      "padaccheda": [
+        {
+          "sa": "लिङ्ग",
+          "iast": "liṅga"
+        },
+        {
+          "sa": "आत्मकम्",
+          "iast": "ātmakam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + ā → ā",
+          "explanation": {
+            "en": "The final a of liṅga and the long ā of ātmaka merge into one long ā: liṅga + ātmaka → liṅgātmaka.",
+            "hi": "लिङ्ग का अन्तिम 'अ' और आत्मक का 'आ' मिलकर एक दीर्घ 'आ' बनते हैं: लिङ्ग + आत्मक → लिङ्गात्मक।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the h of hara: liṅgātmakam → liṅgātmakaṃ.",
+            "hi": "आगे के 'ह' (हर) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: लिङ्गात्मकम् → लिङ्गात्मकं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "लिङ्ग",
+          "iast": "liṅga",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "लिङ्ग",
+            "iast": "liṅga"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "liṅga",
+            "gloss": "a mark, sign, token, emblem, characteristic"
+          },
+          "meaning": {
+            "en": "liṅga",
+            "hi": "लिङ्ग"
+          }
+        },
+        {
+          "sa": "आत्मक",
+          "iast": "ātmaka",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "आत्मक",
+            "iast": "ātmaka"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ātmaka",
+            "gloss": "having or consisting of the nature or character of (in comp.)"
+          },
+          "meaning": {
+            "en": "natured",
+            "hi": "स्वरूप वाला"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(this world) whose very nature is the liṅga",
+        "hi": "(यह जगत्) जिसका स्वरूप लिङ्ग है"
+      },
+      "notes": {
+        "en": "With the -am ending it describes jagat etat 'this world' of line 3. Some printings read liṅgātmake, which would describe 'You' (tvayi) instead; see the variant note.",
+        "hi": "'-अम्' अन्त के साथ यह तीसरी पंक्ति के 'जगदेतत्' (यह जगत्) का विशेषण है। कुछ छपे पाठों में लिङ्गात्मके है, जो तब 'आप' (त्वयि) का विशेषण होता; पाठभेद वाला नोट देखें।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(into You) whose nature is the liṅga",
+            "hi": "(आप में) जिनका स्वरूप लिङ्ग है"
+          },
+          "note": "Reading liṅgātmake (sanskritdocuments-vedasarast, vanivilas-1910-works-17); shlokam-vedasara-shiva-stava translates 'you who are of the nature of linga'. Chosen text liṅgātmakaṃ (ramakrishna-math-mantrapushpam, gitapress-stotraratnavali, brihat-stotra-ratnakar-wikisource); gitapress Hindi: यह लिंगस्वरूप समस्त जगत्."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-linga",
+        "mw-atmaka",
+        "gitapress-stotraratnavali",
+        "shlokam-vedasara-shiva-stava",
+        "linga-purana-1-3"
+      ]
+    },
+    "w15": {
+      "padaccheda": [
+        {
+          "sa": "हर",
+          "iast": "hara"
+        }
+      ],
+      "components": [
+        {
+          "sa": "हर",
+          "iast": "hara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "हृ",
+            "iast": "hṛ",
+            "gana": 1,
+            "gloss": {
+              "en": "to take away",
+              "hi": "हरना, ले जाना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "hara",
+            "gloss": "'Seizer', 'Destroyer', N. of Śiva"
+          },
+          "meaning": {
+            "en": "Hara (remover)",
+            "hi": "हर (हरने वाले)"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "O Hara, the one who takes away, i.e. Śiva",
+        "hi": "हे हर, हरने वाले, अर्थात् शिव"
+      },
+      "epithet": true,
+      "alternatives": [
+        {
+          "reading": {
+            "en": "O You who take away afflictions",
+            "hi": "हे कष्ट हरने वाले"
+          },
+          "note": "shlokam-vedasara-shiva-stava glosses hara as 'you who take away afflictions'; mw-hara gives 'Seizer, Destroyer' as the name of Śiva. The verse does not say what is taken away, so the meaning keeps the bare name."
+        }
+      ],
+      "confidence": "high",
+      "sources": [
+        "mw-hara",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w16": {
+      "compound": "c4",
+      "padaccheda": [
+        {
+          "sa": "चर",
+          "iast": "cara"
+        },
+        {
+          "sa": "अचर",
+          "iast": "acara"
+        },
+        {
+          "sa": "विश्व",
+          "iast": "viśva"
+        },
+        {
+          "sa": "रूपिन्",
+          "iast": "rūpin"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of cara and the first a of acara merge into a long ā: cara + acara → carācara.",
+            "hi": "चर का अन्तिम 'अ' और अचर का 'अ' मिलकर दीर्घ 'आ' बनते हैं: चर + अचर → चराचर।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "चर",
+          "iast": "cara",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "चर्",
+            "iast": "car",
+            "gana": 1,
+            "gloss": {
+              "en": "to move",
+              "hi": "चलना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "cara",
+            "gloss": "moving, locomotive (as animals opposed to plants)"
+          },
+          "meaning": {
+            "en": "moving",
+            "hi": "चर"
+          }
+        },
+        {
+          "sa": "अचर",
+          "iast": "acara",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "चर्",
+            "iast": "car",
+            "gana": 1,
+            "prefixes": [
+              "a"
+            ],
+            "gloss": {
+              "en": "to move",
+              "hi": "चलना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "a-cara",
+            "gloss": "immovable"
+          },
+          "meaning": {
+            "en": "unmoving",
+            "hi": "अचर"
+          }
+        },
+        {
+          "sa": "विश्व",
+          "iast": "viśva",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "विश्व",
+            "iast": "viśva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "viśva",
+            "gloss": "all, every, every one; whole, entire, universal"
+          },
+          "meaning": {
+            "en": "universe",
+            "hi": "विश्व"
+          }
+        },
+        {
+          "sa": "रूपिन्",
+          "iast": "rūpin",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "रूपिन्",
+            "iast": "rūpin"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "rūpin",
+            "gloss": "(ifc.) having the form or nature or character of"
+          },
+          "meaning": {
+            "en": "formed",
+            "hi": "रूप वाले"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "O You whose form is the whole universe, moving and unmoving, i.e. Śiva",
+        "hi": "हे चर-अचर सारे विश्व के रूप वाले, अर्थात् शिव"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "The hymn's last word is its widest. *Carācara* pairs all that moves with all that stays still, animals and plants alike; *viśva-rūpin* is the one whose form is all of it.",
+        "hi": "स्तोत्र का अन्तिम शब्द उसका सबसे विशाल शब्द है। *चराचर* में सब चलने वाले और सब स्थिर, पशु और पौधे, साथ आते हैं; *विश्वरूपिन्* वे हैं जिनका रूप यह सब है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-caracara",
+        "mw-cara",
+        "mw-acara",
+        "mw-vishvarupin",
+        "mw-rupin",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  },
+  "_new_concepts": {
+    "linga": {
+      "name": {
+        "en": "Liṅga, the sign of Śiva",
+        "hi": "लिङ्ग, शिव का चिह्न"
+      },
+      "description": {
+        "en": "Liṅga first means a mark or sign, and it is the form in which Śiva is worshipped in His temples. The last verse calls the whole world liṅga-natured: everything that is becomes a sign of Him.",
+        "hi": "लिङ्ग का पहला अर्थ चिह्न है, और इसी रूप में शिव अपने मन्दिरों में पूजे जाते हैं। अन्तिम श्लोक पूरे जगत् को लिङ्गस्वरूप कहता है: जो कुछ है, वह उनका चिह्न बन जाता है।"
+      }
+    }
+  }
+}

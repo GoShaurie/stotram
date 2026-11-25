@@ -1,0 +1,1387 @@
+{
+  "group": "structure",
+  "checks": {
+    "T2.8b": "checks/judges/T2.8b.md",
+    "T2.9b": "checks/judges/T2.9b.md",
+    "T3.4": "checks/judges/T3.4.md",
+    "T3.6": "checks/judges/T3.6.md"
+  },
+  "stotram": {
+    "id": "kalabhairava-ashtakam",
+    "title": {
+      "sa": "कालभैरवाष्टकम्",
+      "iast": "Kālabhairavāṣṭakam",
+      "en": "Kalabhairava Ashtakam",
+      "hi": "कालभैरवाष्टकम्"
+    }
+  },
+  "verse": {
+    "id": "v9",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "कालभैरवाष्टकं",
+            "iast": "kālabhairavāṣṭakaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "पठन्ति",
+            "iast": "paṭhanti"
+          },
+          {
+            "id": "w3",
+            "text": "ये",
+            "iast": "ye"
+          },
+          {
+            "id": "w4",
+            "text": "मनोहरं",
+            "iast": "manoharaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "ज्ञानमुक्तिसाधनं",
+            "iast": "jñānamuktisādhanaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "विचित्रपुण्यवर्धनम्",
+            "iast": "vicitrapuṇyavardhanam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "शोकमोहदैन्यलोभकोपतापनाशनं",
+            "iast": "śokamohadainyalobhakopatāpanāśanaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "ते",
+            "iast": "te"
+          },
+          {
+            "id": "w9",
+            "text": "प्रयान्ति",
+            "iast": "prayānti"
+          },
+          {
+            "id": "w10",
+            "text": "कालभैरवाङ्घ्रिसन्निधिं",
+            "iast": "kālabhairavāṅghrisannidhiṃ"
+          },
+          {
+            "id": "w11",
+            "text": "ध्रुवम्",
+            "iast": "dhruvam"
+          }
+        ],
+        "end": "॥ ९ ॥"
+      }
+    ],
+    "adhyahara": [],
+    "anvaya": [
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p1",
+      "p2",
+      "p8",
+      "p11",
+      "p10",
+      "p9"
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w1"
+        ],
+        "iast": "kālabhairava-aṣṭakaṃ",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "कालभैरवस्य अष्टकम्",
+        "meaning": {
+          "en": "the eight verses to Kālabhairava",
+          "hi": "कालभैरव के आठ श्लोक"
+        },
+        "note": {
+          "en": "aṣṭaka, a set of eight, joined to the name of the god it praises: the hymn names itself.",
+          "hi": "अष्टक, आठ का समूह, जिस देवता की स्तुति है उसके नाम से जुड़ा है: स्तोत्र यहाँ अपना ही नाम लेता है।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w4"
+        ],
+        "iast": "mano-haraṃ",
+        "type": "upapada",
+        "vigraha": "मनः हरति इति",
+        "meaning": {
+          "en": "heart-stealing, charming",
+          "hi": "मन को हरने वाला, मनोहर"
+        },
+        "note": {
+          "en": "manas 'mind, heart' with hara 'taking away', from √hṛ: what steals the heart.",
+          "hi": "मनस् 'मन' और √हृ से बना हर 'हरने वाला': जो मन को हर ले।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w5"
+        ],
+        "iast": "jñāna-mukti-sādhanaṃ",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((jñāna-mukti)-sādhana)",
+        "vigraha": "ज्ञानं च मुक्तिः च ज्ञानमुक्ती, तयोः साधनम्",
+        "meaning": {
+          "en": "the means to knowledge and liberation",
+          "hi": "ज्ञान और मुक्ति का साधन"
+        },
+        "note": {
+          "en": "jñāna and mukti are paired ('knowledge and liberation'), and the pair is what sādhana, the means, leads to.",
+          "hi": "ज्ञान और मुक्ति का जोड़ा बनता है, और साधन उसी जोड़े तक पहुँचाने वाला है।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w6"
+        ],
+        "iast": "vicitra-puṇya-vardhanam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((vicitra-puṇya)-vardhana)",
+        "vigraha": "विचित्रं पुण्यं विचित्रपुण्यम्, तस्य वर्धनम्",
+        "meaning": {
+          "en": "that which makes wonderful merit grow",
+          "hi": "अद्भुत पुण्य को बढ़ाने वाला"
+        },
+        "note": {
+          "en": "vicitra 'wonderful, many-sided' describes puṇya 'merit'; vardhana 'increasing' tells what is done to that merit.",
+          "hi": "विचित्र 'अद्भुत, अनेक प्रकार का' पुण्य का विशेषण है; वर्धन 'बढ़ाने वाला' बताता है कि उस पुण्य का क्या होता है।"
+        }
+      },
+      "c5": {
+        "members": [
+          "w7"
+        ],
+        "iast": "śoka-moha-dainya-lobha-kopa-tāpa-nāśanaṃ",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((śoka-moha-dainya-lobha-kopa-tāpa)-nāśana)",
+        "vigraha": "शोकः च मोहः च दैन्यं च लोभः च कोपः च तापः च शोकमोहदैन्यलोभकोपतापाः, तेषां नाशनम्",
+        "meaning": {
+          "en": "that which destroys grief, delusion, misery, greed, anger and pain",
+          "hi": "शोक, मोह, दीनता, लोभ, क्रोध और ताप का नाश करने वाला"
+        },
+        "note": {
+          "en": "Six troubles are listed side by side as one group, and nāśana 'destroying' closes the list.",
+          "hi": "छह कष्ट एक समूह के रूप में साथ-साथ गिनाए गए हैं, और अन्त में नाशन 'नाश करने वाला' आता है।"
+        }
+      },
+      "c6": {
+        "members": [
+          "w10"
+        ],
+        "iast": "kālabhairava-aṅghri-sannidhiṃ",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((kālabhairava-aṅghri)-saṃnidhi)",
+        "vigraha": "कालभैरवस्य अङ्घ्री कालभैरवाङ्घ्री, तयोः सन्निधिः, तम्",
+        "meaning": {
+          "en": "the presence of Kālabhairava's feet",
+          "hi": "कालभैरव के चरणों की सन्निधि"
+        },
+        "note": {
+          "en": "aṅghri 'foot' belongs to Kālabhairava, and saṃnidhi 'nearness, presence' is nearness to those feet.",
+          "hi": "अङ्घ्रि 'चरण' कालभैरव के हैं, और सन्निधि 'निकटता' उन्हीं चरणों की निकटता है।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "कालभैरवाष्टकम्",
+        "iast": "kālabhairavāṣṭakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "कालभैरवाष्टक",
+            "iast": "kālabhairavāṣṭaka"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p2"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "पठन्ति",
+        "iast": "paṭhanti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "पठ्",
+            "iast": "paṭh",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "plural",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w3"
+        ],
+        "sa": "ये",
+        "iast": "ye",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "यद्",
+            "iast": "yad"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "plural"
+        },
+        "role": "kartā",
+        "head": "p2"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w4"
+        ],
+        "sa": "मनोहरम्",
+        "iast": "manoharam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "मनोहर",
+            "iast": "manohara"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p1"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w5"
+        ],
+        "sa": "ज्ञानमुक्तिसाधनम्",
+        "iast": "jñānamuktisādhanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "ज्ञानमुक्तिसाधन",
+            "iast": "jñānamuktisādhana"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p1"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w6"
+        ],
+        "sa": "विचित्रपुण्यवर्धनम्",
+        "iast": "vicitrapuṇyavardhanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विचित्रपुण्यवर्धन",
+            "iast": "vicitrapuṇyavardhana"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p1"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "शोकमोहदैन्यलोभकोपतापनाशनम्",
+        "iast": "śokamohadainyalobhakopatāpanāśanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शोकमोहदैन्यलोभकोपतापनाशन",
+            "iast": "śokamohadainyalobhakopatāpanāśana"
+          },
+          "gender": "neuter",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p1"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w8"
+        ],
+        "sa": "ते",
+        "iast": "te",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "plural"
+        },
+        "role": "kartā",
+        "head": "p9"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w9"
+        ],
+        "sa": "प्रयान्ति",
+        "iast": "prayānti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "या",
+            "iast": "yā",
+            "gana": 2
+          },
+          "prefixes": [
+            "pra"
+          ],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "plural",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w10"
+        ],
+        "sa": "कालभैरवाङ्घ्रिसन्निधिम्",
+        "iast": "kālabhairavāṅghrisannidhim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "कालभैरवाङ्घ्रिसन्निधि",
+            "iast": "kālabhairavāṅghrisannidhi"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p9"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w11"
+        ],
+        "sa": "ध्रुवम्",
+        "iast": "dhruvam",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "p9"
+      }
+    ],
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "कालभैरव",
+            "iast": "kālabhairava"
+          },
+          {
+            "sa": "अष्टकम्",
+            "iast": "aṣṭakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of kālabhairava and the first a of aṣṭaka merge into one long ā: kālabhairava + aṣṭakam → kālabhairavāṣṭakam.",
+              "hi": "कालभैरव का अन्तिम 'अ' और अष्टक का पहला 'अ' मिलकर एक दीर्घ 'आ' बन जाते हैं: कालभैरव + अष्टकम् → कालभैरवाष्टकम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (paṭhanti): kālabhairavāṣṭakam → kālabhairavāṣṭakaṃ.",
+              "hi": "अगले शब्द (पठन्ति) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: कालभैरवाष्टकम् → कालभैरवाष्टकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कालभैरव",
+            "iast": "kālabhairava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कालभैरव",
+              "iast": "kālabhairava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla-bhairava",
+              "gloss": "a form of Bhairava"
+            },
+            "meaning": {
+              "en": "Kālabhairava",
+              "hi": "कालभैरव"
+            }
+          },
+          {
+            "sa": "अष्टक",
+            "iast": "aṣṭaka",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अष्टक",
+              "iast": "aṣṭaka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṣṭaka",
+              "gloss": "a whole consisting of eight parts"
+            },
+            "meaning": {
+              "en": "set of eight (verses)",
+              "hi": "आठ (श्लोकों) का समूह"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the eight verses to Kālabhairava, i.e. this hymn",
+          "hi": "कालभैरव के आठ श्लोक, अर्थात् यही स्तोत्र"
+        },
+        "literal": {
+          "en": "the eight-verse hymn of Kālabhairava",
+          "hi": "कालभैरव का अष्टक"
+        },
+        "aside": {
+          "en": "Here the hymn names itself: an *aṣṭaka* is a set of eight, and the eight verses before this one are that set.",
+          "hi": "यहाँ स्तोत्र अपना ही नाम लेता है: *अष्टक* आठ का समूह है, और इससे पहले के आठ श्लोक वही समूह हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kalabhairava",
+          "mw-ashtaka",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "पठन्ति",
+            "iast": "paṭhanti"
+          }
+        ],
+        "components": [
+          {
+            "sa": "पठन्ति",
+            "iast": "paṭhanti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पठ्",
+              "iast": "paṭh",
+              "gana": 1,
+              "gloss": {
+                "en": "to read aloud, to recite",
+                "hi": "पढ़ना, पाठ करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "paṭh",
+              "gloss": "to read or repeat aloud, to recite, rehearse"
+            },
+            "meaning": {
+              "en": "(they) recite",
+              "hi": "पाठ करते हैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(they) recite",
+          "hi": "पाठ करते हैं"
+        },
+        "notes": {
+          "en": "Present tense, 'they' (several people): the verse speaks of whoever recites, at any time.",
+          "hi": "वर्तमान काल, 'वे' (अनेक लोग): श्लोक उन सबकी बात करता है जो कभी भी पाठ करें।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-path",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "ये",
+            "iast": "ye"
+          }
+        ],
+        "components": [
+          {
+            "sa": "ये",
+            "iast": "ye",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "यद्",
+              "iast": "yad"
+            },
+            "meaning": {
+              "en": "those who",
+              "hi": "जो"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "those who (recite the hymn)",
+          "hi": "जो लोग (स्तोत्र का पाठ करते हैं)"
+        },
+        "notes": {
+          "en": "This 'those who' is answered by te 'they' in the last line: those who recite, they reach.",
+          "hi": "'ये' (जो) का उत्तर अन्तिम पंक्ति का 'ते' (वे) देता है: जो पाठ करते हैं, वे पहुँचते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-yad",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w4": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "मनस्",
+            "iast": "manas"
+          },
+          {
+            "sa": "हरम्",
+            "iast": "haram"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "ut-va",
+            "rule": "as + h → o + h",
+            "explanation": {
+              "en": "The final -as of manas becomes -o before the voiced h of hara: manas + hara → manohara.",
+              "hi": "मनस् का अन्तिम '-अस्' आगे के 'ह' (हर) के कारण '-ओ' बन जाता है: मनस् + हर → मनोहर।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant that opens the next line (jñāna): manoharam → manoharaṃ.",
+              "hi": "अगली पंक्ति के पहले व्यंजन (ज्ञान) से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: मनोहरम् → मनोहरं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "मनस्",
+            "iast": "manas",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मनस्",
+              "iast": "manas"
+            },
+            "meaning": {
+              "en": "heart",
+              "hi": "मन"
+            }
+          },
+          {
+            "sa": "हर",
+            "iast": "hara",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "हृ",
+              "iast": "hṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to take away",
+                "hi": "हरना, ले जाना"
+              }
+            },
+            "formation": "√hṛ + ac (agent)",
+            "meaning": {
+              "en": "stealing",
+              "hi": "हरने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "charming, heart-stealing (the hymn)",
+          "hi": "मनोहर, मन को हर लेने वाला (स्तोत्र)"
+        },
+        "literal": {
+          "en": "stealing the heart",
+          "hi": "मन को हरने वाला"
+        },
+        "notes": {
+          "en": "Describes the aṣṭaka (w1), not the reciters: it is the hymn that is charming.",
+          "hi": "यह अष्टक (w1) का विशेषण है, पाठ करने वालों का नहीं: मनोहर स्तोत्र है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-manohara",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w5": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "ज्ञान",
+            "iast": "jñāna"
+          },
+          {
+            "sa": "मुक्ति",
+            "iast": "mukti"
+          },
+          {
+            "sa": "साधनम्",
+            "iast": "sādhanam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (vicitra): sādhanam → sādhanaṃ.",
+              "hi": "अगले शब्द (विचित्र) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: साधनम् → साधनं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "ज्ञान",
+            "iast": "jñāna",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ज्ञा",
+              "iast": "jñā",
+              "gana": 9,
+              "gloss": {
+                "en": "to know",
+                "hi": "जानना"
+              }
+            },
+            "formation": "√jñā + lyuṭ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "jñāna",
+              "gloss": "knowledge, (esp.) the higher knowledge"
+            },
+            "meaning": {
+              "en": "knowledge",
+              "hi": "ज्ञान"
+            }
+          },
+          {
+            "sa": "मुक्ति",
+            "iast": "mukti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मुच्",
+              "iast": "muc",
+              "gana": 6,
+              "gloss": {
+                "en": "to set free",
+                "hi": "छोड़ना, मुक्त करना"
+              }
+            },
+            "formation": "√muc + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "mukti",
+              "gloss": "final liberation or emancipation"
+            },
+            "meaning": {
+              "en": "liberation",
+              "hi": "मुक्ति"
+            }
+          },
+          {
+            "sa": "साधन",
+            "iast": "sādhana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "साधन",
+              "iast": "sādhana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sādhana",
+              "gloss": "leading straight to a goal, guiding well, furthering"
+            },
+            "meaning": {
+              "en": "means",
+              "hi": "साधन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "a means to knowledge and liberation (said of the hymn)",
+          "hi": "ज्ञान और मुक्ति का साधन (स्तोत्र)"
+        },
+        "notes": {
+          "en": "Describes the aṣṭaka (w1). The text is also found as jñānamuktisādhakam, 'bringing about knowledge and liberation'; the sense is the same.",
+          "hi": "यह अष्टक (w1) का विशेषण है। पाठ 'ज्ञानमुक्तिसाधकम्' (ज्ञान और मुक्ति दिलाने वाला) भी मिलता है; अर्थ वही है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-jnana",
+          "mw-mukti",
+          "mw-sadhana",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "vanivilas-1910-works-18"
+        ]
+      },
+      "w6": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "विचित्र",
+            "iast": "vicitra"
+          },
+          {
+            "sa": "पुण्य",
+            "iast": "puṇya"
+          },
+          {
+            "sa": "वर्धनम्",
+            "iast": "vardhanam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विचित्र",
+            "iast": "vicitra",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विचित्र",
+              "iast": "vicitra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-citra",
+              "gloss": "strange, wonderful, surprising"
+            },
+            "meaning": {
+              "en": "wonderful",
+              "hi": "अद्भुत"
+            }
+          },
+          {
+            "sa": "पुण्य",
+            "iast": "puṇya",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुण्य",
+              "iast": "puṇya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "puṇya",
+              "gloss": "the good or right, virtue, purity, good work, meritorious act, moral or religious merit"
+            },
+            "meaning": {
+              "en": "merit",
+              "hi": "पुण्य"
+            }
+          },
+          {
+            "sa": "वर्धन",
+            "iast": "vardhana",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वर्धन",
+              "iast": "vardhana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vardhana",
+              "gloss": "causing to increase, strengthening, granting prosperity"
+            },
+            "meaning": {
+              "en": "increasing",
+              "hi": "बढ़ाने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "which makes wonderful merit grow (said of the hymn)",
+          "hi": "अद्भुत पुण्य को बढ़ाने वाला (स्तोत्र)"
+        },
+        "notes": {
+          "en": "Describes the aṣṭaka (w1). vicitra can mean wonderful or many-sided: merit of many kinds.",
+          "hi": "यह अष्टक (w1) का विशेषण है। विचित्र का अर्थ अद्भुत भी है और अनेक प्रकार का भी: कई तरह का पुण्य।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vicitra",
+          "mw-punya",
+          "mw-vardhana",
+          "mw-punyavardhana",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w7": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "शोक",
+            "iast": "śoka"
+          },
+          {
+            "sa": "मोह",
+            "iast": "moha"
+          },
+          {
+            "sa": "दैन्य",
+            "iast": "dainya"
+          },
+          {
+            "sa": "लोभ",
+            "iast": "lobha"
+          },
+          {
+            "sa": "कोप",
+            "iast": "kopa"
+          },
+          {
+            "sa": "ताप",
+            "iast": "tāpa"
+          },
+          {
+            "sa": "नाशनम्",
+            "iast": "nāśanam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant that opens the next line (te): nāśanam → nāśanaṃ.",
+              "hi": "अगली पंक्ति के पहले व्यंजन (ते) से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: नाशनम् → नाशनं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शोक",
+            "iast": "śoka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शोक",
+              "iast": "śoka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śoka",
+              "gloss": "sorrow, affliction, anguish, pain, trouble, grief"
+            },
+            "meaning": {
+              "en": "grief",
+              "hi": "शोक"
+            }
+          },
+          {
+            "sa": "मोह",
+            "iast": "moha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मोह",
+              "iast": "moha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "moha",
+              "gloss": "bewilderment, perplexity, distraction, infatuation, delusion, error, folly"
+            },
+            "meaning": {
+              "en": "delusion",
+              "hi": "मोह"
+            }
+          },
+          {
+            "sa": "दैन्य",
+            "iast": "dainya",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दैन्य",
+              "iast": "dainya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dainya",
+              "gloss": "wretchedness, affliction, depression, miserable state"
+            },
+            "meaning": {
+              "en": "misery",
+              "hi": "दीनता"
+            }
+          },
+          {
+            "sa": "लोभ",
+            "iast": "lobha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लोभ",
+              "iast": "lobha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "lobha",
+              "gloss": "covetousness, cupidity, avarice"
+            },
+            "meaning": {
+              "en": "greed",
+              "hi": "लोभ"
+            }
+          },
+          {
+            "sa": "कोप",
+            "iast": "kopa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कोप",
+              "iast": "kopa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kopa",
+              "gloss": "passion, wrath, anger, rage"
+            },
+            "meaning": {
+              "en": "anger",
+              "hi": "क्रोध"
+            }
+          },
+          {
+            "sa": "ताप",
+            "iast": "tāpa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ताप",
+              "iast": "tāpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tāpa",
+              "gloss": "pain (mental or physical), sorrow, affliction"
+            },
+            "meaning": {
+              "en": "burning pain",
+              "hi": "ताप"
+            }
+          },
+          {
+            "sa": "नाशन",
+            "iast": "nāśana",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नाशन",
+              "iast": "nāśana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nāśana",
+              "gloss": "destroying"
+            },
+            "meaning": {
+              "en": "destroying",
+              "hi": "नाश करने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "which destroys grief, delusion, misery, greed, anger and burning pain (said of the hymn)",
+          "hi": "शोक, मोह, दीनता, लोभ, क्रोध और ताप का नाश करने वाला (स्तोत्र)"
+        },
+        "notes": {
+          "en": "Describes the aṣṭaka (w1). tāpa is first heat, then pain of body or mind. The text is also found with lobha before dainya; only the order of the list changes.",
+          "hi": "यह अष्टक (w1) का विशेषण है। ताप का पहला अर्थ गर्मी है, फिर तन या मन की पीड़ा। पाठ में लोभ, दैन्य से पहले भी मिलता है; केवल सूची का क्रम बदलता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shoka",
+          "mw-moha",
+          "mw-dainya",
+          "mw-lobha",
+          "mw-kopa",
+          "mw-tapa",
+          "mw-nashana",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "vanivilas-1910-works-18"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "ते",
+            "iast": "te"
+          }
+        ],
+        "components": [
+          {
+            "sa": "ते",
+            "iast": "te",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "meaning": {
+              "en": "they",
+              "hi": "वे"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "they (those who recite the hymn)",
+          "hi": "वे (जो स्तोत्र का पाठ करते हैं)"
+        },
+        "notes": {
+          "en": "Answers 'those who' (w3) in the first line. The line is also found as prayānti kālabhairavāṅghrisannidhiṃ narā dhruvam, with narāḥ 'people' in place of te 'they'; that form does not fit the meter, and the sense is the same.",
+          "hi": "पहली पंक्ति के 'ये' (जो) का उत्तर। यह पंक्ति 'प्रयान्ति कालभैरवाङ्घ्रिसन्निधिं नरा ध्रुवम्' के रूप में भी मिलती है, जिसमें 'ते' (वे) की जगह 'नराः' (लोग) है; वह रूप छन्द में नहीं बैठता, और अर्थ वही है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tad",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "ramakrishna-math-mantrapushpam",
+          "vanivilas-1910-works-18",
+          "sanskritdocuments-kaalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "प्रयान्ति",
+            "iast": "prayānti"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रयान्ति",
+            "iast": "prayānti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "या",
+              "iast": "yā",
+              "gana": 2,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to go forth, to go to",
+                "hi": "जाना, पहुँचना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-yā",
+              "gloss": "to go forth, set out, progress, advance towards or against, go or repair to"
+            },
+            "meaning": {
+              "en": "(they) reach",
+              "hi": "पहुँचते हैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(they) reach, go to",
+          "hi": "पहुँच जाते हैं"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-praya",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w10": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "कालभैरव",
+            "iast": "kālabhairava"
+          },
+          {
+            "sa": "अङ्घ्रि",
+            "iast": "aṅghri"
+          },
+          {
+            "sa": "सन्निधिम्",
+            "iast": "sannidhim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of kālabhairava and the first a of aṅghri merge into one long ā: kālabhairava + aṅghri → kālabhairavāṅghri.",
+              "hi": "कालभैरव का अन्तिम 'अ' और अङ्घ्रि का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: कालभैरव + अङ्घ्रि → कालभैरवाङ्घ्रि।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (dhruvam): sannidhim → sannidhiṃ.",
+              "hi": "अगले शब्द (ध्रुवम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: सन्निधिम् → सन्निधिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कालभैरव",
+            "iast": "kālabhairava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कालभैरव",
+              "iast": "kālabhairava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla-bhairava",
+              "gloss": "a form of Bhairava"
+            },
+            "meaning": {
+              "en": "Kālabhairava",
+              "hi": "कालभैरव"
+            }
+          },
+          {
+            "sa": "अङ्घ्रि",
+            "iast": "aṅghri",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अङ्घ्रि",
+              "iast": "aṅghri"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṅghri",
+              "gloss": "a foot"
+            },
+            "meaning": {
+              "en": "foot",
+              "hi": "चरण"
+            }
+          },
+          {
+            "sa": "सन्निधि",
+            "iast": "sannidhi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धा",
+              "iast": "dhā",
+              "gana": 3,
+              "prefixes": [
+                "sam",
+                "ni"
+              ],
+              "gloss": {
+                "en": "to put, to place",
+                "hi": "रखना"
+              }
+            },
+            "formation": "sam + ni + √dhā + ki",
+            "sense": {
+              "dict": "mw",
+              "headword": "saṃ-nidhi",
+              "gloss": "juxtaposition, nearness, vicinity, presence"
+            },
+            "meaning": {
+              "en": "presence",
+              "hi": "सन्निधि"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the presence of Kālabhairava's feet",
+          "hi": "कालभैरव के चरणों की सन्निधि"
+        },
+        "literal": {
+          "en": "nearness to the feet of Kālabhairava",
+          "hi": "कालभैरव के चरणों की निकटता"
+        },
+        "notes": {
+          "en": "sannidhi is the dictionary's saṃnidhi: the ṃ of sam is written as n before the n of nidhi. The text is also printed as saṃnidhi.",
+          "hi": "सन्निधि कोश का संनिधि है: सम् का अनुस्वार आगे के 'न' (निधि) से पहले 'न्' लिखा जाता है। पाठ 'संनिधि' रूप में भी छपा मिलता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kalabhairava",
+          "mw-anghri",
+          "mw-samnidhi",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "ध्रुवम्",
+            "iast": "dhruvam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "ध्रुवम्",
+            "iast": "dhruvam",
+            "pos": "indeclinable",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ध्रुव",
+              "iast": "dhruva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dhruvam",
+              "gloss": "firmly, constantly, certainly, surely"
+            },
+            "meaning": {
+              "en": "surely",
+              "hi": "निश्चय ही"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "surely, without fail",
+          "hi": "निश्चय ही"
+        },
+        "notes": {
+          "en": "From dhruva 'fixed, firm', the word of the unmoving pole star; here it means surely.",
+          "hi": "ध्रुव 'अटल, स्थिर' से, जो अचल ध्रुव तारे का भी नाम है; यहाँ अर्थ है निश्चय ही।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dhruvam",
+          "mw-dhruva",
+          "shlokam-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      }
+    }
+  }
+}

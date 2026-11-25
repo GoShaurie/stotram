@@ -1,0 +1,1175 @@
+{
+  "id": "v1",
+  "number": 1,
+  "kind": "verse",
+  "concepts": [
+    "kalabhairava-lord-of-kashi",
+    "digambara"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "देवराजसेव्यमान",
+          "iast": "devarājasevyamāna"
+        },
+        {
+          "id": "w2",
+          "text": "पावनाङ्घ्रिपङ्कजं",
+          "iast": "pāvanāṅghripaṅkajaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "व्यालयज्ञसूत्रमिन्दुशेखरं",
+          "iast": "vyālayajñasūtraminduśekharaṃ"
+        },
+        {
+          "id": "w4",
+          "text": "कृपाकरम्",
+          "iast": "kṛpākaram"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "नारदादियोगिवृन्द",
+          "iast": "nāradādiyogivṛnda"
+        },
+        {
+          "id": "w6",
+          "text": "वन्दितं",
+          "iast": "vanditaṃ"
+        },
+        {
+          "id": "w7",
+          "text": "दिगम्बरं",
+          "iast": "digambaraṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "काशिकापुराधिनाथ",
+          "iast": "kāśikāpurādhinātha"
+        },
+        {
+          "id": "w9",
+          "text": "कालभैरवं",
+          "iast": "kālabhairavaṃ"
+        },
+        {
+          "id": "w10",
+          "text": "भजे",
+          "iast": "bhaje"
+        }
+      ],
+      "end": "॥ १ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1", "w2"],
+      "iast": "deva-rāja-sevyamāna-pāvana-aṅghri-paṅkajam",
+      "type": "bahuvrīhi",
+      "structure": "(((deva-rāja)-sevyamāna)-(pāvana-(aṅghri-paṅkaja)))",
+      "vigraha": "देवराजेन सेव्यमाने पावने अङ्घ्रिपङ्कजे यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose pure lotus feet are served by the king of the gods",
+        "hi": "उन्हें, जिनके पवित्र चरण-कमलों की सेवा देवराज करते हैं"
+      },
+      "note": {
+        "en": "deva-rāja 'king of the gods' (Indra) is the one who serves; sevyamāna 'being served' describes the feet; aṅghri-paṅkaja 'feet that are lotuses' is a metaphor, and pāvana 'pure' qualifies it. The whole compound describes Kālabhairava, the one who has such feet, and so takes the same ending as kālabhairavam.",
+        "hi": "देव-राज 'देवताओं के राजा' (इन्द्र) सेवा करने वाले हैं; सेव्यमान 'सेवित होते हुए' चरणों का विशेषण है; अङ्घ्रि-पङ्कज 'कमल-रूपी चरण' रूपक है, और पावन 'पवित्र' उसका विशेषण है। पूरा समास उन कालभैरव का वर्णन करता है जिनके ऐसे चरण हैं, इसलिए इसका अन्त कालभैरवम् जैसा है।"
+      }
+    },
+    "c2": {
+      "members": ["w3"],
+      "iast": "vyāla-yajña-sūtram",
+      "type": "bahuvrīhi",
+      "structure": "(vyāla-(yajña-sūtra))",
+      "vigraha": "व्यालः यज्ञसूत्रं यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose sacred thread is a snake",
+        "hi": "उन्हें, जिनका यज्ञोपवीत साँप है"
+      },
+      "note": {
+        "en": "yajña-sūtra 'the sacred thread' is itself a compound; with vyāla 'snake' it describes the one whose sacred thread is a snake.",
+        "hi": "यज्ञ-सूत्र 'यज्ञोपवीत' स्वयं एक समास है; व्याल 'साँप' के साथ यह उनका वर्णन करता है जिनका यज्ञोपवीत साँप है।"
+      }
+    },
+    "c3": {
+      "members": ["w3"],
+      "iast": "indu-śekharam",
+      "type": "bahuvrīhi",
+      "vigraha": "इन्दुः शेखरः यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose crest is the moon",
+        "hi": "उन्हें, जिनका शिरोभूषण चन्द्रमा है"
+      },
+      "note": {
+        "en": "indu 'moon' and śekhara 'crest': the one whose crest is the moon. Induśekhara is also a name of Śiva.",
+        "hi": "इन्दु 'चन्द्रमा' और शेखर 'शिरोभूषण': जिनके शीश का भूषण चन्द्रमा है। इन्दुशेखर शिव का नाम भी है।"
+      }
+    },
+    "c4": {
+      "members": ["w4"],
+      "iast": "kṛpā-ākaram",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "कृपायाः आकरः, तम्",
+      "meaning": {
+        "en": "a mine of compassion",
+        "hi": "कृपा की खान"
+      },
+      "note": {
+        "en": "kṛpā 'compassion' + ākara 'mine': a mine of compassion. The two long ā sounds merge into one: kṛpā + ākaram → kṛpākaram.",
+        "hi": "कृपा 'दया' + आकर 'खान': कृपा की खान। दोनों दीर्घ 'आ' मिलकर एक हो जाते हैं: कृपा + आकरम् → कृपाकरम्।"
+      }
+    },
+    "c5": {
+      "members": ["w5", "w6"],
+      "iast": "nārada-ādi-yogi-vṛnda-vanditam",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā",
+      "structure": "(((nārada-ādi)-(yogi-vṛnda))-vandita)",
+      "vigraha": "नारदादीनां योगिनां वृन्देन वन्दितः, तम्",
+      "meaning": {
+        "en": "worshipped by the crowd of yogis led by Nārada",
+        "hi": "नारद आदि योगियों के समूह द्वारा वन्दित"
+      },
+      "note": {
+        "en": "nārada-ādi 'Nārada and the others' describes yogi-vṛnda 'the crowd of yogis'; that crowd is the one who worships, and vandita 'worshipped' closes the compound.",
+        "hi": "नारद-आदि 'नारद आदि' योगि-वृन्द 'योगियों के समूह' का विशेषण है; वही समूह वन्दना करता है, और वन्दित 'वन्दना किए गए' पर समास पूरा होता है।"
+      }
+    },
+    "c6": {
+      "members": ["w7"],
+      "iast": "dig-ambaram",
+      "type": "bahuvrīhi",
+      "vigraha": "दिशः एव अम्बरं यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose clothing is the directions, the sky-clad one",
+        "hi": "उन्हें, दिशाएँ ही जिनका वस्त्र हैं"
+      },
+      "note": {
+        "en": "diś 'direction' + ambara 'clothing': the one whose only clothing is the directions, i.e. who wears nothing but open space.",
+        "hi": "दिश् 'दिशा' + अम्बर 'वस्त्र': जिनका वस्त्र दिशाएँ ही हैं, अर्थात् जो खुले आकाश के सिवा कुछ नहीं पहनते।"
+      }
+    },
+    "c7": {
+      "members": ["w8", "w9"],
+      "iast": "kāśikā-pura-adhinātha-kāla-bhairavam",
+      "type": "karmadhāraya",
+      "structure": "(((kāśikā-pura)-adhinātha)-(kāla-bhairava))",
+      "vigraha": "काशिका एव पुरम्, तस्य अधिनाथः कालभैरवः, तम्",
+      "meaning": {
+        "en": "Kālabhairava, the supreme lord of the city of Kāśī",
+        "hi": "काशी नगरी के अधिपति कालभैरव को"
+      },
+      "note": {
+        "en": "kāśikā-pura 'the city Kāśikā (Kāśī)'; with adhinātha it means 'the supreme lord of the city of Kāśī', and this title and the name Kāla-bhairava refer to the same person.",
+        "hi": "काशिका-पुर 'काशिका (काशी) नगरी'; अधिनाथ के साथ इसका अर्थ है 'काशी नगरी के अधिपति', और यह उपाधि तथा कालभैरव नाम एक ही व्यक्ति के हैं।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1", "w2"],
+      "sa": "देवराजसेव्यमानपावनाङ्घ्रिपङ्कजम्",
+      "iast": "devarājasevyamānapāvanāṅghripaṅkajam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "देवराजसेव्यमानपावनाङ्घ्रिपङ्कज",
+          "iast": "devarājasevyamānapāvanāṅghripaṅkaja"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p2",
+      "words": ["w3"],
+      "sa": "व्यालयज्ञसूत्रम्",
+      "iast": "vyālayajñasūtram",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "व्यालयज्ञसूत्र",
+          "iast": "vyālayajñasūtra"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p3",
+      "words": ["w3"],
+      "sa": "इन्दुशेखरम्",
+      "iast": "induśekharam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "इन्दुशेखर",
+          "iast": "induśekhara"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p4",
+      "words": ["w4"],
+      "sa": "कृपाकरम्",
+      "iast": "kṛpākaram",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "कृपाकर",
+          "iast": "kṛpākara"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p5",
+      "words": ["w5", "w6"],
+      "sa": "नारदादियोगिवृन्दवन्दितम्",
+      "iast": "nāradādiyogivṛndavanditam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "नारदादियोगिवृन्दवन्दित",
+          "iast": "nāradādiyogivṛndavandita"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p6",
+      "words": ["w7"],
+      "sa": "दिगम्बरम्",
+      "iast": "digambaram",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "दिगम्बर",
+          "iast": "digambara"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p7",
+      "words": ["w8", "w9"],
+      "sa": "काशिकापुराधिनाथकालभैरवम्",
+      "iast": "kāśikāpurādhināthakālabhairavam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "काशिकापुराधिनाथकालभैरव",
+          "iast": "kāśikāpurādhināthakālabhairava"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p8"
+    },
+    {
+      "id": "p8",
+      "words": ["w10"],
+      "sa": "भजे",
+      "iast": "bhaje",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "भज्",
+          "iast": "bhaj",
+          "gana": 1
+        },
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अहम्",
+      "iast": "aham",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "अस्मद्",
+          "iast": "asmad"
+        },
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p8",
+      "meaning": {
+        "en": "I (the singer)",
+        "hi": "मैं (गाने वाला भक्त)"
+      }
+    }
+  ],
+  "anvaya": ["x1", "p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w2"], "text": "Whose pure lotus feet" },
+          { "refs": ["w1"], "text": "the king of the gods (Indra) serves," }
+        ],
+        [
+          { "refs": ["w3"], "text": "who wears a snake as His sacred thread" },
+          { "refs": ["w3"], "text": "and the moon as His crest," },
+          { "refs": ["w4"], "text": "a mine of compassion;" }
+        ],
+        [
+          { "refs": ["w6"], "text": "worshipped" },
+          { "refs": ["w5"], "text": "by the crowd of yogis led by Nārada," },
+          { "refs": ["w7"], "text": "the sky-clad one:" }
+        ],
+        [
+          { "refs": ["x1"], "text": "I" },
+          { "refs": ["w10"], "text": "worship" },
+          { "refs": ["w9"], "text": "Kālabhairava," },
+          { "refs": ["w8"], "text": "the supreme lord of the city of Kāśī." }
+        ]
+      ],
+      "bhavartha": "The singer turns to Kālabhairava, lord of the city of Kāśī. Indra, the king of the gods, serves His pure lotus feet. A snake hangs on Him as His sacred thread, the moon sits on His head, and His heart is a mine of compassion. Nārada and a crowd of yogis bow to Him, and He wears only the open sky. Him, says the singer, I worship."
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w2"], "text": "जिनके पवित्र चरण-कमलों की" },
+          { "refs": ["w1"], "text": "सेवा देवराज (इन्द्र) करते हैं," }
+        ],
+        [
+          { "refs": ["w3"], "text": "जो साँप को यज्ञोपवीत बनाकर पहनते हैं" },
+          { "refs": ["w3"], "text": "और चन्द्रमा को शिरोभूषण बनाकर," },
+          { "refs": ["w4"], "text": "जो कृपा की खान हैं;" }
+        ],
+        [
+          { "refs": ["w5"], "text": "नारद आदि योगियों का समूह" },
+          { "refs": ["w6"], "text": "जिनकी वन्दना करता है," },
+          { "refs": ["w7"], "text": "जो दिगम्बर हैं:" }
+        ],
+        [
+          { "refs": ["w8"], "text": "काशी नगरी के अधिपति" },
+          { "refs": ["w9"], "text": "कालभैरव को" },
+          { "refs": ["x1"], "text": "मैं" },
+          { "refs": ["w10"], "text": "भजता हूँ।" }
+        ]
+      ],
+      "bhavartha": "भक्त काशी नगरी के स्वामी कालभैरव की ओर मुड़ता है। देवताओं के राजा इन्द्र उनके पवित्र चरण-कमलों की सेवा करते हैं। साँप उनका यज्ञोपवीत है, सिर पर चन्द्रमा सजा है, और वे कृपा की खान हैं। नारद और योगियों का समूह उन्हें प्रणाम करता है, और दिशाएँ ही उनका वस्त्र हैं। भक्त कहता है: ऐसे कालभैरव को मैं भजता हूँ।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1", "w2"],
+      "kind": "context",
+      "body": {
+        "en": "The hymn opens with the king of heaven acting as a servant. *Devarāja*, king of the gods, is Indra, and *sevyamāna* means 'being served': the service is still going on as the verse is sung. What he serves are the feet, called lotuses and called *pāvana*. That word means pure, and it also means purifying: the feet are holy in themselves and can make others holy too.",
+        "hi": "स्तोत्र की शुरुआत में स्वर्ग का राजा सेवक बना है। *देवराज*, यानी देवताओं के राजा, इन्द्र हैं, और *सेव्यमान* का अर्थ है 'जिनकी सेवा हो रही है': सेवा अभी चल रही है, जब श्लोक गाया जा रहा है। जिनकी सेवा होती है वे चरण हैं, जिन्हें कमल कहा गया है और *पावन* भी। इस शब्द का अर्थ पवित्र है, और पवित्र करने वाला भी: चरण स्वयं पवित्र हैं और दूसरों को भी पवित्र कर सकते हैं।"
+      },
+      "citations": [
+        {
+          "source": "mw-devaraja",
+          "locator": "MW deva-rāja, p. 494",
+          "quote": "king of the gods, N. of Indra"
+        },
+        {
+          "source": "mw-sevyamana",
+          "locator": "MW sevyamāna, p. 1247",
+          "quote": "being dwelt in or served or used"
+        },
+        {
+          "source": "mw-pavana",
+          "locator": "MW pāvana, p. 623",
+          "quote": "purifying, purificatory"
+        },
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 201, verse 1, Hindi translation",
+          "quote": "जिनके पवित्र चरण-कमलकी सेवा देवराज इन्द्र सदा करते रहते हैं"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a2",
+      "refs": ["w3", "w4"],
+      "kind": "context",
+      "body": {
+        "en": "Where a worshipper wears a sacred thread (*yajña-sūtra*), Kālabhairava wears a living snake. *Vyāla* means a snake, and the same word can mean a wild beast of prey. On His head the moon (*indu*) rests as a crest, the picture behind Śiva's name Induśekhara, 'moon-crested'. After the snake and the moon the line ends gently: *kṛpākara*, a mine of compassion. The ornaments are fearsome; the heart is kind.",
+        "hi": "जहाँ उपासक यज्ञोपवीत (*यज्ञ-सूत्र*) पहनता है, वहाँ कालभैरव जीवित साँप पहनते हैं। *व्याल* का अर्थ साँप है, और यही शब्द हिंसक जंगली पशु के लिए भी आता है। उनके सिर पर चन्द्रमा (*इन्दु*) शिरोभूषण बनकर सजा है; यही चित्र शिव के नाम इन्दुशेखर, 'चन्द्रमा का मुकुट धारण करने वाले', के पीछे है। साँप और चन्द्रमा के बाद पंक्ति कोमल शब्द पर रुकती है: *कृपाकर*, कृपा की खान। आभूषण भयानक हैं, पर हृदय दयालु है।"
+      },
+      "citations": [
+        {
+          "source": "mw-yajnasutra",
+          "locator": "MW yajña-sūtra, p. 840",
+          "quote": "the sacrificial thread or cord"
+        },
+        {
+          "source": "mw-vyala",
+          "locator": "MW vyāla, p. 1038",
+          "quote": "a beast of prey"
+        },
+        {
+          "source": "mw-indushekhara",
+          "locator": "MW indu-śekhara, p. 166",
+          "quote": "moon-crested"
+        },
+        {
+          "source": "mw-krpakara",
+          "locator": "MW kṛpākara, p. 305",
+          "quote": "a mine of compassion"
+        },
+        {
+          "source": "gitapress-shiv-stotra-ratnakar",
+          "locator": "p. 201, verse 1, Hindi translation",
+          "quote": "जिन्होंने शिरोभूषणके रूपमें चन्द्रमा और सर्पका यज्ञोपवीत धारण किया है"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a3",
+      "refs": ["w7"],
+      "kind": "wordplay",
+      "body": {
+        "en": "*Dig-ambara* is usually put as 'sky-clad', and the two parts show why. *Diś* is a direction, the four main ones and the four between them. *Ambara* means clothing, and it also means the sky. So the word says both: the directions are His clothes, and the sky is His garment. He wears nothing but open space. The same word is used for a naked wandering monk, and it is a name of Śiva himself.",
+        "hi": "*दिग्-अम्बर* को प्रायः 'आकाश ही जिनका वस्त्र है' कहा जाता है, और दोनों भाग इसका कारण बताते हैं। *दिश्* यानी दिशा: चार मुख्य दिशाएँ और उनके बीच की चार। *अम्बर* का अर्थ वस्त्र है, और आकाश भी। इसलिए शब्द दोनों बातें कहता है: दिशाएँ उनके कपड़े हैं, और आकाश उनका वस्त्र। खुले आकाश के सिवा वे कुछ नहीं पहनते। यही शब्द नग्न घूमने वाले संन्यासी के लिए भी आता है, और स्वयं शिव का नाम भी है।"
+      },
+      "citations": [
+        {
+          "source": "mw-digambara",
+          "locator": "MW dig-ambara, p. 480",
+          "quote": "i.e. quite naked"
+        },
+        {
+          "source": "mw-dish",
+          "locator": "MW 2. diś, p. 480",
+          "quote": "direction, cardinal point"
+        },
+        {
+          "source": "mw-ambara",
+          "locator": "MW ambara, p. 83",
+          "quote": "sky, atmosphere, ether"
+        },
+        {
+          "source": "mw-ambara",
+          "locator": "MW ambara, p. 83",
+          "quote": "clothes, apparel, garment"
+        },
+        {
+          "source": "shlokam-kalabhairava",
+          "locator": "verse 1, word meanings",
+          "quote": "clothed in directions"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a4",
+      "refs": ["w8", "w9", "w10"],
+      "kind": "context",
+      "body": {
+        "en": "This line closes every verse of the hymn, so the song keeps coming back to one name. *Bhairava* comes from a word for fear: terrible, formidable. *Kāla* can mean dark, and it can also mean time. The purāṇas count eight Bhairavas, and Kāla-bhairava is one of them. Here He is the supreme lord (*adhinātha*) of Kāśī, the city of Benares, and the singer meets that terror with one quiet word: *bhaje*, I worship.",
+        "hi": "यह पंक्ति स्तोत्र के हर श्लोक के अन्त में आती है, इसलिए गीत बार-बार एक ही नाम पर लौटता है। *भैरव* भय के शब्द से बना है: भयानक, प्रचण्ड। *काल* का अर्थ काला भी है, और समय भी। पुराण आठ भैरव गिनाते हैं, और कालभैरव उनमें से एक हैं। यहाँ वे काशी नगरी के अधिपति (*अधिनाथ*) हैं, और भक्त उस भय का उत्तर एक शान्त शब्द से देता है: *भजे*, मैं भजता हूँ।"
+      },
+      "citations": [
+        {
+          "source": "mw-bhairava",
+          "locator": "MW bhairava, p. 767",
+          "quote": "frightful, terrible, horrible, formidable"
+        },
+        {
+          "source": "mw-kala",
+          "locator": "MW 1. kāla, p. 277",
+          "quote": "black, of a dark colour, dark-blue"
+        },
+        {
+          "source": "mw-kala",
+          "locator": "MW 2. kāla, p. 278",
+          "quote": "time (in general)"
+        },
+        {
+          "source": "mw-kashika",
+          "locator": "MW kāśikā, p. 280",
+          "quote": "Benares"
+        },
+        {
+          "source": "mw-adhinatha",
+          "locator": "MW adhi-nātha, p. 21",
+          "quote": "a supreme lord, chieftain"
+        },
+        {
+          "source": "mw-bhaj",
+          "locator": "MW √bhaj, p. 743",
+          "quote": "to serve, honour, revere, love, adore"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "देव", "iast": "deva" },
+        { "sa": "राज", "iast": "rāja" },
+        { "sa": "सेव्यमान", "iast": "sevyamāna" }
+      ],
+      "components": [
+        {
+          "sa": "देव",
+          "iast": "deva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "देव", "iast": "deva" },
+          "sense": { "dict": "mw", "headword": "deva", "gloss": "a deity, god" },
+          "meaning": { "en": "gods", "hi": "देवता" }
+        },
+        {
+          "sa": "राज",
+          "iast": "rāja",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "राज", "iast": "rāja" },
+          "sense": { "dict": "mw", "headword": "rāja", "gloss": "a king, sovereign, chief" },
+          "meaning": { "en": "king", "hi": "राजा" }
+        },
+        {
+          "sa": "सेव्यमान",
+          "iast": "sevyamāna",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "सेव्",
+            "iast": "sev",
+            "gana": 1,
+            "gloss": { "en": "to serve, to worship", "hi": "सेवा करना" }
+          },
+          "formation": "√sev + yak + śānac (present passive participle)",
+          "sense": { "dict": "mw", "headword": "sevyamāna", "gloss": "being dwelt in or served or used" },
+          "meaning": { "en": "served", "hi": "सेवित" }
+        }
+      ],
+      "meaning": {
+        "en": "served by the king of the gods, Indra",
+        "hi": "देवराज इन्द्र द्वारा सेवित"
+      },
+      "literal": {
+        "en": "being served by the king of the gods",
+        "hi": "देवताओं के राजा द्वारा सेवा किए जाते हुए"
+      },
+      "aside": {
+        "en": "The king of the gods is Indra. Here he is the servant, and the service is still going on as the verse is sung.",
+        "hi": "देवताओं के राजा इन्द्र हैं। यहाँ वे सेवक हैं, और सेवा अभी भी चल रही है।"
+      },
+      "notes": {
+        "en": "deva-rāja is a standing name of Indra. sevyamāna 'being served' describes the feet (w2); the action is ongoing. No sandhi at the joins.",
+        "hi": "देव-राज इन्द्र का प्रसिद्ध नाम है। सेव्यमान 'सेवित होते हुए' चरणों (w2) का विशेषण है; क्रिया चल रही है। जोड़ों पर कोई सन्धि नहीं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-devaraja", "mw-sevyamana", "mw-sev", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar"]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "पावन", "iast": "pāvana" },
+        { "sa": "अङ्घ्रि", "iast": "aṅghri" },
+        { "sa": "पङ्कजम्", "iast": "paṅkajam" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of pāvana and the first a of aṅghri merge into one long ā: pāvana + aṅghri → pāvanāṅghri.",
+            "hi": "पावन का अन्तिम 'अ' और अङ्घ्रि का पहला 'अ' मिलकर दीर्घ 'आ' बनते हैं: पावन + अङ्घ्रि → पावनाङ्घ्रि।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant that follows (vyāla…): paṅkajam → paṅkajaṃ.",
+            "hi": "आगे के व्यंजन (व्याल…) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पङ्कजम् → पङ्कजं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "पावन",
+          "iast": "pāvana",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "पावन", "iast": "pāvana" },
+          "sense": { "dict": "mw", "headword": "pāvana", "gloss": "pure, holy" },
+          "meaning": { "en": "pure", "hi": "पवित्र" }
+        },
+        {
+          "sa": "अङ्घ्रि",
+          "iast": "aṅghri",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "अङ्घ्रि", "iast": "aṅghri" },
+          "sense": { "dict": "mw", "headword": "aṅghri", "gloss": "a foot" },
+          "meaning": { "en": "feet", "hi": "चरण" }
+        },
+        {
+          "sa": "पङ्कज",
+          "iast": "paṅkaja",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "पङ्कज", "iast": "paṅkaja" },
+          "formation": "paṅka 'mud' + ja 'born': the mud-born flower",
+          "sense": { "dict": "mw", "headword": "paṅka-ja", "gloss": "'mud-born', a species of lotus" },
+          "meaning": { "en": "lotus", "hi": "कमल" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) whose lotus feet are pure",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जिनके चरण-कमल पवित्र हैं"
+      },
+      "literal": {
+        "en": "having pure feet that are lotuses",
+        "hi": "जिनके पवित्र चरण ही कमल हैं"
+      },
+      "notes": {
+        "en": "The ending -am belongs to the whole compound w1–w2, which describes Kālabhairava and matches kālabhairavam. pāvana can also mean 'purifying'.",
+        "hi": "अन्तिम '-अम्' पूरे समास w1–w2 का है, जो कालभैरव का वर्णन करता है और कालभैरवम् से मेल खाता है। पावन का अर्थ 'पवित्र करने वाला' भी हो सकता है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "whose purifying lotus feet", "hi": "जिनके पवित्र करने वाले चरण-कमल" },
+          "note": "MW lists pāvana first as 'purifying', then 'pure, holy'; shlokam-kalabhairava and gitapress-shiv-stotra-ratnakar take 'pure'."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-pavana", "mw-anghri", "mw-pankaja", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar"]
+    },
+    "w3": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "व्याल", "iast": "vyāla" },
+        { "sa": "यज्ञ", "iast": "yajña" },
+        { "sa": "सूत्रम्", "iast": "sūtram" },
+        { "sa": "इन्दु", "iast": "indu" },
+        { "sa": "शेखरम्", "iast": "śekharam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m of śekharam is written as anusvāra before the k of kṛpākaram: śekharam → śekharaṃ. Before the vowel of indu, the m of sūtram simply joins it: sūtram + indu → sūtramindu.",
+            "hi": "कृपाकरम् के 'क' से पहले शेखरम् का अन्तिम 'म्' अनुस्वार बन जाता है: शेखरम् → शेखरं। इन्दु के स्वर से पहले सूत्रम् का 'म्' बस उससे जुड़ जाता है: सूत्रम् + इन्दु → सूत्रमिन्दु।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "व्याल",
+          "iast": "vyāla",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "व्याल", "iast": "vyāla" },
+          "sense": { "dict": "mw", "headword": "vyāla", "gloss": "a snake" },
+          "meaning": { "en": "snake", "hi": "साँप" }
+        },
+        {
+          "sa": "यज्ञ",
+          "iast": "yajña",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "यज्ञ", "iast": "yajña" },
+          "sense": { "dict": "mw", "headword": "yajña", "gloss": "act of worship or devotion, offering, sacrifice" },
+          "meaning": { "en": "worship", "hi": "यज्ञ" }
+        },
+        {
+          "sa": "सूत्र",
+          "iast": "sūtra",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "सूत्र", "iast": "sūtra" },
+          "sense": { "dict": "mw", "headword": "sūtra", "gloss": "the sacred thread or cord worn by the first three classes" },
+          "meaning": { "en": "thread", "hi": "सूत्र" }
+        },
+        {
+          "sa": "इन्दु",
+          "iast": "indu",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "इन्दु", "iast": "indu" },
+          "sense": { "dict": "mw", "headword": "indu", "gloss": "the moon" },
+          "meaning": { "en": "moon", "hi": "चन्द्रमा" }
+        },
+        {
+          "sa": "शेखर",
+          "iast": "śekhara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "शेखर", "iast": "śekhara" },
+          "sense": { "dict": "mw", "headword": "śekhara", "gloss": "a chaplet or wreath of flowers worn on the top of the head, crown, diadem, crest" },
+          "meaning": { "en": "crest", "hi": "शिरोभूषण" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who wears a snake as His sacred thread and the moon as His crest",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो साँप को यज्ञोपवीत और चन्द्रमा को शिरोभूषण बनाकर धारण करते हैं"
+      },
+      "literal": {
+        "en": "whose sacred thread is a snake, whose crest is the moon",
+        "hi": "जिनका यज्ञोपवीत साँप है, जिनका शिरोभूषण चन्द्रमा है"
+      },
+      "notes": {
+        "en": "One display word holding two separate descriptions, vyāla-yajña-sūtram (c2) and indu-śekharam (c3), both describing Kālabhairava. Induśekhara 'moon-crested' is a name of Śiva. The 1910 Vani Vilas print has सूत्रबिन्दु; every other witness has सूत्रमिन्दु, and the print is taken as a misprint.",
+        "hi": "एक ही शब्द में दो अलग विशेषण हैं, व्याल-यज्ञ-सूत्रम् (c2) और इन्दु-शेखरम् (c3), दोनों कालभैरव का वर्णन करते हैं। इन्दुशेखर 'चन्द्रमा का मुकुट धारण करने वाले' शिव का नाम है। 1910 के वाणी विलास संस्करण में सूत्रबिन्दु छपा है; बाकी सभी पाठों में सूत्रमिन्दु है, इसलिए उसे छपाई की भूल माना गया है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vyala", "mw-yajnasutra", "mw-sutra", "mw-indu", "mw-indushekhara", "mw-shekhara", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar"]
+    },
+    "w4": {
+      "compound": "c4",
+      "padaccheda": [
+        { "sa": "कृपा", "iast": "kṛpā" },
+        { "sa": "आकरम्", "iast": "ākaram" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "ā + ā → ā",
+          "explanation": {
+            "en": "The two long ā sounds merge into one: kṛpā + ākaram → kṛpākaram.",
+            "hi": "दोनों दीर्घ 'आ' मिलकर एक हो जाते हैं: कृपा + आकरम् → कृपाकरम्।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "कृपा",
+          "iast": "kṛpā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "कृपा", "iast": "kṛpā" },
+          "sense": { "dict": "mw", "headword": "kṛpā", "gloss": "pity, tenderness, compassion" },
+          "meaning": { "en": "compassion", "hi": "कृपा" }
+        },
+        {
+          "sa": "आकर",
+          "iast": "ākara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "आकर", "iast": "ākara" },
+          "sense": { "dict": "mw", "headword": "ā-kara", "gloss": "a mine; a rich source of anything" },
+          "meaning": { "en": "mine", "hi": "खान" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who is a mine of compassion",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो कृपा की खान हैं"
+      },
+      "notes": {
+        "en": "kṛpā + ākara, 'a mine, a rich source of compassion', i.e. endlessly compassionate. The split kṛpā + kara is also seen, but the dictionary entry kṛpākara and the long ā support ākara.",
+        "hi": "कृपा + आकर, 'कृपा की खान, कृपा का भण्डार', अर्थात् अपार दयालु। कृपा + कर विभाजन भी दिखता है, पर शब्दकोश की प्रविष्टि कृपाकर और दीर्घ 'आ' आकर का समर्थन करते हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-krpakara", "mw-krpa", "mw-akara", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar", "greenmesg-kalabhairava"]
+    },
+    "w5": {
+      "compound": "c5",
+      "padaccheda": [
+        { "sa": "नारद", "iast": "nārada" },
+        { "sa": "आदि", "iast": "ādi" },
+        { "sa": "योगि", "iast": "yogi" },
+        { "sa": "वृन्द", "iast": "vṛnda" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + ā → ā",
+          "explanation": {
+            "en": "The final a of nārada and the ā of ādi merge into one long ā: nārada + ādi → nāradādi.",
+            "hi": "नारद का अन्तिम 'अ' और आदि का 'आ' मिलकर दीर्घ 'आ' बनते हैं: नारद + आदि → नारदादि।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नारद",
+          "iast": "nārada",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "नारद", "iast": "nārada" },
+          "sense": { "dict": "mw", "headword": "nārada", "gloss": "N. of a Ṛṣi; as a Devarṣi supposed to be a messenger between gods and men" },
+          "meaning": { "en": "Nārada", "hi": "नारद" }
+        },
+        {
+          "sa": "आदि",
+          "iast": "ādi",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "आदि", "iast": "ādi" },
+          "sense": { "dict": "mw", "headword": "ādi", "gloss": "ifc. beginning with, et caetera, and so on" },
+          "meaning": { "en": "and others", "hi": "आदि" }
+        },
+        {
+          "sa": "योगिन्",
+          "iast": "yogin",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "योगिन्", "iast": "yogin" },
+          "sense": { "dict": "mw", "headword": "yogin", "gloss": "a follower of the Yoga system, a contemplative saint, devotee, ascetic" },
+          "meaning": { "en": "yogis", "hi": "योगी" }
+        },
+        {
+          "sa": "वृन्द",
+          "iast": "vṛnda",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "वृन्द", "iast": "vṛnda" },
+          "sense": { "dict": "mw", "headword": "vṛnda", "gloss": "a heap, multitude, host, flock" },
+          "meaning": { "en": "crowd", "hi": "समूह" }
+        }
+      ],
+      "meaning": {
+        "en": "by the crowd of yogis led by Nārada",
+        "hi": "नारद आदि योगियों के समूह द्वारा"
+      },
+      "literal": {
+        "en": "by the crowd of yogis beginning with Nārada",
+        "hi": "नारद से आरम्भ होने वाले योगियों के समूह द्वारा"
+      },
+      "aside": {
+        "en": "Nārada is the sage who travels between the gods and people. Here he leads a whole crowd of yogis who bow to Kālabhairava.",
+        "hi": "नारद वे ऋषि हैं जो देवताओं और मनुष्यों के बीच आते-जाते हैं। यहाँ वे योगियों के पूरे समूह के आगे हैं, जो कालभैरव को प्रणाम करता है।"
+      },
+      "notes": {
+        "en": "yogi is the form yogin takes inside a compound. ādi 'beginning with' makes Nārada the first of the group.",
+        "hi": "समास के भीतर योगिन् 'योगि' रूप लेता है। आदि 'से आरम्भ होने वाले' नारद को समूह में पहला बताता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-narada", "mw-adi", "mw-yogin", "mw-vrnda", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar"]
+    },
+    "w6": {
+      "compound": "c5",
+      "padaccheda": [
+        { "sa": "वन्दितम्", "iast": "vanditam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the d of digambaram: vanditam → vanditaṃ.",
+            "hi": "दिगम्बरम् के 'द' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: वन्दितम् → वन्दितं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "वन्दित",
+          "iast": "vandita",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "वन्द्",
+            "iast": "vand",
+            "gana": 1,
+            "gloss": { "en": "to salute, to worship", "hi": "वन्दना करना, प्रणाम करना" }
+          },
+          "formation": "√vand + kta (past passive participle)",
+          "sense": { "dict": "mw", "headword": "vand", "gloss": "to show honour, do homage, salute respectfully, venerate, worship" },
+          "meaning": { "en": "worshipped", "hi": "वन्दित" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who is worshipped",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जिनकी वन्दना की जाती है"
+      },
+      "notes": {
+        "en": "vandita closes the compound w5–w6; its ending -am matches kālabhairavam. MW's entry vandita gives 'praised'; the verb vand also means to bow to and worship, the sense taken here.",
+        "hi": "वन्दित समास w5–w6 को पूरा करता है; इसका '-अम्' कालभैरवम् से मेल खाता है। शब्दकोश में वन्दित का अर्थ 'स्तुत' है; धातु वन्द् का अर्थ प्रणाम और पूजा भी है, जो यहाँ लिया गया है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "praised (by the crowd of yogis)", "hi": "(योगियों के समूह द्वारा) स्तुत" },
+          "note": "mw-vandita and shlokam-kalabhairava give 'praised'; gitapress-shiv-stotra-ratnakar has वन्दना करता रहता है."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-vand", "mw-vandita", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar"]
+    },
+    "w7": {
+      "compound": "c6",
+      "padaccheda": [
+        { "sa": "दिक्", "iast": "dik" },
+        { "sa": "अम्बरम्", "iast": "ambaram" }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "k + vowel → g",
+          "explanation": {
+            "en": "Final k becomes the soft g before a vowel: dik + ambaram → digambaram.",
+            "hi": "स्वर से पहले अन्तिम 'क्' कोमल 'ग्' बन जाता है: दिक् + अम्बरम् → दिगम्बरम्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the k of kāśikā: digambaram → digambaraṃ.",
+            "hi": "काशिका के 'क' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: दिगम्बरम् → दिगम्बरं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "दिश्",
+          "iast": "diś",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "दिश्", "iast": "diś" },
+          "sense": { "dict": "mw", "headword": "diś", "gloss": "quarter or region pointed at, direction, cardinal point" },
+          "meaning": { "en": "directions", "hi": "दिशाएँ" }
+        },
+        {
+          "sa": "अम्बर",
+          "iast": "ambara",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "अम्बर", "iast": "ambara" },
+          "sense": { "dict": "mw", "headword": "ambara", "gloss": "clothes, apparel, garment; sky" },
+          "meaning": { "en": "clothing", "hi": "वस्त्र" }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Kālabhairava) who is sky-clad, wearing the directions as His clothes",
+        "hi": "(उन्हें, अर्थात् कालभैरव को) जो दिगम्बर हैं, दिशाएँ ही जिनका वस्त्र हैं"
+      },
+      "literal": {
+        "en": "whose clothing is the directions",
+        "hi": "जिनका वस्त्र दिशाएँ हैं"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Digambara is a name of Śiva. ambara means both clothing and sky, so 'sky-clad' and 'clothed in the directions' say the same thing.",
+        "hi": "दिगम्बर शिव का नाम है। अम्बर का अर्थ वस्त्र भी है और आकाश भी, इसलिए 'आकाश-वस्त्र' और 'दिशाओं को ओढ़े हुए' एक ही बात कहते हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-digambara", "mw-dish", "mw-ambara", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar", "greenmesg-kalabhairava"]
+    },
+    "w8": {
+      "compound": "c7",
+      "padaccheda": [
+        { "sa": "काशिका", "iast": "kāśikā" },
+        { "sa": "पुर", "iast": "pura" },
+        { "sa": "अधिनाथ", "iast": "adhinātha" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of pura and the first a of adhinātha merge into one long ā: pura + adhinātha → purādhinātha.",
+            "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बनते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "काशिका",
+          "iast": "kāśikā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "काशिका", "iast": "kāśikā" },
+          "sense": { "dict": "mw", "headword": "kāśikā", "gloss": "'the city of the Kāśis', Benares" },
+          "meaning": { "en": "Kāśī", "hi": "काशी" }
+        },
+        {
+          "sa": "पुर",
+          "iast": "pura",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "पुर", "iast": "pura" },
+          "sense": { "dict": "mw", "headword": "pura", "gloss": "a fortress, castle, city, town" },
+          "meaning": { "en": "city", "hi": "नगरी" }
+        },
+        {
+          "sa": "अधिनाथ",
+          "iast": "adhinātha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "अधिनाथ", "iast": "adhinātha" },
+          "formation": "adhi 'over' + nātha 'lord'",
+          "sense": { "dict": "mw", "headword": "adhi-nātha", "gloss": "a supreme lord, chieftain" },
+          "meaning": { "en": "supreme lord", "hi": "अधिपति" }
+        }
+      ],
+      "meaning": {
+        "en": "the supreme lord of the city of Kāśī",
+        "hi": "काशी नगरी के अधिपति"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Kāśikā is Kāśī, the city of Benares (Vārāṇasī). This title and the name Kālabhairava (w9) are written as one compound and refer to the same person.",
+        "hi": "काशिका काशी है, यानी वाराणसी नगरी। यह उपाधि और कालभैरव नाम (w9) एक ही समास में लिखे गए हैं और एक ही व्यक्ति के लिए हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-kashika", "mw-pura", "mw-adhinatha", "mw-natha", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar"]
+    },
+    "w9": {
+      "compound": "c7",
+      "padaccheda": [
+        { "sa": "काल", "iast": "kāla" },
+        { "sa": "भैरवम्", "iast": "bhairavam" }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the bh of bhaje: kālabhairavam → kālabhairavaṃ.",
+            "hi": "भजे के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "काल",
+          "iast": "kāla",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "काल", "iast": "kāla" },
+          "sense": { "dict": "mw", "headword": "kāla", "gloss": "black, of a dark colour; time" },
+          "meaning": { "en": "dark, or time", "hi": "काला, या समय" }
+        },
+        {
+          "sa": "भैरव",
+          "iast": "bhairava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "भैरव", "iast": "bhairava" },
+          "sense": { "dict": "mw", "headword": "bhairava", "gloss": "frightful, terrible, formidable; N. of a form of Śiva" },
+          "meaning": { "en": "terrible", "hi": "भयानक" }
+        }
+      ],
+      "meaning": {
+        "en": "Kālabhairava",
+        "hi": "कालभैरव को"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Kāla-bhairava is a form of Bhairava, itself a fierce form of Śiva; the purāṇas list him among eight Bhairavas. The -am ending marks Him as the one worshipped.",
+        "hi": "कालभैरव भैरव का एक रूप हैं, और भैरव शिव का प्रचण्ड रूप; पुराण उन्हें आठ भैरवों में गिनते हैं। '-अम्' अन्त बताता है कि वे ही पूजे जाने वाले हैं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-kalabhairava", "mw-bhairava", "mw-kala", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar"]
+    },
+    "w10": {
+      "padaccheda": [
+        { "sa": "भजे", "iast": "bhaje" }
+      ],
+      "components": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": { "en": "to serve, to worship, to love", "hi": "भजना, सेवा करना, प्रेम करना" }
+          },
+          "sense": { "dict": "mw", "headword": "bhaj", "gloss": "to serve, honour, revere, love, adore" },
+          "meaning": { "en": "I worship", "hi": "मैं भजता हूँ" }
+        }
+      ],
+      "meaning": {
+        "en": "I worship",
+        "hi": "मैं भजता हूँ"
+      },
+      "notes": {
+        "en": "Present tense, 'I', of √bhaj. The same root gives bhakti and bhajan: serving and loving the god. The analyzer also offers bhaje as a form of a noun bhaji ('O …'); that makes no sense here.",
+        "hi": "√भज् का वर्तमान काल, 'मैं'। इसी धातु से भक्ति और भजन बनते हैं: भगवान की सेवा और प्रेम। विश्लेषक 'भजे' को किसी 'भजि' शब्द का सम्बोधन भी बताता है; यहाँ उसका कोई अर्थ नहीं बनता।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhaj", "shlokam-kalabhairava", "gitapress-shiv-stotra-ratnakar", "greenmesg-kalabhairava"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-11-21",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  },
+  "_new_concepts": {
+    "kalabhairava-lord-of-kashi": {
+      "name": { "en": "Kālabhairava, lord of Kāśī", "hi": "काशी के अधिपति कालभैरव" },
+      "description": {
+        "en": "Kālabhairava, a fierce form of Śiva, praised in every verse's refrain as the supreme lord of the city of Kāśī. The hymn pairs His terrible name and ornaments with His compassion.",
+        "hi": "कालभैरव, शिव का प्रचण्ड रूप, जिन्हें हर श्लोक की टेक में काशी नगरी के अधिपति कहा गया है। स्तोत्र उनके भयानक नाम और आभूषणों के साथ उनकी कृपा को जोड़ता है।"
+      }
+    },
+    "digambara": {
+      "name": { "en": "Sky-clad (Digambara)", "hi": "दिगम्बर" },
+      "description": {
+        "en": "Śiva and His forms as 'sky-clad': wearing the directions as clothing, owning nothing, covered only by open space.",
+        "hi": "शिव और उनके रूप 'दिगम्बर' के रूप में: दिशाएँ ही जिनका वस्त्र हैं, जिनके पास कुछ नहीं, केवल खुला आकाश।"
+      }
+    }
+  }
+}

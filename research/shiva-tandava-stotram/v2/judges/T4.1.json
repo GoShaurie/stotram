@@ -1,0 +1,12 @@
+{
+  "check": "T4.1",
+  "fields_hash": "f0a8e44b254a49b9",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w6.meaning",
+      "message": "'with a crackling dhagad-dhagad-dhagad' is supported by MW dhagaddhag-iti ('crack! crack!'), but the two word-by-word sources that gloss the word give blazing or brightness instead: vyakhya-sts-2 'धधकती', shlokam 'brilliant'. No alternative is recorded, and confidence is high.",
+      "suggested_fix": "Add an alternative citing vyakhya-sts-2 and shlokam ('blazing fiercely' / 'धधकती हुई') and consider medium confidence."
+    }
+  ]
+}

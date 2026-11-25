@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "456d22d58308ddb6",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a2.body",
+      "message": "Nearly all of a2's story is backed by mw-nilakantha.md (p. 566,2: 'N. of Śiva (as having a black throat from swallowing the poison produced at the churning of the ocean)'). One detail is not: 'The poison stayed in His throat' / 'वह विष उनके कण्ठ में ठहर गया'. MW says only that the throat turned black from swallowing the poison. None of the other evidence files mentions the throat (mw-halahala.md and mw-amrtamanthana.md say nothing about it). The detail is minor and well known, but no excerpt here supports it.",
+      "suggested_fix": "Either cite an ancient source that says the poison was held in the throat, or reword to what MW supports. EN: 'Śiva swallowed it, and it stained His throat dark'. HI: 'शिव ने उसे पी लिया, और उससे उनका कण्ठ गहरे रंग का हो गया'."
+    }
+  ]
+}

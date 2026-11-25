@@ -1,0 +1,12 @@
+{
+  "check": "T4.4",
+  "fields_hash": "bf5f5b0ecb060bec",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w7.notes",
+      "message": "w7 śivāya is marked epithet: true, but its only gloss is 'to Śiva'. No note explains the name. The meaning 'The Auspicious one' (mw-shiva) appears only in components[0].sense.gloss, which is not visible text. The rubric's pass case is a note saying the name means 'the auspicious one'. This is a refrain word, so that note may already be in v1; it cannot be checked from this bundle.",
+      "suggested_fix": "If v1 does not already explain the name, add to words.w7.notes: en 'Śiva means \"the auspicious one\".' / hi 'शिव का अर्थ है \"मंगलमय, कल्याणकारी\"।'"
+    }
+  ]
+}

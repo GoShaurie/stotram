@@ -1,0 +1,512 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.9": "checks/judges/T4.9.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-vedasarast",
+        "name": "sanskritdocuments.org — Vedasara Shiva Stotram (vedasarast.itx); read from the Wayback copy of 2025-07-22",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250722112755/https://sanskritdocuments.org/doc_shiva/vedasarast.html"
+      },
+      {
+        "id": "shlokam-vedasara-shiva-stava",
+        "name": "shlokam.org — Vedasara Shiva Stava (English translation and word meanings; Devanagari copies sanskritdocuments)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/vedasara-shiva-stava.htm"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. 71–73",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n82/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, pp. 464–465; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/464/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 26–29, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 52–55, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "brihat-stotra-ratnakar-wikisource",
+        "name": "बृहत्स्तोत्ररत्नाकर (Bṛhatstotraratnākara) vol. 1 (1953), pp. 251–252, as transcribed on Sanskrit Wikisource",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/वेदसारशिवस्तवः"
+      },
+      {
+        "id": "mw-mahadeva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mahādeva' (SLP1 key: mahAdeva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mahAdeva"
+      },
+      {
+        "id": "mw-na",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'na' (SLP1 key: na)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=na"
+      },
+      {
+        "id": "mw-smarari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'smarāri' (SLP1 key: smarAri)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=smarAri"
+      },
+      {
+        "id": "mw-varenya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vareṇya' (SLP1 key: vareRya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vareRya"
+      },
+      {
+        "id": "mw-ari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ari' (SLP1 key: ari)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ari"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-smara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'smara' (SLP1 key: smara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=smara"
+      },
+      {
+        "id": "mw-deva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'deva' (SLP1 key: deva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=deva"
+      },
+      {
+        "id": "mw-mahesha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'maheśa' (SLP1 key: maheSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=maheSa"
+      },
+      {
+        "id": "mw-prabhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prabhu' (SLP1 key: praBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=praBu"
+      },
+      {
+        "id": "mw-trinetra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'trinetra' (SLP1 key: trinetra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=trinetra"
+      },
+      {
+        "id": "mw-vibhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vibhu' (SLP1 key: viBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viBu"
+      },
+      {
+        "id": "mw-vishvanatha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'viśvanātha' (SLP1 key: viSvanATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=viSvanATa"
+      },
+      {
+        "id": "mw-natha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nātha' (SLP1 key: nATa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nATa"
+      },
+      {
+        "id": "mw-netra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'netra' (SLP1 key: netra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=netra"
+      },
+      {
+        "id": "linga-purana-1-72",
+        "name": "Liṅga Purāṇa 1.72",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mahabharata-karna-8-24",
+        "name": "Mahābhārata, Karṇaparvan 8.24",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "kumarasambhava-3",
+        "name": "Kālidāsa, Kumārasambhava, canto 3",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "linga-purana-1-101",
+        "name": "Liṅga Purāṇa 1.101",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "bhagavata-8-7",
+        "name": "Bhāgavata Purāṇa 8.7",
+        "kind": "text",
+        "ancient": true,
+        "note": "In the Nīlakaṇṭha theme story, Śiva's words to Bhavānī and the snake-rope detail are told from memory; only 8.7.42–43 was checked. Confirm before review."
+      },
+      {
+        "id": "shvetashvatara-upanishad",
+        "name": "Śvetāśvatara Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mw-kanta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kānta' (SLP1 key: kAnta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAnta"
+      },
+      {
+        "id": "mw-shiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śivā' (SLP1 key: SivA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SivA"
+      },
+      {
+        "id": "mw-shambhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śambhu' (SLP1 key: SamBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SamBu"
+      },
+      {
+        "id": "mw-shula",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūla' (SLP1 key: SUla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUla"
+      },
+      {
+        "id": "mw-ganya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaṇya' (SLP1 key: gaRya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaRya"
+      },
+      {
+        "id": "mw-pur",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pur' (SLP1 key: pur)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pur"
+      },
+      {
+        "id": "mw-shanta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śānta' (SLP1 key: SAnta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SAnta"
+      },
+      {
+        "id": "mw-anya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'anya' (SLP1 key: anya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=anya"
+      },
+      {
+        "id": "mw-manya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mānya' (SLP1 key: mAnya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mAnya"
+      },
+      {
+        "id": "mw-purari",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'purāri' (SLP1 key: purAri)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=purAri"
+      },
+      {
+        "id": "mw-shulapani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūlapāṇi' (SLP1 key: SUlapARi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUlapARi"
+      },
+      {
+        "id": "mw-pani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāṇi' (SLP1 key: pARi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pARi"
+      }
+    ]
+  },
+  "verse": {
+    "id": "v9",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "प्रभो",
+            "iast": "prabho"
+          },
+          {
+            "id": "w2",
+            "text": "शूलपाणे",
+            "iast": "śūlapāṇe"
+          },
+          {
+            "id": "w3",
+            "text": "विभो",
+            "iast": "vibho"
+          },
+          {
+            "id": "w4",
+            "text": "विश्वनाथ",
+            "iast": "viśvanātha"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "महादेव",
+            "iast": "mahādeva"
+          },
+          {
+            "id": "w6",
+            "text": "शम्भो",
+            "iast": "śambho"
+          },
+          {
+            "id": "w7",
+            "text": "महेश",
+            "iast": "maheśa"
+          },
+          {
+            "id": "w8",
+            "text": "त्रिनेत्र",
+            "iast": "trinetra"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "शिवाकान्त",
+            "iast": "śivākānta"
+          },
+          {
+            "id": "w10",
+            "text": "शान्त",
+            "iast": "śānta"
+          },
+          {
+            "id": "w11",
+            "text": "स्मरारे",
+            "iast": "smarāre"
+          },
+          {
+            "id": "w12",
+            "text": "पुरारे",
+            "iast": "purāre"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w13",
+            "text": "त्वदन्यो",
+            "iast": "tvadanyo"
+          },
+          {
+            "id": "w14",
+            "text": "वरेण्यो",
+            "iast": "vareṇyo"
+          },
+          {
+            "id": "w15",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w16",
+            "text": "मान्यो",
+            "iast": "mānyo"
+          },
+          {
+            "id": "w17",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w18",
+            "text": "गण्यः",
+            "iast": "gaṇyaḥ"
+          }
+        ],
+        "end": "॥ ९ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w11"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "Picture the moment as the Kumārasambhava paints it. Something stirs Śiva's mind in the middle of His penance, and He looks to the edges of the sky for the cause. There stands Kāma, god of love, his lovely bow bent into a circle, ready to shoot. Anger flares, and a flame leaps from Śiva's third eye. The gods in the sky are still crying \"Lord (*prabho*), hold back your anger!\" when Kāma is already ash. *Prabho*, the very word that opens this verse.",
+          "hi": "कुमारसम्भव इस क्षण का चित्र खींचता है। तपस्या के बीच शिव का मन डोल उठता है, और वे कारण देखने के लिए दिशाओं के छोर तक दृष्टि डालते हैं। वहाँ कामदेव खड़ा है, अपना सुन्दर धनुष गोल खींचे, बाण चलाने को तैयार। क्रोध भड़कता है, और शिव के तीसरे नेत्र से एक लपट निकल पड़ती है। आकाश में देवता अभी पुकार ही रहे हैं \"प्रभो (*प्रभो*), क्रोध रोकिए!\", कि कामदेव राख हो चुका है। *प्रभो*, वही शब्द जिससे यह श्लोक शुरू होता है।"
+        },
+        "citations": [
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.69",
+            "quote": "hetuṃ svacetovikṛter didṛkṣur diśām upānteṣu sasarja dṛṣṭim"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.70",
+            "quote": "dadarśa cakrīkṛtacārucāpaṃ prahartum abhyudyatam ātmayonim"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.71",
+            "quote": "sphurann udarciḥ sahasā tṛtīyād akṣṇaḥ kṛśānuḥ kila niṣpapāta"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.72",
+            "quote": "krodhaṃ prabho saṃhara saṃhareti"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.72",
+            "quote": "bhasmāvaśeṣaṃ madanaṃ cakāra"
+          },
+          {
+            "source": "mw-smara",
+            "locator": "MW smara, p. 1272",
+            "quote": "Kāma-deva (god of love)"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w12"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "*Pur* is a fortress or city, and *Purāri* is the enemy of the cities: the three cities of the demons, set in the sky. In the Mahābhārata, Śiva strings His bow, fits an arrow joined to the Pāśupata weapon, and simply waits, thinking of the cities. In time the three come together as one. The gods cry \"Victory!\" He draws the bow and lets go one arrow holding the strength of the three worlds. It burns the city and its demons and hurls them into the western ocean.",
+          "hi": "*पुर्* यानी गढ़ या नगर, और *पुरारि* यानी पुरों के शत्रु: आकाश में बसे असुरों के तीन नगर। महाभारत का चित्र: शिव धनुष पर डोरी चढ़ाते हैं, पाशुपत अस्त्र से जुड़ा बाण साधते हैं, और नगरों का ध्यान करते हुए बस प्रतीक्षा करते हैं। समय आने पर तीनों नगर एक हो जाते हैं। देवता \"जय!\" पुकारते हैं। वे धनुष खींचकर तीनों लोकों के बल से भरा एक बाण छोड़ते हैं। वह नगर को असुरों सहित जलाकर पश्चिमी समुद्र में फेंक देता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-pur",
+            "locator": "MW pur, p. 635",
+            "quote": "a rampart, wall, stronghold, fortress, castle, city, town (also of demons)"
+          },
+          {
+            "source": "linga-purana-1-72",
+            "locator": "Liṅga Purāṇa 1.72.33",
+            "quote": "purāṇyuddiśya khasthāni"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.115",
+            "quote": "yuktvā pāśupatāstreṇa tripuraṃ samacintayat"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.116",
+            "quote": "purāṇi tāni kālena jagmur ekatvatāṃ tadā"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.118",
+            "quote": "jayeti vāco mumucuḥ"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.120",
+            "quote": "trailokyasāraṃ tam iṣuṃ mumoca tripuraṃ prati"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.120",
+            "quote": "tat sāsuragaṇaṃ dagdhvā prākṣipat paścimārṇave"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w13",
+          "w14",
+          "w15",
+          "w16",
+          "w17",
+          "w18"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Earlier the hymn said \"You are the One\" ([verse 4](#v4-a2)); here it says the same from the other side: no one else. *Vareṇya* is the one worth choosing above all. The Śvetāśvatara Upaniṣad gives this word to the same Lord: when darkness is gone, only Śiva remains, and He is the imperishable, the *vareṇya* of the Sun ([verse 7](#v7-a1)). It also says Rudra is one, with no one standing beside Him as a second. So the verse ends: none to choose, none to honour, none to count.",
+          "hi": "पहले स्तोत्र ने कहा था \"आप ही एक हैं\" ([श्लोक ४](#v4-a2)); यहाँ वही बात दूसरी ओर से कही गई है: और कोई नहीं। *वरेण्य* वह है जिसे सबसे ऊपर चुना जाए। श्वेताश्वतर उपनिषद् यही शब्द उसी प्रभु के लिए देता है: अन्धकार मिटने पर केवल शिव रहते हैं, वही अविनाशी हैं, सूर्य के *वरेण्य* तेज ([श्लोक ७](#v7-a1))। वह यह भी कहता है कि रुद्र एक हैं, उनके साथ कोई दूसरा नहीं खड़ा होता। इसीलिए श्लोक का अन्त है: न कोई चुनने योग्य, न आदर योग्य, न गिनने योग्य।"
+        },
+        "citations": [
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 4.18",
+            "quote": "तदक्षरं तत् सवितुर्वरेण्यं"
+          },
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 3.2",
+            "quote": "एको हि रुद्रो न द्वितीयाय"
+          },
+          {
+            "source": "mw-varenya",
+            "locator": "MW vareṇya, p. 923",
+            "quote": "to be wished for, desirable, excellent, best among (gen.)"
+          },
+          {
+            "source": "mw-manya",
+            "locator": "MW mānya, p. 809",
+            "quote": "to be respected or honoured, worthy of honour"
+          },
+          {
+            "source": "mw-ganya",
+            "locator": "MW gaṇya, p. 344",
+            "quote": "to be counted or calculated"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ]
+  }
+}

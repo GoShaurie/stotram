@@ -1,0 +1,1537 @@
+{
+  "group": "translation",
+  "checks": {
+    "T3.5": "checks/judges/T3.5.md",
+    "T4.6": "checks/judges/T4.6.md",
+    "T4.7": "checks/judges/T4.7.md",
+    "T4.8": "checks/judges/T4.8.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    }
+  },
+  "verse": {
+    "id": "v2",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "जटाकटाह",
+            "iast": "jaṭākaṭāha"
+          },
+          {
+            "id": "w2",
+            "text": "सम्भ्रमभ्रमन्",
+            "iast": "sambhramabhraman"
+          },
+          {
+            "id": "w3",
+            "text": "निलिम्पनिर्झरी",
+            "iast": "nilimpanirjharī"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "विलोलवीचिवल्लरी",
+            "iast": "vilolavīcivallarī"
+          },
+          {
+            "id": "w5",
+            "text": "विराजमानमूर्द्धनि",
+            "iast": "virājamānamūrddhani"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w6",
+            "text": "धगद्धगद्धगज्",
+            "iast": "dhagaddhagaddhagaj"
+          },
+          {
+            "id": "w7",
+            "text": "ज्वलल्",
+            "iast": "jvalal"
+          },
+          {
+            "id": "w8",
+            "text": "ललाटपट्टपावके",
+            "iast": "lalāṭapaṭṭapāvake"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "किशोरचन्द्रशेखरे",
+            "iast": "kiśoracandraśekhare"
+          },
+          {
+            "id": "w10",
+            "text": "रतिः",
+            "iast": "ratiḥ"
+          },
+          {
+            "id": "w11",
+            "text": "प्रतिक्षणं",
+            "iast": "pratikṣaṇaṃ"
+          },
+          {
+            "id": "w12",
+            "text": "मम",
+            "iast": "mama"
+          }
+        ],
+        "end": "॥ २ ॥"
+      }
+    ],
+    "adhyahara": [
+      {
+        "id": "x1",
+        "sa": "भवतु",
+        "iast": "bhavatu",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1
+          },
+          "lakara": "loṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null,
+        "meaning": {
+          "en": "may (it) be, may (it) remain",
+          "hi": "हो, बनी रहे"
+        }
+      },
+      {
+        "id": "x2",
+        "sa": "शिवे",
+        "iast": "śive",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "adhikaraṇa",
+        "head": "p4",
+        "meaning": {
+          "en": "in Śiva (the one all three descriptions qualify)",
+          "hi": "शिव में (जिनके ये तीनों विशेषण हैं)"
+        }
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2",
+          "w3"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Why a cooking pot? A *kaṭāha* is a deep, rounded vessel, a cauldron or wok. Piled and coiled, Śiva's matted hair becomes such a bowl, and the river of the gods (*nilimpa-nirjharī*, the Gaṅgā) cannot fall straight through it: she spins round and round inside.\n\nThe vyakhya.org commentary pictures her as proud and restless, churning because Śiva has bound her. Readers differ on the vessel: the Samskrit Academy word-gloss renders *kaṭāha* as \"a well\", a sense the dictionary also records. Either way the image is depth and confinement, a heavenly torrent held in a vessel of hair.",
+          "hi": "कड़ाह ही क्यों? *कटाह* गहरा, गोल पात्र है, कड़ाह या कड़ाही। लपेटकर बाँधी गई शिव की जटाएँ ऐसा ही पात्र बन जाती हैं, और देवताओं की नदी (*निलिम्प-निर्झरी*, गंगा) उनमें से सीधी नीचे नहीं गिर पाती: वह भीतर ही गोल-गोल घूमती रहती है।\n\nvyakhya.org की व्याख्या गंगा को गर्वीली और अधीर मानती है, जो शिव द्वारा बाँध दिए जाने से भीतर ही भीतर छटपटा रही है। पात्र को सब एक जैसा नहीं पढ़ते: संस्कृत अकादमी (sanskritdocuments.org) का शब्दार्थ *कटाह* का अर्थ \"कुआँ\" देता है, और शब्दकोश भी यह अर्थ दर्ज करता है। दोनों में भाव एक है: गहराई और बन्धन, केशों के पात्र में थमी स्वर्गीय धारा।"
+        },
+        "citations": [
+          {
+            "source": "mw-kataha",
+            "locator": "MW kaṭāha, p. 243",
+            "quote": "a boiler, caldron, saucepan"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, व्याख्या",
+            "quote": "कड़ाह-सी जटा में तड़पती"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 2, word-meanings",
+            "quote": "matted hair-a well"
+          },
+          {
+            "source": "mw-nilimpa",
+            "locator": "MW nilimpa, p. 558",
+            "quote": "a god, L."
+          },
+          {
+            "source": "mw-nirjhara",
+            "locator": "MW nirjharī, p. 555",
+            "quote": "f. a river, L."
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w4",
+          "w5"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Vallarī* is a creeper, a climbing vine. The waves (*vīci*) of the trapped river spill over Śiva's head in curling, trembling lines, so the poet calls them wave-vines. Monier-Williams notes that *vallarī* is also used figuratively of curled hair, so the word can hold a second picture: water curling through curls.\n\nThe vyakhya.org commentator draws the simile out: a vine climbs a tree, winds along a branch and drops back to the ground, just as the Gaṅgā's current winds through the locks before it pours to earth. *Virājamāna* (shining forth, from vi-√rāj) makes the whole head glitter with moving water.",
+          "hi": "*वल्लरी* यानी बेल, चढ़ने वाली लता। बँधी हुई नदी की लहरें (*वीचि*) शिव के सिर पर घुमावदार, काँपती रेखाओं में फैलती हैं, इसलिए कवि उन्हें लहर-लताएँ कहता है। मोनियर-विलियम्स के अनुसार *वल्लरी* लाक्षणिक रूप से घुँघराले बालों के लिए भी आता है, इसलिए शब्द में एक दूसरा चित्र भी छिपा हो सकता है: घुँघराली लटों में घूमता पानी।\n\nvyakhya.org के व्याख्याकार इस उपमा को खोलते हैं: बेल पेड़ पर चढ़ती है, डाल से लिपटती है और फिर ज़मीन पर उतर आती है, वैसे ही गंगा की धारा जटाओं में लिपटकर पृथ्वी पर उतरती है। *विराजमान* (चमकता हुआ, वि-√राज् से) बताता है कि बहते पानी से पूरा मस्तक जगमगा रहा है।"
+        },
+        "citations": [
+          {
+            "source": "mw-vallari",
+            "locator": "MW vallarī, p. 928",
+            "quote": "also fig. applied to curled hair"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, व्याख्या",
+            "quote": "विलोलवीचिवल्लरी कहते हुए लहर-लहर लहराती गंगा की उपमा बेल अथवा लता से की है"
+          },
+          {
+            "source": "mw-viraj",
+            "locator": "MW vi-√rāj, p. 982",
+            "quote": "shine forth, shine out"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w6",
+          "w7",
+          "w8"
+        ],
+        "kind": "sound",
+        "body": {
+          "en": "Verse 1 let you hear the drum ([ḍamaḍ-ḍamaḍ](#v1-a3)); verse 2 lets you hear fire. *Dhagad-dhagad-dhagaj* is pure sound: Monier-Williams lists *dhagaddhag-iti* as an onomatopoeia, \"crack! crack!\", the snap of flames, and the vyakhya.org gloss renders it with the Hindi *dhadhakatī*, flaring up. Only then does the participle *jvalat*, blazing (√jval), say in plain words what the sound has already shown.\n\nThe fire burns on the *lalāṭa-paṭṭa*, the flat plate of the forehead, a compound the dictionary itself cites under *paṭṭa*. One line earlier the same head was streaming with water.",
+          "hi": "पहले श्लोक में डमरू सुनाई देता था ([डमड्-डमड्](#v1-a3)); दूसरे में आग सुनाई देती है। *धगद्-धगद्-धगज्* केवल ध्वनि है: मोनियर-विलियम्स *धगद्धग्-इति* को ध्वन्यात्मक शब्द मानते हैं, अर्थ \"चट! चट!\", यानी लपटों की चटक; और vyakhya.org इसका अर्थ *धधकती* देता है। इसके बाद ही कृदन्त *ज्वलत्* (जलता हुआ, √ज्वल्) साफ़ शब्दों में वही कहता है जो ध्वनि पहले दिखा चुकी है।\n\nआग *ललाट-पट्ट* पर, यानी माथे के समतल भाग पर जल रही है; शब्दकोश *पट्ट* के अन्तर्गत यही समास उदाहरण में देता है। ठीक पिछली पंक्ति में यही सिर पानी से भीगा था।"
+        },
+        "citations": [
+          {
+            "source": "mw-dhagaddhagiti",
+            "locator": "MW dhagaddhag-iti, p. 508",
+            "quote": "crack! crack!"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, शब्दार्थ",
+            "quote": "धगद्धगद्धगद् = धधकती"
+          },
+          {
+            "source": "mw-jval",
+            "locator": "MW √jval, p. 428",
+            "quote": "to burn brightly, blaze, glow, shine"
+          },
+          {
+            "source": "mw-patta",
+            "locator": "MW paṭṭa, p. 579",
+            "quote": "the flat or level surface of anything"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w9"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Water and moon on one side, fire on the other. The *kiśora* moon is a young one, a thin new crescent (*kiśora* is a colt or a youth; the vyakhya.org gloss calls it the *bāla-candra*, the child moon), worn as a crest (*śekhara*). Set beside the blazing forehead, the cool crescent completes a pairing the vyakhya.org commentary names outright: in this verse Śiva's gentle (*saumya*) and fierce (*raudra*) forms are described together, the river and the moon soothing, the fire terrible.",
+          "hi": "एक ओर पानी और चन्द्रमा, दूसरी ओर आग। *किशोर* चन्द्रमा नया, पतला अर्धचन्द्र है (*किशोर* यानी बछेड़ा या किशोर; vyakhya.org इसे *बाल-चन्द्र* कहता है), जो शिरोभूषण (*शेखर*) बनकर सजा है। धधकते माथे के पास यह शीतल चन्द्रकला उस जोड़ी को पूरा करती है जिसे vyakhya.org की व्याख्या सीधे कहती है: इस श्लोक में शिव के सौम्य और रौद्र, दोनों रूपों का वर्णन है; नदी और चन्द्रमा शीतल, आग भयंकर।"
+        },
+        "citations": [
+          {
+            "source": "mw-kishora",
+            "locator": "MW kiśora, p. 284",
+            "quote": "a youth, lad"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, शब्दार्थ",
+            "quote": "किशोर चन्द्र = बाल चंद्र"
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, व्याख्या",
+            "quote": "शिव के सौम्य एवं रौद्र रूप"
+          },
+          {
+            "source": "mw-shekhara",
+            "locator": "MW śekhara, p. 1088",
+            "quote": "crown, diadem, crest"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w10",
+          "w11",
+          "w12"
+        ],
+        "kind": "grammar",
+        "body": {
+          "en": "Why do the three long descriptions end in *-ani*, *-ake*, *-are* (*mūrddhani*, *pāvake*, *śekhare*)? They are all locatives, and the reason arrives only at the end: *rati*, delight or fondness, takes what one delights in in the locative. So the verse piles up three pictures of Śiva first and only then reveals that they were the object of love all along.\n\nThere is no verb. The vyakhya.org anvaya supplies *bhavatu*, \"may it be\": may my love be there at every moment. After verse 1's blessing on *us* ([naḥ](#v1-a5)), the hymn turns to one devotee: *mama*, mine.",
+          "hi": "तीनों लम्बे विशेषण *-अनि*, *-अके*, *-अरे* (*मूर्द्धनि*, *पावके*, *शेखरे*) पर क्यों समाप्त होते हैं? सभी सप्तमी में हैं, और इसका कारण अन्त में जाकर खुलता है: *रति* (प्रीति, लगाव) जिसमें होती है, वह सप्तमी में आता है। इसलिए श्लोक पहले शिव के तीन चित्र खड़े करता है और अन्त में बताता है कि ये सब प्रेम के विषय थे।\n\nश्लोक में क्रिया नहीं है। vyakhya.org का अन्वय *भवतु* (हो) जोड़ता है: मेरी प्रीति हर क्षण बनी रहे। पहले श्लोक में आशीर्वाद *हम सब* के लिए था ([नः](#v1-a5)); यहाँ स्तोत्र एक भक्त की ओर मुड़ता है: *मम*, मेरी।"
+        },
+        "citations": [
+          {
+            "source": "mw-rati",
+            "locator": "MW rati, p. 867",
+            "quote": "delight in, fondness for (loc. or comp."
+          },
+          {
+            "source": "vyakhya-sts-2",
+            "locator": "श्लोक २, अन्वय",
+            "quote": "मम रति: (भवतु)"
+          },
+          {
+            "source": "mw-pratikshanam",
+            "locator": "MW pratikṣaṇam, p. 661",
+            "quote": "at every moment, continually"
+          }
+        ],
+        "confidence": "high"
+      }
+    ],
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1",
+          "w2",
+          "w3",
+          "w4",
+          "w5"
+        ],
+        "sa": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरीविलोलवीचिवल्लरीविराजमानमूर्द्धनि",
+        "iast": "jaṭākaṭāhasambhramabhramannilimpanirjharīvilolavīcivallarīvirājamānamūrddhani",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरीविलोलवीचिवल्लरीविराजमानमूर्द्धन्",
+            "iast": "jaṭākaṭāhasambhramabhramannilimpanirjharīvilolavīcivallarīvirājamānamūrddhan"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "x2"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w6",
+          "w7",
+          "w8"
+        ],
+        "sa": "धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके",
+        "iast": "dhagaddhagaddhagajjvalallalāṭapaṭṭapāvake",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "धगद्धगद्धगज्ज्वलल्ललाटपट्टपावक",
+            "iast": "dhagaddhagaddhagajjvalallalāṭapaṭṭapāvaka"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "x2"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w9"
+        ],
+        "sa": "किशोरचन्द्रशेखरे",
+        "iast": "kiśoracandraśekhare",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "किशोरचन्द्रशेखर",
+            "iast": "kiśoracandraśekhara"
+          },
+          "gender": "masculine",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "x2"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w10"
+        ],
+        "sa": "रतिः",
+        "iast": "ratiḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "रति",
+            "iast": "rati"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "x1"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w11"
+        ],
+        "sa": "प्रतिक्षणम्",
+        "iast": "pratikṣaṇam",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "kriyā-viśeṣaṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w12"
+        ],
+        "sa": "मम",
+        "iast": "mama",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अस्मद्",
+            "iast": "asmad"
+          },
+          "case": "genitive",
+          "number": "singular"
+        },
+        "role": "sambandha",
+        "head": "p4"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "May"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "my"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "love"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "rest"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "at every moment"
+            },
+            {
+              "refs": [
+                "x2"
+              ],
+              "text": "in Śiva,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "whose head is resplendent the merciful slayer of demons,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "with the restless, vine-like waves"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "of the river of the gods"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "as she whirls in a frenzy"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "through the cauldron of His matted locks;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "on the broad plate of whose forehead a fire"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "blazes,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "crackling dhagad-dhagad-dhagad;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "and who wears the young moon as His crest."
+            }
+          ]
+        ],
+        "bhavartha": "Caught in Śiva's coiled locks as if in a great bowl, the heavenly Gaṅgā spins round and round, and her trembling waves trail over His head like vines. On His forehead a fire snaps and blazes, and a young crescent moon crowns Him. The poet asks that his love for this Śiva, cool and fiery at once, never lapse, not even for a moment."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "जटा-रूपी कड़ाह में"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "वेग से चक्कर काटती"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "देवनदी (गंगा) की"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "चंचल, लता-सी लहरों से"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "जिनका मस्तक शोभित है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "जिनके ललाट-पटल पर आग"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "धग्-धग्-धग् करती"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "धधक रही है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "और जिनके शीश पर बाल-चन्द्रमा भूषण बनकर सजा है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "x2"
+              ],
+              "text": "उन शिव में"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "मेरी"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "प्रीति"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "हर क्षण"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "बनी रहे।"
+            }
+          ]
+        ],
+        "bhavartha": "शिव की कुण्डलित जटाएँ मानो एक गहरा कड़ाह हैं, जिसमें देवनदी गंगा गोल-गोल घूम रही है और उसकी काँपती लहरें बेलों की तरह उनके सिर पर लहरा रही हैं। उनके माथे पर आग चटकती हुई धधक रही है, और सिर पर नया उगा चन्द्रमा सजा है। शीतल और प्रचण्ड, दोनों रूपों वाले ऐसे शिव के प्रति कवि चाहता है कि उसका प्रेम एक क्षण के लिए भी न छूटे।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "जटा",
+            "iast": "jaṭā"
+          },
+          {
+            "sa": "कटाह",
+            "iast": "kaṭāha"
+          }
+        ],
+        "components": [
+          {
+            "sa": "जटा",
+            "iast": "jaṭā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जटा",
+              "iast": "jaṭā"
+            },
+            "meaning": {
+              "en": "matted hair",
+              "hi": "जटा, उलझे हुए केश"
+            }
+          },
+          {
+            "sa": "कटाह",
+            "iast": "kaṭāha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कटाह",
+              "iast": "kaṭāha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kaṭāha",
+              "gloss": "a boiler, caldron, saucepan (of a semi-spheroidal shape)"
+            },
+            "meaning": {
+              "en": "cauldron, deep rounded vessel",
+              "hi": "कड़ाह, गोल गहरा पात्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the bowl-like coil of matted locks",
+          "hi": "कड़ाह जैसी कुण्डलित जटा"
+        },
+        "literal": {
+          "en": "the cauldron that is the matted hair",
+          "hi": "जटा-रूपी कड़ाह"
+        },
+        "notes": {
+          "en": "A rūpaka: the coiled, piled-up hair is called a cauldron, so the river inside it can swirl. No sandhi at the join (jaṭā + kaṭāha).",
+          "hi": "रूपक: लपेटकर बाँधी गई जटा को कड़ाह कहा गया है, ताकि उसमें नदी घूम सके। जोड़ पर कोई सन्धि नहीं (जटा + कटाह)।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "the well (deep pit) of matted hair",
+              "hi": "जटा-रूपी कुआँ"
+            },
+            "note": "sanskritdocuments-shivtand-meaning glosses kaṭāha as 'a well', a sense MW also lists (marked L., lexicographers only). vyakhya-sts-2, shlokam-shiva-tandava and MW's main sense agree on a vessel."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-kataha",
+          "vyakhya-sts-2",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "सम्भ्रम",
+            "iast": "sambhrama"
+          },
+          {
+            "sa": "भ्रमत्",
+            "iast": "bhramat"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anunāsika",
+            "rule": "t + n → n + n",
+            "explanation": {
+              "en": "The final t of bhramat becomes n before the n of nilimpa (next display word): bhramat + nilimpa → bhramannilimpa.",
+              "hi": "भ्रमत् का अन्तिम 'त्' आगे के 'न' (निलिम्प) के कारण 'न्' बन जाता है: भ्रमत् + निलिम्प → भ्रमन्निलिम्प।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "सम्भ्रम",
+            "iast": "sambhrama",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भ्रम्",
+              "iast": "bhram",
+              "gana": 1,
+              "prefixes": [
+                "sam"
+              ],
+              "gloss": {
+                "en": "to wander, to whirl round",
+                "hi": "घूमना, चक्कर काटना"
+              }
+            },
+            "formation": "sam + √bhram + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "sambhrama",
+              "gloss": "whirling round, haste, hurry, flurry, confusion, agitation"
+            },
+            "meaning": {
+              "en": "agitation, whirling haste",
+              "hi": "वेग, हड़बड़ी, घुमाव"
+            }
+          },
+          {
+            "sa": "भ्रमत्",
+            "iast": "bhramat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भ्रम्",
+              "iast": "bhram",
+              "gana": 1,
+              "gloss": {
+                "en": "to move round, to revolve",
+                "hi": "घूमना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhram",
+              "gloss": "to move round, circulate, revolve"
+            },
+            "meaning": {
+              "en": "whirling, circling",
+              "hi": "घूमती हुई"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "whirling about in a frenzy",
+          "hi": "वेग से चक्कर काटती हुई"
+        },
+        "notes": {
+          "en": "bhramat describes the river (nirjharī, feminine), but inside a compound the feminine participle bhramantī takes the masculine stem form bhramat. Vidyut also offers the split sambhram + abhraman; that reading is rejected because sambhram is a bare root, not a stem that can stand in a compound, and 'abhraman' gives no sense here.",
+          "hi": "भ्रमत् नदी (निर्झरी, स्त्रीलिंग) का विशेषण है, पर समास के भीतर स्त्रीलिंग 'भ्रमन्ती' पुंलिंग जैसा 'भ्रमत्' रूप ले लेता है। Vidyut 'सम्भ्रम् + अभ्रमन्' विभाजन भी सुझाता है; यह अस्वीकार है, क्योंकि 'सम्भ्रम्' केवल धातु है, समास का पद नहीं, और 'अभ्रमन्' का यहाँ कोई अर्थ नहीं बनता।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whirling about in play",
+              "hi": "क्रीड़ा करती हुई, चक्कर काटती"
+            },
+            "note": "vyakhya-sts-2 glosses sambhrama as क्रीड़ा करती हुई (sporting) beside चक्कर काटती हुई; MW's senses are agitation/whirling."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-sambhrama",
+          "mw-bhram",
+          "vyakhya-sts-2",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "निलिम्प",
+            "iast": "nilimpa"
+          },
+          {
+            "sa": "निर्झरी",
+            "iast": "nirjharī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "निलिम्प",
+            "iast": "nilimpa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निलिम्प",
+              "iast": "nilimpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nilimpa",
+              "gloss": "a god"
+            },
+            "meaning": {
+              "en": "a god, celestial",
+              "hi": "देवता"
+            }
+          },
+          {
+            "sa": "निर्झरी",
+            "iast": "nirjharī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निर्झरी",
+              "iast": "nirjharī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nirjharī",
+              "gloss": "a river"
+            },
+            "meaning": {
+              "en": "river (cf. nirjhara, a cascade)",
+              "hi": "नदी (निर्झर = झरना)"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the river of the gods, the Gaṅgā",
+          "hi": "देवनदी गंगा"
+        },
+        "literal": {
+          "en": "the river of the gods",
+          "hi": "देवताओं की नदी"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "A descriptive name of the Gaṅgā: nilimpānāṃ nirjharī, 'the river of the gods' (ṣaṣṭhī tatpuruṣa). nirjharī is related to nirjhara, a waterfall or mountain torrent, which suits a river falling from heaven.",
+          "hi": "गंगा का वर्णनात्मक नाम: निलिम्पानां निर्झरी, 'देवताओं की नदी' (षष्ठी तत्पुरुष)। निर्झरी का सम्बन्ध निर्झर (झरना, पहाड़ी धारा) से है, जो स्वर्ग से गिरती नदी के लिए उपयुक्त है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nilimpa",
+          "mw-nirjhara",
+          "vyakhya-sts-2",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w4": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "विलोल",
+            "iast": "vilola"
+          },
+          {
+            "sa": "वीचि",
+            "iast": "vīci"
+          },
+          {
+            "sa": "वल्लरी",
+            "iast": "vallarī"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विलोल",
+            "iast": "vilola",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "लुल्",
+              "iast": "lul",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to move to and fro, to roll about",
+                "hi": "इधर-उधर हिलना"
+              }
+            },
+            "formation": "vi + lola (from √lul)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vilola",
+              "gloss": "moving to and fro, rolling, waving, tremulous"
+            },
+            "meaning": {
+              "en": "restless, rolling",
+              "hi": "चंचल, लहराती"
+            }
+          },
+          {
+            "sa": "वीचि",
+            "iast": "vīci",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वीचि",
+              "iast": "vīci"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vīci",
+              "gloss": "a wave, ripple"
+            },
+            "meaning": {
+              "en": "wave",
+              "hi": "लहर"
+            }
+          },
+          {
+            "sa": "वल्लरी",
+            "iast": "vallarī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वल्लरी",
+              "iast": "vallarī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vallarī",
+              "gloss": "a creeper, any climbing or creeping plant"
+            },
+            "meaning": {
+              "en": "creeper, vine",
+              "hi": "लता, बेल"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "restless waves that curl like vines",
+          "hi": "बेल-सी लहराती चंचल लहरें"
+        },
+        "literal": {
+          "en": "restless wave-creepers",
+          "hi": "चंचल लहर-लताएँ"
+        },
+        "notes": {
+          "en": "A metaphor: the waves are called creepers. Plain juxtaposition at both joins, no sandhi.",
+          "hi": "रूपक: लहरों को लताएँ कहा गया है। दोनों जोड़ों पर कोई सन्धि नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vilola",
+          "mw-vici",
+          "mw-vallari",
+          "vyakhya-sts-2"
+        ]
+      },
+      "w5": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "विराजमान",
+            "iast": "virājamāna"
+          },
+          {
+            "sa": "मूर्द्धनि",
+            "iast": "mūrddhani"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विराजमान",
+            "iast": "virājamāna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "राज्",
+              "iast": "rāj",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to shine forth, to glitter",
+                "hi": "चमकना, शोभित होना"
+              }
+            },
+            "formation": "vi + √rāj + śānac (present participle, ātmanepada)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-rāj",
+              "gloss": "to be illustrious or eminent, shine forth, shine out, glitter"
+            },
+            "meaning": {
+              "en": "shining, resplendent",
+              "hi": "शोभित, चमकता हुआ"
+            }
+          },
+          {
+            "sa": "मूर्धन्",
+            "iast": "mūrdhan",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मूर्धन्",
+              "iast": "mūrdhan"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mūrdhan",
+              "gloss": "the forehead, head in general"
+            },
+            "meaning": {
+              "en": "head",
+              "hi": "मस्तक, सिर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(in Him) whose head is resplendent",
+          "hi": "(उन में) जिनका मस्तक शोभित है"
+        },
+        "notes": {
+          "en": "The locative ending -i belongs to the whole compound w1–w5, a bahuvrīhi describing Śiva; mūrdhani is the locative singular of mūrdhan (mūrdhni is the other permitted form). The text spells it मूर्द्धनि with a doubled dh after r, as the Ramakrishna Math print, Wikisource and sanskritdocuments do; that doubling is optional spelling, and the word is the dictionary's mūrdhan.",
+          "hi": "अन्तिम '-इ' (सप्तमी) पूरे समास w1–w5 की विभक्ति है, जो शिव का वर्णन करने वाला बहुव्रीहि है; मूर्धनि मूर्धन् का सप्तमी एकवचन है (मूर्ध्नि भी शुद्ध रूप है)। पाठ में र के बाद द्वित्व के साथ मूर्द्धनि लिखा है, जैसा रामकृष्ण मठ के मुद्रित पाठ, विकिस्रोत और sanskritdocuments में है; यह द्वित्व वैकल्पिक वर्तनी है, शब्द कोश का मूर्धन् ही है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-viraj",
+          "mw-murdhan",
+          "vyakhya-sts-2",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w6": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "धगत्",
+            "iast": "dhagat"
+          },
+          {
+            "sa": "धगत्",
+            "iast": "dhagat"
+          },
+          {
+            "sa": "धगत्",
+            "iast": "dhagat"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + dh → d + dh",
+            "explanation": {
+              "en": "Final t becomes the voiced d before the voiced dh: dhagat + dhagat → dhagaddhagat.",
+              "hi": "अन्तिम 'त्' आगे के घोष 'ध' के कारण 'द्' बन जाता है: धगत् + धगत् → धगद्धगत्।"
+            }
+          },
+          {
+            "name": "jaśtva",
+            "rule": "t + j → j + j",
+            "explanation": {
+              "en": "The last t becomes j before the j of jvalat (next display word): dhagat + jvalat → dhagajjvalat.",
+              "hi": "अन्तिम 'त्' आगे के 'ज' (ज्वलत्) के कारण 'ज्' बन जाता है: धगत् + ज्वलत् → धगज्ज्वलत्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "धगत्",
+            "iast": "dhagat",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "dhagaddhag-iti",
+              "gloss": "(onomat.) crack! crack!"
+            },
+            "meaning": {
+              "en": "onomatopoeia for the crackle of fire",
+              "hi": "आग की चटक का अनुकरण-शब्द"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "with a crackling dhagad-dhagad-dhagad",
+          "hi": "धग्-धग्-धग् करती हुई"
+        },
+        "notes": {
+          "en": "Anukaraṇa (onomatopoeia), repeated three times, like ḍamat in verse 1. MW has no headword dhagat; the nearest entry is dhagaddhag-iti, 'crack! crack!'.",
+          "hi": "अनुकरण (ध्वन्यात्मक शब्द), तीन बार दोहराया गया, जैसे पहले श्लोक में डमत्। मोनियर-विलियम्स में 'धगत्' अलग शब्द नहीं है; निकटतम प्रविष्टि 'धगद्धग्-इति' (चट! चट!) है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dhagaddhagiti",
+          "vyakhya-sts-2",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w7": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "ज्वलत्",
+            "iast": "jvalat"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "parasavarṇa",
+            "rule": "t + l → l + l",
+            "explanation": {
+              "en": "Final t becomes l before the l of lalāṭa (next display word): jvalat + lalāṭa → jvalallalāṭa.",
+              "hi": "अन्तिम 'त्' आगे के 'ल' (ललाट) के कारण 'ल्' बन जाता है: ज्वलत् + ललाट → ज्वलल्ललाट।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "ज्वलत्",
+            "iast": "jvalat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ज्वल्",
+              "iast": "jval",
+              "gana": 1,
+              "gloss": {
+                "en": "to burn brightly, to blaze",
+                "hi": "जलना, धधकना"
+              }
+            },
+            "formation": "śatṛ (present active participle)",
+            "meaning": {
+              "en": "blazing",
+              "hi": "धधकता हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "blazing",
+          "hi": "धधकती हुई"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-jval",
+          "vyakhya-sts-2",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w8": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "ललाट",
+            "iast": "lalāṭa"
+          },
+          {
+            "sa": "पट्ट",
+            "iast": "paṭṭa"
+          },
+          {
+            "sa": "पावके",
+            "iast": "pāvake"
+          }
+        ],
+        "components": [
+          {
+            "sa": "ललाट",
+            "iast": "lalāṭa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ललाट",
+              "iast": "lalāṭa"
+            },
+            "meaning": {
+              "en": "forehead, brow",
+              "hi": "ललाट, माथा"
+            }
+          },
+          {
+            "sa": "पट्ट",
+            "iast": "paṭṭa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पट्ट",
+              "iast": "paṭṭa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "paṭṭa",
+              "gloss": "the flat or level surface of anything (cf. lalāṭa-)"
+            },
+            "meaning": {
+              "en": "flat surface, plate",
+              "hi": "समतल भाग, पटल"
+            }
+          },
+          {
+            "sa": "पावक",
+            "iast": "pāvaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पावक",
+              "iast": "pāvaka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāvaka",
+              "gloss": "fire or the god of fire"
+            },
+            "meaning": {
+              "en": "fire",
+              "hi": "अग्नि, आग"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(in Him) on the broad plate of whose forehead a fire burns",
+          "hi": "(उन में) जिनके ललाट-पटल पर आग है"
+        },
+        "notes": {
+          "en": "pāvake is the locative of the whole compound w6–w8 (a bahuvrīhi describing Śiva), not 'in the fire'. Commonly understood as the fire of Śiva's third eye, though this verse does not name the eye. shlokam.org glosses paṭṭa as 'fire'; MW gives 'flat surface' and cites this very compound (lalāṭa-paṭṭa), so that gloss is not followed.",
+          "hi": "पावके पूरे समास w6–w8 (शिव का वर्णन करने वाला बहुव्रीहि) की सप्तमी है, 'आग में' नहीं। इसे प्रायः शिव के तीसरे नेत्र की अग्नि समझा जाता है, यद्यपि यह श्लोक नेत्र का नाम नहीं लेता। shlokam.org 'पट्ट' का अर्थ 'आग' देता है; मोनियर-विलियम्स 'समतल भाग' देते हैं और यही समास (ललाट-पट्ट) उदाहरण में देते हैं, इसलिए वह अर्थ नहीं लिया गया।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-lalata",
+          "mw-patta",
+          "mw-pavaka",
+          "vyakhya-sts-2",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w9": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "किशोर",
+            "iast": "kiśora"
+          },
+          {
+            "sa": "चन्द्र",
+            "iast": "candra"
+          },
+          {
+            "sa": "शेखरे",
+            "iast": "śekhare"
+          }
+        ],
+        "components": [
+          {
+            "sa": "किशोर",
+            "iast": "kiśora",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "किशोर",
+              "iast": "kiśora"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kiśora",
+              "gloss": "a colt; a youth, lad"
+            },
+            "meaning": {
+              "en": "young, newly risen",
+              "hi": "किशोर, नया"
+            }
+          },
+          {
+            "sa": "चन्द्र",
+            "iast": "candra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "चन्द्र",
+              "iast": "candra"
+            },
+            "meaning": {
+              "en": "moon",
+              "hi": "चन्द्रमा"
+            }
+          },
+          {
+            "sa": "शेखर",
+            "iast": "śekhara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शेखर",
+              "iast": "śekhara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śekhara",
+              "gloss": "a chaplet or wreath worn on the top of the head, crown, diadem, crest"
+            },
+            "meaning": {
+              "en": "crest, head-ornament",
+              "hi": "शिरोभूषण, मुकुट"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(in Him) who wears the young moon as His crest",
+          "hi": "(उन में) जिनके शीश पर बाल-चन्द्रमा भूषण है"
+        },
+        "literal": {
+          "en": "having the young moon as crest",
+          "hi": "बाल-चन्द्र जिसका शिरोभूषण है"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Bahuvrīhi: kiśoraḥ candraḥ śekharaḥ yasya, 'he whose crest is the young moon'. Without kiśora this is Candraśekhara, 'the moon-crested', a familiar name of Śiva. The young moon is the thin crescent.",
+          "hi": "बहुव्रीहि: किशोरः चन्द्रः शेखरः यस्य, 'जिसका शिरोभूषण बाल-चन्द्रमा है'। 'किशोर' के बिना यह चन्द्रशेखर है, शिव का प्रसिद्ध नाम। बाल-चन्द्रमा पतला अर्धचन्द्र है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kishora",
+          "mw-shekhara",
+          "vyakhya-sts-2",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "रतिः",
+            "iast": "ratiḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "रति",
+            "iast": "rati",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "रम्",
+              "iast": "ram",
+              "gana": 1,
+              "gloss": {
+                "en": "to delight in",
+                "hi": "रमना, आनन्द लेना"
+              }
+            },
+            "formation": "√ram + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "rati",
+              "gloss": "pleasure, enjoyment, delight in, fondness for (loc. or comp.)"
+            },
+            "meaning": {
+              "en": "delight, loving attachment",
+              "hi": "प्रीति, अनुराग"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "love, devoted delight",
+          "hi": "प्रीति, अनुराग"
+        },
+        "literal": {
+          "en": "delight, pleasure (in)",
+          "hi": "रमण, आनन्द"
+        },
+        "notes": {
+          "en": "The sense here is fondness for, delight in, with the object in the locative (the three descriptions of Śiva). MW's erotic sense and Rati as Kāma's consort do not apply.",
+          "hi": "यहाँ अर्थ है 'में प्रीति, लगाव', जिसका विषय सप्तमी में आता है (शिव के तीनों विशेषण)। काम-सम्बन्धी अर्थ या कामदेव की पत्नी रति यहाँ लागू नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-rati",
+          "vyakhya-sts-2",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w11": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "प्रति",
+            "iast": "prati"
+          },
+          {
+            "sa": "क्षणम्",
+            "iast": "kṣaṇam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra (ṃ) before the consonant of the next word (mama): pratikṣaṇam → pratikṣaṇaṃ.",
+              "hi": "अगले शब्द (मम) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार (ं) बन जाता है: प्रतिक्षणम् → प्रतिक्षणं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रति",
+            "iast": "prati",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "each, every (distributive)",
+              "hi": "प्रति, हर"
+            }
+          },
+          {
+            "sa": "क्षण",
+            "iast": "kṣaṇa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "क्षण",
+              "iast": "kṣaṇa"
+            },
+            "meaning": {
+              "en": "moment",
+              "hi": "क्षण, पल"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "at every moment, continually",
+          "hi": "हर क्षण, निरन्तर"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-pratikshanam",
+          "vyakhya-sts-2",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w12": {
+        "padaccheda": [
+          {
+            "sa": "मम",
+            "iast": "mama"
+          }
+        ],
+        "components": [
+          {
+            "sa": "मम",
+            "iast": "mama",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "meaning": {
+              "en": "my, of me",
+              "hi": "मेरा, मेरी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "my",
+          "hi": "मेरी"
+        },
+        "notes": {
+          "en": "Genitive singular of asmad, 'I'. Vidyut also lists mama as a perfect form of √mā ('you measured'); that reading is impossible here, since the sentence's subject is ratiḥ and the only verb is the supplied bhavatu.",
+          "hi": "अस्मद् (मैं) का षष्ठी एकवचन। Vidyut 'मम' को √मा का लिट् रूप भी बताता है; यहाँ वह सम्भव नहीं, क्योंकि वाक्य का कर्ता रतिः है और क्रिया केवल अध्याहृत 'भवतु' है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "vyakhya-sts-2",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      }
+    }
+  }
+}

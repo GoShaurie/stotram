@@ -1,0 +1,1512 @@
+{
+  "group": "translation",
+  "checks": {
+    "T3.5": "checks/judges/T3.5.md",
+    "T4.6": "checks/judges/T4.6.md",
+    "T4.7": "checks/judges/T4.7.md",
+    "T4.8": "checks/judges/T4.8.md"
+  },
+  "stotram": {
+    "id": "kalabhairava-ashtakam",
+    "title": {
+      "sa": "कालभैरवाष्टकम्",
+      "iast": "Kālabhairavāṣṭakam",
+      "en": "Kalabhairava Ashtakam",
+      "hi": "कालभैरवाष्टकम्"
+    }
+  },
+  "verse": {
+    "id": "v8",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "भूतसङ्घनायकं",
+            "iast": "bhūtasaṅghanāyakaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "विशालकीर्तिदायकं",
+            "iast": "viśālakīrtidāyakaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "काशिवासलोकपुण्यपापशोधकं",
+            "iast": "kāśivāsalokapuṇyapāpaśodhakaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "विभुम्",
+            "iast": "vibhum"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "नीतिमार्गकोविदं",
+            "iast": "nītimārgakovidaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "पुरातनं",
+            "iast": "purātanaṃ"
+          },
+          {
+            "id": "w7",
+            "text": "जगत्पतिं",
+            "iast": "jagatpatiṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "काशिकापुराधिनाथ",
+            "iast": "kāśikāpurādhinātha"
+          },
+          {
+            "id": "w9",
+            "text": "कालभैरवं",
+            "iast": "kālabhairavaṃ"
+          },
+          {
+            "id": "w10",
+            "text": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "end": "॥ ८ ॥"
+      }
+    ],
+    "adhyahara": [],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "Who follows Him? *Bhūta* first means 'what has come to be', and so any living being; it also means a spirit, a ghost or goblin. *Bhūta-saṅgha* can be the whole sum of beings, or a crowd of spirits.\n\nBoth pictures stand: a night-time band of ghosts with Him at its head, and every living creature, all under one *nāyaka*, one leader.",
+          "hi": "उनके पीछे कौन चलता है? *भूत* का पहला अर्थ है 'जो हो चुका, जो है', इसलिए कोई भी प्राणी; इसका अर्थ प्रेत, भूत-पिशाच भी है। *भूत-सङ्घ* सारे प्राणियों का समूह भी हो सकता है और प्रेतों की टोली भी।\n\nदोनों चित्र साथ खड़े हैं: रात में घूमती प्रेतों की टोली, जिसके आगे वे चलते हैं, और संसार का हर प्राणी, सब एक ही *नायक* के अधीन।"
+        },
+        "citations": [
+          {
+            "source": "mw-bhuta",
+            "locator": "MW bhūta, p. 761,3",
+            "quote": "that which is or exists, any living being"
+          },
+          {
+            "source": "mw-bhuta",
+            "locator": "MW bhūta, p. 761,3",
+            "quote": "a spirit (good or evil), the ghost of a deceased person, a demon, imp, goblin"
+          },
+          {
+            "source": "mw-bhutasamgha",
+            "locator": "MW bhūta-saṃgha, p. 762,2",
+            "quote": "the totality of beings or of the elements"
+          },
+          {
+            "source": "mw-nayaka",
+            "locator": "MW nāyaka, p. 536,3",
+            "quote": "a guide, leader, chief, lord"
+          },
+          {
+            "source": "shlokam-kalabhairava",
+            "locator": "verse 8, word meanings",
+            "quote": "भूत (bhūta) – ghosts"
+          },
+          {
+            "source": "greenmesg-kalabhairava",
+            "locator": "verse 8, Meaning 8.1",
+            "quote": "Who is the Ruler of Ghosts and Goblins"
+          },
+          {
+            "source": "gitapress-shiv-stotra-ratnakar",
+            "locator": "p. 204, verse 8, Hindi translation",
+            "quote": "जो समस्त प्राणिसमुदायके नायक हैं"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w3"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Not only sins. For the people of Kāśī He is the *śodhaka*, the one who makes clean, and He cleans both *puṇya*, good deeds, and *pāpa*, sins. The related word *śodhana* also means sifting, and settling a debt: picture an account cleared on both sides.\n\nTradition reads this as freedom: once both are cleared, nothing is left to hide the Self. After [the noose of our deeds](#v5-a2), even the good deeds are untied.",
+          "hi": "केवल पाप ही नहीं। काशी में बसने वालों के लिए वे *शोधक* हैं, शुद्ध करने वाले, और वे *पुण्य* (अच्छे कर्म) और *पाप*, दोनों को शुद्ध करते हैं। इसी से जुड़ा शब्द *शोधन* छानबीन और कर्ज़ चुकाने के अर्थ में भी आता है: मानो खाते के दोनों पन्ने साफ़ हो गए।\n\nपरम्परा इसे मुक्ति मानती है: जब दोनों साफ़ हो जाते हैं, तो आत्मा को ढकने वाला कुछ नहीं बचता। [कर्मों के फंदे](#v5-a2) के बाद यहाँ अच्छे कर्मों की गाँठ भी खुल जाती है।"
+        },
+        "citations": [
+          {
+            "source": "mw-shodhaka",
+            "locator": "MW śodhaka, p. 1091,3",
+            "quote": "a purifier"
+          },
+          {
+            "source": "mw-punya",
+            "locator": "MW puṇya, p. 632,1",
+            "quote": "good work, meritorious act, moral or religious merit"
+          },
+          {
+            "source": "mw-papa",
+            "locator": "MW pāpa, p. 618,2",
+            "quote": "sin, vice, crime, guilt"
+          },
+          {
+            "source": "mw-shodhana",
+            "locator": "MW śodhana, p. 1091,3",
+            "quote": "clearing up, sifting, investigation, examination"
+          },
+          {
+            "source": "mw-shodhana",
+            "locator": "MW śodhana, p. 1091,3",
+            "quote": "payment, acquittance"
+          },
+          {
+            "source": "greenmesg-kalabhairava",
+            "locator": "verse 8, Meaning 8.2",
+            "quote": "Purges both the Merits and the Sins of the Persons Dwelling in Kashi (thus revealing the Self in its pristine beauty)"
+          },
+          {
+            "source": "gitapress-shiv-stotra-ratnakar",
+            "locator": "p. 204, verse 8, Hindi translation",
+            "quote": "पुण्य तथा पापोंका शोधन करनेवाले"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "भूतसङ्घनायकम्",
+        "iast": "bhūtasaṅghanāyakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भूतसङ्घनायक",
+            "iast": "bhūtasaṅghanāyaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "विशालकीर्तिदायकम्",
+        "iast": "viśālakīrtidāyakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विशालकीर्तिदायक",
+            "iast": "viśālakīrtidāyaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w3"
+        ],
+        "sa": "काशिवासलोकपुण्यपापशोधकम्",
+        "iast": "kāśivāsalokapuṇyapāpaśodhakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "काशिवासलोकपुण्यपापशोधक",
+            "iast": "kāśivāsalokapuṇyapāpaśodhaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w4"
+        ],
+        "sa": "विभुम्",
+        "iast": "vibhum",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विभु",
+            "iast": "vibhu"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w5"
+        ],
+        "sa": "नीतिमार्गकोविदम्",
+        "iast": "nītimārgakovidam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "नीतिमार्गकोविद",
+            "iast": "nītimārgakovida"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w6"
+        ],
+        "sa": "पुरातनम्",
+        "iast": "purātanam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पुरातन",
+            "iast": "purātana"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "जगत्पतिम्",
+        "iast": "jagatpatim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "जगत्पति",
+            "iast": "jagatpati"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w8",
+          "w9"
+        ],
+        "sa": "काशिकापुराधिनाथकालभैरवम्",
+        "iast": "kāśikāpurādhināthakālabhairavam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "काशिकापुराधिनाथकालभैरव",
+            "iast": "kāśikāpurādhināthakālabhairava"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p9"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w10"
+        ],
+        "sa": "भजे",
+        "iast": "bhaje",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "ātmanepada"
+        },
+        "role": "kriyā",
+        "head": null
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "The One at the head of the hosts of spirits,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "the giver of great renown,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "who purifies both the good deeds and the sins of the people living in Kāśī,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "the Lord who is everywhere,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "skilled in the path of right conduct,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "the ancient one,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "the lord of the world:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "I worship"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "Kālabhairava,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "the supreme lord of the city of Kāśī."
+            }
+          ]
+        ],
+        "bhavartha": "Kālabhairava leads the hosts of spirits and gives great renown. For the people who live in Kāśī He purifies both their good deeds and their sins, and He is the Lord present everywhere. He knows the path of right conduct well; He is ancient, the lord of the world. The singer worships Him: Kālabhairava, the supreme lord of the city of Kāśī."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "जो भूतगणों के नायक हैं,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "विशाल कीर्ति देने वाले हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "काशी में बसने वाले लोगों के पुण्य और पाप, दोनों को शुद्ध करने वाले"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "सर्वव्यापी प्रभु हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "नीति के मार्ग के ज्ञाता,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "पुरातन"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "और जगत के स्वामी हैं,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "काशी नगरी के अधिपति"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "कालभैरव को"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "मैं भजता हूँ।"
+            }
+          ]
+        ],
+        "bhavartha": "कालभैरव भूतगणों के नायक हैं और विशाल कीर्ति देते हैं। काशी में बसने वाले लोगों के पुण्य और पाप, दोनों को वे शुद्ध करते हैं, और वे सब जगह व्याप्त प्रभु हैं। वे नीति के मार्ग को भली-भाँति जानते हैं; वे पुरातन हैं, जगत के स्वामी हैं। ऐसे काशी नगरी के अधिपति कालभैरव को भक्त भजता है।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "भूत",
+            "iast": "bhūta"
+          },
+          {
+            "sa": "सङ्घ",
+            "iast": "saṅgha"
+          },
+          {
+            "sa": "नायकम्",
+            "iast": "nāyakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (viśāla): bhūtasaṅghanāyakam → bhūtasaṅghanāyakaṃ.",
+              "hi": "अगले शब्द (विशाल) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भूतसङ्घनायकम् → भूतसङ्घनायकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भूत",
+            "iast": "bhūta",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "gloss": {
+                "en": "to be, to become",
+                "hi": "होना"
+              }
+            },
+            "formation": "√bhū + kta ('what has come to be')",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhūta",
+              "gloss": "a spirit (good or evil), the ghost of a deceased person; any living being"
+            },
+            "meaning": {
+              "en": "spirits",
+              "hi": "भूत"
+            }
+          },
+          {
+            "sa": "सङ्घ",
+            "iast": "saṅgha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सङ्घ",
+              "iast": "saṅgha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "saṃ-gha",
+              "gloss": "any collection or assemblage, heap, multitude, quantity, crowd, host"
+            },
+            "meaning": {
+              "en": "hosts",
+              "hi": "समूह"
+            }
+          },
+          {
+            "sa": "नायक",
+            "iast": "nāyaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नी",
+              "iast": "nī",
+              "gana": 1,
+              "gloss": {
+                "en": "to lead",
+                "hi": "ले जाना"
+              }
+            },
+            "formation": "√nī + ṇvul (agent)",
+            "sense": {
+              "dict": "mw",
+              "headword": "nāyaka",
+              "gloss": "a guide, leader, chief, lord, principal"
+            },
+            "meaning": {
+              "en": "leader",
+              "hi": "नायक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the leader of the hosts of spirits",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो भूतगणों के नायक हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "bhūta can mean a spirit or ghost, or any living being; bhūta-saṃgha is also recorded as 'the totality of beings'. Both senses fit. The text writes saṅgha with ṅ; the dictionary spells the same word saṃgha.",
+          "hi": "भूत का अर्थ प्रेत भी है और कोई भी प्राणी भी; भूत-संघ का अर्थ 'समस्त प्राणी' भी मिलता है। दोनों अर्थ ठीक बैठते हैं। पाठ में सङ्घ (ङ् के साथ) लिखा है; यही शब्द संघ भी लिखा जाता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "the leader of all living beings",
+              "hi": "समस्त प्राणियों के नायक"
+            },
+            "note": "gitapress-shiv-stotra-ratnakar renders 'समस्त प्राणिसमुदायके नायक' (all living beings), matching MW bhūta-saṃgha 'the totality of beings'; shlokam-kalabhairava and greenmesg-kalabhairava take bhūta as ghosts/spirits."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-bhuta",
+          "mw-samgha",
+          "mw-bhutasamgha",
+          "mw-nayaka",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava",
+          "gitapress-shiv-stotra-ratnakar"
+        ]
+      },
+      "w2": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "विशाल",
+            "iast": "viśāla"
+          },
+          {
+            "sa": "कीर्ति",
+            "iast": "kīrti"
+          },
+          {
+            "sa": "दायकम्",
+            "iast": "dāyakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (kāśi): viśālakīrtidāyakam → viśālakīrtidāyakaṃ.",
+              "hi": "अगले शब्द (काशि) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: विशालकीर्तिदायकम् → विशालकीर्तिदायकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "विशाल",
+            "iast": "viśāla",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विशाल",
+              "iast": "viśāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "viśāla",
+              "gloss": "spacious, extensive, broad, wide, large; great"
+            },
+            "meaning": {
+              "en": "great",
+              "hi": "विशाल"
+            }
+          },
+          {
+            "sa": "कीर्ति",
+            "iast": "kīrti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कीर्ति",
+              "iast": "kīrti"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kīrti",
+              "gloss": "good report, fame, renown, glory"
+            },
+            "meaning": {
+              "en": "renown",
+              "hi": "कीर्ति"
+            }
+          },
+          {
+            "sa": "दायक",
+            "iast": "dāyaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दा",
+              "iast": "dā",
+              "gana": 3,
+              "gloss": {
+                "en": "to give",
+                "hi": "देना"
+              }
+            },
+            "formation": "√dā + ṇvul (agent)",
+            "sense": {
+              "dict": "mw",
+              "headword": "dāyaka",
+              "gloss": "giving, granting, bestowing"
+            },
+            "meaning": {
+              "en": "giver",
+              "hi": "देने वाले"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the giver of great renown",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो विशाल कीर्ति देने वाले हैं"
+        },
+        "notes": {
+          "en": "The verse does not say to whom He gives renown; it is understood as His devotees.",
+          "hi": "श्लोक यह नहीं कहता कि वे किसे कीर्ति देते हैं; इसे उनके भक्तों के लिए समझा जाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vishala",
+          "mw-kirti",
+          "mw-dayaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w3": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "काशि",
+            "iast": "kāśi"
+          },
+          {
+            "sa": "वास",
+            "iast": "vāsa"
+          },
+          {
+            "sa": "लोक",
+            "iast": "loka"
+          },
+          {
+            "sa": "पुण्य",
+            "iast": "puṇya"
+          },
+          {
+            "sa": "पाप",
+            "iast": "pāpa"
+          },
+          {
+            "sa": "शोधकम्",
+            "iast": "śodhakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (vibhum): kāśivāsalokapuṇyapāpaśodhakam → kāśivāsalokapuṇyapāpaśodhakaṃ.",
+              "hi": "अगले शब्द (विभुम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: काशिवासलोकपुण्यपापशोधकम् → काशिवासलोकपुण्यपापशोधकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काशि",
+            "iast": "kāśi",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काशि",
+              "iast": "kāśi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāśi",
+              "gloss": "N. of a celebrated city and place of pilgrimage (the modern Benares)"
+            },
+            "meaning": {
+              "en": "Kāśī",
+              "hi": "काशी"
+            }
+          },
+          {
+            "sa": "वास",
+            "iast": "vāsa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वस्",
+              "iast": "vas",
+              "gana": 1,
+              "gloss": {
+                "en": "to dwell",
+                "hi": "रहना, बसना"
+              }
+            },
+            "formation": "√vas + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vāsa",
+              "gloss": "staying, remaining, abiding, dwelling, residence, living in"
+            },
+            "meaning": {
+              "en": "living",
+              "hi": "निवास"
+            }
+          },
+          {
+            "sa": "लोक",
+            "iast": "loka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लोक",
+              "iast": "loka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "loka",
+              "gloss": "the inhabitants of the world, mankind, folk, people"
+            },
+            "meaning": {
+              "en": "people",
+              "hi": "लोग"
+            }
+          },
+          {
+            "sa": "पुण्य",
+            "iast": "puṇya",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुण्य",
+              "iast": "puṇya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "puṇya",
+              "gloss": "the good or right, virtue, purity, good work, meritorious act, moral or religious merit"
+            },
+            "meaning": {
+              "en": "good deeds",
+              "hi": "पुण्य"
+            }
+          },
+          {
+            "sa": "पाप",
+            "iast": "pāpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाप",
+              "iast": "pāpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāpa",
+              "gloss": "sin, vice, crime, guilt"
+            },
+            "meaning": {
+              "en": "sins",
+              "hi": "पाप"
+            }
+          },
+          {
+            "sa": "शोधक",
+            "iast": "śodhaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "शुध्",
+              "iast": "śudh",
+              "gana": 4,
+              "gloss": {
+                "en": "to become pure",
+                "hi": "शुद्ध होना"
+              }
+            },
+            "formation": "√śudh (causative, 'to make pure') + ṇvul (agent)",
+            "sense": {
+              "dict": "mw",
+              "headword": "śodhaka",
+              "gloss": "purificatory; a purifier"
+            },
+            "meaning": {
+              "en": "purifier",
+              "hi": "शोधक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who purifies both the good deeds and the sins of the people living in Kāśī",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो काशी में बसने वाले लोगों के पुण्य और पाप, दोनों को शुद्ध करते हैं"
+        },
+        "notes": {
+          "en": "The text is also found as kāśivāsi-loka, 'the people who live in Kāśī'; the sense is the same. loka belongs with kāśivāsa ('the people living in Kāśī') and puṇya pairs with pāpa; the place name loka-puṇya does not apply here.",
+          "hi": "पाठ काशिवासि-लोक के रूप में भी मिलता है, 'काशी में रहने वाले लोग'; अर्थ वही है। लोक का सम्बन्ध काशिवास से है ('काशी में रहने वाले लोग') और पुण्य का जोड़ा पाप से; 'लोकपुण्य' नाम का स्थान यहाँ लागू नहीं।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "the people who dwell in Kāśī (reading kāśivāsi-loka)",
+              "hi": "काशी में निवास करने वाले लोग (पाठ काशिवासि-लोक)"
+            },
+            "note": "vanivilas-1910-works-18 prints काशिवासिलोकपुण्यपापशोधक and sanskritdocuments-kaalabhairava records (काशिवासि) as its variant; gitapress-shiv-stotra-ratnakar, ramakrishna-math-mantrapushpam and sanskritdocuments-kaalabhairava's main text read काशिवासलोक. Same sense; both scan."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-kaashi",
+          "mw-vasa",
+          "mw-loka",
+          "mw-punya",
+          "mw-papa",
+          "mw-shodhaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "विभुम्",
+            "iast": "vibhum"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विभु",
+            "iast": "vibhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to be, to spread out",
+                "hi": "होना, फैलना"
+              }
+            },
+            "formation": "vi + √bhū + ḍu",
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-bhu",
+              "gloss": "being everywhere, far-extending, all-pervading, omnipresent; a lord, ruler"
+            },
+            "meaning": {
+              "en": "all-pervading Lord",
+              "hi": "सर्वव्यापी प्रभु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the Lord who is everywhere",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो सर्वव्यापी प्रभु हैं"
+        },
+        "aside": {
+          "en": "*Vibhu* holds two ideas at once: present everywhere, and lord over all. The one who rules a single city is also the Lord who fills every place.",
+          "hi": "*विभु* में दो बातें एक साथ हैं: सब जगह व्याप्त, और सबके स्वामी। जो एक नगरी के अधिपति हैं, वही हर जगह भरे हुए प्रभु भी हैं।"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-vibhu",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w5": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "नीति",
+            "iast": "nīti"
+          },
+          {
+            "sa": "मार्ग",
+            "iast": "mārga"
+          },
+          {
+            "sa": "कोविदम्",
+            "iast": "kovidam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (purātana): nītimārgakovidam → nītimārgakovidaṃ.",
+              "hi": "अगले शब्द (पुरातन) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: नीतिमार्गकोविदम् → नीतिमार्गकोविदं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नीति",
+            "iast": "nīti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नी",
+              "iast": "nī",
+              "gana": 1,
+              "gloss": {
+                "en": "to lead, to guide",
+                "hi": "ले जाना"
+              }
+            },
+            "formation": "√nī + ktin (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "nīti",
+              "gloss": "conduct, (esp.) right or wise or moral conduct or behaviour"
+            },
+            "meaning": {
+              "en": "right conduct",
+              "hi": "नीति"
+            }
+          },
+          {
+            "sa": "मार्ग",
+            "iast": "mārga",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मार्ग",
+              "iast": "mārga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mārga",
+              "gloss": "any track, road, path, way"
+            },
+            "meaning": {
+              "en": "path",
+              "hi": "मार्ग"
+            }
+          },
+          {
+            "sa": "कोविद",
+            "iast": "kovida",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कोविद",
+              "iast": "kovida"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ko-vida",
+              "gloss": "experienced, skilled, learned in"
+            },
+            "meaning": {
+              "en": "skilled",
+              "hi": "ज्ञाता"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) skilled in the path of right conduct",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो नीति के मार्ग के ज्ञाता हैं"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-niti",
+          "mw-marga",
+          "mw-kovida",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "पुरातनम्",
+            "iast": "purātanam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (jagatpati): purātanam → purātanaṃ.",
+              "hi": "अगले शब्द (जगत्पति) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पुरातनम् → पुरातनं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पुरातन",
+            "iast": "purātana",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुरातन",
+              "iast": "purātana"
+            },
+            "formation": "purā ('of old') + tana",
+            "sense": {
+              "dict": "mw",
+              "headword": "purā-tana",
+              "gloss": "belonging to the past, former, old, ancient"
+            },
+            "meaning": {
+              "en": "ancient",
+              "hi": "पुरातन"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the ancient one",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो पुरातन हैं"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-puratana",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w7": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          {
+            "sa": "पतिम्",
+            "iast": "patim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (kāśikā): jagatpatim → jagatpatiṃ.",
+              "hi": "अगले शब्द (काशिका) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: जगत्पतिम् → जगत्पतिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "जगत्",
+            "iast": "jagat",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जगत्",
+              "iast": "jagat"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jagat",
+              "gloss": "the world, esp. this world, earth"
+            },
+            "meaning": {
+              "en": "world",
+              "hi": "जगत"
+            }
+          },
+          {
+            "sa": "पति",
+            "iast": "pati",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पति",
+              "iast": "pati"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pati",
+              "gloss": "a master, owner, possessor, lord, ruler, sovereign"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "स्वामी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the lord of the world",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो जगत के स्वामी हैं"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Jagat-pati, 'lord of the world', is also a name of Śiva.",
+          "hi": "जगत्-पति, 'जगत के स्वामी', शिव का भी एक नाम है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-jagatpati",
+          "mw-jagat",
+          "mw-pati",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w8": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā"
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of pura and the first a of adhinātha merge into a long ā: pura + adhinātha → purādhinātha.",
+              "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काशिका",
+              "iast": "kāśikā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāśikā",
+              "gloss": "'the city of the Kāśis', Benares"
+            },
+            "meaning": {
+              "en": "Kāśī",
+              "hi": "काशी"
+            }
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pura",
+              "gloss": "a fortress, castle, city, town"
+            },
+            "meaning": {
+              "en": "city",
+              "hi": "नगरी"
+            }
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अधिनाथ",
+              "iast": "adhinātha"
+            },
+            "formation": "adhi ('over, above') + nātha ('lord')",
+            "sense": {
+              "dict": "mw",
+              "headword": "adhi-nātha",
+              "gloss": "a supreme lord, chieftain"
+            },
+            "meaning": {
+              "en": "supreme lord",
+              "hi": "अधिपति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāśikā is Kāśī, the city also called Benares (Vārāṇasī). adhi-nātha is more than nātha 'lord': the prefix adhi- makes Him the lord over all. The title runs on into the name Kālabhairava.",
+          "hi": "काशिका यानी काशी, जिसे बनारस (वाराणसी) भी कहते हैं। अधि-नाथ केवल नाथ 'स्वामी' नहीं: 'अधि' उन्हें सबके ऊपर का स्वामी बनाता है। यह उपाधि कालभैरव नाम से जुड़ी है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kashika",
+          "mw-kashi",
+          "mw-pura",
+          "mw-adhinatha",
+          "mw-natha",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w9": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          {
+            "sa": "भैरवम्",
+            "iast": "bhairavam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): kālabhairavam → kālabhairavaṃ.",
+              "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काल",
+            "iast": "kāla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काल",
+              "iast": "kāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla",
+              "gloss": "black, of a dark colour; time (in general)"
+            },
+            "meaning": {
+              "en": "black; time",
+              "hi": "काला; समय"
+            }
+          },
+          {
+            "sa": "भैरव",
+            "iast": "bhairava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भैरव",
+              "iast": "bhairava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhairava",
+              "gloss": "N. of a form of Śiva; frightful, terrible"
+            },
+            "meaning": {
+              "en": "Bhairava",
+              "hi": "भैरव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Kālabhairava",
+          "hi": "कालभैरव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāla-bhairava is a form of Bhairava, the fierce form of Śiva. kāla can mean 'black' and 'time'; bhairava means 'terrible'. The ending -m marks Him as the one worshipped (bhaje).",
+          "hi": "काल-भैरव भैरव का एक रूप है, जो शिव का उग्र रूप है। काल का अर्थ 'काला' भी है और 'समय' भी; भैरव का अर्थ है 'भयानक'। अन्त का '-म्' बताता है कि उन्हीं को भजा जा रहा है (भजे)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kalabhairava",
+          "mw-kala",
+          "mw-bhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to serve, to worship",
+                "hi": "भजना, सेवा करना"
+              }
+            },
+            "formation": "laṭ, first person singular, ātmanepada",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "I worship",
+              "hi": "भजता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "From √bhaj, 'to serve, revere, love': the root of bhakti and bhajan. The form itself says 'I', so no separate word for 'I' is needed.",
+          "hi": "√भज् से, 'सेवा करना, आदर करना, प्रेम करना': इसी धातु से भक्ति और भजन बने हैं। रूप स्वयं 'मैं' बताता है, इसलिए 'मैं' के लिए अलग शब्द नहीं चाहिए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      }
+    }
+  }
+}

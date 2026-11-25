@@ -1,0 +1,400 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.9": "checks/judges/T4.9.md"
+  },
+  "stotram": {
+    "id": "shiva-panchakshara-stotram",
+    "title": {
+      "sa": "शिवपञ्चाक्षरस्तोत्रम्",
+      "iast": "Śivapañcākṣarastotram",
+      "en": "Shiva Panchakshara Stotram",
+      "hi": "शिव पञ्चाक्षर स्तोत्र"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-panch",
+        "name": "sanskritdocuments.org — Shiva Panchakshara Stotram (panch.itx, Anand Hudli; 5 verses + phalaśruti, English translation); read from the Wayback copy of 2025-08-01",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20250801111702/https://sanskritdocuments.org/doc_shiva/panch.html"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. [119]–120; Sanskrit Wikisource transcribes the same pages",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n129/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, p. 459; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/459/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 33–34, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "sringeri-shiva-panchakshara",
+        "name": "Sri Sringeri Sharada Peetham (sringeri.net) — Shiva Panchakshara Stotram",
+        "kind": "text",
+        "url": "https://www.sringeri.net/stotras/shivastotrani/shiva-panchakshara-stotram"
+      },
+      {
+        "id": "stotranidhi-shiva-panchakshara",
+        "name": "stotranidhi.com — Shiva Panchakshara Stotram (Sanskrit); probably descends from the 1910 Vani Vilas text",
+        "kind": "text",
+        "url": "https://stotranidhi.com/shiva-panchakshara-stotram-in-sanskrit/"
+      },
+      {
+        "id": "mw-namas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'namas' (SLP1 key: namas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=namas"
+      },
+      {
+        "id": "mw-shiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śiva' (SLP1 key: Siva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Siva"
+      },
+      {
+        "id": "mw-trilocana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'trilocana' (SLP1 key: trilocana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=trilocana"
+      },
+      {
+        "id": "mw-indra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'indra' (SLP1 key: indra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=indra"
+      },
+      {
+        "id": "mw-kara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kāra' (SLP1 key: kAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kAra"
+      },
+      {
+        "id": "mw-locana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'locana' (SLP1 key: locana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=locana"
+      },
+      {
+        "id": "mw-tad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tad' (SLP1 key: tad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tad"
+      },
+      {
+        "id": "mw-arya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ārya' (SLP1 key: Arya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Arya"
+      },
+      {
+        "id": "mw-candrarka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'candrārka' (SLP1 key: candrArka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=candrArka"
+      },
+      {
+        "id": "mw-deva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'deva' (SLP1 key: deva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=deva"
+      },
+      {
+        "id": "mw-kumbhodbhava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kumbhodbhava' (SLP1 key: kumBodBava)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kumBodBava"
+      },
+      {
+        "id": "mw-munindra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'munīndra' (SLP1 key: munIndra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=munIndra"
+      },
+      {
+        "id": "mw-vaishvanara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vaiśvānara' (SLP1 key: vESvAnara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vESvAnara"
+      },
+      {
+        "id": "mw-vakara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vakāra' (SLP1 key: vakAra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vakAra"
+      },
+      {
+        "id": "mw-vasishtha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vasiṣṭha' (SLP1 key: vasizWa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vasizWa"
+      },
+      {
+        "id": "mw-agasti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'agasti' (SLP1 key: agasti)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=agasti"
+      },
+      {
+        "id": "mw-arcita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'arcita' (SLP1 key: arcita)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=arcita"
+      },
+      {
+        "id": "mw-arka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'arka' (SLP1 key: arka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=arka"
+      },
+      {
+        "id": "mw-candra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'candra' (SLP1 key: candra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=candra"
+      },
+      {
+        "id": "mw-gautama",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gautama' (SLP1 key: gOtama)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gOtama"
+      },
+      {
+        "id": "mw-kumbha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kumbha' (SLP1 key: kumBa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kumBa"
+      },
+      {
+        "id": "mw-kumbhayoni",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kumbhayoni' (SLP1 key: kumBayoni)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kumBayoni"
+      },
+      {
+        "id": "mw-muni",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'muni' (SLP1 key: muni)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=muni"
+      },
+      {
+        "id": "mw-shekhara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śekhara' (SLP1 key: SeKara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SeKara"
+      },
+      {
+        "id": "mw-udbhava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'udbhava' (SLP1 key: udBava)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=udBava"
+      }
+    ]
+  },
+  "verse": {
+    "id": "v4",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "वसिष्ठकुम्भोद्भवगौतमार्य",
+            "iast": "vasiṣṭhakumbhodbhavagautamārya"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w2",
+            "text": "मुनीन्द्रदेवार्चितशेखराय",
+            "iast": "munīndradevārcitaśekharāya"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "चन्द्रार्कवैश्वानरलोचनाय",
+            "iast": "candrārkavaiśvānaralocanāya"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w4",
+            "text": "तस्मै",
+            "iast": "tasmai"
+          },
+          {
+            "id": "w5",
+            "text": "वकाराय",
+            "iast": "vakārāya"
+          },
+          {
+            "id": "w6",
+            "text": "नमः",
+            "iast": "namaḥ"
+          },
+          {
+            "id": "w7",
+            "text": "शिवाय",
+            "iast": "śivāya"
+          }
+        ],
+        "end": "॥ ४ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "Agastya is not named here; he is called by his birth. *Kumbha-udbhava* means 'sprung from a pot': the sage was born in a water-jar, a son of the gods Mitra and Varuṇa by the heavenly dancer Urvaśī. Vasiṣṭha, named just before him, is called a son of the same three, so the line opens with two brothers.\n\nShort in body, Agastya is the sage who drank up the ocean and made the Vindhya mountains bow down.",
+          "hi": "यहाँ अगस्त्य का नाम नहीं, उनका जन्म बताया गया है। *कुम्भ-उद्भव* यानी 'घड़े से जन्मे': ये ऋषि एक जल-कलश में जन्मे थे, देवता मित्र और वरुण तथा अप्सरा उर्वशी के पुत्र। इनसे ठीक पहले जिन वसिष्ठ का नाम है, वे भी इन्हीं तीनों के पुत्र कहे जाते हैं, इसलिए पंक्ति दो भाइयों से शुरू होती है।\n\nकद में छोटे अगस्त्य वही ऋषि हैं जिन्होंने समुद्र पी लिया और विन्ध्य पर्वत को झुका दिया।"
+        },
+        "citations": [
+          {
+            "source": "mw-kumbhodbhava",
+            "locator": "MW kumbhodbhava, p. 293",
+            "quote": "N. of Agastya"
+          },
+          {
+            "source": "mw-kumbhayoni",
+            "locator": "MW kumbha-yoni, p. 293",
+            "quote": "‘born in a water-jar’, N. of Agastya"
+          },
+          {
+            "source": "mw-agasti",
+            "locator": "MW agasti, p. 4",
+            "quote": "to have swallowed the ocean, and compelled the Vindhya mountains to prostrate themselves before him"
+          },
+          {
+            "source": "mw-vasishtha",
+            "locator": "MW vasiṣṭha, p. 930",
+            "quote": "he is called the son of the Apsaras Urvaśī by Mitra and Varuṇa"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 34, verse 4, Hindi translation",
+            "quote": "वसिष्ठ, अगस्त्य और गौतम"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w3"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "[Verse 1](#v1-a2) called Śiva three-eyed. This verse says what the three eyes are: the moon, the sun and fire. *Vaiśvānara*, 'belonging to all men', is an old name of Agni, the fire.\n\nSo the lights people live by, the moon at night, the sun by day and the fire, are His eyes.",
+          "hi": "[पहले श्लोक](#v1-a2) ने शिव को तीन नेत्रों वाला कहा था। यह श्लोक बताता है कि वे तीन नेत्र कौन-से हैं: चन्द्रमा, सूर्य और अग्नि। *वैश्वानर*, यानी 'सब मनुष्यों का', अग्नि का पुराना नाम है।\n\nइस तरह जिन उजालों के सहारे संसार जीता है, रात का चन्द्रमा, दिन का सूर्य और आग, वे सब उनके नेत्र हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-trilocana",
+            "locator": "MW tri-locana, p. 460",
+            "quote": "three-eyed (Śiva)"
+          },
+          {
+            "source": "mw-vaishvanara",
+            "locator": "MW vaiśvānara, p. 1027",
+            "quote": "N. of Agni or Fire"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "verse 4, translation",
+            "quote": "whose three eyes are the moon, sun and fire"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 34, verse 4, Hindi translation",
+            "quote": "चन्द्रमा, सूर्य और अग्नि जिनके नेत्र हैं"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w4",
+          "w5",
+          "w6",
+          "w7"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "This verse opens with *va* (*va*-siṣṭha), the fourth sound of *na-maḥ śi-vā-ya*, after *na* ([verse 1](#v1-a5)), *ma* ([verse 2](#v2-a4)) and *śi* ([verse 3](#v3-a4)). The refrain names it: *va-kāra*, 'the letter *va*'.\n\nIn the mantra the sound is long, *vā*, yet every printing writes *vakārāya*: *kāra* names the letter itself, and the letter is plain *va*. One sound is left, *ya*, for the last verse.",
+          "hi": "यह श्लोक *व* (*व*-सिष्ठ) से शुरू होता है, जो *न-मः शि-वा-य* का चौथा अक्षर है, *न* ([पहला श्लोक](#v1-a5)), *म* ([दूसरा श्लोक](#v2-a4)) और *शि* ([तीसरा श्लोक](#v3-a4)) के बाद। टेक उसी का नाम लेती है: *व-कार*, यानी 'व' अक्षर।\n\nमन्त्र में यह ध्वनि लम्बी है, *वा*, फिर भी हर मुद्रित पाठ में *वकाराय* ही है: *कार* अक्षर का नाम बताता है, और अक्षर सीधा *व* है। अब एक ही अक्षर बचा है, *य*, अन्तिम श्लोक के लिए।"
+        },
+        "citations": [
+          {
+            "source": "mw-vakara",
+            "locator": "MW va-kāra, p. 910",
+            "quote": "the letter or sound va"
+          },
+          {
+            "source": "mw-kara",
+            "locator": "MW 1. kāra, p. 274",
+            "quote": "the term used in designating a letter or sound"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "pp. 33–34, vv. 1–6",
+            "quote": "तस्मै ‘व’ काराय नमः शिवाय"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "verse 4",
+            "quote": "तस्मै वकाराय नमः शिवाय"
+          },
+          {
+            "source": "vanivilas-1910-works-17",
+            "locator": "p. 120, verse 4",
+            "quote": "तस्मै वकाराय नमः शिवाय"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 459, verse 4",
+            "quote": "तस्मै वकाराय नमः शिवाय"
+          },
+          {
+            "source": "sringeri-shiva-panchakshara",
+            "locator": "verse 4",
+            "quote": "तस्मै वकाराय नमः शिवाय"
+          },
+          {
+            "source": "stotranidhi-shiva-panchakshara",
+            "locator": "verse 4",
+            "quote": "तस्मै वकाराय नमः शिवाय"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "verse 4, translation",
+            "quote": "who is represented by the syllable"
+          }
+        ],
+        "confidence": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "check": "T4.9",
+  "fields_hash": "2f8ca005858f5337",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "",
+      "message": "Outside this rubric (display only): the a3 citation quotes for Liṅga Purāṇa 1.3.3 and 1.3.4 copy GRETIL markup from linga-purana-1-3.md, a '%' half-verse separator and a double space ('gandhavarṇarasairyuktaṃ  % śabdasparśādilakṣaṇam', 'vigraho jagatāṃ liṅgam  % aliṅgād abhavatsvayam'). The words match the excerpt, but if quotes are shown on the site this markup will show too. A human should decide whether to remove it."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "check": "T3.5",
+  "fields_hash": "45c09df30987c62d",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.bhavartha",
+      "message": "The closing phrase 'the feet where the hymn began' does not come from any pada of v9. It is a cross-reference to verse 1, and annotation a1 supports it with the 'pāvanāṅghripaṅkaja' quote in vanivilas-1910-works-18. The claim is accurate, but the bhāvārtha now adds content that is not in the verse. A human should decide whether the bhāvārtha may carry this link or whether it belongs only in annotation a1.",
+      "suggested_fix": "End at '...will surely come into the presence of Kālabhairava's feet.' and leave the link back to verse 1 to annotation a1."
+    },
+    {
+      "status": "flag",
+      "path": "translations.hi.bhavartha",
+      "message": "Same as the EN bhāvārtha: 'उन्हीं चरणों तक जहाँ से स्तोत्र आरम्भ हुआ था' is a link back to verse 1 and is found in no pada of v9. It is accurate and annotation a1 already makes this point.",
+      "suggested_fix": "End at '...वे निश्चय ही कालभैरव के चरणों की सन्निधि में पहुँच जाते हैं।' and leave the link back to verse 1 to annotation a1."
+    }
+  ]
+}

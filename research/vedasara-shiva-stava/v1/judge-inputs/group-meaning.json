@@ -1,0 +1,1547 @@
+{
+  "group": "meaning",
+  "checks": {
+    "T4.2": "checks/judges/T4.2.md",
+    "T4.3": "checks/judges/T4.3.md",
+    "T4.4": "checks/judges/T4.4.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "deities": [
+      "shiva"
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v1",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "पशूनां",
+            "iast": "paśūnāṃ"
+          },
+          {
+            "id": "w2",
+            "text": "पतिं",
+            "iast": "patiṃ"
+          },
+          {
+            "id": "w3",
+            "text": "पापनाशं",
+            "iast": "pāpanāśaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "परेशं",
+            "iast": "pareśaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "गजेन्द्रस्य",
+            "iast": "gajendrasya"
+          },
+          {
+            "id": "w6",
+            "text": "कृत्तिं",
+            "iast": "kṛttiṃ"
+          },
+          {
+            "id": "w7",
+            "text": "वसानं",
+            "iast": "vasānaṃ"
+          },
+          {
+            "id": "w8",
+            "text": "वरेण्यम्",
+            "iast": "vareṇyam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "जटाजूट",
+            "iast": "jaṭājūṭa"
+          },
+          {
+            "id": "w10",
+            "text": "मध्ये",
+            "iast": "madhye"
+          },
+          {
+            "id": "w11",
+            "text": "स्फुरद्गाङ्गवारिं",
+            "iast": "sphuradgāṅgavāriṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w12",
+            "text": "महादेवमेकं",
+            "iast": "mahādevamekaṃ"
+          },
+          {
+            "id": "w13",
+            "text": "स्मरामि",
+            "iast": "smarāmi"
+          },
+          {
+            "id": "w14",
+            "text": "स्मरारिम्",
+            "iast": "smarārim"
+          }
+        ],
+        "end": "॥ १ ॥"
+      }
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w3"
+        ],
+        "iast": "pāpa-nāśaṃ",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "पापानां नाशः",
+        "meaning": {
+          "en": "the destroyer of sins",
+          "hi": "पापों का नाश करने वाले"
+        },
+        "note": {
+          "en": "nāśa 'destruction' at the end of a compound means 'destroying'; so pāpa-nāśa is the one who destroys sins. It describes Śiva and stands in the accusative like the other descriptions.",
+          "hi": "समास के अन्त में नाश का अर्थ 'नाश करने वाला' होता है; इसलिए पाप-नाश वह है जो पापों का नाश करता है। यह शिव का विशेषण है और बाकी विशेषणों की तरह द्वितीया में है।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w4"
+        ],
+        "iast": "para-īśaṃ",
+        "type": "karmadhāraya",
+        "vigraha": "परः ईशः",
+        "meaning": {
+          "en": "the highest Lord",
+          "hi": "परम ईश्वर"
+        },
+        "note": {
+          "en": "para 'highest' qualifies īśa 'lord'; a + ī merge into e (guṇa): para + īśa → pareśa.",
+          "hi": "पर 'सर्वोच्च' ईश 'स्वामी' का विशेषण है; अ + ई मिलकर ए (गुण) बनते हैं: पर + ईश → परेश।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w5"
+        ],
+        "iast": "gaja-indrasya",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "गजानाम् इन्द्रः",
+        "meaning": {
+          "en": "of the king of elephants",
+          "hi": "गजराज की"
+        },
+        "note": {
+          "en": "indra at the end of a compound means 'chief, best of its kind'; gaja-indra is the chief among elephants. a + i merge into e (guṇa).",
+          "hi": "समास के अन्त में इन्द्र का अर्थ 'श्रेष्ठ, प्रधान' है; गज-इन्द्र यानी हाथियों में श्रेष्ठ। अ + इ मिलकर ए (गुण) बनते हैं।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w9",
+          "w10"
+        ],
+        "iast": "jaṭā-jūṭa-madhye",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((jaṭā-jūṭa)-madhya)",
+        "vigraha": "जटानां जूटः जटाजूटः, तस्य मध्ये",
+        "meaning": {
+          "en": "in the middle of the coil of matted hair",
+          "hi": "जटाजूट के बीच में"
+        },
+        "note": {
+          "en": "jaṭā-jūṭa is the long matted hair twisted into a knot on top of the head; madhya 'middle' closes the compound, and its ending -e means 'in'. The text prints jaṭājūṭa and madhye as two display words, but they form one compound.",
+          "hi": "जटा-जूट सिर के ऊपर गाँठ में बँधी लम्बी जटाएँ हैं; मध्य 'बीच' समास को पूरा करता है, और उसका अन्त '-ए' 'में' का अर्थ देता है। पाठ में जटाजूट और मध्ये अलग छपे हैं, पर दोनों एक ही समास हैं।"
+        }
+      },
+      "c5": {
+        "members": [
+          "w11"
+        ],
+        "iast": "sphurad-gāṅga-vāriṃ",
+        "type": "bahuvrīhi",
+        "structure": "(sphurat-(gāṅga-vāri))",
+        "vigraha": "स्फुरत् गाङ्गं वारि यस्य सः, तम्",
+        "meaning": {
+          "en": "Him whose Gaṅgā water sparkles (in His matted hair)",
+          "hi": "उन (शिव) को, जिनकी (जटाओं में) गंगाजल झिलमिलाता है"
+        },
+        "note": {
+          "en": "sphurat 'sparkling, quivering' and gāṅga 'of the Gaṅgā' both describe vāri 'water'. As a bahuvrīhi the whole describes Śiva, the one who has such water, so it takes the masculine accusative vārim. The place word jaṭājūṭa-madhye stands outside the compound but tells where the water sparkles.",
+          "hi": "स्फुरत् 'झिलमिलाता, थिरकता' और गाङ्ग 'गंगा का', दोनों वारि 'जल' के विशेषण हैं। बहुव्रीहि होने से पूरा समास शिव का वर्णन करता है, जिनके पास ऐसा जल है, इसलिए यह पुंलिंग द्वितीया 'वारिम्' में है। स्थान-सूचक जटाजूटमध्ये समास के बाहर है, पर बताता है कि जल कहाँ झिलमिलाता है।"
+        }
+      },
+      "c6": {
+        "members": [
+          "w12"
+        ],
+        "iast": "mahā-devam",
+        "type": "karmadhāraya",
+        "vigraha": "महान् देवः",
+        "meaning": {
+          "en": "the Great God",
+          "hi": "महान देव"
+        },
+        "note": {
+          "en": "mahat 'great' takes the form mahā at the start of a compound. Only the first part of the display word महादेवमेकं is this compound; ekam is a separate word joined to it in writing.",
+          "hi": "समास के आरम्भ में महत् 'महान' का रूप महा हो जाता है। प्रदर्शित शब्द महादेवमेकं का केवल पहला भाग यह समास है; एकम् अलग शब्द है जो लिखावट में साथ जुड़ा है।"
+        }
+      },
+      "c7": {
+        "members": [
+          "w14"
+        ],
+        "iast": "smara-arim",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "vigraha": "स्मरस्य अरिः",
+        "meaning": {
+          "en": "the enemy of Smara (Kāma)",
+          "hi": "स्मर (कामदेव) के शत्रु"
+        },
+        "note": {
+          "en": "smara + ari: the two a's merge into one long ā (savarṇa-dīrgha), smarāri. The dictionary gives it as equal to smara-śatru, 'foe of Kāma'.",
+          "hi": "स्मर + अरि: दोनों 'अ' मिलकर एक दीर्घ 'आ' बनते हैं (सवर्णदीर्घ), स्मरारि। कोश इसे स्मर-शत्रु, 'काम का शत्रु', के समान बताता है।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "पशूनाम्",
+        "iast": "paśūnām",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पशु",
+            "iast": "paśu"
+          },
+          "gender": "masculine",
+          "case": "genitive",
+          "number": "plural"
+        },
+        "role": "sambandha",
+        "head": "p2"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "पतिम्",
+        "iast": "patim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पति",
+            "iast": "pati"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w3"
+        ],
+        "sa": "पापनाशम्",
+        "iast": "pāpanāśam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पापनाश",
+            "iast": "pāpanāśa"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w4"
+        ],
+        "sa": "परेशम्",
+        "iast": "pareśam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "परेश",
+            "iast": "pareśa"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w5"
+        ],
+        "sa": "गजेन्द्रस्य",
+        "iast": "gajendrasya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "गजेन्द्र",
+            "iast": "gajendra"
+          },
+          "gender": "masculine",
+          "case": "genitive",
+          "number": "singular"
+        },
+        "role": "sambandha",
+        "head": "p6"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w6"
+        ],
+        "sa": "कृत्तिम्",
+        "iast": "kṛttim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "कृत्ति",
+            "iast": "kṛtti"
+          },
+          "gender": "feminine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p7"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "वसानम्",
+        "iast": "vasānam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वसान",
+            "iast": "vasāna"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular",
+          "krt": {
+            "dhatu": {
+              "sa": "वस्",
+              "iast": "vas",
+              "gana": 2
+            },
+            "prefixes": [],
+            "suffix": "śānac"
+          }
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w8"
+        ],
+        "sa": "वरेण्यम्",
+        "iast": "vareṇyam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वरेण्य",
+            "iast": "vareṇya"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w9",
+          "w10"
+        ],
+        "sa": "जटाजूटमध्ये",
+        "iast": "jaṭājūṭamadhye",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "जटाजूटमध्य",
+            "iast": "jaṭājūṭamadhya"
+          },
+          "gender": "neuter",
+          "case": "locative",
+          "number": "singular"
+        },
+        "role": "adhikaraṇa",
+        "head": "p10"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w11"
+        ],
+        "sa": "स्फुरद्गाङ्गवारिम्",
+        "iast": "sphuradgāṅgavārim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "स्फुरद्गाङ्गवारि",
+            "iast": "sphuradgāṅgavāri"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w12"
+        ],
+        "sa": "महादेवम्",
+        "iast": "mahādevam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "महादेव",
+            "iast": "mahādeva"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p13"
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w12"
+        ],
+        "sa": "एकम्",
+        "iast": "ekam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "एक",
+            "iast": "eka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p11"
+      },
+      {
+        "id": "p13",
+        "words": [
+          "w13"
+        ],
+        "sa": "स्मरामि",
+        "iast": "smarāmi",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "स्मृ",
+            "iast": "smṛ",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p14",
+        "words": [
+          "w14"
+        ],
+        "sa": "स्मरारिम्",
+        "iast": "smarārim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "स्मरारि",
+            "iast": "smarāri"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p11"
+      }
+    ],
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "पशूनाम्",
+            "iast": "paśūnām"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the p of the next word (patim): paśūnām → paśūnāṃ.",
+              "hi": "अगले शब्द (पतिम्) के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पशूनाम् → पशूनां।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पशु",
+            "iast": "paśu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पशु",
+              "iast": "paśu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "paśu",
+              "gloss": "cattle (orig. any tethered animal); the individual soul as distinct from the divine Soul"
+            },
+            "meaning": {
+              "en": "creatures",
+              "hi": "प्राणी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of living beings",
+          "hi": "प्राणियों के"
+        },
+        "literal": {
+          "en": "of the animals",
+          "hi": "पशुओं के"
+        },
+        "notes": {
+          "en": "Plural, 'of the paśus'. In ordinary use paśu is cattle or any animal; in Śaiva teaching it is the bound soul, which is why the phrase reads 'Lord of all beings'.",
+          "hi": "बहुवचन, 'पशुओं के'। सामान्य प्रयोग में पशु मवेशी या कोई भी जानवर है; शैव शिक्षा में यह बँधा हुआ जीव है, इसीलिए वाक्यांश का अर्थ 'सब प्राणियों के स्वामी' बनता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-pashu",
+          "mw-pashupati",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "पतिम्",
+            "iast": "patim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the p of pāpanāśam: patim → patiṃ.",
+              "hi": "पापनाशम् के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पतिम् → पतिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पति",
+            "iast": "pati",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पति",
+              "iast": "pati"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pati",
+              "gloss": "a master, owner, possessor, lord, ruler"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "स्वामी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the Lord, i.e. Śiva",
+          "hi": "स्वामी, अर्थात् शिव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "With paśūnām it makes the familiar name Paśupati, 'Lord of creatures', here as two separate words.",
+          "hi": "पशूनाम् के साथ यह प्रसिद्ध नाम पशुपति, 'प्राणियों के स्वामी', बनता है; यहाँ दो अलग शब्दों में।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-pati",
+          "mw-pashupati",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w3": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "पाप",
+            "iast": "pāpa"
+          },
+          {
+            "sa": "नाशम्",
+            "iast": "nāśam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the p of pareśam: pāpanāśam → pāpanāśaṃ.",
+              "hi": "परेशम् के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पापनाशम् → पापनाशं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पाप",
+            "iast": "pāpa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाप",
+              "iast": "pāpa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāpa",
+              "gloss": "sin, vice, crime, guilt"
+            },
+            "meaning": {
+              "en": "sin",
+              "hi": "पाप"
+            }
+          },
+          {
+            "sa": "नाश",
+            "iast": "nāśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नश्",
+              "iast": "naś",
+              "gana": 4,
+              "gloss": {
+                "en": "to be lost, to perish",
+                "hi": "नष्ट होना"
+              }
+            },
+            "formation": "√naś + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "nāśa",
+              "gloss": "destruction, annihilation (ifc. destroying, annihilating)"
+            },
+            "meaning": {
+              "en": "destroyer",
+              "hi": "नाशक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the destroyer of sins, i.e. Śiva",
+          "hi": "पापों का नाश करने वाले, अर्थात् शिव को"
+        },
+        "literal": {
+          "en": "sin-destruction",
+          "hi": "पाप-नाश"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-papa",
+          "mw-nasha",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w4": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "पर",
+            "iast": "para"
+          },
+          {
+            "sa": "ईशम्",
+            "iast": "īśam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + ī → e",
+            "explanation": {
+              "en": "The a of para and the ī of īśa merge into e: para + īśam → pareśam.",
+              "hi": "पर का 'अ' और ईश का 'ई' मिलकर 'ए' बनते हैं: पर + ईशम् → परेशम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ at the end of the line before the g of gajendrasya: pareśam → pareśaṃ.",
+              "hi": "गजेन्द्रस्य के 'ग' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: परेशम् → परेशं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पर",
+            "iast": "para",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पर",
+              "iast": "para"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "para",
+              "gloss": "best or worst, highest, supreme, chief"
+            },
+            "meaning": {
+              "en": "highest",
+              "hi": "परम"
+            }
+          },
+          {
+            "sa": "ईश",
+            "iast": "īśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईश",
+              "iast": "īśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "īśa",
+              "gloss": "a ruler, master, lord"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "ईश्वर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the highest Lord, i.e. Śiva",
+          "hi": "परमेश्वर, अर्थात् शिव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "The dictionary lists pareśa as a name of Brahmā or Viṣṇu; here, as all the descriptions in the verse show, it names Śiva.",
+          "hi": "कोश परेश को ब्रह्मा या विष्णु का नाम बताता है; यहाँ, जैसा श्लोक के सभी विशेषण दिखाते हैं, यह शिव का नाम है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-paresha",
+          "mw-para",
+          "mw-isha",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w5": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "गज",
+            "iast": "gaja"
+          },
+          {
+            "sa": "इन्द्रस्य",
+            "iast": "indrasya"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + i → e",
+            "explanation": {
+              "en": "The a of gaja and the i of indra merge into e: gaja + indrasya → gajendrasya.",
+              "hi": "गज का 'अ' और इन्द्र का 'इ' मिलकर 'ए' बनते हैं: गज + इन्द्रस्य → गजेन्द्रस्य।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "गज",
+            "iast": "gaja",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गज",
+              "iast": "gaja"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "gaja",
+              "gloss": "an elephant"
+            },
+            "meaning": {
+              "en": "elephant",
+              "hi": "हाथी"
+            }
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इन्द्र",
+              "iast": "indra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "indra",
+              "gloss": "ifc. best, excellent, the first, the chief"
+            },
+            "meaning": {
+              "en": "chief",
+              "hi": "श्रेष्ठ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of the king of elephants",
+          "hi": "गजराज की"
+        },
+        "literal": {
+          "en": "of the chief of elephants",
+          "hi": "हाथियों में श्रेष्ठ की"
+        },
+        "notes": {
+          "en": "Indra here is not the god but the ending 'chief of', as in rājendra 'chief of kings'. The dictionary gives gajendra = gaja-rāja.",
+          "hi": "यहाँ इन्द्र देवता नहीं, 'में श्रेष्ठ' अर्थ वाला अन्तिम पद है, जैसे राजेन्द्र 'राजाओं में श्रेष्ठ'। कोश गजेन्द्र = गज-राज देता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-gajendra",
+          "mw-gaja",
+          "mw-indra",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "कृत्तिम्",
+            "iast": "kṛttim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the v of vasānam: kṛttim → kṛttiṃ.",
+              "hi": "वसानम् के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कृत्तिम् → कृत्तिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कृत्ति",
+            "iast": "kṛtti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कृत्ति",
+              "iast": "kṛtti"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kṛtti",
+              "gloss": "skin, hide; a garment made of skin"
+            },
+            "meaning": {
+              "en": "hide",
+              "hi": "खाल"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the hide",
+          "hi": "खाल, चर्म"
+        },
+        "aside": {
+          "en": "Śiva's garment is no woven cloth: He wraps Himself in the raw hide of the mightiest of elephants.",
+          "hi": "शिव का वस्त्र बुना हुआ कपड़ा नहीं: वे सबसे बलवान हाथी की खाल ही ओढ़ लेते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-krtti",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "वसानम्",
+            "iast": "vasānam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the v of vareṇyam: vasānam → vasānaṃ.",
+              "hi": "वरेण्यम् के 'व' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: वसानम् → वसानं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "वसान",
+            "iast": "vasāna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "वस्",
+              "iast": "vas",
+              "gana": 2,
+              "gloss": {
+                "en": "to wear",
+                "hi": "पहनना"
+              }
+            },
+            "formation": "√vas + śānac (present participle, ātmanepada)",
+            "sense": {
+              "dict": "mw",
+              "headword": "vas",
+              "gloss": "to put on, invest, wear (clothes &c.)"
+            },
+            "meaning": {
+              "en": "wearing",
+              "hi": "ओढ़े हुए"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "wearing (Śiva)",
+          "hi": "ओढ़े हुए (शिव को)"
+        },
+        "notes": {
+          "en": "From √vas 'to wear' (class 2), not the √vas 'to dwell' of vasati. Its object is kṛttim, the hide.",
+          "hi": "√वस् 'पहनना' (अदादि गण) से, 'रहना' वाले √वस् (वसति) से नहीं। इसका कर्म कृत्तिम्, खाल, है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vas",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "वरेण्यम्",
+            "iast": "vareṇyam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "वरेण्य",
+            "iast": "vareṇya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वरेण्य",
+              "iast": "vareṇya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vareṇya",
+              "gloss": "to be wished for, desirable, excellent, best among"
+            },
+            "meaning": {
+              "en": "most excellent",
+              "hi": "सर्वश्रेष्ठ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the most excellent one, i.e. Śiva",
+          "hi": "सर्वश्रेष्ठ, अर्थात् शिव को"
+        },
+        "literal": {
+          "en": "the one to be wished for",
+          "hi": "वरण करने योग्य"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-varenya",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w9": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "जटा",
+            "iast": "jaṭā"
+          },
+          {
+            "sa": "जूट",
+            "iast": "jūṭa"
+          }
+        ],
+        "components": [
+          {
+            "sa": "जटा",
+            "iast": "jaṭā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जटा",
+              "iast": "jaṭā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jaṭā",
+              "gloss": "the hair twisted together (as worn by ascetics, by Śiva)"
+            },
+            "meaning": {
+              "en": "matted hair",
+              "hi": "जटा"
+            }
+          },
+          {
+            "sa": "जूट",
+            "iast": "jūṭa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जूट",
+              "iast": "jūṭa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jūṭa",
+              "gloss": "twisted hair (of ascetics and Śiva)"
+            },
+            "meaning": {
+              "en": "knot",
+              "hi": "जूड़ा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "of the coil of matted hair",
+          "hi": "जटाजूट के"
+        },
+        "literal": {
+          "en": "the twisted knot of matted locks",
+          "hi": "जटाओं का जूड़ा"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-jatajuta",
+          "mw-jata",
+          "mw-juta",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w10": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "मध्ये",
+            "iast": "madhye"
+          }
+        ],
+        "components": [
+          {
+            "sa": "मध्य",
+            "iast": "madhya",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मध्य",
+              "iast": "madhya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "madhye",
+              "gloss": "in the middle, in the midst, within"
+            },
+            "meaning": {
+              "en": "middle",
+              "hi": "बीच"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "in the middle",
+          "hi": "बीच में"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-madhye",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w11": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "स्फुरत्",
+            "iast": "sphurat"
+          },
+          {
+            "sa": "गाङ्ग",
+            "iast": "gāṅga"
+          },
+          {
+            "sa": "वारिम्",
+            "iast": "vārim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "jaśtva",
+            "rule": "t + g → d + g",
+            "explanation": {
+              "en": "Final t becomes the voiced d before the voiced g: sphurat + gāṅga → sphuradgāṅga.",
+              "hi": "अन्तिम 'त्' आगे के घोष 'ग' के कारण 'द्' बन जाता है: स्फुरत् + गाङ्ग → स्फुरद्गाङ्ग।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the m of mahādevam: vārim → vāriṃ.",
+              "hi": "महादेवम् के 'म' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: वारिम् → वारिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्फुरत्",
+            "iast": "sphurat",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्फुर्",
+              "iast": "sphur",
+              "gana": 6,
+              "gloss": {
+                "en": "to quiver, to flash",
+                "hi": "थिरकना, चमकना"
+              }
+            },
+            "formation": "√sphur + śatṛ (present participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "sphur",
+              "gloss": "to tremble, throb, quiver; to flash, glitter, gleam, sparkle"
+            },
+            "meaning": {
+              "en": "sparkling",
+              "hi": "झिलमिलाता"
+            }
+          },
+          {
+            "sa": "गाङ्ग",
+            "iast": "gāṅga",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गाङ्ग",
+              "iast": "gāṅga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "gāṅga",
+              "gloss": "coming from or belonging or relating to the Ganges"
+            },
+            "meaning": {
+              "en": "of the Gaṅgā",
+              "hi": "गंगा का"
+            }
+          },
+          {
+            "sa": "वारि",
+            "iast": "vāri",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वारि",
+              "iast": "vāri"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vāri",
+              "gloss": "water, rain, fluid"
+            },
+            "meaning": {
+              "en": "water",
+              "hi": "जल"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Śiva) whose Gaṅgā water sparkles",
+          "hi": "(उन शिव को) जिनका गंगाजल झिलमिलाता है"
+        },
+        "aside": {
+          "en": "*Sphurat* is lively: the water both trembles and flashes, so the river moves and shines at once inside the coil of hair.",
+          "hi": "*स्फुरत्* में जीवन है: जल थिरकता भी है और चमकता भी, इसलिए जटाओं के घेरे में नदी एक साथ बहती और दमकती है।"
+        },
+        "notes": {
+          "en": "vāri is neuter ('water'), but as the last member of a compound describing Śiva it takes the masculine form, vārim.",
+          "hi": "वारि नपुंसक है ('जल'), पर शिव का वर्णन करने वाले समास के अन्तिम पद के रूप में यह पुंलिंग रूप 'वारिम्' लेता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "spurting, gushing out",
+              "hi": "उछलता, फूट पड़ता"
+            },
+            "note": "shlokam-vedasara-shiva-stava renders sphurat as 'spurting'; gitapress-stotraratnavali has खेल रही हैं ('playing'). MW's senses (dart, spring; tremble, quiver; flash, glitter) cover all three; 'sparkling' is chosen as the plainest."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-sphur",
+          "mw-sphurat",
+          "mw-ganga",
+          "mw-vari",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w12": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "महादेवम्",
+            "iast": "mahādevam"
+          },
+          {
+            "sa": "एकम्",
+            "iast": "ekam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "mahādevam simply joins the vowel of ekam in writing (mahādevamekam); the final m of ekam is written as ṃ before the s of smarāmi.",
+              "hi": "महादेवम् लिखावट में एकम् के स्वर से सीधे जुड़ जाता है (महादेवमेकम्); एकम् का अन्तिम 'म्' स्मरामि के 'स' से पहले अनुस्वार बन जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "महत्",
+            "iast": "mahat",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "महत्",
+              "iast": "mahat"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mahat",
+              "gloss": "great, large, important, high, eminent"
+            },
+            "meaning": {
+              "en": "great",
+              "hi": "महान"
+            }
+          },
+          {
+            "sa": "देव",
+            "iast": "deva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "देव",
+              "iast": "deva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "deva",
+              "gloss": "a deity, god"
+            },
+            "meaning": {
+              "en": "god",
+              "hi": "देव"
+            }
+          },
+          {
+            "sa": "एक",
+            "iast": "eka",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "एक",
+              "iast": "eka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "eka",
+              "gloss": "alone, single, that one only; unique, chief"
+            },
+            "meaning": {
+              "en": "one",
+              "hi": "एकमात्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Mahādeva, the one Great God, i.e. Śiva",
+          "hi": "एकमात्र महादेव, अर्थात् शिव को"
+        },
+        "literal": {
+          "en": "the Great God, the one",
+          "hi": "महान देव को, एक को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Two words written as one: mahādevam (whom I remember) and ekam 'one', which agrees with it.",
+          "hi": "दो शब्द एक साथ लिखे गए: महादेवम् (जिनका स्मरण है) और उनसे मेल खाता एकम् 'एक'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-mahadeva",
+          "mw-mahat",
+          "mw-deva",
+          "mw-eka",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w13": {
+        "padaccheda": [
+          {
+            "sa": "स्मरामि",
+            "iast": "smarāmi"
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्मरामि",
+            "iast": "smarāmi",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्मृ",
+              "iast": "smṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to remember",
+                "hi": "स्मरण करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "smṛ",
+              "gloss": "to remember, recollect, bear in mind, call to mind, think of"
+            },
+            "meaning": {
+              "en": "I remember",
+              "hi": "मैं स्मरण करता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I keep in mind, I remember",
+          "hi": "मैं स्मरण करता हूँ"
+        },
+        "notes": {
+          "en": "Present tense, 'I' as the doer. The analyzer also offers splits like sma + rāmi; they give no sense here.",
+          "hi": "वर्तमान काल, कर्ता 'मैं'। विश्लेषक स्म + रामि जैसे विभाजन भी सुझाता है; उनका यहाँ कोई अर्थ नहीं बनता।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-smr",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w14": {
+        "compound": "c7",
+        "padaccheda": [
+          {
+            "sa": "स्मर",
+            "iast": "smara"
+          },
+          {
+            "sa": "अरिम्",
+            "iast": "arim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇadīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The a of smara and the a of ari merge into one long ā: smara + arim → smarārim.",
+              "hi": "स्मर का 'अ' और अरि का 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: स्मर + अरिम् → स्मरारिम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्मर",
+            "iast": "smara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "स्मृ",
+              "iast": "smṛ",
+              "gana": 1,
+              "gloss": {
+                "en": "to remember",
+                "hi": "स्मरण करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "smara",
+              "gloss": "memory, remembrance; love; Kāma-deva (god of love)"
+            },
+            "meaning": {
+              "en": "Kāma",
+              "hi": "कामदेव"
+            }
+          },
+          {
+            "sa": "अरि",
+            "iast": "ari",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अरि",
+              "iast": "ari"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ari",
+              "gloss": "an enemy"
+            },
+            "meaning": {
+              "en": "enemy",
+              "hi": "शत्रु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the enemy of Smara (Kāma, the god of love), i.e. Śiva",
+          "hi": "स्मर (कामदेव) के शत्रु, अर्थात् शिव को"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-smarari",
+          "mw-smara",
+          "mw-ari",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      }
+    }
+  }
+}

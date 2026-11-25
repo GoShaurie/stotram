@@ -1,0 +1,42 @@
+[
+ {
+  "check": "T4.1",
+  "status": "flag",
+  "message": "kandalī as \"stalk of the throat\" has no MW support (mw-kandali: deer, plant, banner…); only vyakhya (कण्ठ-नाल) and shlokam (stem) support it. sanskritdocuments' \"temple\" isn't recorded as an alternative.",
+  "path": "words.w3.components[2].meaning",
+  "suggested_fix": "Point the sense at kandala \"new shoot\" used figuratively, and add the \"temple\" reading as an alternative.",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.3",
+  "status": "flag",
+  "message": "Only the literal image (radiance of blue lotuses); the implied simile and its referent (the poison-darkened throat, Nīlakaṇṭha, per vyakhya-sts-9) are never stated.",
+  "path": "compounds.c1.meaning",
+  "suggested_fix": "\"whose neck shines with a throat dark like a mass of full-blown blue lotuses\" + a note citing vyakhya-sts-9 on Nīlakaṇṭha.",
+  "severity": "major",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.7",
+  "status": "flag",
+  "message": "bhavacchidam: HI \"भव-बन्धन काटने वाले\" adds bondage; EN \"cuts away worldly existence\".",
+  "path": "translations.hi.lines[1][2]",
+  "suggested_fix": "HI \"भव (जन्म-मरण के चक्र) को काटने वाले\", or EN \"cuts the bonds of worldly existence\".",
+  "severity": "major",
+  "tier": 4,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T4.9",
+  "status": "fail",
+  "message": "Says MW knows kandalī 'only' as a flowering plant; mw-kandali lists five senses (deer, white-flowered plant, lotus seed, banner, title). Also 'avalambin means … bearing' presents an interpretation as MW's meaning (MW: hanging on, resting upon). The same 'only' claim is in words.w3.notes.",
+  "path": "annotations.a2.body",
+  "suggested_fix": "'MW gives no \"stalk\" sense for kandalī (it lists a deer, a white-flowered plant, lotus seed, a banner), so the stalk reading rests on vyakhya.org'; 'avalambin means resting on (MW); vyakhya glosses it \"endowed with\", hence \"bearing\" here.' Fix w3.notes too.",
+  "severity": "blocker",
+  "tier": 4,
+  "method": "JUDGE"
+ }
+]

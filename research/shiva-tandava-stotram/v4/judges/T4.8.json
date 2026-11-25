@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "8f2e846f1acde960",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.hi.lines[2][1].text",
+      "message": "'भरपूर ओढ़े हुए हैं' is grammatical but an unusual collocation, likely a calque of medura.",
+      "suggested_fix": "'चमकती खाल को उत्तरीय बनाकर ओढ़े हुए हैं'"
+    }
+  ]
+}

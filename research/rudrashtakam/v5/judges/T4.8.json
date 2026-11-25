@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "68b47b5e1881c3df",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w8.aside.en",
+      "message": "English aside is hard to follow ('inside the word' separated from 'keeps' by an appositive).",
+      "suggested_fix": "Everyday Sanskrit would say *tri-* here. The poet instead puts *trayaḥ*, the form 'three' takes when it stands alone, inside the word: one of this hymn's old-style liberties."
+    }
+  ]
+}

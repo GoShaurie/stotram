@@ -1,0 +1,502 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.9": "checks/judges/T4.9.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-vedasarast",
+        "name": "sanskritdocuments.org — Vedasara Shiva Stotram (vedasarast.itx); read from the Wayback copy of 2025-07-22",
+        "kind": "text",
+        "url": "https://web.archive.org/web/20250722112755/https://sanskritdocuments.org/doc_shiva/vedasarast.html"
+      },
+      {
+        "id": "shlokam-vedasara-shiva-stava",
+        "name": "shlokam.org — Vedasara Shiva Stava (English translation and word meanings; Devanagari copies sanskritdocuments)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/vedasara-shiva-stava.htm"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. 71–73",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n82/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, pp. 464–465; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/464/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 26–29, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "gitapress-shiv-stotra-ratnakar",
+        "name": "शिवस्तोत्ररत्नाकर (Shiv Stotra Ratnakar), Gita Press, Gorakhpur, pp. 52–55, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/gp1417-shiv-stotra-ratnakar"
+      },
+      {
+        "id": "brihat-stotra-ratnakar-wikisource",
+        "name": "बृहत्स्तोत्ररत्नाकर (Bṛhatstotraratnākara) vol. 1 (1953), pp. 251–252, as transcribed on Sanskrit Wikisource",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/वेदसारशिवस्तवः"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "mw-indra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'indra' (SLP1 key: indra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=indra"
+      },
+      {
+        "id": "mw-pancavaktra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcavaktra' (SLP1 key: paYcavaktra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcavaktra"
+      },
+      {
+        "id": "mw-anga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aṅga' (SLP1 key: aNga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aNga"
+      },
+      {
+        "id": "mw-pancan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcan' (SLP1 key: paYcan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcan"
+      },
+      {
+        "id": "mw-vaktra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vaktra' (SLP1 key: vaktra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vaktra"
+      },
+      {
+        "id": "mahabharata-karna-8-24",
+        "name": "Mahābhārata, Karṇaparvan 8.24",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "bhagavata-8-7",
+        "name": "Bhāgavata Purāṇa 8.7",
+        "kind": "text",
+        "ancient": true,
+        "note": "In the Nīlakaṇṭha theme story, Śiva's words to Bhavānī and the snake-rope detail are told from memory; only 8.7.42–43 was checked. Confirm before review."
+      },
+      {
+        "id": "mahanarayana-upanishad-17-23",
+        "name": "Mahānārāyaṇa Upaniṣad 17–23",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "shvetashvatara-upanishad",
+        "name": "Śvetāśvatara Upaniṣad",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "shiva-purana-vidyeshvara",
+        "name": "Śiva Purāṇa, Vidyeśvara Saṃhitā",
+        "kind": "text",
+        "ancient": true
+      },
+      {
+        "id": "mw-bhasvara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhāsvara' (SLP1 key: BAsvara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BAsvara"
+      },
+      {
+        "id": "mw-bhava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhava' (SLP1 key: Bava)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Bava"
+      },
+      {
+        "id": "mw-bhavani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhavānī' (SLP1 key: BavAnI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BavAnI"
+      },
+      {
+        "id": "mw-bhush",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhūṣ' (SLP1 key: BUz)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BUz"
+      },
+      {
+        "id": "mw-gale",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gale' (SLP1 key: gale)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gale"
+      },
+      {
+        "id": "mw-ganesha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaṇeśa' (SLP1 key: gaReSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaReSa"
+      },
+      {
+        "id": "mw-gavendra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gavendra' (SLP1 key: gavendra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gavendra"
+      },
+      {
+        "id": "mw-girisha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'girīśa' (SLP1 key: girISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=girISa"
+      },
+      {
+        "id": "mw-gunatita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'guṇātīta' (SLP1 key: guRAtIta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=guRAtIta"
+      },
+      {
+        "id": "mw-kalatra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'kalatra' (SLP1 key: kalatra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kalatra"
+      },
+      {
+        "id": "mw-nilavarna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nīlavarṇa' (SLP1 key: nIlavarRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nIlavarRa"
+      },
+      {
+        "id": "mw-rupa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'rūpa' (SLP1 key: rUpa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=rUpa"
+      },
+      {
+        "id": "mw-adhirudha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'adhirūḍha' (SLP1 key: aDirUQa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aDirUQa"
+      },
+      {
+        "id": "mw-atita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'atīta' (SLP1 key: atIta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=atIta"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-bhasman",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhasman' (SLP1 key: Basman)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Basman"
+      },
+      {
+        "id": "mw-gala",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gala' (SLP1 key: gala)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gala"
+      },
+      {
+        "id": "mw-gana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gaṇa' (SLP1 key: gaRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gaRa"
+      },
+      {
+        "id": "mw-giri",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'giri' (SLP1 key: giri)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=giri"
+      },
+      {
+        "id": "mw-go",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'go' (SLP1 key: go)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=go"
+      },
+      {
+        "id": "mw-guna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'guṇa' (SLP1 key: guRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=guRa"
+      },
+      {
+        "id": "mw-nila",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nīla' (SLP1 key: nIla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nIla"
+      },
+      {
+        "id": "mw-varna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'varṇa' (SLP1 key: varRa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=varRa"
+      },
+      {
+        "id": "mw-adhiruh",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'adhiruh' (SLP1 key: aDiruh)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aDiruh"
+      },
+      {
+        "id": "mw-ati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'atī' (SLP1 key: atI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=atI"
+      },
+      {
+        "id": "mw-bhaas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhās' (SLP1 key: BAs)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BAs"
+      }
+    ]
+  },
+  "verse": {
+    "id": "v3",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "गिरीशं",
+            "iast": "girīśaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "गणेशं",
+            "iast": "gaṇeśaṃ"
+          },
+          {
+            "id": "w3",
+            "text": "गले",
+            "iast": "gale"
+          },
+          {
+            "id": "w4",
+            "text": "नीलवर्णं",
+            "iast": "nīlavarṇaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "गवेन्द्राधिरूढं",
+            "iast": "gavendrādhirūḍhaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "गुणातीतरूपम्",
+            "iast": "guṇātītarūpam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "भवं",
+            "iast": "bhavaṃ"
+          },
+          {
+            "id": "w8",
+            "text": "भास्वरं",
+            "iast": "bhāsvaraṃ"
+          },
+          {
+            "id": "w9",
+            "text": "भस्मना",
+            "iast": "bhasmanā"
+          },
+          {
+            "id": "w10",
+            "text": "भूषिताङ्गं",
+            "iast": "bhūṣitāṅgaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w11",
+            "text": "भवानीकलत्रं",
+            "iast": "bhavānīkalatraṃ"
+          },
+          {
+            "id": "w12",
+            "text": "भजे",
+            "iast": "bhaje"
+          },
+          {
+            "id": "w13",
+            "text": "पञ्चवक्त्रम्",
+            "iast": "pañcavaktram"
+          }
+        ],
+        "end": "॥ ३ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w3",
+          "w4"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "The Bhāgavata uses this verse's very words: *gale nīlam*, blue on the throat. When the ocean was churned, a poison called *hālāhala* rose and spread everywhere. Out of compassion Mahādeva took it in His palm and drank it. The poison showed its power even on Him, staining His throat blue, and that stain became His ornament. So the blue the poet sees is the colour of a world saved.",
+          "hi": "भागवत ठीक इन्हीं शब्दों का प्रयोग करता है: *गले नीलम्*, कण्ठ में नीला। जब समुद्र मथा गया, तो *हालाहल* नाम का विष उठा और चारों ओर फैल गया। करुणा से महादेव ने उसे हथेली पर लेकर पी लिया। विष ने उन पर भी अपना बल दिखाया और उनका कण्ठ नीला कर दिया, पर वही दाग़ उनका आभूषण बन गया। इसलिए कवि जो नीलापन देखता है, वह बचाए गए संसार का रंग है।"
+        },
+        "citations": [
+          {
+            "source": "bhagavata-8-7",
+            "locator": "Bhāgavata Purāṇa 8.7.42",
+            "quote": "अभक्षयन्महादेव: कृपया भूतभावन:"
+          },
+          {
+            "source": "bhagavata-8-7",
+            "locator": "Bhāgavata Purāṇa 8.7.43",
+            "quote": "यच्चकार गले नीलं तच्च साधोर्विभूषणम्"
+          },
+          {
+            "source": "mw-nilavarna",
+            "locator": "MW nīlavarṇa, p. 566",
+            "quote": "blue-coloured, blue"
+          },
+          {
+            "source": "mw-gala",
+            "locator": "MW gala, p. 350",
+            "quote": "the throat, neck"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w6"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Beyond the *guṇas*, or beyond counting? Some printings read *guṇātīta-rūpam*: His form lies beyond the three *guṇas*, the strands of nature (goodness, passion and darkness) that weave all we see. The Śvetāśvatara Upaniṣad says it in one word: He is *nirguṇa*. Other printings have *gaṇātīta-rūpam*, 'whose forms are past counting'. One vowel apart, the two pull two ways: Śiva beyond all qualities, or Śiva in countless forms.",
+          "hi": "गुणों से परे, या गिनती से परे? कुछ मुद्रित पाठों में *गुणातीत-रूपम्* है: उनका रूप तीनों *गुणों* से परे है, प्रकृति के वे धागे (सत्त्व, रजस्, तमस्) जिनसे दिखने वाला सब बुना है। श्वेताश्वतर उपनिषद् यही एक शब्द में कहता है: वे *निर्गुण* हैं। दूसरे पाठों में *गणातीत-रूपम्* है, 'जिनके रूप गिनती से परे हैं'। एक स्वर का अन्तर, पर अर्थ दो ओर: गुणों से परे शिव, या अनगिनत रूपों वाले शिव।"
+        },
+        "citations": [
+          {
+            "source": "sanskritdocuments-vedasarast",
+            "locator": "verse ॥ ३॥",
+            "quote": "गवेन्द्राधिरूढं गुणातीतरूपम्"
+          },
+          {
+            "source": "vanivilas-1910-works-17",
+            "locator": "p. 71, verse ॥ ३ ॥",
+            "quote": "गवेन्द्राधिरूढं गुणातीतरूपम्"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 464, verse ॥ ३ ॥",
+            "quote": "गवेन्द्राधिरूढं गुणातीतरूपम्"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 27, verse ॥ ३ ॥",
+            "quote": "गवेन्द्राधिरूढं गणातीतरूपम्"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 27, Hindi translation",
+            "quote": "अगणित रूपवाले"
+          },
+          {
+            "source": "brihat-stotra-ratnakar-wikisource",
+            "locator": "p. 251, verse ३",
+            "quote": "गणातीतरूपम्"
+          },
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 6.11",
+            "quote": "साक्षी चेता केवलो निर्गुणश्च"
+          },
+          {
+            "source": "mw-guna",
+            "locator": "MW guṇa, p. 357",
+            "quote": "an ingredient or constituent of Prakṛti"
+          },
+          {
+            "source": "mw-gunatita",
+            "locator": "MW guṇātīta, p. 358",
+            "quote": "freed from or beyond all properties"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w7",
+          "w8",
+          "w9",
+          "w10",
+          "w11",
+          "w12"
+        ],
+        "kind": "sound",
+        "body": {
+          "en": "Say the verse aloud. The first half chimes on *g*: *girīśaṃ gaṇeśaṃ gale … gavendra … guṇātīta*. The second switches to *bh*, six words in a row: *bhavaṃ bhāsvaraṃ bhasmanā bhūṣitāṅgaṃ bhavānī… bhaje*. At its heart stands a pair: *Bhava*, an old name of Śiva from *bhū*, 'to be, to become', and *Bhavānī*, His wife, whose name is made from His. Husband and wife share one name, and the run of *bh* closes on *bhaje*, 'I worship'.",
+          "hi": "श्लोक को बोलकर पढ़िए। पहला आधा *ग* पर गूँजता है: *गिरीशं गणेशं गले … गवेन्द्र … गुणातीत*। दूसरा आधा *भ* पर आ जाता है, लगातार छह शब्द: *भवं भास्वरं भस्मना भूषिताङ्गं भवानी… भजे*। बीच में एक जोड़ी है: *भव*, शिव का पुराना नाम, *भू* (होना, बनना) से, और *भवानी*, उनकी पत्नी, जिनका नाम उन्हीं के नाम से बना है। पति-पत्नी का एक नाम, और *भ* की यह लड़ी *भजे*, 'मैं भजता हूँ', पर पूरी होती है।"
+        },
+        "citations": [
+          {
+            "source": "mw-bhava",
+            "locator": "MW bhava, p. 749",
+            "quote": "later N. of Śiva or a form of Śiva"
+          },
+          {
+            "source": "mw-bhava",
+            "locator": "MW bhava, p. 748",
+            "quote": "coming into existence, birth, production, origin"
+          },
+          {
+            "source": "mw-bhavani",
+            "locator": "MW bhavānī, p. 749",
+            "quote": "fr. bhava"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ]
+  }
+}

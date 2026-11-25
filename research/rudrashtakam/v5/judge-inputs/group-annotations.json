@@ -1,0 +1,1639 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "rudrashtakam",
+    "title": {
+      "sa": "रुद्राष्टकम्",
+      "iast": "Rudrāṣṭakam",
+      "en": "Rudrashtakam",
+      "hi": "रुद्राष्टकम्"
+    },
+    "attribution": {
+      "en": "Composed by Gosvāmī Tulsīdās, in the Uttarakāṇḍa of his Rāmcaritmānas.",
+      "hi": "गोस्वामी तुलसीदास द्वारा रचित, उनके रामचरितमानस के उत्तरकाण्ड में।"
+    },
+    "sources": [
+      {
+        "id": "gitapress-ramcharitmanas",
+        "name": "श्रीरामचरितमानस, Gita Press, Gorakhpur, pp. 1011–1012, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      },
+      {
+        "id": "kashiraj-ramcharitmanas",
+        "name": "Rāmcaritmānas, critical edition ed. Viśvanāth Prasād Miśra, Kāśirāj Trust, p. 443; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/fCfi_ram-charit-manas-of-tulsi-das-ed-by-viswanath-prasad-mishra-ramesh-chandra-dev"
+      },
+      {
+        "id": "belvedere-1926-ramcharitmanas",
+        "name": "Rāmcaritmānas, Belvedere Press, Prayag, 1926, pp. 427–428; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/in.ernet.dli.2015.343673"
+      },
+      {
+        "id": "sanskritdocuments-rudra8",
+        "name": "sanskritdocuments.org — Rudrashtakam (rudra8); Wayback copy of 2025-08-08",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20250808093835/https://sanskritdocuments.org/doc_shiva/rudra8.html"
+      },
+      {
+        "id": "greenmesg-rudrashtakam",
+        "name": "greenmesg.org — Rudrashtakam (line-by-line English); Wayback copy of 2026-08-12",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20260812050406/https://www.greenmesg.org/stotras/shiva/rudrashtakam.php"
+      },
+      {
+        "id": "shlokam-rudrashtakam",
+        "name": "shlokam.org — Rudrashtakam (translation with word meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/rudrashtakam/"
+      },
+      {
+        "id": "wikisource-sa-rudrashtakam",
+        "name": "Sanskrit Wikisource — रुद्राष्टकम् (comparison only; many typing slips)",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/रुद्राष्टकम्"
+      },
+      {
+        "id": "mw-aham",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aham' (SLP1 key: aham)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aham"
+      },
+      {
+        "id": "mw-bhaj",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhaj' (SLP1 key: Baj)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Baj"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "ramcharitmanas-uttarakanda-104-108",
+        "name": "Śrīrāmacaritamānasa, Uttarakāṇḍa, the narrative frame of the Rudrāṣṭaka (Kākabhuśuṇḍi tells Garuḍa about his former birth), Gita Press, Gorakhpur edition, with its Hindi translation. Same scan as `gitapress-ramcharitmanas`. Lines marked [image] were read from the page images (pp. 1009, 1010, 1012); lines marked [OCR] are from the archive.org OCR of p. 1008 and were not checked against the image.",
+        "kind": "text",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      },
+      {
+        "id": "mw-koti",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'koṭi' (SLP1 key: kowi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=kowi"
+      },
+      {
+        "id": "mw-aja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aja' (SLP1 key: aja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aja"
+      },
+      {
+        "id": "mw-akhanda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'akhaṇḍa' (SLP1 key: aKaRqa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aKaRqa"
+      },
+      {
+        "id": "mw-bhanu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhānu' (SLP1 key: BAnu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BAnu"
+      },
+      {
+        "id": "mw-bhavagamya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhāvagamya' (SLP1 key: BAvagamya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BAvagamya"
+      },
+      {
+        "id": "mw-bhavanipati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhavānīpati' (SLP1 key: BavAnIpati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BavAnIpati"
+      },
+      {
+        "id": "mw-nirmulana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nirmūlana' (SLP1 key: nirmUlana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nirmUlana"
+      },
+      {
+        "id": "mw-paresha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pareśa' (SLP1 key: pareSa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pareSa"
+      },
+      {
+        "id": "mw-pracanda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pracaṇḍa' (SLP1 key: pracaRqa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pracaRqa"
+      },
+      {
+        "id": "mw-prakrshta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prakṛṣṭa' (SLP1 key: prakfzwa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prakfzwa"
+      },
+      {
+        "id": "mw-shula",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūla' (SLP1 key: SUla)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUla"
+      },
+      {
+        "id": "mw-shulapani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śūlapāṇi' (SLP1 key: SUlapARi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SUlapARi"
+      },
+      {
+        "id": "mw-bhava",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhāva' (SLP1 key: BAva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BAva"
+      },
+      {
+        "id": "mw-bhavani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'bhavānī' (SLP1 key: BavAnI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=BavAnI"
+      },
+      {
+        "id": "mw-gamya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gamya' (SLP1 key: gamya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gamya"
+      },
+      {
+        "id": "mw-ja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ja' (SLP1 key: ja)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ja"
+      },
+      {
+        "id": "mw-khanda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'khaṇḍa' (SLP1 key: KaRqa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=KaRqa"
+      },
+      {
+        "id": "mw-pani",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pāṇi' (SLP1 key: pARi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pARi"
+      },
+      {
+        "id": "mw-para-n",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'para' (SLP1 key: para)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=para"
+      },
+      {
+        "id": "mw-pati",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pati' (SLP1 key: pati)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pati"
+      },
+      {
+        "id": "mw-pra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pra' (SLP1 key: pra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pra"
+      },
+      {
+        "id": "mw-pragalbha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pragalbha' (SLP1 key: pragalBa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pragalBa"
+      },
+      {
+        "id": "mw-prakasha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prakāśa' (SLP1 key: prakASa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prakASa"
+      },
+      {
+        "id": "mw-trayas",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'trayas' (SLP1 key: trayas)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=trayas"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v5",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "प्रचण्डं",
+            "iast": "pracaṇḍaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "प्रकृष्टं",
+            "iast": "prakṛṣṭaṃ"
+          },
+          {
+            "id": "w3",
+            "text": "प्रगल्भं",
+            "iast": "pragalbhaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "परेशं",
+            "iast": "pareśaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "अखण्डं",
+            "iast": "akhaṇḍaṃ"
+          },
+          {
+            "id": "w6",
+            "text": "अजं",
+            "iast": "ajaṃ"
+          },
+          {
+            "id": "w7",
+            "text": "भानुकोटिप्रकाशम्",
+            "iast": "bhānukoṭiprakāśam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w8",
+            "text": "त्रयःशूलनिर्मूलनं",
+            "iast": "trayaḥśūlanirmūlanaṃ"
+          },
+          {
+            "id": "w9",
+            "text": "शूलपाणिं",
+            "iast": "śūlapāṇiṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w10",
+            "text": "भजेऽहं",
+            "iast": "bhaje'haṃ"
+          },
+          {
+            "id": "w11",
+            "text": "भवानीपतिं",
+            "iast": "bhavānīpatiṃ"
+          },
+          {
+            "id": "w12",
+            "text": "भावगम्यम्",
+            "iast": "bhāvagamyam"
+          }
+        ],
+        "end": "॥ ५ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2",
+          "w3",
+          "w4"
+        ],
+        "kind": "sound",
+        "body": {
+          "en": "Say the line aloud: *pra-caṇḍa, pra-kṛṣṭa, pra-galbha, pareśa*. Three words open with the prefix *pra*, 'forth, very', and the fourth answers with *pa-*, like four strong drumbeats. Each beat climbs higher: fierce, then foremost, then bold, and at the top *para-īśa*, the Lord beyond all. After the glad, gracious face of [verse 4](#v4-a1), this line shows Śiva's power.",
+          "hi": "पंक्ति को ज़ोर से बोलिए: *प्र-चण्ड, प्र-कृष्ट, प्र-गल्भ, परेश*। तीन शब्द *प्र* ('आगे, बहुत') से शुरू होते हैं, और चौथा *प-* से उनका उत्तर देता है, मानो ढोल की चार ज़ोरदार थापें। हर थाप ऊँची चढ़ती है: प्रचण्ड, फिर श्रेष्ठ, फिर निडर, और शिखर पर *पर-ईश*, सबसे परे के स्वामी। [चौथे श्लोक](#v4-a1) के प्रसन्न, कृपालु मुख के बाद यह पंक्ति शिव का बल दिखाती है।"
+        },
+        "citations": [
+          {
+            "source": "mw-pra",
+            "locator": "MW pra, p. 652",
+            "quote": "as pref. to adj. = excessively, very, much, cf. pra-caṇḍa"
+          },
+          {
+            "source": "mw-pracanda",
+            "locator": "MW pra-caṇḍa, p. 656",
+            "quote": "excessively violent, impetuous, furious, fierce"
+          },
+          {
+            "source": "mw-prakrshta",
+            "locator": "MW pra-kṛṣṭa, p. 654",
+            "quote": "superior, distinguished, eminent"
+          },
+          {
+            "source": "mw-pragalbha",
+            "locator": "MW pra-galbha, p. 656",
+            "quote": "bold, confident, resolute, brave"
+          },
+          {
+            "source": "mw-paresha",
+            "locator": "MW pareśa, p. 588",
+            "quote": "‘the highest lord’"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 5, Hindi translation",
+            "quote": "प्रचण्ड (रुद्ररूप), श्रेष्ठ, तेजस्वी, परमेश्वर"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w5",
+          "w6",
+          "w7"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "In [verse 3](#v3-a1) His beauty outshone millions of love-gods; here His light outshines millions of suns. *Koṭi* is ten million, the highest number of the old counting, so *bhānu-koṭi-prakāśa* is a brightness like ten million suns at once. The two words before it keep this from being an ordinary fire: He is *akhaṇḍa*, never in pieces, and *aja*, never born. A light with no birth and no edges.",
+          "hi": "[तीसरे श्लोक](#v3-a1) में उनका सौन्दर्य करोड़ों कामदेवों से बढ़कर था; यहाँ उनका प्रकाश करोड़ों सूर्यों से बढ़कर है। *कोटि* यानी करोड़, पुरानी गिनती की सबसे बड़ी संख्या; इसलिए *भानु-कोटि-प्रकाश* का अर्थ है एक साथ करोड़ों सूर्यों जैसी चमक। इससे पहले के दो शब्द इसे साधारण आग नहीं बनने देते: वे *अखण्ड* हैं, जिनके टुकड़े नहीं होते, और *अज*, जिनका जन्म नहीं होता। ऐसा प्रकाश जिसका न जन्म है, न किनारा।"
+        },
+        "citations": [
+          {
+            "source": "mw-koti",
+            "locator": "MW koṭi, p. 312",
+            "quote": "the highest number in the older system of numbers (viz. a Krore or ten millions)"
+          },
+          {
+            "source": "mw-bhanu",
+            "locator": "MW bhānu, p. 751",
+            "quote": "the sun"
+          },
+          {
+            "source": "mw-akhanda",
+            "locator": "MW a-khaṇḍa, p. 4",
+            "quote": "not fragmentary, entire, whole"
+          },
+          {
+            "source": "mw-aja",
+            "locator": "MW a-ja, p. 9",
+            "quote": "not born, existing from all eternity"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 5, Hindi translation",
+            "quote": "करोड़ों सूर्योंके समान प्रकाशवाले"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w8",
+          "w9"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "One word, two sharp things. *Śūla* is a spike or spear, Śiva's trident above all, and it is also a sharp, stabbing pain. The line uses both: He uproots the three *śūlas*, the pains of body, of heaven-sent trouble and of the world around, and He is *śūla-pāṇi*, the *śūla* in His hand. *Trayaḥ-śūla*, 'three spikes', even echoes *tri-śūla*, the trident: the three-pronged spike pulls out the three pains by the root.",
+          "hi": "एक शब्द, दो नुकीली चीज़ें। *शूल* भाला या काँटा है, सबसे बढ़कर शिव का त्रिशूल, और यह चुभता हुआ तीखा दर्द भी है। पंक्ति दोनों अर्थ लेती है: वे तीनों *शूलों* को, यानी देह के, दैव के और संसार के कष्टों को, जड़ से उखाड़ते हैं, और वे *शूल-पाणि* हैं, जिनके हाथ में *शूल* है। *त्रयः-शूल*, 'तीन शूल', *त्रि-शूल* की गूँज भी है: तीन नोकों वाला शूल तीनों शूलों को जड़ से निकाल देता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-shula",
+            "locator": "MW śūla, p. 1086",
+            "quote": "any sharp instrument or pointed dart, lance, pike, spear (esp. the trident of Śiva)"
+          },
+          {
+            "source": "mw-shula",
+            "locator": "MW śūla, p. 1086",
+            "quote": "any sharp or acute pain"
+          },
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "verse 5, Hindi bhāvārtha",
+            "quote": "(दैहिक, दैविक, भौतिक आदि) तीनों प्रकार के शूलों (दुःखों) को निर्मूल करनेवाले"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 5, Hindi translation",
+            "quote": "हाथमें त्रिशूल धारण किये"
+          },
+          {
+            "source": "mw-nirmulana",
+            "locator": "MW nir-mūlana, p. 541",
+            "quote": "uprooting, extirpating"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w10",
+          "w11",
+          "w12"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "How does anyone reach a Lord who blazes like ten million suns? The last word answers: *bhāva-gamya*, reached through *bhāva*. *Bhāva* is feeling, love, the heart turning toward someone; it can also mean what the mind holds, so the word says both: reached by love, held in the heart. And hear how the verse closes on soft *bh*-sounds: *bhaje*, *Bhavānī*, *bhāva*, I worship, His beloved, love.",
+          "hi": "जो प्रभु करोड़ों सूर्यों की तरह दमकते हैं, उन तक कोई कैसे पहुँचे? अन्तिम शब्द उत्तर देता है: *भाव-गम्य*, जिन तक *भाव* से पहुँचा जाता है। *भाव* यानी अनुभूति, प्रेम, किसी की ओर झुका हुआ मन; इसका अर्थ मन में धारण की गई बात भी है, इसलिए शब्द दोनों कहता है: प्रेम से पाए जाने वाले, हृदय में धारण किए जाने वाले। और सुनिए, श्लोक कोमल *भ* ध्वनियों पर रुकता है: *भजे*, *भवानी*, *भाव*।"
+        },
+        "citations": [
+          {
+            "source": "mw-bhava",
+            "locator": "MW bhāva, p. 754",
+            "quote": "love, affection, attachment"
+          },
+          {
+            "source": "mw-bhavagamya",
+            "locator": "MW bhāva-gamya, p. 754",
+            "quote": "to be (or being) conceived by the mind"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "Uttarakāṇḍa, stanza 5, Hindi translation",
+            "quote": "भाव (प्रेम) के द्वारा प्राप्त होनेवाले"
+          },
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "verse 5, English meaning",
+            "quote": "who is accessible only through love"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "The fierce,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "the foremost,"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "the bold,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "the highest Lord,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "whole,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "unborn,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "shining like ten million suns;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "who uproots the three kinds of pain,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "who holds the trident in His hand:"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "I worship"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "Bhavānī's husband,"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "who is reached through love."
+            }
+          ]
+        ],
+        "bhavartha": "Śiva is fierce and foremost, bold, the Lord above all. He is whole and never born, and He shines like ten million suns. He pulls the three kinds of pain out by the root, and He holds a trident in His hand. The poet worships Him, the husband of Bhavānī, the Lord whom love can reach."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "प्रचण्ड,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "सबसे श्रेष्ठ,"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "निडर,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "परमेश्वर,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "अखण्ड,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "अजन्मा,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "करोड़ों सूर्यों जैसे तेज वाले,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "तीनों तरह के कष्टों को जड़ से उखाड़ने वाले,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "हाथ में त्रिशूल लिए,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "भाव (प्रेम) से पाए जाने वाले"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "भवानी-पति (शिव) को"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "मैं भजता हूँ।"
+            }
+          ]
+        ],
+        "bhavartha": "शिव प्रचण्ड हैं, सबसे श्रेष्ठ हैं, निडर हैं, सबसे ऊपर के स्वामी हैं। वे अखण्ड और अजन्मा हैं, और करोड़ों सूर्यों की तरह चमकते हैं। वे तीनों तरह के कष्टों को जड़ से उखाड़ देते हैं और हाथ में त्रिशूल लिए रहते हैं। भवानी के उन पति को, जिन तक प्रेम से पहुँचा जाता है, कवि भजता है।"
+      }
+    },
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "प्रचण्डम्",
+            "iast": "pracaṇḍam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the p of the next word (prakṛṣṭam): pracaṇḍam → pracaṇḍaṃ.",
+              "hi": "अगले शब्द (प्रकृष्टम्) के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रचण्डम् → प्रचण्डं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रचण्ड",
+            "iast": "pracaṇḍa",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रचण्ड",
+              "iast": "pracaṇḍa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-caṇḍa",
+              "gloss": "excessively violent, impetuous, furious, fierce"
+            },
+            "meaning": {
+              "en": "fierce",
+              "hi": "प्रचण्ड"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "fierce, mighty (i.e. Śiva)",
+          "hi": "प्रचण्ड, उग्र (अर्थात् शिव को)"
+        },
+        "notes": {
+          "en": "pra- before an adjective intensifies it (MW cites pra-caṇḍa for this): 'very fierce'.",
+          "hi": "विशेषण से पहले 'प्र' भाव को तीव्र करता है: 'अत्यन्त उग्र'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-pracanda",
+          "mw-pra",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "प्रकृष्टम्",
+            "iast": "prakṛṣṭam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the p of pragalbham: prakṛṣṭam → prakṛṣṭaṃ.",
+              "hi": "'प्रगल्भम्' के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रकृष्टम् → प्रकृष्टं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रकृष्ट",
+            "iast": "prakṛṣṭa",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "कृष्",
+              "iast": "kṛṣ",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to draw, to pull",
+                "hi": "खींचना"
+              }
+            },
+            "formation": "pra + √kṛṣ + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-kṛṣṭa",
+              "gloss": "superior, distinguished, eminent"
+            },
+            "meaning": {
+              "en": "foremost",
+              "hi": "श्रेष्ठ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "foremost, most excellent (i.e. Śiva)",
+          "hi": "सबसे श्रेष्ठ (अर्थात् शिव को)"
+        },
+        "literal": {
+          "en": "drawn forth, raised above",
+          "hi": "आगे खींचा हुआ, ऊपर उठा"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prakrshta",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "प्रगल्भम्",
+            "iast": "pragalbham"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the p of pareśam: pragalbham → pragalbhaṃ.",
+              "hi": "'परेशम्' के 'प' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: प्रगल्भम् → प्रगल्भं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रगल्भ",
+            "iast": "pragalbha",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रगल्भ",
+              "iast": "pragalbha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-galbha",
+              "gloss": "bold, confident, resolute, brave, strong, able"
+            },
+            "meaning": {
+              "en": "bold",
+              "hi": "निडर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "bold, fearless (i.e. Śiva)",
+          "hi": "निडर, तेजस्वी (अर्थात् शिव को)"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "radiant, full of power",
+              "hi": "तेजस्वी"
+            },
+            "note": "gitapress-ramcharitmanas and sanskritdocuments-rudra8 (Hindi) render pragalbha as तेजस्वी; sanskritdocuments-rudra8 (English) 'intrepid', shlokam-rudrashtakam 'bold', MW 'bold, confident'."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-pragalbha",
+          "shlokam-rudrashtakam",
+          "sanskritdocuments-rudra8",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w4": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "पर",
+            "iast": "para"
+          },
+          {
+            "sa": "ईशम्",
+            "iast": "īśam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + ī → e",
+            "explanation": {
+              "en": "Final a of para and initial ī of īśa merge into e: para + īśa → pareśa.",
+              "hi": "'पर' का अन्तिम 'अ' और 'ईश' का 'ई' मिलकर 'ए' बनते हैं: पर + ईश → परेश।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m stands as anusvāra at the end of the line before akhaṇḍam: pareśam → pareśaṃ.",
+              "hi": "पंक्ति के अन्त में अन्तिम 'म्' अनुस्वार लिखा गया है: परेशम् → परेशं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पर",
+            "iast": "para",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पर",
+              "iast": "para"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "para",
+              "gloss": "best or worst, highest, supreme, chief"
+            },
+            "meaning": {
+              "en": "supreme",
+              "hi": "परम"
+            }
+          },
+          {
+            "sa": "ईश",
+            "iast": "īśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईश",
+              "iast": "īśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "īśa",
+              "gloss": "a ruler, master, lord"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "स्वामी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the supreme Lord, i.e. Śiva",
+          "hi": "परमेश्वर, अर्थात् शिव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "MW records pareśa as a title of Brahmā or Viṣṇu; here it is given to Śiva. One witness writes the line join as परेशमखण्डमजं, the same words run together.",
+          "hi": "शब्दकोश 'परेश' को ब्रह्मा या विष्णु की उपाधि बताता है; यहाँ यह शिव के लिए है। एक प्रति पंक्ति-जोड़ पर परेशमखण्डमजं लिखती है, वही शब्द मिलाकर।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-paresha",
+          "mw-para-n",
+          "mw-isha",
+          "gitapress-ramcharitmanas",
+          "shlokam-rudrashtakam",
+          "sanskritdocuments-rudra8"
+        ]
+      },
+      "w5": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "अ",
+            "iast": "a"
+          },
+          {
+            "sa": "खण्डम्",
+            "iast": "khaṇḍam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + vowel → ṃ (hiatus kept)",
+            "explanation": {
+              "en": "Before a vowel the final m would normally join the next word (akhaṇḍamajam); most witnesses keep the words apart as akhaṇḍaṃ ajaṃ, which the meter needs, and one runs them together.",
+              "hi": "स्वर से पहले अन्तिम 'म्' सामान्यतः अगले शब्द से जुड़ता (अखण्डमजम्); अधिकांश प्रतियाँ छन्द के अनुसार 'अखण्डं अजं' अलग रखती हैं, और एक इन्हें मिलाकर लिखती है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "अ",
+            "iast": "a",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "not",
+              "hi": "नहीं"
+            }
+          },
+          {
+            "sa": "खण्ड",
+            "iast": "khaṇḍa",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "खण्ड",
+              "iast": "khaṇḍa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "khaṇḍa",
+              "gloss": "broken, having chasms or gaps or breaks"
+            },
+            "meaning": {
+              "en": "broken",
+              "hi": "खण्डित"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "whole, undivided (i.e. Śiva)",
+          "hi": "अखण्ड, पूर्ण (अर्थात् शिव को)"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-akhanda",
+          "mw-khanda",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w6": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "अ",
+            "iast": "a"
+          },
+          {
+            "sa": "जम्",
+            "iast": "jam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the bh of bhānu: ajam → ajaṃ.",
+              "hi": "'भानु' के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अजम् → अजं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "अ",
+            "iast": "a",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "not",
+              "hi": "नहीं"
+            }
+          },
+          {
+            "sa": "ज",
+            "iast": "ja",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "जन्",
+              "iast": "jan",
+              "gana": 4,
+              "gloss": {
+                "en": "to be born",
+                "hi": "जन्म लेना"
+              }
+            },
+            "formation": "√jan + ḍa",
+            "sense": {
+              "dict": "mw",
+              "headword": "ja",
+              "gloss": "born or descended from"
+            },
+            "meaning": {
+              "en": "born",
+              "hi": "जन्मा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "unborn (i.e. Śiva)",
+          "hi": "अजन्मा (अर्थात् शिव को)"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-aja",
+          "mw-ja",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w7": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "भानु",
+            "iast": "bhānu"
+          },
+          {
+            "sa": "कोटि",
+            "iast": "koṭi"
+          },
+          {
+            "sa": "प्रकाशम्",
+            "iast": "prakāśam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भानु",
+            "iast": "bhānu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भानु",
+              "iast": "bhānu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhānu",
+              "gloss": "the sun"
+            },
+            "meaning": {
+              "en": "sun",
+              "hi": "सूर्य"
+            }
+          },
+          {
+            "sa": "कोटि",
+            "iast": "koṭi",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कोटि",
+              "iast": "koṭi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "koṭi",
+              "gloss": "the highest number in the older system of numbers (viz. a Krore or ten millions)"
+            },
+            "meaning": {
+              "en": "ten million",
+              "hi": "करोड़"
+            }
+          },
+          {
+            "sa": "प्रकाश",
+            "iast": "prakāśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "काश्",
+              "iast": "kāś",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to shine",
+                "hi": "चमकना"
+              }
+            },
+            "formation": "pra + √kāś + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-kāśa",
+              "gloss": "clearness, brightness, splendour, lustre, light"
+            },
+            "meaning": {
+              "en": "light",
+              "hi": "प्रकाश"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Śiva) who shines like ten million suns",
+          "hi": "(उन्हें, अर्थात् शिव को) जो करोड़ों सूर्यों जैसे चमकते हैं"
+        },
+        "literal": {
+          "en": "having the light of a crore of suns",
+          "hi": "करोड़ सूर्यों के प्रकाश वाले"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhanu",
+          "mw-koti",
+          "mw-prakasha",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w8": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "त्रयः",
+            "iast": "trayaḥ"
+          },
+          {
+            "sa": "शूल",
+            "iast": "śūla"
+          },
+          {
+            "sa": "निर्मूलनम्",
+            "iast": "nirmūlanam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "ḥ + ś → ḥś (optional)",
+            "explanation": {
+              "en": "Before ś the final ḥ of trayaḥ may stay as it is (or become ś); the text keeps ḥ: trayaḥ + śūla → trayaḥśūla.",
+              "hi": "'श' से पहले 'त्रयः' का विसर्ग वैसा ही रह सकता है (या 'श्' बन सकता है); पाठ विसर्ग रखता है: त्रयः + शूल → त्रयःशूल।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the ś of śūlapāṇim: nirmūlanam → nirmūlanaṃ.",
+              "hi": "'शूलपाणिम्' के 'श' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: निर्मूलनम् → निर्मूलनं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "त्रयः",
+            "iast": "trayaḥ",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "त्रि",
+              "iast": "tri"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "trayas",
+              "gloss": "pl. of tri"
+            },
+            "meaning": {
+              "en": "three",
+              "hi": "तीन"
+            }
+          },
+          {
+            "sa": "शूल",
+            "iast": "śūla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शूल",
+              "iast": "śūla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śūla",
+              "gloss": "pain, grief, sorrow"
+            },
+            "meaning": {
+              "en": "pain",
+              "hi": "कष्ट"
+            }
+          },
+          {
+            "sa": "निर्मूलन",
+            "iast": "nirmūlana",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "निर्मूलन",
+              "iast": "nirmūlana"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nir-mūlana",
+              "gloss": "an uprooter"
+            },
+            "meaning": {
+              "en": "uprooter",
+              "hi": "उखाड़ने वाला"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Śiva) who uproots the three kinds of pain",
+          "hi": "(उन्हें, अर्थात् शिव को) जो तीनों तरह के कष्टों को जड़ से उखाड़ते हैं"
+        },
+        "literal": {
+          "en": "the uprooter of the three spikes",
+          "hi": "तीन शूलों को उखाड़ने वाले"
+        },
+        "aside": {
+          "en": "Everyday Sanskrit would say *tri-* here; the poet keeps *trayaḥ*, the form 'three' takes when it stands alone, inside the word, one of this hymn's old-style liberties.",
+          "hi": "साधारण संस्कृत में यहाँ *त्रि-* आता; कवि शब्द के भीतर *त्रयः* रखते हैं, 'तीन' का वह रूप जो अकेले खड़ा होता है। यह इस स्तोत्र की पुरानी शैली की छूटों में से एक है।"
+        },
+        "notes": {
+          "en": "The three pains are those of the body, those sent by higher powers, and those from the world around (दैहिक, दैविक, भौतिक). trayaḥ inside a compound is an ārṣa form. Two witnesses misprint त्र्यः.",
+          "hi": "तीन कष्ट हैं: दैहिक, दैविक और भौतिक। समास के भीतर 'त्रयः' आर्ष प्रयोग है। दो प्रतियों में 'त्र्यः' छपा है, जो भूल है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "who uproots the bonds of the three guṇas",
+              "hi": "तीनों गुणों के बन्धन को उखाड़ने वाले"
+            },
+            "note": "greenmesg-rudrashtakam reads the three śūlas as the bondage of the three guṇas (tamas, rajas, sattva), tied to the trident's three spikes; gitapress-ramcharitmanas, sanskritdocuments-rudra8 and shlokam-rudrashtakam read three kinds of pain or grief."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-shula",
+          "mw-trayas",
+          "mw-nirmulana",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w9": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "शूल",
+            "iast": "śūla"
+          },
+          {
+            "sa": "पाणिम्",
+            "iast": "pāṇim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m stands as anusvāra at the line's end before bhaje: śūlapāṇim → śūlapāṇiṃ.",
+              "hi": "पंक्ति के अन्त में, 'भजे' से पहले, अन्तिम 'म्' अनुस्वार लिखा गया है: शूलपाणिम् → शूलपाणिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शूल",
+            "iast": "śūla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शूल",
+              "iast": "śūla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śūla",
+              "gloss": "lance, pike, spear (esp. the trident of Śiva)"
+            },
+            "meaning": {
+              "en": "trident",
+              "hi": "त्रिशूल"
+            }
+          },
+          {
+            "sa": "पाणि",
+            "iast": "pāṇi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाणि",
+              "iast": "pāṇi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāṇi",
+              "gloss": "the hand"
+            },
+            "meaning": {
+              "en": "hand",
+              "hi": "हाथ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Śiva) who holds the trident in His hand",
+          "hi": "(उन्हें, अर्थात् शिव को) जिनके हाथ में त्रिशूल है"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Śūlapāṇi, 'spear in hand', is an old name of Rudra-Śiva (MW). The same word śūla meant 'pain' one word earlier.",
+          "hi": "शूलपाणि, 'हाथ में शूल वाले', रुद्र-शिव का पुराना नाम है। ठीक पिछले शब्द में यही 'शूल' 'कष्ट' के अर्थ में था।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shulapani",
+          "mw-shula",
+          "mw-pani",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "pūrvarūpa",
+            "rule": "e + a → e'",
+            "explanation": {
+              "en": "After final e, the initial a of aham merges into it and is marked by the avagraha (ऽ): bhaje + aham → bhaje'ham.",
+              "hi": "अन्तिम 'ए' के बाद 'अहम्' का 'अ' उसी में मिल जाता है और अवग्रह (ऽ) से दिखाया जाता है: भजे + अहम् → भजेऽहम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the bh of bhavānī: aham → ahaṃ.",
+              "hi": "'भवानी' के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अहम् → अहं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to worship, to adore",
+                "hi": "भजना, आराधना करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "worship",
+              "hi": "भजता हूँ"
+            }
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "meaning": {
+              "en": "I",
+              "hi": "मैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "bhaje: present tense, first person singular, middle voice of √bhaj. Some prints write भजेहं without the avagraha; same words.",
+          "hi": "भजे: √भज् का वर्तमान काल, उत्तम पुरुष एकवचन, आत्मनेपद। कुछ छपे पाठ अवग्रह के बिना 'भजेहं' लिखते हैं; शब्द वही हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "mw-aham",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w11": {
+        "compound": "c7",
+        "padaccheda": [
+          {
+            "sa": "भवानी",
+            "iast": "bhavānī"
+          },
+          {
+            "sa": "पतिम्",
+            "iast": "patim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the bh of bhāvagamyam: bhavānīpatim → bhavānīpatiṃ.",
+              "hi": "'भावगम्यम्' के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भवानीपतिम् → भवानीपतिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भवानी",
+            "iast": "bhavānī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भवानी",
+              "iast": "bhavānī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhavānī",
+              "gloss": "N. of a goddess identified in later times with Pārvatī"
+            },
+            "meaning": {
+              "en": "Bhavānī",
+              "hi": "भवानी"
+            }
+          },
+          {
+            "sa": "पति",
+            "iast": "pati",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पति",
+              "iast": "pati"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pati",
+              "gloss": "a husband"
+            },
+            "meaning": {
+              "en": "husband",
+              "hi": "पति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the husband of Bhavānī, i.e. Śiva",
+          "hi": "भवानी के पति, अर्थात् शिव को"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "Bhavānī is Pārvatī, Śiva's wife, in her gentle, kindly form.",
+          "hi": "भवानी पार्वती हैं, शिव की पत्नी, अपने सौम्य और स्नेहमय रूप में।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhavanipati",
+          "mw-bhavani",
+          "mw-pati",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      },
+      "w12": {
+        "compound": "c8",
+        "padaccheda": [
+          {
+            "sa": "भाव",
+            "iast": "bhāva"
+          },
+          {
+            "sa": "गम्यम्",
+            "iast": "gamyam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भाव",
+            "iast": "bhāva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "gloss": {
+                "en": "to be, to become",
+                "hi": "होना"
+              }
+            },
+            "formation": "√bhū + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhāva",
+              "gloss": "love, affection, attachment"
+            },
+            "meaning": {
+              "en": "love",
+              "hi": "प्रेम"
+            }
+          },
+          {
+            "sa": "गम्य",
+            "iast": "gamya",
+            "pos": "adjective",
+            "root": {
+              "kind": "dhatu",
+              "sa": "गम्",
+              "iast": "gam",
+              "gana": 1,
+              "gloss": {
+                "en": "to go, to reach",
+                "hi": "जाना, पहुँचना"
+              }
+            },
+            "formation": "√gam + yat (fit to be …)",
+            "sense": {
+              "dict": "mw",
+              "headword": "gamya",
+              "gloss": "approachable, accessible, passable, attainable"
+            },
+            "meaning": {
+              "en": "reachable",
+              "hi": "पाने योग्य"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Śiva) who is reached through love",
+          "hi": "(उन्हें, अर्थात् शिव को) जो भाव (प्रेम) से पाए जाते हैं"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "who is grasped by the mind",
+              "hi": "जो मन से जाने जाते हैं"
+            },
+            "note": "MW's headword bhāva-gamya gives 'to be conceived by the mind'; gitapress-ramcharitmanas, sanskritdocuments-rudra8 and shlokam-rudrashtakam all read 'attained by love (bhāva = प्रेम)'."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-bhavagamya",
+          "mw-bhava",
+          "mw-gamya",
+          "gitapress-ramcharitmanas",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam"
+        ]
+      }
+    }
+  }
+}

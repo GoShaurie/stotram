@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "3989b64ed8ce8595",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a4.body",
+      "message": "a4 places the kuhū night in \"the first line\", but kuhūniśīthinītamaḥ opens line 2 (and a1 counts that way).",
+      "suggested_fix": "\"the second line\" / \"दूसरी पंक्ति\", or \"the first half-verse\"."
+    }
+  ]
+}

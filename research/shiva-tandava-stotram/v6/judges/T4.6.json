@@ -1,0 +1,12 @@
+{
+  "check": "T4.6",
+  "fields_hash": "770fd97cbab0deaf",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines[1][0]",
+      "message": "'that head which drank up the five-arrowed god of love' refs only w3 though 'that head' restates w9.",
+      "suggested_fix": "Split: {refs:[w9], 'that head'} + {refs:[w3], 'which drank up the five-arrowed god of love'}."
+    }
+  ]
+}

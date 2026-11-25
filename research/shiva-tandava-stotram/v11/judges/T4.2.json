@@ -1,0 +1,12 @@
+{
+  "check": "T4.2",
+  "fields_hash": "a9449aa4b12a773e",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w7.components[2].sense",
+      "message": "maṅgala is adjectival here but sense cites the neuter noun 'anything auspicious'; MW's mfn. 'auspicious, lucky' fits.",
+      "suggested_fix": "sense.gloss 'auspicious, lucky'"
+    }
+  ]
+}

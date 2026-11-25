@@ -1,0 +1,1301 @@
+{
+  "id": "v9",
+  "number": 9,
+  "kind": "verse",
+  "concepts": [
+    "nilakantha",
+    "kama-dahana",
+    "tripura",
+    "daksha-yajna"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "प्रफुल्लनीलपङ्कज",
+          "iast": "praphullanīlapaṅkaja"
+        },
+        {
+          "id": "w2",
+          "text": "प्रपञ्चकालिमप्रभा",
+          "iast": "prapañcakālimaprabhā"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "वलम्बिकण्ठकन्दली",
+          "iast": "valambikaṇṭhakandalī"
+        },
+        {
+          "id": "w4",
+          "text": "रुचिप्रबद्धकन्धरम्",
+          "iast": "ruciprabaddhakandharam"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "स्मरच्छिदं",
+          "iast": "smaracchidaṃ"
+        },
+        {
+          "id": "w6",
+          "text": "पुरच्छिदं",
+          "iast": "puracchidaṃ"
+        },
+        {
+          "id": "w7",
+          "text": "भवच्छिदं",
+          "iast": "bhavacchidaṃ"
+        },
+        {
+          "id": "w8",
+          "text": "मखच्छिदं",
+          "iast": "makhacchidaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w9",
+          "text": "गजच्छिदान्धकच्छिदं",
+          "iast": "gajacchidāndhakacchidaṃ"
+        },
+        {
+          "id": "w10",
+          "text": "तमन्तकच्छिदं",
+          "iast": "tamantakacchidaṃ"
+        },
+        {
+          "id": "w11",
+          "text": "भजे",
+          "iast": "bhaje"
+        }
+      ],
+      "end": "॥ ९ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1", "w2", "w3", "w4"],
+      "iast": "praphulla-nīla-paṅkaja-prapañca-kālima-prabhā-valambi-kaṇṭha-kandalī-ruci-prabaddha-kandharam",
+      "type": "bahuvrīhi",
+      "structure": "((((((((praphulla-(nīla-paṅkaja))-prapañca)-(kālima-prabhā))-avalambin)-(kaṇṭha-kandalī))-ruci)-prabaddha)-kandhara)",
+      "vigraha": "प्रफुल्लानां नीलपङ्कजानां प्रपञ्चस्य कालिमप्रभाम् अवलम्बते या कण्ठकन्दली, तस्याः रुच्या प्रबद्धा कन्धरा यस्य सः, तम्",
+      "meaning": {
+        "en": "Him whose neck is wrapped in the lustre of a stalk-like throat that bears the dark radiance of a mass of full-blown blue lotuses",
+        "hi": "उन (शिव) को, जिनकी ग्रीवा उस कण्ठ-नाल की कान्ति से बँधी है जो पूरे खिले नीलकमलों के समूह की-सी श्याम आभा धारण करती है"
+      },
+      "note": {
+        "en": "Twelve members running across the pāda break, with a case ending only at the very end (kandharam, accusative). Inside it: praphulla-nīla-paṅkaja 'full-blown blue lotus'; its prapañca 'mass, abundance'; kālima-prabhā 'dark radiance' (kāliman loses its final n inside the compound); avalambin 'bearing, resting on' qualifies kaṇṭha-kandalī 'the stalk of the throat'; its ruci 'lustre'; ruci-prabaddha 'bound by lustre'. The whole is a bahuvrīhi: 'he whose neck (kandhara) is so bound', Śiva, the object of bhaje.",
+        "hi": "बारह पदों का एक समास, जो चरण की सीमा पार करता है; विभक्ति केवल अन्त में है (कन्धरम्, द्वितीया)। भीतर: प्रफुल्ल-नील-पङ्कज 'पूरा खिला नीलकमल'; उसका प्रपञ्च 'समूह, विस्तार'; कालिम-प्रभा 'श्याम आभा' (समास में कालिमन् का अन्तिम न् लुप्त होता है); अवलम्बिन् 'धारण करने वाली' कण्ठ-कन्दली 'कण्ठ-नाल' का विशेषण है; उसकी रुचि 'कान्ति'; रुचि-प्रबद्ध 'कान्ति से बँधी'। पूरा समास बहुव्रीहि है: 'जिसकी ग्रीवा (कन्धरा) ऐसी बँधी है', अर्थात् शिव, जो भजे के कर्म हैं।"
+      }
+    },
+    "c2": {
+      "members": ["w5"],
+      "iast": "smara-cchidaṃ",
+      "type": "upapada",
+      "vigraha": "स्मरं छिनत्ति इति स्मरच्छित्, तम्",
+      "meaning": {
+        "en": "the destroyer of Smara (Kāma)",
+        "hi": "कामदेव का नाश करने वाले"
+      },
+      "note": {
+        "en": "An upapada compound: the object smara stands before the root noun chid 'cutting, destroying', formed with kvip. The c is doubled (tuk) because ch follows a short vowel.",
+        "hi": "उपपद समास: कर्म 'स्मर' क्विप्-प्रत्ययान्त 'छिद्' (काटने, नष्ट करने वाला) से पहले आता है। ह्रस्व स्वर के बाद 'छ' आने से 'च्' का आगम (तुक्) होता है।"
+      }
+    },
+    "c3": {
+      "members": ["w6"],
+      "iast": "pura-cchidaṃ",
+      "type": "upapada",
+      "vigraha": "पुरं छिनत्ति इति पुरच्छित्, तम्",
+      "meaning": {
+        "en": "the destroyer of the (Triple) City",
+        "hi": "त्रिपुर का नाश करने वाले"
+      },
+      "note": {
+        "en": "Upapada compound like smara-cchid; pura here stands for Tripura, the three strongholds of the Asuras.",
+        "hi": "स्मरच्छिद् की तरह उपपद समास; यहाँ 'पुर' त्रिपुर, अर्थात् असुरों के तीन दुर्गों, के लिए है।"
+      }
+    },
+    "c4": {
+      "members": ["w7"],
+      "iast": "bhava-cchidaṃ",
+      "type": "upapada",
+      "vigraha": "भवं छिनत्ति इति भवच्छित्, तम्",
+      "meaning": {
+        "en": "the one who cuts through worldly becoming",
+        "hi": "संसार-चक्र को काटने वाले"
+      },
+      "note": {
+        "en": "Upapada compound; Monier-Williams lists bhava-cchid itself, 'preventing births'.",
+        "hi": "उपपद समास; मोनियर-विलियम्स 'भवच्छिद्' को स्वयं शब्द के रूप में देते हैं: 'जन्म रोकने वाला'।"
+      }
+    },
+    "c5": {
+      "members": ["w8"],
+      "iast": "makha-cchidaṃ",
+      "type": "upapada",
+      "vigraha": "मखं छिनत्ति इति मखच्छित्, तम्",
+      "meaning": {
+        "en": "the destroyer of the sacrifice (Dakṣa's)",
+        "hi": "(दक्ष के) यज्ञ का ध्वंस करने वाले"
+      },
+      "note": {
+        "en": "Upapada compound; makha is a sacrifice, identified by vyakhya.org as Dakṣa's.",
+        "hi": "उपपद समास; मख यानी यज्ञ, जिसे vyakhya.org दक्ष का यज्ञ बताता है।"
+      }
+    },
+    "c6": {
+      "members": ["w9"],
+      "iast": "gaja-cchida-andhaka-cchidaṃ",
+      "type": "karmadhāraya",
+      "structure": "((gaja-chida)-(andhaka-chid))",
+      "vigraha": "गजं छिनत्ति इति गजच्छिदः, अन्धकं छिनत्ति इति अन्धकच्छित्; गजच्छिदश्च असौ अन्धकच्छित् च, तम्",
+      "meaning": {
+        "en": "slayer of the elephant (demon) and slayer of Andhaka",
+        "hi": "गजासुर और अन्धकासुर का संहार करने वाले"
+      },
+      "note": {
+        "en": "Two epithets of the same person fused into one word. The long ā shows that the first is gaja-cchida (with the a-stem chida 'cutting'), whose final a merges with the a of andhaka; the second is the upapada andhaka-cchid. Joined as qualifiers of one person, they form a karmadhāraya.",
+        "hi": "एक ही व्यक्ति के दो विशेषण एक शब्द में जुड़े हैं। दीर्घ 'आ' बताता है कि पहला गजच्छिद (अकारान्त 'छिद', काटने वाला) है, जिसका अन्तिम 'अ' अन्धक के 'अ' से मिलकर 'आ' बनता है; दूसरा उपपद समास अन्धकच्छिद् है। एक ही व्यक्ति के विशेषण होने से दोनों का कर्मधारय है।"
+      }
+    },
+    "c7": {
+      "members": ["w10"],
+      "iast": "antaka-cchidaṃ",
+      "type": "upapada",
+      "vigraha": "अन्तकं छिनत्ति इति अन्तकच्छित्, तम्",
+      "meaning": {
+        "en": "the one who ends Antaka (Death, Yama)",
+        "hi": "यमराज (अन्तक) का अन्त करने वाले"
+      },
+      "note": {
+        "en": "Only the second part of the display word tamantakacchidaṃ: tam 'him' is a separate pronoun, written together with the compound because m stays m before a vowel.",
+        "hi": "यह प्रदर्शित शब्द 'तमन्तकच्छिदं' का केवल दूसरा भाग है: 'तम्' (उनको) अलग सर्वनाम है, जो स्वर से पहले 'म्' के अपरिवर्तित रहने से समास के साथ जुड़कर लिखा गया है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1", "w2", "w3", "w4"],
+      "sa": "प्रफुल्लनीलपङ्कजप्रपञ्चकालिमप्रभावलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धरम्",
+      "iast": "praphullanīlapaṅkajaprapañcakālimaprabhāvalambikaṇṭhakandalīruciprabaddhakandharam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "प्रफुल्लनीलपङ्कजप्रपञ्चकालिमप्रभावलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धर",
+          "iast": "praphullanīlapaṅkajaprapañcakālimaprabhāvalambikaṇṭhakandalīruciprabaddhakandhara"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p2",
+      "words": ["w5"],
+      "sa": "स्मरच्छिदम्",
+      "iast": "smaracchidam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "स्मरच्छिद्",
+          "iast": "smaracchid"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p3",
+      "words": ["w6"],
+      "sa": "पुरच्छिदम्",
+      "iast": "puracchidam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "पुरच्छिद्",
+          "iast": "puracchid"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p4",
+      "words": ["w7"],
+      "sa": "भवच्छिदम्",
+      "iast": "bhavacchidam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "भवच्छिद्",
+          "iast": "bhavacchid"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p5",
+      "words": ["w8"],
+      "sa": "मखच्छिदम्",
+      "iast": "makhacchidam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "मखच्छिद्",
+          "iast": "makhacchid"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p6",
+      "words": ["w9"],
+      "sa": "गजच्छिदान्धकच्छिदम्",
+      "iast": "gajacchidāndhakacchidam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "गजच्छिदान्धकच्छिद्",
+          "iast": "gajacchidāndhakacchid"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p7",
+      "words": ["w10"],
+      "sa": "तम्",
+      "iast": "tam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "तद्",
+          "iast": "tad"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p9"
+    },
+    {
+      "id": "p8",
+      "words": ["w10"],
+      "sa": "अन्तकच्छिदम्",
+      "iast": "antakacchidam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "अन्तकच्छिद्",
+          "iast": "antakacchid"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p7"
+    },
+    {
+      "id": "p9",
+      "words": ["w11"],
+      "sa": "भजे",
+      "iast": "bhaje",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "भज्",
+          "iast": "bhaj",
+          "gana": 1
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    }
+  ],
+  "adhyahara": [],
+  "anvaya": ["p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8", "p9"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w11"], "text": "I worship" },
+          { "refs": ["w10"], "text": "Him" },
+          { "refs": ["w4"], "text": "whose neck is wrapped in the lustre" },
+          { "refs": ["w3"], "text": "of a stalk-like throat that bears" },
+          { "refs": ["w2"], "text": "the dark radiance of a whole mass" },
+          { "refs": ["w1"], "text": "of full-blown blue lotuses;" }
+        ],
+        [
+          { "refs": ["w5"], "text": "the destroyer of Smara, god of love," },
+          { "refs": ["w6"], "text": "destroyer of the Triple City," },
+          { "refs": ["w7"], "text": "destroyer of the round of birth," },
+          { "refs": ["w8"], "text": "destroyer of the sacrifice," }
+        ],
+        [
+          { "refs": ["w9"], "text": "slayer of the elephant demon and slayer of Andhaka," },
+          { "refs": ["w10"], "text": "the one who puts an end to Antaka, Death himself." }
+        ]
+      ],
+      "bhavartha": "Śiva's throat glows dark, like a bank of blue lotuses in full bloom, and that dark sheen wraps His whole neck. To this Lord the poet bows, and then names Him by what He has cut down: Kāma, the god of love; the three cities of the Asuras; the endless round of birth; Dakṣa's sacrifice; the elephant demon and Andhaka; and finally Death himself. Him, the ender of every such power, I worship."
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "पूरे खिले नीलकमलों के" },
+          { "refs": ["w2"], "text": "समूह की-सी श्याम आभा" },
+          { "refs": ["w3"], "text": "धारण करने वाली कण्ठ-नाल की" },
+          { "refs": ["w4"], "text": "कान्ति से जिनकी ग्रीवा बँधी है," }
+        ],
+        [
+          { "refs": ["w5"], "text": "कामदेव के नाशक," },
+          { "refs": ["w6"], "text": "त्रिपुर के नाशक," },
+          { "refs": ["w7"], "text": "जन्म-मरण के चक्र को काटने वाले," },
+          { "refs": ["w8"], "text": "(दक्ष के) यज्ञ का ध्वंस करने वाले," }
+        ],
+        [
+          { "refs": ["w9"], "text": "गजासुर और अन्धकासुर के संहारक," },
+          { "refs": ["w10"], "text": "यमराज का भी अन्त करने वाले" },
+          { "refs": ["w10"], "text": "उन (शिव) को" },
+          { "refs": ["w11"], "text": "मैं भजता हूँ।" }
+        ]
+      ],
+      "bhavartha": "शिव का कण्ठ ऐसी श्याम आभा से दमकता है जैसे पूरे खिले नीलकमलों का ढेर, और वही आभा उनकी पूरी ग्रीवा को घेरे हुए है। कवि ऐसे शिव को प्रणाम करता है और फिर उन्हें उनके पराक्रमों से पुकारता है: उन्होंने कामदेव को, असुरों के तीन पुरों को, जन्म-मरण के चक्र को, दक्ष के यज्ञ को, गजासुर और अन्धकासुर को, और अन्त में स्वयं मृत्यु को भी काट डाला। हर ऐसी शक्ति का अन्त करने वाले उन शिव को मैं भजता हूँ।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1", "w2"],
+      "kind": "wordplay",
+      "body": {
+        "en": "What colour is Śiva's throat? The verse answers with a flower. A *nīla-paṅkaja* is a blue lotus (*paṅkaja*, 'mud-born', is a common word for the lotus), and *praphulla* means blown, opened wide. A *prapañca* of them is their whole spread; vyakhya.org glosses it as a heap or mass, and *kāliman* is blackness. So the picture is the deep, dark sheen of a bank of open blue lotuses.\n\nThe Samskrit Academy and shlokam.org renderings take *prapañca* in its philosophical sense, 'the universe' or 'world', and the Samskrit Academy even reads the blackness as the sins of the universe. Monier-Williams does record that sense, but in a simile about colour the plain 'expansion, abundance' fits better.",
+        "hi": "शिव का कण्ठ किस रंग का है? श्लोक एक फूल से उत्तर देता है। *नील-पङ्कज* नीला कमल है (*पङ्कज*, 'कीचड़ में जन्मा', कमल का प्रचलित नाम), और *प्रफुल्ल* यानी पूरा खिला हुआ। उनका *प्रपञ्च* उनका पूरा फैलाव है; vyakhya.org इसका अर्थ समूह या ढेर देता है, और *कालिमन्* यानी कालापन। इस तरह चित्र बनता है खुले नीलकमलों के ढेर की गहरी, श्याम चमक का।\n\nसंस्कृत अकादमी और shlokam.org के अनुवाद *प्रपञ्च* को दार्शनिक अर्थ में लेते हैं, 'विश्व' या 'संसार', और संस्कृत अकादमी तो कालिमा को संसार के पाप भी मानती है। मोनियर-विलियम्स यह अर्थ दर्ज करते हैं, पर रंग की उपमा में सीधा अर्थ 'विस्तार, प्रचुरता' अधिक उपयुक्त है।"
+      },
+      "citations": [
+        {
+          "source": "mw-nilapankaja",
+          "locator": "MW nīla-paṅkaja, p. 566",
+          "quote": "a blue water-lily"
+        },
+        {
+          "source": "mw-pankaja",
+          "locator": "MW paṅkaja, p. 574",
+          "quote": "‘mud-born’, a species of lotus"
+        },
+        {
+          "source": "mw-praphulla",
+          "locator": "MW praphulla, p. 683",
+          "quote": "blooming forth, blooming, blown"
+        },
+        {
+          "source": "vyakhya-sts-9",
+          "locator": "श्लोक ९, पदच्छेद",
+          "quote": "प्रपंच = समूह, ढेर, राशि"
+        },
+        {
+          "source": "mw-kaliman",
+          "locator": "MW kāliman, p. 278",
+          "quote": "blackness"
+        },
+        {
+          "source": "sanskritdocuments-shivtand-meaning",
+          "locator": "verse 9, translation",
+          "quote": "which looked like the blackness (sins) of the universe"
+        },
+        {
+          "source": "shlokam-shiva-tandava",
+          "locator": "verse 9, word-meanings",
+          "quote": "प्रपञ्च (prapañca) – world"
+        },
+        {
+          "source": "mw-prapanca",
+          "locator": "MW prapañca, p. 681",
+          "quote": "the expansion of the universe, the visible world"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": ["w3"],
+      "kind": "variant",
+      "body": {
+        "en": "Where does line 2 begin? The compound runs straight across the pāda break: *…prabhā* + *avalambi…* fuse into *prabhāvalambi*, the short a of *avalambin* swallowed by the long ā before it. The sanskritdocuments.org text and Wikisource mark the lost vowel with an avagraha (ऽवलम्बि); the Ramakrishna Math print, shlokam.org and vyakhya.org do not, and this text follows that majority. The cost is that line 2 seems to open with a word *valambi*, which shlokam.org glosses on its own.\n\nThe word is *avalambin*, 'hanging on, resting upon', here 'bearing' the dark glow. What bears it is the *kaṇṭha-kandalī*, which vyakhya.org explains as the throat-stalk, the neck rising like a plant's stem; shlokam.org also gives 'stem'. The Samskrit Academy version renders *kandalī* as 'temple' instead.",
+        "hi": "दूसरी पंक्ति कहाँ से शुरू होती है? समास चरण की सीमा के पार सीधा चलता है: *…प्रभा* + *अवलम्बि…* मिलकर *प्रभावलम्बि* बनते हैं; *अवलम्बिन्* का ह्रस्व 'अ' पहले के दीर्घ 'आ' में समा जाता है। sanskritdocuments.org का पाठ और विकिस्रोत लुप्त स्वर को अवग्रह (ऽवलम्बि) से दिखाते हैं; रामकृष्ण मठ का मुद्रित पाठ, shlokam.org और vyakhya.org नहीं दिखाते, और यह पाठ उसी बहुमत का अनुसरण करता है। इसका परिणाम यह है कि दूसरी पंक्ति 'वलम्बि' शब्द से शुरू होती लगती है, और shlokam.org उसका अलग अर्थ भी देता है।\n\nशब्द *अवलम्बिन्* है, 'टिका हुआ, आश्रित', यहाँ श्याम आभा को 'धारण करने वाली'। धारण करती है *कण्ठ-कन्दली*, जिसे vyakhya.org कण्ठ-नाल बताता है, यानी पौधे के डण्ठल-सी उठी गर्दन; shlokam.org भी 'stem' (डण्ठल) देता है। संस्कृत अकादमी का अनुवाद *कन्दली* को 'temple' (मन्दिर) पढ़ता है।"
+      },
+      "citations": [
+        {
+          "source": "sanskritdocuments-shivtand",
+          "locator": "verse 9 (॥ ९॥)",
+          "quote": "ऽवलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धरम्"
+        },
+        {
+          "source": "sa-wikisource-shivatandava",
+          "locator": "॥९॥",
+          "quote": "प्रभाऽवलम्बि"
+        },
+        {
+          "source": "ramakrishna-math-mantrapushpam",
+          "locator": "p. 469, verse ॥ ९ ॥",
+          "quote": "प्रभा-वलम्बिकण्ठकन्दलीरुचि-"
+        },
+        {
+          "source": "shlokam-shiva-tandava",
+          "locator": "verse 9, word-meanings",
+          "quote": "वलम्बि (valambi) – hanging"
+        },
+        {
+          "source": "vyakhya-sts-9",
+          "locator": "श्लोक ९, पदच्छेद",
+          "quote": "कण्ठकन्दली = कण्ठ-प्रदेश, कण्ठ-नाल"
+        },
+        {
+          "source": "mw-avalambin",
+          "locator": "MW ava-lambin, p. 103",
+          "quote": "hanging down so as to rest upon"
+        },
+        {
+          "source": "sanskritdocuments-shivtand-meaning",
+          "locator": "verse 9, word-meanings",
+          "quote": "hanging-inside-temple-luster-tied-neck"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w4"],
+      "kind": "theology",
+      "body": {
+        "en": "Why is the throat dark at all? This verse never says; it only paints the colour. The vyakhya.org commentary supplies the reason: the blue glow keeps reminding us that Śiva drank the poison for the good of others, the story behind the dark throat of [verse 8](#v8-a1) and the name Nīlakaṇṭha.\n\nHere the darkness is a light, not a stain. *Ruci* is lustre or splendour, and the neck (*kandhara*, which Monier-Williams derives as 'head-bearer') is *prabaddha*, bound or wrapped in that lustre. vyakhya.org reads *prabaddha* another way, as 'sturdy, well-built', so that the neck itself is strong.",
+        "hi": "कण्ठ काला क्यों है? यह श्लोक कारण नहीं बताता; केवल रंग का चित्र खींचता है। vyakhya.org की व्याख्या कारण जोड़ती है: यह नीली प्रभा बार-बार याद दिलाती है कि शिव ने दूसरों के हित के लिए विष पिया था; यही [आठवें श्लोक](#v8-a1) के श्याम कण्ठ और नीलकण्ठ नाम की कथा है।\n\nयहाँ कालिमा दाग नहीं, प्रकाश है। *रुचि* यानी कान्ति, आभा; और ग्रीवा (*कन्धर*, जिसे मोनियर-विलियम्स 'सिर को धारण करने वाला' बताते हैं) उस कान्ति से *प्रबद्ध*, यानी बँधी या लिपटी है। vyakhya.org *प्रबद्ध* को दूसरे ढंग से पढ़ता है, 'सुपुष्ट', यानी स्वयं ग्रीवा गठीली है।"
+      },
+      "citations": [
+        {
+          "source": "vyakhya-sts-9",
+          "locator": "श्लोक ९, व्याख्या",
+          "quote": "यह नीली प्रभा सतत स्मरण कराती है कि परोपकारार्थ कल्याण-निकेतन शिव ने विषपान किया था"
+        },
+        {
+          "source": "mw-ruci",
+          "locator": "MW ruci, p. 882",
+          "quote": "light, lustre, splendour, beauty"
+        },
+        {
+          "source": "mw-kamdhara",
+          "locator": "MW kaṃ-dhara, p. 250",
+          "quote": "fr. kam, head, and dhara fr. √ dhṛ"
+        },
+        {
+          "source": "mw-prabaddha",
+          "locator": "MW pra-baddha, p. 683",
+          "quote": "bound, tied, fettered"
+        },
+        {
+          "source": "vyakhya-sts-9",
+          "locator": "श्लोक ९, पदच्छेद",
+          "quote": "प्रबद्ध = सुपुष्ट"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a4",
+      "refs": ["w5", "w6", "w7", "w8"],
+      "kind": "theology",
+      "body": {
+        "en": "Pādas 3 and 4 drop the long compounds for a drumbeat of one formula: X-*cchid*, 'cutter of X'. √*Chid* is to cut, and at the end of a compound Monier-Williams gives it the further sense of destroying or removing. The first four targets: *smara*, Kāma, the god of love, whose burning [verse 7](#v7-a3) told; *pura*, the three strongholds of the Asuras (Tripura); *bhava*, worldly existence, which vyakhya.org calls the cycle of birth and death, and the dictionary lists *bhava-cchid* as 'preventing births'; and *makha*, the sacrifice, which vyakhya.org identifies as Dakṣa's.\n\nOnly the third is not a person or a thing. Among enemies and rites, Śiva also cuts the bond of rebirth.",
+        "hi": "तीसरे और चौथे चरण लम्बे समासों को छोड़कर एक ही सूत्र की ढोल-सी थाप देते हैं: X-*च्छिद्*, 'X को काटने वाला'। √*छिद्* यानी काटना, और समास के अन्त में मोनियर-विलियम्स इसका अर्थ नष्ट करना या हटाना भी देते हैं। पहले चार लक्ष्य: *स्मर*, कामदेव, जिनके दहन की कथा [सातवें श्लोक](#v7-a3) में है; *पुर*, असुरों के तीन दुर्ग (त्रिपुर); *भव*, संसार, जिसे vyakhya.org जन्म-मरण का चक्र कहता है, और शब्दकोश *भवच्छिद्* का अर्थ 'जन्म रोकने वाला' देता है; और *मख*, यज्ञ, जिसे vyakhya.org दक्ष का यज्ञ बताता है।\n\nइनमें केवल तीसरा न कोई व्यक्ति है, न वस्तु। शत्रुओं और अनुष्ठानों के बीच शिव पुनर्जन्म का बन्धन भी काटते हैं।"
+      },
+      "citations": [
+        {
+          "source": "mw-chid",
+          "locator": "MW 2. chid, p. 406",
+          "quote": "destroying, annihilating, removing"
+        },
+        {
+          "source": "mw-smara",
+          "locator": "MW smara, p. 1272",
+          "quote": "Kāma-deva (god of love)"
+        },
+        {
+          "source": "mw-pura",
+          "locator": "MW pura, p. 635",
+          "quote": "= tri-pura, the 3 strongholds of the Asuras"
+        },
+        {
+          "source": "vyakhya-sts-9",
+          "locator": "श्लोक ९, पदच्छेद",
+          "quote": "भव: = जन्म-मरण का चक्र"
+        },
+        {
+          "source": "mw-bhavacchid",
+          "locator": "MW bhava-cchid, p. 749",
+          "quote": "preventing births or transmigration"
+        },
+        {
+          "source": "vyakhya-sts-9",
+          "locator": "श्लोक ९, पदच्छेद",
+          "quote": "मख: = (दक्ष का) यज्ञ"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a5",
+      "refs": ["w9", "w10", "w11"],
+      "kind": "grammar",
+      "body": {
+        "en": "Three last targets, and two small puzzles. In *gajacchidāndhakacchidam* the vowel after *chid* is long, so the first part must be *gaja-cchida* (with the a-stem *chida*, 'cutting'), whose final a merges with the a of *andhaka*: two epithets in one word, slayer of the elephant (Monier-Williams records a Gaja among the Asuras Śiva conquered; compare the hide of [verse 4](#v4-a3)) and slayer of Andhaka, an Asura born of Diti.\n\nThen *tam antakacchidam*: *tam* is 'him', the pronoun that gathers every epithet into one object, and *antaka*, 'the ender', is Yama. shlokam.org splits it as *tama*, 'Yama', which the grammar does not allow. Last comes the only verb, *bhaje*, 'I worship', a middle present of √bhaj.",
+        "hi": "अन्तिम तीन लक्ष्य, और दो छोटी पहेलियाँ। *गजच्छिदान्धकच्छिदम्* में 'छिद' के बाद स्वर दीर्घ है, इसलिए पहला भाग *गज-च्छिद* होना चाहिए (अकारान्त *छिद*, 'काटने वाला'), जिसका अन्तिम 'अ' *अन्धक* के 'अ' से मिल जाता है: एक शब्द में दो विशेषण, हाथी का संहारक (मोनियर-विलियम्स शिव द्वारा जीते गए असुरों में एक 'गज' का उल्लेख करते हैं; [चौथे श्लोक](#v4-a3) की गज-चर्म से तुलना करें) और अन्धक का संहारक, जो दिति से जन्मा असुर था।\n\nफिर *तम् अन्तकच्छिदम्*: *तम्* यानी 'उनको', वह सर्वनाम जो सारे विशेषणों को एक कर्म में समेटता है, और *अन्तक*, 'अन्त करने वाला', यमराज है। shlokam.org इसे *तम*, 'यम' तोड़ता है, जिसकी व्याकरण अनुमति नहीं देता। अन्त में एकमात्र क्रिया आती है, *भजे*, 'मैं भजता हूँ', √भज् का आत्मनेपदी लट् रूप।"
+      },
+      "citations": [
+        {
+          "source": "mw-chida",
+          "locator": "MW chida, p. 406",
+          "quote": "ifc. ‘cutting off’"
+        },
+        {
+          "source": "mw-gaja",
+          "locator": "MW gaja, p. 342",
+          "quote": "of an Asura (conquered by Śiva)"
+        },
+        {
+          "source": "mw-andhaka",
+          "locator": "MW andhaka, p. 45",
+          "quote": "N. of an Asura (son of Kaśyapa and Diti)"
+        },
+        {
+          "source": "mw-tad",
+          "locator": "MW tad, p. 434",
+          "quote": "m. he f. she n. it, that, this"
+        },
+        {
+          "source": "mw-antaka",
+          "locator": "MW antaka, p. 43",
+          "quote": "Yama, king or lord of death"
+        },
+        {
+          "source": "shlokam-shiva-tandava",
+          "locator": "verse 9, word-meanings",
+          "quote": "tama:Yama | antaka:destroyer"
+        },
+        {
+          "source": "mw-bhaj",
+          "locator": "MW √bhaj, p. 743",
+          "quote": "to serve, honour, revere, love, adore"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "प्रफुल्ल", "iast": "praphulla" },
+        { "sa": "नील", "iast": "nīla" },
+        { "sa": "पङ्कज", "iast": "paṅkaja" }
+      ],
+      "components": [
+        {
+          "sa": "प्रफुल्ल",
+          "iast": "praphulla",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "प्रफुल्ल", "iast": "praphulla" },
+          "sense": { "dict": "mw", "headword": "praphulla", "gloss": "blooming forth, blooming, blown" },
+          "meaning": { "en": "fully blown, wide open", "hi": "पूरा खिला हुआ" }
+        },
+        {
+          "sa": "नील",
+          "iast": "nīla",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "नील", "iast": "nīla" },
+          "sense": { "dict": "mw", "headword": "nīla", "gloss": "of a dark colour, (esp.) dark-blue or dark-green or black" },
+          "meaning": { "en": "dark blue", "hi": "नीला, श्याम" }
+        },
+        {
+          "sa": "पङ्कज",
+          "iast": "paṅkaja",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "पङ्कज", "iast": "paṅkaja" },
+          "sense": { "dict": "mw", "headword": "paṅkaja", "gloss": "'mud-born', a species of lotus" },
+          "meaning": { "en": "lotus (lit. mud-born)", "hi": "कमल (कीचड़ में जन्मा)" }
+        }
+      ],
+      "meaning": { "en": "of full-blown blue lotuses", "hi": "पूरे खिले नीलकमलों का" },
+      "notes": {
+        "en": "First part of the long bahuvrīhi c1. nīla-paṅkaja, 'blue lotus', is itself listed in Monier-Williams as a blue water-lily; praphulla qualifies it. Plain juxtaposition at both joins, no sandhi.",
+        "hi": "लम्बे बहुव्रीहि c1 का पहला भाग। नील-पङ्कज 'नीलकमल' मोनियर-विलियम्स में स्वतन्त्र शब्द है; प्रफुल्ल उसका विशेषण है। दोनों जोड़ों पर कोई सन्धि नहीं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-praphulla", "mw-nilapankaja", "mw-pankaja", "vyakhya-sts-9", "shlokam-shiva-tandava"]
+    },
+    "w2": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "प्रपञ्च", "iast": "prapañca" },
+        { "sa": "कालिमन्", "iast": "kāliman" },
+        { "sa": "प्रभा", "iast": "prabhā" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "ā + a → ā",
+          "explanation": {
+            "en": "The final ā of prabhā and the initial a of avalambin (next display word, across the pāda break) merge into one long ā: prabhā + avalambi → prabhāvalambi. Line 2 therefore begins with 'valambi'; some editions mark the lost a with an avagraha (ऽ).",
+            "hi": "प्रभा का अन्तिम 'आ' और अगले शब्द (चरण के पार) अवलम्बिन् का आदि 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: प्रभा + अवलम्बि → प्रभावलम्बि। इसीलिए दूसरी पंक्ति 'वलम्बि' से शुरू होती है; कुछ संस्करण लुप्त 'अ' को अवग्रह (ऽ) से दिखाते हैं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "प्रपञ्च",
+          "iast": "prapañca",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "प्रपञ्च", "iast": "prapañca" },
+          "sense": { "dict": "mw", "headword": "prapañca", "gloss": "expansion, development, manifestation; manifoldness, diversity" },
+          "meaning": { "en": "spread, mass, abundance", "hi": "समूह, ढेर, विस्तार" }
+        },
+        {
+          "sa": "कालिमन्",
+          "iast": "kāliman",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "कालिमन्", "iast": "kāliman" },
+          "sense": { "dict": "mw", "headword": "kāliman", "gloss": "blackness" },
+          "meaning": { "en": "blackness, darkness of hue", "hi": "कालिमा, श्यामलता" }
+        },
+        {
+          "sa": "प्रभा",
+          "iast": "prabhā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "प्रभा", "iast": "prabhā" },
+          "sense": { "dict": "mw", "headword": "prabhā", "gloss": "light, splendour, radiance, beautiful appearance" },
+          "meaning": { "en": "radiance, glow", "hi": "आभा, दीप्ति" }
+        }
+      ],
+      "meaning": { "en": "the dark radiance of a whole mass (of them)", "hi": "(उनके) समूह की श्याम आभा" },
+      "literal": { "en": "the radiance of blackness of the mass", "hi": "समूह की कालिमा की प्रभा" },
+      "notes": {
+        "en": "kāliman 'blackness' drops its final n inside a compound (kālima-), so kālima-prabhā is 'the radiance of blackness', a dark glow. prapañca is taken as 'mass, abundance' with vyakhya.org; the 'universe' reading of two English versions is listed as an alternative.",
+        "hi": "कालिमन् (कालापन) समास के भीतर अन्तिम 'न्' खो देता है (कालिम-), इसलिए कालिम-प्रभा 'कालिमा की प्रभा', यानी श्याम आभा है। प्रपञ्च का अर्थ vyakhya.org के अनुसार 'समूह, ढेर' लिया गया है; दो अंग्रेज़ी अनुवादों का 'विश्व' अर्थ विकल्प में दिया है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "the dark lustre of the universe", "hi": "विश्व की कालिमा की प्रभा" },
+          "note": "sanskritdocuments-shivtand-meaning and shlokam-shiva-tandava gloss prapañca as 'universe' / 'world', a sense MW records; vyakhya-sts-9 gives समूह, ढेर, राशि."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-prapanca", "mw-kaliman", "mw-prabha", "vyakhya-sts-9", "shlokam-shiva-tandava"]
+    },
+    "w3": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "अवलम्बिन्", "iast": "avalambin" },
+        { "sa": "कण्ठ", "iast": "kaṇṭha" },
+        { "sa": "कन्दली", "iast": "kandalī" }
+      ],
+      "components": [
+        {
+          "sa": "अवलम्बिन्",
+          "iast": "avalambin",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "लम्ब्",
+            "iast": "lamb",
+            "gana": 1,
+            "prefixes": ["ava"],
+            "gloss": { "en": "to hang down", "hi": "लटकना" }
+          },
+          "formation": "ava + √lamb + ṇini",
+          "sense": { "dict": "mw", "headword": "avalambin", "gloss": "hanging down so as to rest upon, hanging on or from, depending on" },
+          "meaning": { "en": "resting on, bearing", "hi": "टिका हुआ, धारण करने वाला" }
+        },
+        {
+          "sa": "कण्ठ",
+          "iast": "kaṇṭha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "कण्ठ", "iast": "kaṇṭha" },
+          "sense": { "dict": "mw", "headword": "kaṇṭha", "gloss": "the throat, the neck" },
+          "meaning": { "en": "throat", "hi": "कण्ठ, गला" }
+        },
+        {
+          "sa": "कन्दली",
+          "iast": "kandalī",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "कन्दली", "iast": "kandalī" },
+          "meaning": { "en": "stalk, stem (figuratively)", "hi": "नाल, डण्ठल" }
+        }
+      ],
+      "meaning": { "en": "the stalk-like throat that bears (that glow)", "hi": "(उस आभा को) धारण करने वाली कण्ठ-नाल" },
+      "literal": { "en": "the throat-stalk resting on (the radiance)", "hi": "(प्रभा पर) टिकी कण्ठ-कन्दली" },
+      "notes": {
+        "en": "The display word begins 'valambi' because its a- has merged with the ā of prabhā (see w2). avalambin loses its final n inside the compound. kaṇṭha-kandalī, 'throat-stalk', is the neck pictured as a plant's stem (vyakhya.org: कण्ठ-नाल; shlokam.org: 'stem'). MW does not record kandalī as 'stalk'; its entries are a plant, a deer, lotus seed and a banner, so this sense rests on the commentators.",
+        "hi": "प्रदर्शित शब्द 'वलम्बि' से शुरू होता है, क्योंकि उसका 'अ' प्रभा के 'आ' में मिल गया है (w2 देखें)। समास में अवलम्बिन् का अन्तिम 'न्' लुप्त होता है। कण्ठ-कन्दली यानी 'कण्ठ-नाल', पौधे के डण्ठल-सी गर्दन (vyakhya.org: कण्ठ-नाल; shlokam.org: 'stem')। मोनियर-विलियम्स में कन्दली का 'डण्ठल' अर्थ नहीं है (वहाँ एक पौधा, हिरण, कमल-बीज, ध्वजा हैं), इसलिए यह अर्थ टीकाकारों पर आधारित है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "hanging on the temples (shrines)", "hi": "मन्दिरों पर लटकती" },
+          "note": "sanskritdocuments-shivtand-meaning renders kandalī as 'temple'; no dictionary support found in MW kandalī."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-avalambin", "mw-kantha", "mw-kandali", "vyakhya-sts-9", "shlokam-shiva-tandava"]
+    },
+    "w4": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "रुचि", "iast": "ruci" },
+        { "sa": "प्रबद्ध", "iast": "prabaddha" },
+        { "sa": "कन्धरम्", "iast": "kandharam" }
+      ],
+      "components": [
+        {
+          "sa": "रुचि",
+          "iast": "ruci",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "रुचि", "iast": "ruci" },
+          "sense": { "dict": "mw", "headword": "ruci", "gloss": "light, lustre, splendour, beauty" },
+          "meaning": { "en": "lustre, sheen", "hi": "कान्ति, आभा" }
+        },
+        {
+          "sa": "प्रबद्ध",
+          "iast": "prabaddha",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "बन्ध्",
+            "iast": "bandh",
+            "gana": 9,
+            "prefixes": ["pra"],
+            "gloss": { "en": "to bind, to tie", "hi": "बाँधना" }
+          },
+          "formation": "pra + √bandh + kta (past passive participle)",
+          "sense": { "dict": "mw", "headword": "prabaddha", "gloss": "bound, tied, fettered" },
+          "meaning": { "en": "bound, wrapped", "hi": "बँधा हुआ, लिपटा" }
+        },
+        {
+          "sa": "कन्धर",
+          "iast": "kandhara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "कन्धर", "iast": "kandhara" },
+          "sense": { "dict": "mw", "headword": "kaṃdhara", "gloss": "the neck" },
+          "meaning": { "en": "neck", "hi": "ग्रीवा, गर्दन" }
+        }
+      ],
+      "meaning": { "en": "(Him) whose neck is wrapped in the lustre", "hi": "(उनको) जिनकी ग्रीवा कान्ति से बँधी है" },
+      "literal": { "en": "having a neck bound by lustre", "hi": "कान्ति से बँधी ग्रीवा वाले" },
+      "notes": {
+        "en": "The accusative -am belongs to the whole compound w1–w4, a bahuvrīhi describing Śiva as the object of bhaje. MW spells the neck-word kaṃdhara (from kam 'head' + dhara 'bearing'); the text writes the nasal as न्. vyakhya.org glosses prabaddha as सुपुष्ट 'sturdy'; MW's 'bound' is followed here.",
+        "hi": "द्वितीया '-अम्' पूरे समास w1–w4 की विभक्ति है, जो भजे के कर्म शिव का वर्णन करने वाला बहुव्रीहि है। मोनियर-विलियम्स इसे कंधर (कम् 'सिर' + धर 'धारण करने वाला') लिखते हैं; पाठ में अनुनासिक 'न्' है। vyakhya.org प्रबद्ध का अर्थ 'सुपुष्ट' देता है; यहाँ मोनियर-विलियम्स का 'बँधा' अर्थ लिया गया है।"
+      },
+      "alternatives": [
+        {
+          "reading": { "en": "whose sturdy neck shines with that lustre", "hi": "जिनकी सुपुष्ट ग्रीवा उस कान्ति से शोभित है" },
+          "note": "vyakhya-sts-9 glosses प्रबद्ध = सुपुष्ट."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-ruci", "mw-prabaddha", "mw-kamdhara", "vyakhya-sts-9", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w5": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "स्मर", "iast": "smara" },
+        { "sa": "छिदम्", "iast": "chidam" }
+      ],
+      "sandhi": [
+        {
+          "name": "tuk-āgama",
+          "rule": "a + ch → acch",
+          "explanation": {
+            "en": "After a short vowel, ch is preceded by an added c: smara + chid → smaracchid.",
+            "hi": "ह्रस्व स्वर के बाद 'छ' से पहले 'च्' जुड़ जाता है: स्मर + छिद् → स्मरच्छिद्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (puracchidaṃ): smaracchidam → smaracchidaṃ.",
+            "hi": "अगले शब्द (पुरच्छिदं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: स्मरच्छिदम् → स्मरच्छिदं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "स्मर",
+          "iast": "smara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "स्मर", "iast": "smara" },
+          "sense": { "dict": "mw", "headword": "smara", "gloss": "Kāma-deva (god of love)" },
+          "meaning": { "en": "Smara, Kāma, the god of love", "hi": "स्मर, कामदेव" }
+        },
+        {
+          "sa": "छिद्",
+          "iast": "chid",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "छिद्",
+            "iast": "chid",
+            "gana": 7,
+            "gloss": { "en": "to cut off, to destroy", "hi": "काटना, नष्ट करना" }
+          },
+          "formation": "√chid + kvip (upapada, Pāṇ. 3.2.61)",
+          "sense": { "dict": "mw", "headword": "chid", "gloss": "destroying, annihilating, removing" },
+          "meaning": { "en": "cutter, destroyer", "hi": "काटने वाला, नाशक" }
+        }
+      ],
+      "meaning": { "en": "the destroyer of Smara (Kāma)", "hi": "कामदेव के नाशक" },
+      "epithet": true,
+      "notes": {
+        "en": "Refers to the burning of Kāma by Śiva's third-eye fire, told in verses 6 and 7.",
+        "hi": "शिव के तीसरे नेत्र की अग्नि से कामदेव के दहन की ओर संकेत, जिसकी कथा श्लोक ६ और ७ में है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-smara", "mw-chid", "vyakhya-sts-9", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w6": {
+      "compound": "c3",
+      "padaccheda": [
+        { "sa": "पुर", "iast": "pura" },
+        { "sa": "छिदम्", "iast": "chidam" }
+      ],
+      "sandhi": [
+        {
+          "name": "tuk-āgama",
+          "rule": "a + ch → acch",
+          "explanation": {
+            "en": "After a short vowel, ch is preceded by an added c: pura + chid → puracchid.",
+            "hi": "ह्रस्व स्वर के बाद 'छ' से पहले 'च्' जुड़ जाता है: पुर + छिद् → पुरच्छिद्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (bhavacchidaṃ): puracchidam → puracchidaṃ.",
+            "hi": "अगले शब्द (भवच्छिदं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पुरच्छिदम् → पुरच्छिदं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "पुर",
+          "iast": "pura",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "पुर", "iast": "pura" },
+          "sense": { "dict": "mw", "headword": "pura", "gloss": "= tri-pura, the 3 strongholds of the Asuras" },
+          "meaning": { "en": "the (Triple) City, Tripura", "hi": "त्रिपुर, असुरों के तीन पुर" }
+        },
+        {
+          "sa": "छिद्",
+          "iast": "chid",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "छिद्",
+            "iast": "chid",
+            "gana": 7,
+            "gloss": { "en": "to cut off, to destroy", "hi": "काटना, नष्ट करना" }
+          },
+          "formation": "√chid + kvip (upapada, Pāṇ. 3.2.61)",
+          "sense": { "dict": "mw", "headword": "chid", "gloss": "destroying, annihilating, removing" },
+          "meaning": { "en": "destroyer", "hi": "नाशक" }
+        }
+      ],
+      "meaning": { "en": "the destroyer of the Triple City", "hi": "त्रिपुर के नाशक" },
+      "epithet": true,
+      "notes": {
+        "en": "pura stands for Tripura, the three strongholds of the Asuras (MW; vyakhya.org: त्रिपुरासुर). shlokam.org's plain 'cities' is the same reference.",
+        "hi": "पुर यहाँ त्रिपुर है, असुरों के तीन दुर्ग (मोनियर-विलियम्स; vyakhya.org: त्रिपुरासुर)। shlokam.org का 'cities' भी इसी ओर संकेत है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-pura", "mw-chid", "vyakhya-sts-9", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w7": {
+      "compound": "c4",
+      "padaccheda": [
+        { "sa": "भव", "iast": "bhava" },
+        { "sa": "छिदम्", "iast": "chidam" }
+      ],
+      "sandhi": [
+        {
+          "name": "tuk-āgama",
+          "rule": "a + ch → acch",
+          "explanation": {
+            "en": "After a short vowel, ch is preceded by an added c: bhava + chid → bhavacchid.",
+            "hi": "ह्रस्व स्वर के बाद 'छ' से पहले 'च्' जुड़ जाता है: भव + छिद् → भवच्छिद्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (makhacchidaṃ): bhavacchidam → bhavacchidaṃ.",
+            "hi": "अगले शब्द (मखच्छिदं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: भवच्छिदम् → भवच्छिदं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भव",
+          "iast": "bhava",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "भव", "iast": "bhava" },
+          "sense": { "dict": "mw", "headword": "bhava", "gloss": "worldly existence, the world (= saṃsāra)" },
+          "meaning": { "en": "worldly existence, the round of birth", "hi": "संसार, जन्म-मरण का चक्र" }
+        },
+        {
+          "sa": "छिद्",
+          "iast": "chid",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "छिद्",
+            "iast": "chid",
+            "gana": 7,
+            "gloss": { "en": "to cut off, to destroy", "hi": "काटना, नष्ट करना" }
+          },
+          "formation": "√chid + kvip (upapada, Pāṇ. 3.2.61)",
+          "sense": { "dict": "mw", "headword": "chid", "gloss": "destroying, annihilating, removing" },
+          "meaning": { "en": "one who cuts through", "hi": "काटने वाला" }
+        }
+      ],
+      "meaning": { "en": "the one who cuts through the round of birth", "hi": "जन्म-मरण के चक्र को काटने वाले" },
+      "epithet": true,
+      "notes": {
+        "en": "MW lists bhava-cchid as a word of its own, 'preventing births or transmigration'. Bhava is also a name of Śiva, but here it is the object cut, worldly becoming (vyakhya.org: जन्म-मरण का चक्र).",
+        "hi": "मोनियर-विलियम्स 'भवच्छिद्' को स्वतन्त्र शब्द के रूप में देते हैं: 'जन्म या आवागमन रोकने वाला'। 'भव' शिव का नाम भी है, पर यहाँ वह काटा जाने वाला कर्म है, संसार (vyakhya.org: जन्म-मरण का चक्र)।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhava", "mw-bhavacchid", "mw-chid", "vyakhya-sts-9", "shlokam-shiva-tandava"]
+    },
+    "w8": {
+      "compound": "c5",
+      "padaccheda": [
+        { "sa": "मख", "iast": "makha" },
+        { "sa": "छिदम्", "iast": "chidam" }
+      ],
+      "sandhi": [
+        {
+          "name": "tuk-āgama",
+          "rule": "a + ch → acch",
+          "explanation": {
+            "en": "After a short vowel, ch is preceded by an added c: makha + chid → makhacchid.",
+            "hi": "ह्रस्व स्वर के बाद 'छ' से पहले 'च्' जुड़ जाता है: मख + छिद् → मखच्छिद्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (gajacchidāndhakacchidaṃ): makhacchidam → makhacchidaṃ.",
+            "hi": "अगले शब्द (गजच्छिदान्धकच्छिदं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: मखच्छिदम् → मखच्छिदं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "मख",
+          "iast": "makha",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "मख", "iast": "makha" },
+          "sense": { "dict": "mw", "headword": "makha", "gloss": "a sacrifice, sacrificial oblation" },
+          "meaning": { "en": "sacrifice", "hi": "यज्ञ" }
+        },
+        {
+          "sa": "छिद्",
+          "iast": "chid",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "छिद्",
+            "iast": "chid",
+            "gana": 7,
+            "gloss": { "en": "to cut off, to destroy", "hi": "काटना, नष्ट करना" }
+          },
+          "formation": "√chid + kvip (upapada, Pāṇ. 3.2.61)",
+          "sense": { "dict": "mw", "headword": "chid", "gloss": "destroying, annihilating, removing" },
+          "meaning": { "en": "destroyer", "hi": "विध्वंसक" }
+        }
+      ],
+      "meaning": { "en": "the destroyer of the sacrifice (Dakṣa's)", "hi": "(दक्ष के) यज्ञ का ध्वंस करने वाले" },
+      "epithet": true,
+      "notes": {
+        "en": "The verse says only 'sacrifice'; vyakhya.org identifies it as Dakṣa's.",
+        "hi": "श्लोक केवल 'यज्ञ' कहता है; vyakhya.org इसे दक्ष का यज्ञ बताता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-makha", "mw-chid", "vyakhya-sts-9", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w9": {
+      "compound": "c6",
+      "padaccheda": [
+        { "sa": "गज", "iast": "gaja" },
+        { "sa": "छिद", "iast": "chida" },
+        { "sa": "अन्धक", "iast": "andhaka" },
+        { "sa": "छिदम्", "iast": "chidam" }
+      ],
+      "sandhi": [
+        {
+          "name": "tuk-āgama",
+          "rule": "a + ch → acch",
+          "explanation": {
+            "en": "After a short vowel, ch is preceded by an added c, at both joins: gaja + chida → gajacchida, andhaka + chid → andhakacchid.",
+            "hi": "ह्रस्व स्वर के बाद 'छ' से पहले 'च्' जुड़ जाता है, दोनों जगह: गज + छिद → गजच्छिद, अन्धक + छिद् → अन्धकच्छिद्।"
+          }
+        },
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of gajacchida and the initial a of andhaka merge into long ā: gajacchida + andhaka → gajacchidāndhaka.",
+            "hi": "गजच्छिद का अन्तिम 'अ' और अन्धक का आदि 'अ' मिलकर दीर्घ 'आ' बनते हैं: गजच्छिद + अन्धक → गजच्छिदान्धक।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (tamantakacchidaṃ): -cchidam → -cchidaṃ.",
+            "hi": "अगले शब्द (तमन्तकच्छिदं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: -च्छिदम् → -च्छिदं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "गज",
+          "iast": "gaja",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "गज", "iast": "gaja" },
+          "sense": { "dict": "mw", "headword": "gaja", "gloss": "an elephant; N. of an Asura (conquered by Śiva)" },
+          "meaning": { "en": "the elephant (demon), Gajāsura", "hi": "गज, गजासुर" }
+        },
+        {
+          "sa": "छिद",
+          "iast": "chida",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "छिद्",
+            "iast": "chid",
+            "gana": 7,
+            "gloss": { "en": "to cut off, to destroy", "hi": "काटना, नष्ट करना" }
+          },
+          "formation": "√chid + ka (Pāṇ. 3.1.135)",
+          "sense": { "dict": "mw", "headword": "chida", "gloss": "'cutting off'" },
+          "meaning": { "en": "cutter, slayer", "hi": "काटने वाला, संहारक" }
+        },
+        {
+          "sa": "अन्धक",
+          "iast": "andhaka",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "अन्धक", "iast": "andhaka" },
+          "sense": { "dict": "mw", "headword": "andhaka", "gloss": "N. of an Asura (son of Kaśyapa and Diti)" },
+          "meaning": { "en": "Andhaka, an Asura", "hi": "अन्धकासुर" }
+        },
+        {
+          "sa": "छिद्",
+          "iast": "chid",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "छिद्",
+            "iast": "chid",
+            "gana": 7,
+            "gloss": { "en": "to cut off, to destroy", "hi": "काटना, नष्ट करना" }
+          },
+          "formation": "√chid + kvip (upapada, Pāṇ. 3.2.61)",
+          "sense": { "dict": "mw", "headword": "chid", "gloss": "destroying, annihilating, removing" },
+          "meaning": { "en": "slayer", "hi": "संहारक" }
+        }
+      ],
+      "meaning": { "en": "slayer of the elephant demon and slayer of Andhaka", "hi": "गजासुर और अन्धकासुर के संहारक" },
+      "epithet": true,
+      "notes": {
+        "en": "The long ā after chid rules out a split gajacchid + andhaka (which would give short a); the first member is the a-stem gajacchida. vyakhya.org also splits गज + छिद + अन्धकः + छिदम्. The elephant is read as the demon Gajāsura (vyakhya.org), whose hide Śiva wears in verses 4 and 8.",
+        "hi": "छिद के बाद दीर्घ 'आ' 'गजच्छिद् + अन्धक' विभाजन को असम्भव करता है (उससे ह्रस्व 'अ' बनता); पहला सदस्य अकारान्त 'गजच्छिद' है। vyakhya.org भी गज + छिद + अन्धकः + छिदम् विभाजन देता है। गज को गजासुर समझा गया है (vyakhya.org), जिसकी खाल शिव श्लोक ४ और ८ में ओढ़ते हैं।"
+      },
+      "confidence": "medium",
+      "sources": ["mw-gaja", "mw-chida", "mw-andhaka", "mw-chid", "vyakhya-sts-9", "shlokam-shiva-tandava"]
+    },
+    "w10": {
+      "compound": "c7",
+      "padaccheda": [
+        { "sa": "तम्", "iast": "tam" },
+        { "sa": "अन्तक", "iast": "antaka" },
+        { "sa": "छिदम्", "iast": "chidam" }
+      ],
+      "sandhi": [
+        {
+          "name": "tuk-āgama",
+          "rule": "a + ch → acch",
+          "explanation": {
+            "en": "After a short vowel, ch is preceded by an added c: antaka + chid → antakacchid.",
+            "hi": "ह्रस्व स्वर के बाद 'छ' से पहले 'च्' जुड़ जाता है: अन्तक + छिद् → अन्तकच्छिद्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): antakacchidam → antakacchidaṃ. The m of tam stays m before the vowel a of antaka, so the two words are simply written together.",
+            "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अन्तकच्छिदम् → अन्तकच्छिदं। 'तम्' का 'म्' अन्तक के स्वर 'अ' से पहले 'म्' ही रहता है, इसलिए दोनों शब्द बस साथ लिखे गए हैं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "तद्",
+          "iast": "tad",
+          "pos": "pronoun",
+          "root": { "kind": "pratipadika", "sa": "तद्", "iast": "tad" },
+          "sense": { "dict": "mw", "headword": "tad", "gloss": "m. he f. she n. it, that, this" },
+          "meaning": { "en": "him, that one", "hi": "उनको, उस" }
+        },
+        {
+          "sa": "अन्तक",
+          "iast": "antaka",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "अन्तक", "iast": "antaka" },
+          "sense": { "dict": "mw", "headword": "antaka", "gloss": "Yama, king or lord of death" },
+          "meaning": { "en": "Antaka, 'the ender': Yama, Death", "hi": "अन्तक, यमराज, मृत्यु" }
+        },
+        {
+          "sa": "छिद्",
+          "iast": "chid",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "छिद्",
+            "iast": "chid",
+            "gana": 7,
+            "gloss": { "en": "to cut off, to destroy", "hi": "काटना, नष्ट करना" }
+          },
+          "formation": "√chid + kvip (upapada, Pāṇ. 3.2.61)",
+          "sense": { "dict": "mw", "headword": "chid", "gloss": "destroying, annihilating, removing" },
+          "meaning": { "en": "one who ends", "hi": "अन्त करने वाला" }
+        }
+      ],
+      "meaning": { "en": "Him, the one who puts an end to Death", "hi": "यमराज का भी अन्त करने वाले उन (शिव) को" },
+      "notes": {
+        "en": "Two padas in one display word: tam (accusative of tad, 'him', the object of bhaje) and antaka-cchidam. shlokam.org glosses 'tama: Yama', and vyakhya.org writes तमन्तकः = यमराज; both treat tam as part of the name, but Sanskrit has no tamantaka, and tam is needed as the object that all the accusative epithets qualify.",
+        "hi": "एक प्रदर्शित शब्द में दो पद: तम् (तद् का द्वितीया रूप, 'उनको', भजे का कर्म) और अन्तक-च्छिदम्। shlokam.org 'tama: Yama' देता है और vyakhya.org 'तमन्तकः = यमराज' लिखता है; दोनों तम् को नाम का भाग मानते हैं, पर 'तमन्तक' कोई शब्द नहीं है, और सारे द्वितीया विशेषणों को जिस कर्म का वर्णन करना है, वह 'तम्' ही है।"
+      },
+      "confidence": "medium",
+      "sources": ["mw-tad", "mw-antaka", "mw-chid", "vyakhya-sts-9", "sanskritdocuments-shivtand-meaning"]
+    },
+    "w11": {
+      "padaccheda": [
+        { "sa": "भजे", "iast": "bhaje" }
+      ],
+      "components": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": { "en": "to serve, to revere, to adore", "hi": "सेवा करना, भजना, पूजना" }
+          },
+          "sense": { "dict": "mw", "headword": "bhaj", "gloss": "to serve, honour, revere, love, adore" },
+          "meaning": { "en": "I worship", "hi": "मैं भजता हूँ" }
+        }
+      ],
+      "meaning": { "en": "I worship", "hi": "मैं भजता हूँ, आराधना करता हूँ" },
+      "notes": {
+        "en": "Present (laṭ), first person singular, ātmanepada, of √bhaj (gaṇa 1). The only finite verb in the verse; every accusative in it depends on bhaje through tam. Vidyut also lists a vocative of bhaji, which makes no sense here.",
+        "hi": "√भज् (भ्वादि) का लट्, उत्तम पुरुष एकवचन, आत्मनेपद। श्लोक की एकमात्र क्रिया; सारे द्वितीया पद 'तम्' के माध्यम से भजे पर निर्भर हैं। Vidyut 'भजि' का सम्बोधन भी सुझाता है, जिसका यहाँ कोई अर्थ नहीं।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhaj", "vyakhya-sts-9", "shlokam-shiva-tandava", "sanskritdocuments-shivtand-meaning"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      { "date": "2026-10-22", "by": "ai", "action": "Drafted from evidence pack." }
+    ]
+  },
+  "_new_concepts": {
+    "tripura": {
+      "name": { "en": "Tripura (the three cities)", "hi": "त्रिपुर (तीन पुर)" },
+      "description": {
+        "en": "The three strongholds of the Asuras, destroyed by Śiva; hence his epithets pura-cchid and pura-jit.",
+        "hi": "असुरों के तीन दुर्ग, जिन्हें शिव ने नष्ट किया; इसी से उनके नाम पुरच्छिद् और पुरजित् हैं।"
+      }
+    },
+    "daksha-yajna": {
+      "name": { "en": "Dakṣa's sacrifice", "hi": "दक्ष-यज्ञ" },
+      "description": {
+        "en": "The sacrifice of Dakṣa, which Śiva destroyed; the makha of makha-cchid.",
+        "hi": "दक्ष का यज्ञ, जिसे शिव ने ध्वस्त किया; मखच्छिद् का 'मख'।"
+      }
+    }
+  }
+}

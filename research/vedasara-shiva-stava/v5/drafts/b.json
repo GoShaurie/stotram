@@ -1,0 +1,1900 @@
+{
+  "id": "v5",
+  "number": 5,
+  "kind": "verse",
+  "meter": "bhujangaprayata",
+  "concepts": [
+    "srishti-sthiti-laya",
+    "omkara"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "परात्मानमेकं",
+          "iast": "parātmānamekaṃ"
+        },
+        {
+          "id": "w2",
+          "text": "जगद्बीजमाद्यं",
+          "iast": "jagadbījamādyaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "निरीहं",
+          "iast": "nirīhaṃ"
+        },
+        {
+          "id": "w4",
+          "text": "निराकारमोङ्कारवेद्यम्",
+          "iast": "nirākāramoṅkāravedyam"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "यतो",
+          "iast": "yato"
+        },
+        {
+          "id": "w6",
+          "text": "जायते",
+          "iast": "jāyate"
+        },
+        {
+          "id": "w7",
+          "text": "पाल्यते",
+          "iast": "pālyate"
+        },
+        {
+          "id": "w8",
+          "text": "येन",
+          "iast": "yena"
+        },
+        {
+          "id": "w9",
+          "text": "विश्वं",
+          "iast": "viśvaṃ"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w10",
+          "text": "तमीशं",
+          "iast": "tamīśaṃ"
+        },
+        {
+          "id": "w11",
+          "text": "भजे",
+          "iast": "bhaje"
+        },
+        {
+          "id": "w12",
+          "text": "लीयते",
+          "iast": "līyate"
+        },
+        {
+          "id": "w13",
+          "text": "यत्र",
+          "iast": "yatra"
+        },
+        {
+          "id": "w14",
+          "text": "विश्वम्",
+          "iast": "viśvam"
+        }
+      ],
+      "end": "॥ ५ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": [
+        "w1"
+      ],
+      "iast": "para-ātmānam",
+      "type": "karmadhāraya",
+      "vigraha": "परः आत्मा",
+      "meaning": {
+        "en": "the supreme Self",
+        "hi": "परम आत्मा, परमात्मा"
+      },
+      "note": {
+        "en": "para 'highest' qualifies ātman 'self'; the two a-sounds merge into one long ā: para + ātman → parātman. Only the first part of the display word परात्मानमेकं is this compound; ekam is a separate word joined to it in writing.",
+        "hi": "पर 'सर्वोच्च' आत्मन् 'आत्मा' का विशेषण है; दोनों 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: पर + आत्मन् → परात्मन्। प्रदर्शित शब्द परात्मानमेकं का केवल पहला भाग यह समास है; एकम् अलग शब्द है जो लिखावट में साथ जुड़ा है।"
+      }
+    },
+    "c2": {
+      "members": [
+        "w2"
+      ],
+      "iast": "jagad-bījam",
+      "type": "tatpuruṣa",
+      "subtype": "ṣaṣṭhī",
+      "vigraha": "जगतः बीजम्",
+      "meaning": {
+        "en": "the seed of the world",
+        "hi": "जगत् का बीज"
+      },
+      "note": {
+        "en": "jagat 'world' + bīja 'seed'; final t becomes d before b. The dictionary records jagad-bīja, 'world-seed', as a name of Śiva. ādyam, 'first', is a separate word written joined to it.",
+        "hi": "जगत् 'संसार' + बीज; 'ब' से पहले अन्तिम 'त्' 'द्' बन जाता है। कोश में जगद्-बीज, 'संसार का बीज', शिव का नाम है। आद्यम्, 'पहला', अलग शब्द है जो लिखावट में साथ जुड़ा है।"
+      }
+    },
+    "c3": {
+      "members": [
+        "w3"
+      ],
+      "iast": "nir-īham",
+      "type": "bahuvrīhi",
+      "subtype": "prādi",
+      "vigraha": "निर्गता ईहा यस्मात् सः, तम्",
+      "meaning": {
+        "en": "Him from whom all wanting has gone",
+        "hi": "उन (शिव) को, जिनमें कोई इच्छा नहीं"
+      },
+      "note": {
+        "en": "nir 'without, away' + īhā 'desire, effort'. The compound describes the person who has no desire, Śiva, and so takes the masculine form nirīham like the other descriptions.",
+        "hi": "निर् 'रहित' + ईहा 'इच्छा, चेष्टा'। समास उस व्यक्ति का वर्णन करता है जिसमें इच्छा नहीं, अर्थात् शिव, इसलिए बाकी विशेषणों की तरह पुंलिंग रूप निरीहम् में है।"
+      }
+    },
+    "c4": {
+      "members": [
+        "w4"
+      ],
+      "iast": "nir-ākāram",
+      "type": "bahuvrīhi",
+      "subtype": "prādi",
+      "vigraha": "निर्गतः आकारः यस्मात् सः, तम्",
+      "meaning": {
+        "en": "Him who has no form",
+        "hi": "उन (शिव) को, जिनका कोई आकार नहीं"
+      },
+      "note": {
+        "en": "nir 'without' + ākāra 'form, shape'. The first part of the display word निराकारमोङ्कारवेद्यम्; the second compound, oṅkāra-vedyam, follows it.",
+        "hi": "निर् 'रहित' + आकार 'रूप, आकृति'। प्रदर्शित शब्द निराकारमोङ्कारवेद्यम् का पहला भाग; दूसरा समास, ओङ्कार-वेद्यम्, इसके बाद आता है।"
+      }
+    },
+    "c5": {
+      "members": [
+        "w4"
+      ],
+      "iast": "oṅkāra-vedyam",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā",
+      "vigraha": "ओङ्कारेण वेद्यः, तम्",
+      "meaning": {
+        "en": "Him who is to be known through Oṃ",
+        "hi": "उन (शिव) को, जो ओंकार से जाने जाते हैं"
+      },
+      "note": {
+        "en": "oṅkāra 'the syllable Oṃ' gives the means; vedya 'to be known' (from √vid) is the result: known by means of Oṃ. Inside oṅkāra, the m of om becomes ṅ before k.",
+        "hi": "ओङ्कार 'ॐ अक्षर' साधन है; वेद्य 'जानने योग्य' (√विद् से) परिणाम: ॐ के द्वारा जाने जाने योग्य। ओङ्कार के भीतर 'क' से पहले ओम् का 'म्' 'ङ्' बन जाता है।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": [
+        "w1"
+      ],
+      "sa": "परात्मानम्",
+      "iast": "parātmānam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "परात्मन्",
+          "iast": "parātman"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p14"
+    },
+    {
+      "id": "p2",
+      "words": [
+        "w1"
+      ],
+      "sa": "एकम्",
+      "iast": "ekam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "एक",
+          "iast": "eka"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p1"
+    },
+    {
+      "id": "p3",
+      "words": [
+        "w2"
+      ],
+      "sa": "जगद्बीजम्",
+      "iast": "jagadbījam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "जगद्बीज",
+          "iast": "jagadbīja"
+        },
+        "gender": "neuter",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p14"
+    },
+    {
+      "id": "p4",
+      "words": [
+        "w2"
+      ],
+      "sa": "आद्यम्",
+      "iast": "ādyam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "आद्य",
+          "iast": "ādya"
+        },
+        "gender": "neuter",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p3"
+    },
+    {
+      "id": "p5",
+      "words": [
+        "w3"
+      ],
+      "sa": "निरीहम्",
+      "iast": "nirīham",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "निरीह",
+          "iast": "nirīha"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p14"
+    },
+    {
+      "id": "p6",
+      "words": [
+        "w4"
+      ],
+      "sa": "निराकारम्",
+      "iast": "nirākāram",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "निराकार",
+          "iast": "nirākāra"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p14"
+    },
+    {
+      "id": "p7",
+      "words": [
+        "w4"
+      ],
+      "sa": "ओङ्कारवेद्यम्",
+      "iast": "oṅkāravedyam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "ओङ्कारवेद्य",
+          "iast": "oṅkāravedya"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p14"
+    },
+    {
+      "id": "p8",
+      "words": [
+        "w5"
+      ],
+      "sa": "यतः",
+      "iast": "yataḥ",
+      "morph": {
+        "type": "avyaya"
+      },
+      "role": "apādāna",
+      "head": "p9"
+    },
+    {
+      "id": "p9",
+      "words": [
+        "w6"
+      ],
+      "sa": "जायते",
+      "iast": "jāyate",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "जन्",
+          "iast": "jan",
+          "gana": 4
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p10",
+      "words": [
+        "w7"
+      ],
+      "sa": "पाल्यते",
+      "iast": "pālyate",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "पालि",
+          "iast": "pāli",
+          "gana": 10
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "karmaṇi",
+        "person": 3,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p11",
+      "words": [
+        "w8"
+      ],
+      "sa": "येन",
+      "iast": "yena",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "यद्",
+          "iast": "yad"
+        },
+        "gender": "masculine",
+        "case": "instrumental",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p10"
+    },
+    {
+      "id": "p12",
+      "words": [
+        "w9"
+      ],
+      "sa": "विश्वम्",
+      "iast": "viśvam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "विश्व",
+          "iast": "viśva"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p9"
+    },
+    {
+      "id": "p13",
+      "words": [
+        "w10"
+      ],
+      "sa": "तम्",
+      "iast": "tam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "तद्",
+          "iast": "tad"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p14"
+    },
+    {
+      "id": "p14",
+      "words": [
+        "w10"
+      ],
+      "sa": "ईशम्",
+      "iast": "īśam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "ईश",
+          "iast": "īśa"
+        },
+        "gender": "masculine",
+        "case": "accusative",
+        "number": "singular"
+      },
+      "role": "karma",
+      "head": "p15"
+    },
+    {
+      "id": "p15",
+      "words": [
+        "w11"
+      ],
+      "sa": "भजे",
+      "iast": "bhaje",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "भज्",
+          "iast": "bhaj",
+          "gana": 1
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 1,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p16",
+      "words": [
+        "w12"
+      ],
+      "sa": "लीयते",
+      "iast": "līyate",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "ली",
+          "iast": "lī",
+          "gana": 4
+        },
+        "prefixes": [],
+        "lakara": "laṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "ātmanepada"
+      },
+      "role": "kriyā",
+      "head": null
+    },
+    {
+      "id": "p17",
+      "words": [
+        "w13"
+      ],
+      "sa": "यत्र",
+      "iast": "yatra",
+      "morph": {
+        "type": "avyaya"
+      },
+      "role": "adhikaraṇa",
+      "head": "p16"
+    },
+    {
+      "id": "p18",
+      "words": [
+        "w14"
+      ],
+      "sa": "विश्वम्",
+      "iast": "viśvam",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "विश्व",
+          "iast": "viśva"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p16"
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अहम्",
+      "iast": "aham",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "अस्मद्",
+          "iast": "asmad"
+        },
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "p15",
+      "meaning": {
+        "en": "I (the one who prays)",
+        "hi": "मैं (स्तुति करने वाला)"
+      }
+    }
+  ],
+  "anvaya": [
+    "x1",
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p12",
+    "p9",
+    "p11",
+    "p10",
+    "p17",
+    "p18",
+    "p16",
+    "p13",
+    "p14",
+    "p15"
+  ],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "The supreme Self, the One,"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "the first seed of the world,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "free of desire,"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "formless, known through Oṃ;"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "from whom"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "the universe"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "is born,"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "by whom"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "it"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "is kept:"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "that Lord"
+          },
+          {
+            "refs": [
+              "x1"
+            ],
+            "text": "I"
+          },
+          {
+            "refs": [
+              "w11"
+            ],
+            "text": "worship,"
+          },
+          {
+            "refs": [
+              "w13"
+            ],
+            "text": "in whom"
+          },
+          {
+            "refs": [
+              "w14"
+            ],
+            "text": "the universe"
+          },
+          {
+            "refs": [
+              "w12"
+            ],
+            "text": "dissolves."
+          }
+        ]
+      ],
+      "bhavartha": "The poet worships the Lord who is the supreme Self, the One, the first seed of the world. He wants nothing, has no form, and is known through the syllable Oṃ. The universe is born from Him, is kept by Him, and dissolves in Him."
+    },
+    "hi": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "परमात्मा, एक,"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "जगत् के आदि-बीज,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "इच्छा से रहित,"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "निराकार, ओंकार से जानने योग्य;"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "जिनसे"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "विश्व"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "जन्म लेता है,"
+          },
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "जिनके द्वारा"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "वह"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "पाला जाता है,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w13"
+            ],
+            "text": "जिनमें"
+          },
+          {
+            "refs": [
+              "w14"
+            ],
+            "text": "विश्व"
+          },
+          {
+            "refs": [
+              "w12"
+            ],
+            "text": "लीन होता है,"
+          },
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "उन ईश्वर को"
+          },
+          {
+            "refs": [
+              "x1"
+            ],
+            "text": "मैं"
+          },
+          {
+            "refs": [
+              "w11"
+            ],
+            "text": "भजता हूँ।"
+          }
+        ]
+      ],
+      "bhavartha": "कवि उन ईश्वर को भजता है जो परमात्मा हैं, एक हैं और जगत् के आदि-बीज हैं। उन्हें कोई इच्छा नहीं, उनका कोई आकार नहीं, और वे ओंकार के द्वारा जाने जाते हैं। विश्व उनसे जन्म लेता है, उनके द्वारा पाला जाता है और उनमें लीन हो जाता है।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": [
+        "w2"
+      ],
+      "kind": "theology",
+      "body": {
+        "en": "A seed is small and plain, yet a whole tree waits inside it. *Jagad-bīja*, seed of the world, sets Śiva before the world in that way, and *ādya*, first, says nothing came before Him.\n\nThe Śiva Purāṇa's meditation verse, said before worshipping an earthen liṅga, joins the same pair: *viśvādyaṃ viśvabījam*, first of all, seed of all. There the words sit beside five faces and three eyes; here, beside the Formless.",
+        "hi": "बीज छोटा और साधारण होता है, फिर भी पूरा पेड़ उसके भीतर छिपा रहता है। *जगद्-बीज*, संसार का बीज, शिव को संसार से पहले इसी तरह रखता है, और *आद्य*, पहला, बताता है कि उनसे पहले कुछ नहीं था।\n\nशिव पुराण का ध्यान-श्लोक, जो मिट्टी के लिङ्ग की पूजा से पहले पढ़ा जाता है, यही जोड़ी रखता है: *विश्वाद्यं विश्वबीजम्*, सबके आदि, सबके बीज। वहाँ ये शब्द पाँच मुखों और तीन नेत्रों के साथ आते हैं; यहाँ निराकार के साथ।"
+      },
+      "citations": [
+        {
+          "source": "mw-bija",
+          "locator": "MW bīja, p. 732",
+          "quote": "any germ, element, primary cause or principle, source, origin"
+        },
+        {
+          "source": "mw-jagadbija",
+          "locator": "MW jagad-bīja, p. 408",
+          "quote": "‘world-seed’, Śiva"
+        },
+        {
+          "source": "mw-adya",
+          "locator": "MW ādya, p. 137",
+          "quote": "being at the beginning, first, primitive"
+        },
+        {
+          "source": "shiva-purana-vidyeshvara",
+          "locator": "Śiva Purāṇa 1.20.52cd",
+          "quote": "viśvādyaṃviśvabījaṃnikhilabhayaharaṃpañcavaktraṃtrinetram"
+        },
+        {
+          "source": "shiva-purana-vidyeshvara",
+          "locator": "Śiva Purāṇa 1.20.53ab",
+          "quote": "itidhyātvācasaṃpūjyapārthivaṃliṃgamuttamam"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a2",
+      "refs": [
+        "w4"
+      ],
+      "kind": "theology",
+      "body": {
+        "en": "How can anyone know what has no shape? *Nirākāra*, formless, gives the eye nothing to hold, and in the same breath the verse gives the way in: *oṅkāra-vedya*, knowable through Oṃ. The Kaṭha Upaniṣad sums up the goal all the Vedas speak of in one word, \"Om\", and the Māṇḍūkya opens: Om, this syllable, is all this.\n\nWhat cannot be seen can still be heard. Fitting, in a hymn named the essence of the Vedas.",
+        "hi": "जिसका कोई आकार नहीं, उसे कोई कैसे जाने? *निराकार* आँख को पकड़ने के लिए कुछ नहीं देता, और उसी साँस में श्लोक रास्ता भी देता है: *ओङ्कार-वेद्य*, ओंकार से जानने योग्य। कठ उपनिषद् उस लक्ष्य को, जिसका वर्णन सब वेद करते हैं, एक शब्द में कहता है: \"ॐ\"; और माण्डूक्य का आरम्भ है: ॐ, यह अक्षर, यह सब कुछ है।\n\nजो दिखता नहीं, वह सुना जा सकता है। 'वेदों का सार' कहे जाने वाले स्तोत्र में यह बात ठीक बैठती है।"
+      },
+      "citations": [
+        {
+          "source": "mw-nirakara",
+          "locator": "MW nir-ākāra, p. 540",
+          "quote": "formless, shapeless, incorporeal (brahman)"
+        },
+        {
+          "source": "mw-vedya",
+          "locator": "MW vedya, p. 1017",
+          "quote": "to be learnt or known or understood"
+        },
+        {
+          "source": "katha-upanishad",
+          "locator": "Kaṭha Up. 1.2.15",
+          "quote": "सर्वे वेदा यत् पदमामनन्ति"
+        },
+        {
+          "source": "katha-upanishad",
+          "locator": "Kaṭha Up. 1.2.15",
+          "quote": "तत् ते पदँ संग्रहेण ब्रवीम्योमित्येतत्"
+        },
+        {
+          "source": "mandukya-upanishad",
+          "locator": "Māṇḍūkya Up. 1",
+          "quote": "ओमित्येतदक्षरमिदँ सर्वं"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": [
+        "w5",
+        "w6",
+        "w7",
+        "w8",
+        "w9",
+        "w10",
+        "w11",
+        "w12",
+        "w13",
+        "w14"
+      ],
+      "kind": "context",
+      "body": {
+        "en": "The second half answers a very old question. In the Taittirīya Upaniṣad young Bhṛgu goes to his father Varuṇa and asks, \"Teach me Brahman.\" Varuṇa replies: seek that from which these beings are born, by which they live, and into which they finally enter. That is Brahman.\n\nThe poet keeps the three steps, *yataḥ … yena … yatra*, even the verb for being born, *jāyate*, and gives the answer a name: *tam īśam*, that Lord.",
+        "hi": "श्लोक का दूसरा आधा एक बहुत पुराने प्रश्न का उत्तर है। तैत्तिरीय उपनिषद् में युवा भृगु अपने पिता वरुण के पास जाकर कहते हैं, \"मुझे ब्रह्म का ज्ञान दीजिए।\" वरुण उत्तर देते हैं: जिससे ये प्राणी जन्म लेते हैं, जिसके सहारे जीते हैं और अन्त में जिसमें जा समाते हैं, उसे जानो; वह ब्रह्म है।\n\nकवि वही तीन कदम रखता है, *यतः … येन … यत्र*, जन्म की क्रिया *जायते* तक, और उत्तर को नाम देता है: *तम् ईशम्*, वे ईश्वर।"
+      },
+      "citations": [
+        {
+          "source": "taittiriya-upanishad-3-1",
+          "locator": "Taittirīya Up. 3.1.1",
+          "quote": "अधीहि भगवो ब्रह्मेति"
+        },
+        {
+          "source": "taittiriya-upanishad-3-1",
+          "locator": "Taittirīya Up. 3.1.1",
+          "quote": "यतो वा इमानि भूतानि जायन्ते।"
+        },
+        {
+          "source": "taittiriya-upanishad-3-1",
+          "locator": "Taittirīya Up. 3.1.1",
+          "quote": "येन जातानि जीवन्ति। यत्प्रयन्त्यभिसंविशन्ति।"
+        },
+        {
+          "source": "taittiriya-upanishad-3-1",
+          "locator": "Taittirīya Up. 3.1.1",
+          "quote": "तद्विजिज्ञासस्व। तद्ब्रह्मेति।"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "पर",
+          "iast": "para"
+        },
+        {
+          "sa": "आत्मानम्",
+          "iast": "ātmānam"
+        },
+        {
+          "sa": "एकम्",
+          "iast": "ekam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + ā → ā",
+          "explanation": {
+            "en": "The a of para and the ā of ātman merge into one long ā: para + ātman → parātman.",
+            "hi": "पर का 'अ' और आत्मन् का 'आ' मिलकर एक दीर्घ 'आ' बनते हैं: पर + आत्मन् → परात्मन्।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the j of the next word (jagat): ekam → ekaṃ.",
+            "hi": "अगले शब्द (जगत्) के 'ज' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: एकम् → एकं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "पर",
+          "iast": "para",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "पर",
+            "iast": "para"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "para",
+            "gloss": "highest, supreme, chief"
+          },
+          "meaning": {
+            "en": "supreme",
+            "hi": "परम"
+          }
+        },
+        {
+          "sa": "आत्मन्",
+          "iast": "ātman",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "आत्मन्",
+            "iast": "ātman"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ātman",
+            "gloss": "the highest personal principle of life, Brahma"
+          },
+          "meaning": {
+            "en": "Self",
+            "hi": "आत्मा"
+          }
+        },
+        {
+          "sa": "एक",
+          "iast": "eka",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "एक",
+            "iast": "eka"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "eka",
+            "gloss": "one; single of its kind, unique"
+          },
+          "meaning": {
+            "en": "one",
+            "hi": "एक"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the supreme Self, the One, i.e. Śiva",
+        "hi": "परमात्मा को, उन एक को, अर्थात् शिव को"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "*Ekam*, one, already described Mahādeva in [verse 1](#v1-a2); here it stands beside *parātman*, the highest Self.",
+        "hi": "*एकम्*, एक, [पहले श्लोक](#v1-a2) में महादेव के लिए आया था; यहाँ यह *परात्मन्*, परम आत्मा, के साथ खड़ा है।"
+      },
+      "notes": {
+        "en": "Two words written as one: parātmānam (accusative of parātman, 'the Supreme Spirit') and ekam, 'one', both describing the Lord who is worshipped in line 4.",
+        "hi": "दो शब्द एक साथ लिखे गए हैं: परात्मानम् (परात्मन्, 'परम आत्मा', का रूप) और एकम्, 'एक'; दोनों चौथी पंक्ति में भजे जाने वाले ईश्वर का वर्णन करते हैं।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-paratman",
+        "mw-para",
+        "mw-atman",
+        "mw-eka",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w2": {
+      "compound": "c2",
+      "padaccheda": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat"
+        },
+        {
+          "sa": "बीजम्",
+          "iast": "bījam"
+        },
+        {
+          "sa": "आद्यम्",
+          "iast": "ādyam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + b → d + b",
+          "explanation": {
+            "en": "Final t becomes the voiced d before the voiced b: jagat + bīja → jagadbīja.",
+            "hi": "अन्तिम 'त्' आगे के घोष 'ब' के कारण 'द्' बन जाता है: जगत् + बीज → जगद्बीज।"
+          }
+        },
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the n of the next word (nirīham): ādyam → ādyaṃ.",
+            "hi": "अगले शब्द (निरीहम्) के 'न' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: आद्यम् → आद्यं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "जगत्",
+          "iast": "jagat",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "जगत्",
+            "iast": "jagat"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jagat",
+            "gloss": "the world, esp. this world, earth"
+          },
+          "meaning": {
+            "en": "world",
+            "hi": "जगत्"
+          }
+        },
+        {
+          "sa": "बीज",
+          "iast": "bīja",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "बीज",
+            "iast": "bīja"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "bīja",
+            "gloss": "seed; any germ, primary cause or principle, source, origin"
+          },
+          "meaning": {
+            "en": "seed",
+            "hi": "बीज"
+          }
+        },
+        {
+          "sa": "आद्य",
+          "iast": "ādya",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "आद्य",
+            "iast": "ādya"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ādya",
+            "gloss": "being at the beginning, first, primitive"
+          },
+          "meaning": {
+            "en": "first",
+            "hi": "आदि"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the first seed of the world, i.e. Śiva",
+        "hi": "जगत् के आदि-बीज को, अर्थात् शिव को"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Two words written as one: jagadbījam, 'the seed of the world', and ādyam, 'first', which describes the seed. The dictionary lists jagad-bīja as a name of Śiva.",
+        "hi": "दो शब्द एक साथ लिखे गए हैं: जगद्बीजम्, 'जगत् का बीज', और आद्यम्, 'पहला', जो बीज का विशेषण है। कोश में जगद्-बीज शिव का नाम है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-jagadbija",
+        "mw-bija",
+        "mw-adya",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w3": {
+      "compound": "c3",
+      "padaccheda": [
+        {
+          "sa": "निर्",
+          "iast": "nir"
+        },
+        {
+          "sa": "ईहम्",
+          "iast": "īham"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the n of the next word (nirākāram): nirīham → nirīhaṃ.",
+            "hi": "अगले शब्द (निराकारम्) के 'न' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: निरीहम् → निरीहं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "निर्",
+          "iast": "nir",
+          "pos": "indeclinable",
+          "meaning": {
+            "en": "without",
+            "hi": "रहित"
+          }
+        },
+        {
+          "sa": "ईहा",
+          "iast": "īhā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "ईह्",
+            "iast": "īh",
+            "gana": 1,
+            "gloss": {
+              "en": "to long for, to strive",
+              "hi": "चाहना, चेष्टा करना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "īhā",
+            "gloss": "effort, exertion, activity; request, desire, wish"
+          },
+          "meaning": {
+            "en": "desire",
+            "hi": "इच्छा"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who is free of desire",
+        "hi": "इच्छा से रहित (उन शिव को)"
+      },
+      "aside": {
+        "en": "*Īhā* is wanting, and also striving. *Nir-īha* is one without either: wanting nothing, straining after nothing.",
+        "hi": "*ईहा* का अर्थ है चाह, और चेष्टा भी। *निर्-ईह* वह है जिसमें दोनों नहीं: न कुछ चाहना, न किसी के पीछे दौड़ना।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-niriha",
+        "mw-iha",
+        "mw-ih",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w4": {
+      "compound": "c4",
+      "padaccheda": [
+        {
+          "sa": "निर्",
+          "iast": "nir"
+        },
+        {
+          "sa": "आकारम्",
+          "iast": "ākāram"
+        },
+        {
+          "sa": "ओङ्कार",
+          "iast": "oṅkāra"
+        },
+        {
+          "sa": "वेद्यम्",
+          "iast": "vedyam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "parasavarṇa",
+          "rule": "m + k → ṅ + k",
+          "explanation": {
+            "en": "Inside oṅkāra, the m of om takes the nasal of the following k: om + kāra → oṅkāra (also written oṃkāra).",
+            "hi": "ओङ्कार के भीतर ओम् का 'म्' आगे के 'क' के वर्ग का अनुनासिक 'ङ्' बन जाता है: ओम् + कार → ओङ्कार (ओंकार भी लिखा जाता है)।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "निर्",
+          "iast": "nir",
+          "pos": "indeclinable",
+          "meaning": {
+            "en": "without",
+            "hi": "रहित"
+          }
+        },
+        {
+          "sa": "आकार",
+          "iast": "ākāra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "आकार",
+            "iast": "ākāra"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ākāra",
+            "gloss": "form, figure, shape, stature, appearance"
+          },
+          "meaning": {
+            "en": "form",
+            "hi": "आकार"
+          }
+        },
+        {
+          "sa": "ओङ्कार",
+          "iast": "oṅkāra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "ओङ्कार",
+            "iast": "oṅkāra"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "oṃ-kāra",
+            "gloss": "the sacred and mystical syllable om"
+          },
+          "meaning": {
+            "en": "the syllable Oṃ",
+            "hi": "ॐ अक्षर"
+          }
+        },
+        {
+          "sa": "वेद्य",
+          "iast": "vedya",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "विद्",
+            "iast": "vid",
+            "gana": 2,
+            "gloss": {
+              "en": "to know",
+              "hi": "जानना"
+            }
+          },
+          "formation": "√vid + ṇyat (to be done)",
+          "sense": {
+            "dict": "mw",
+            "headword": "vedya",
+            "gloss": "to be learnt or known or understood"
+          },
+          "meaning": {
+            "en": "knowable",
+            "hi": "जानने योग्य"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(Him, i.e. Śiva) who has no form and is known through Oṃ",
+        "hi": "निराकार और ओंकार से जानने योग्य (उन शिव को)"
+      },
+      "notes": {
+        "en": "Two compounds written as one word: nirākāram, 'formless', and oṅkāravedyam, 'to be known through Oṃ'. Some printings spell the second ओंकार with the dot for the nasal, others ओङ्कार; the word is the same.",
+        "hi": "दो समास एक शब्द में लिखे गए हैं: निराकारम्, 'आकार-रहित', और ओङ्कारवेद्यम्, 'ॐ से जानने योग्य'। कुछ प्रतियों में ओंकार (अनुस्वार से) छपा है, कुछ में ओङ्कार; शब्द वही है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-nirakara",
+        "mw-akara",
+        "mw-oMkAra",
+        "mw-vedya",
+        "mw-vid",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w5": {
+      "padaccheda": [
+        {
+          "sa": "यतः",
+          "iast": "yataḥ"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "utva",
+          "rule": "aḥ + voiced consonant → o",
+          "explanation": {
+            "en": "Final -aḥ becomes -o before the voiced j of the next word (jāyate): yataḥ → yato.",
+            "hi": "अगले शब्द (जायते) के घोष 'ज' से पहले अन्तिम '-अः' '-ओ' बन जाता है: यतः → यतो।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "यतस्",
+          "iast": "yatas",
+          "pos": "indeclinable",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "यद्",
+            "iast": "yad"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "yatas",
+            "gloss": "from which or what, whence"
+          },
+          "meaning": {
+            "en": "from whom",
+            "hi": "जिससे"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "from whom, i.e. from Śiva",
+        "hi": "जिनसे, अर्थात् शिव से"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-yatas",
+        "mw-yato",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w6": {
+      "padaccheda": [
+        {
+          "sa": "जायते",
+          "iast": "jāyate"
+        }
+      ],
+      "components": [
+        {
+          "sa": "जायते",
+          "iast": "jāyate",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "जन्",
+            "iast": "jan",
+            "gana": 4,
+            "gloss": {
+              "en": "to be born",
+              "hi": "जन्म लेना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jan",
+            "gloss": "to be born or produced, come into existence"
+          },
+          "meaning": {
+            "en": "is born",
+            "hi": "जन्म लेता है"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "is born",
+        "hi": "जन्म लेता है"
+      },
+      "notes": {
+        "en": "Present tense, 'it is born'. Vidyut also offers a form of √jai; that root does not fit, since the sentence is about the universe coming from the Lord.",
+        "hi": "वर्तमान काल, 'जन्म लेता है'। Vidyut √जै का रूप भी सुझाता है; वह यहाँ नहीं बैठता, क्योंकि वाक्य ईश्वर से विश्व के उत्पन्न होने के बारे में है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-jan",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w7": {
+      "padaccheda": [
+        {
+          "sa": "पाल्यते",
+          "iast": "pālyate"
+        }
+      ],
+      "components": [
+        {
+          "sa": "पाल्यते",
+          "iast": "pālyate",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "पाल्",
+            "iast": "pāl",
+            "gana": 10,
+            "gloss": {
+              "en": "to protect, to keep",
+              "hi": "रक्षा करना, पालना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "pāl",
+            "gloss": "to watch, guard, protect, defend; to keep, maintain"
+          },
+          "meaning": {
+            "en": "is kept",
+            "hi": "पाला जाता है"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "is kept, is looked after",
+        "hi": "पाला जाता है"
+      },
+      "notes": {
+        "en": "The 'is done' form of pālayati, 'he protects'; the doer stands in yena, 'by whom'.",
+        "hi": "पालयति ('पालता है') का कर्मवाच्य रूप; करने वाला येन, 'जिनके द्वारा', में है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-pal",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w8": {
+      "padaccheda": [
+        {
+          "sa": "येन",
+          "iast": "yena"
+        }
+      ],
+      "components": [
+        {
+          "sa": "यद्",
+          "iast": "yad",
+          "pos": "pronoun",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "यद्",
+            "iast": "yad"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "yena",
+            "gloss": "by whom or by which"
+          },
+          "meaning": {
+            "en": "by whom",
+            "hi": "जिसके द्वारा"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "by whom, i.e. by Śiva",
+        "hi": "जिनके द्वारा, अर्थात् शिव के द्वारा"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-yena",
+        "mw-yad",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w9": {
+      "padaccheda": [
+        {
+          "sa": "विश्वम्",
+          "iast": "viśvam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the t of the next word (tam): viśvam → viśvaṃ.",
+            "hi": "अगले शब्द (तम्) के 'त' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: विश्वम् → विश्वं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "विश्व",
+          "iast": "viśva",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "विश्व",
+            "iast": "viśva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "viśva",
+            "gloss": "the whole world, universe"
+          },
+          "meaning": {
+            "en": "universe",
+            "hi": "विश्व"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the universe",
+        "hi": "विश्व, सारा संसार"
+      },
+      "notes": {
+        "en": "Serves both verbs of the line: the universe is born (jāyate) and is kept (pālyate).",
+        "hi": "पंक्ति की दोनों क्रियाओं से जुड़ता है: विश्व जन्म लेता है (जायते) और पाला जाता है (पाल्यते)।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-vishva",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w10": {
+      "padaccheda": [
+        {
+          "sa": "तम्",
+          "iast": "tam"
+        },
+        {
+          "sa": "ईशम्",
+          "iast": "īśam"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "anusvāra",
+          "rule": "m + consonant → ṃ",
+          "explanation": {
+            "en": "Final m is written as ṃ before the bh of the next word (bhaje): īśam → īśaṃ.",
+            "hi": "अगले शब्द (भजे) के 'भ' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: ईशम् → ईशं।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "तद्",
+          "iast": "tad",
+          "pos": "pronoun",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "tad",
+            "gloss": "he, she, it, that (correlative of ya)"
+          },
+          "meaning": {
+            "en": "that",
+            "hi": "उन"
+          }
+        },
+        {
+          "sa": "ईश",
+          "iast": "īśa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "ईश",
+            "iast": "īśa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "īśa",
+            "gloss": "a ruler, master, lord; N. of Śiva"
+          },
+          "meaning": {
+            "en": "Lord",
+            "hi": "ईश्वर"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "that Lord, i.e. Śiva",
+        "hi": "उन ईश्वर को, अर्थात् शिव को"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "tam, 'that one', answers the three 'who' words of the verse (yataḥ, yena, yatra): from whom, by whom, in whom … that Lord.",
+        "hi": "तम्, 'उन', श्लोक के तीन 'जिन' शब्दों (यतः, येन, यत्र) का उत्तर है: जिनसे, जिनके द्वारा, जिनमें … उन ईश्वर को।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-tad",
+        "mw-isha",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w11": {
+      "padaccheda": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje"
+        }
+      ],
+      "components": [
+        {
+          "sa": "भजे",
+          "iast": "bhaje",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1,
+            "gloss": {
+              "en": "to worship, to adore",
+              "hi": "भजना, पूजना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "bhaj",
+            "gloss": "to serve, honour, revere, love, adore"
+          },
+          "meaning": {
+            "en": "I worship",
+            "hi": "भजता हूँ"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "I worship",
+        "hi": "(मैं) भजता हूँ"
+      },
+      "notes": {
+        "en": "First person, 'I worship'. Vidyut also reads bhaje as a form of address from a stem bhaji; no such stem fits here.",
+        "hi": "उत्तम पुरुष, 'मैं भजता हूँ'। Vidyut इसे 'भजि' शब्द का सम्बोधन भी मानता है; ऐसा कोई शब्द यहाँ नहीं बैठता।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-bhaj",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w12": {
+      "padaccheda": [
+        {
+          "sa": "लीयते",
+          "iast": "līyate"
+        }
+      ],
+      "components": [
+        {
+          "sa": "लीयते",
+          "iast": "līyate",
+          "pos": "verb",
+          "root": {
+            "kind": "dhatu",
+            "sa": "ली",
+            "iast": "lī",
+            "gana": 4,
+            "gloss": {
+              "en": "to cling, to settle into, to vanish",
+              "hi": "लिपटना, समा जाना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "lī",
+            "gloss": "to cling or press closely; to lie, settle on, disappear, vanish"
+          },
+          "meaning": {
+            "en": "dissolves",
+            "hi": "लीन होता है"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "dissolves, merges",
+        "hi": "लीन होता है"
+      },
+      "aside": {
+        "en": "*Līyate* comes from *lī*, to cling, to settle into something and vanish there. The same universe that was born from Him sinks into Him.",
+        "hi": "*लीयते* *ली* धातु से है: लिपटना, किसी में समाकर ओझल हो जाना। जो विश्व उनसे जन्मा था, वह उनमें समा जाता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-li",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w13": {
+      "padaccheda": [
+        {
+          "sa": "यत्र",
+          "iast": "yatra"
+        }
+      ],
+      "components": [
+        {
+          "sa": "यत्र",
+          "iast": "yatra",
+          "pos": "indeclinable",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "यद्",
+            "iast": "yad"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "yatra",
+            "gloss": "in or to which place, where, wherein"
+          },
+          "meaning": {
+            "en": "in whom",
+            "hi": "जिसमें"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "in whom, i.e. in Śiva",
+        "hi": "जिनमें, अर्थात् शिव में"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-yatra",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    },
+    "w14": {
+      "padaccheda": [
+        {
+          "sa": "विश्वम्",
+          "iast": "viśvam"
+        }
+      ],
+      "components": [
+        {
+          "sa": "विश्व",
+          "iast": "viśva",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "विश्व",
+            "iast": "viśva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "viśva",
+            "gloss": "the whole world, universe"
+          },
+          "meaning": {
+            "en": "universe",
+            "hi": "विश्व"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "the universe",
+        "hi": "विश्व, सारा संसार"
+      },
+      "notes": {
+        "en": "The verse ends on the same word as line 3, viśvam: the universe at its birth and at its dissolution.",
+        "hi": "श्लोक उसी शब्द पर समाप्त होता है जिस पर तीसरी पंक्ति, विश्वम्: जन्म के समय का विश्व और लय के समय का विश्व।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-vishva",
+        "shlokam-vedasara-shiva-stava",
+        "gitapress-stotraratnavali"
+      ]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-11-20",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  },
+  "_new_concepts": {
+    "srishti-sthiti-laya": {
+      "name": {
+        "en": "Creation, keeping and dissolution",
+        "hi": "सृष्टि, स्थिति और लय"
+      },
+      "description": {
+        "en": "The world comes from the Lord, is kept by Him and dissolves back into Him. The hymn uses this three-step pattern to say who Śiva is: not one thing in the world, but its source, its support and its end.",
+        "hi": "संसार ईश्वर से उत्पन्न होता है, उनके द्वारा टिका रहता है और उनमें लीन हो जाता है। स्तोत्र इसी तीन चरणों वाले ढाँचे से बताता है कि शिव कौन हैं: संसार की कोई एक वस्तु नहीं, बल्कि उसका स्रोत, आधार और अन्त।"
+      }
+    },
+    "omkara": {
+      "name": {
+        "en": "Oṃkāra, the sacred syllable Oṃ",
+        "hi": "ओंकार, पवित्र अक्षर ॐ"
+      },
+      "description": {
+        "en": "Oṃ, the syllable the Upaniṣads treat as the name and sound of the highest Reality. In this hymn the formless Śiva is said to be known through it.",
+        "hi": "ॐ, वह अक्षर जिसे उपनिषद् परम सत्य का नाम और ध्वनि मानते हैं। इस स्तोत्र में निराकार शिव को इसी के द्वारा जाना जाने वाला कहा गया है।"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "check": "T4.2",
+  "fields_hash": "476bfed0b24fdcdf",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w3.components[1]",
+      "message": "The component yajña is glossed en 'sacred', and its sense points to the compound headword 'yajña-sūtra' ('the sacrificial thread or cord', mw-yajnasutra.md) instead of a sense of yajña itself. 'Sacred' is not a dictionary sense of yajña, which means sacrifice or worship. The whole-word meaning ('sacred thread') is fine, but the component card shows a sense that yajña does not have on its own. This could be treated as a T4.1 gloss problem instead, so a human should decide.",
+      "suggested_fix": "Set the component's meaning.en to 'sacrifice, Vedic rite' and its sense to MW headword 'yajña' (mw-yajna). Keep 'sacred thread' as the meaning of the compound yajña-sūtra in c2 and in the word meaning."
+    }
+  ]
+}

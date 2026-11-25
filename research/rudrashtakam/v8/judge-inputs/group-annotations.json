@@ -1,0 +1,1843 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "rudrashtakam",
+    "title": {
+      "sa": "रुद्राष्टकम्",
+      "iast": "Rudrāṣṭakam",
+      "en": "Rudrashtakam",
+      "hi": "रुद्राष्टकम्"
+    },
+    "attribution": {
+      "en": "Composed by Gosvāmī Tulsīdās, in the Uttarakāṇḍa of his Rāmcaritmānas.",
+      "hi": "गोस्वामी तुलसीदास द्वारा रचित, उनके रामचरितमानस के उत्तरकाण्ड में।"
+    },
+    "sources": [
+      {
+        "id": "gitapress-ramcharitmanas",
+        "name": "श्रीरामचरितमानस, Gita Press, Gorakhpur, pp. 1011–1012, with Hindi translation; scan on Internet Archive",
+        "kind": "translation",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      },
+      {
+        "id": "kashiraj-ramcharitmanas",
+        "name": "Rāmcaritmānas, critical edition ed. Viśvanāth Prasād Miśra, Kāśirāj Trust, p. 443; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/fCfi_ram-charit-manas-of-tulsi-das-ed-by-viswanath-prasad-mishra-ramesh-chandra-dev"
+      },
+      {
+        "id": "belvedere-1926-ramcharitmanas",
+        "name": "Rāmcaritmānas, Belvedere Press, Prayag, 1926, pp. 427–428; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/in.ernet.dli.2015.343673"
+      },
+      {
+        "id": "sanskritdocuments-rudra8",
+        "name": "sanskritdocuments.org — Rudrashtakam (rudra8); Wayback copy of 2025-08-08",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20250808093835/https://sanskritdocuments.org/doc_shiva/rudra8.html"
+      },
+      {
+        "id": "greenmesg-rudrashtakam",
+        "name": "greenmesg.org — Rudrashtakam (line-by-line English); Wayback copy of 2026-08-12",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20260812050406/https://www.greenmesg.org/stotras/shiva/rudrashtakam.php"
+      },
+      {
+        "id": "shlokam-rudrashtakam",
+        "name": "shlokam.org — Rudrashtakam (translation with word meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/rudrashtakam/"
+      },
+      {
+        "id": "wikisource-sa-rudrashtakam",
+        "name": "Sanskrit Wikisource — रुद्राष्टकम् (comparison only; many typing slips)",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/रुद्राष्टकम्"
+      },
+      {
+        "id": "mw-aham",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'aham' (SLP1 key: aham)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=aham"
+      },
+      {
+        "id": "mw-nam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nam' (SLP1 key: nam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nam"
+      },
+      {
+        "id": "mw-isha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'īśa' (SLP1 key: ISa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=ISa"
+      },
+      {
+        "id": "ramcharitmanas-uttarakanda-104-108",
+        "name": "Śrīrāmacaritamānasa, Uttarakāṇḍa, the narrative frame of the Rudrāṣṭaka (Kākabhuśuṇḍi tells Garuḍa about his former birth), Gita Press, Gorakhpur edition, with its Hindi translation. Same scan as `gitapress-ramcharitmanas`. Lines marked [image] were read from the page images (pp. 1009, 1010, 1012); lines marked [OCR] are from the archive.org OCR of p. 1008 and were not checked against the image.",
+        "kind": "text",
+        "url": "https://archive.org/details/shri-ramcharitmanas-gita-press-hindi"
+      },
+      {
+        "id": "mw-nata",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'nata' (SLP1 key: nata)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nata"
+      },
+      {
+        "id": "mw-sada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sadā' (SLP1 key: sadA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sadA"
+      },
+      {
+        "id": "mw-prabhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prabhu' (SLP1 key: praBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=praBu"
+      },
+      {
+        "id": "mw-na",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'na' (SLP1 key: na)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=na"
+      },
+      {
+        "id": "mw-apanna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'āpanna' (SLP1 key: Apanna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Apanna"
+      },
+      {
+        "id": "mw-japa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'japa' (SLP1 key: japa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=japa"
+      },
+      {
+        "id": "mw-mam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mām' (SLP1 key: mAm)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mAm"
+      },
+      {
+        "id": "mw-naiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'naiva' (SLP1 key: nEva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=nEva"
+      },
+      {
+        "id": "mw-puja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pūjā' (SLP1 key: pUjA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pUjA"
+      },
+      {
+        "id": "mw-sarvada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sarvadā' (SLP1 key: sarvadA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sarvadA"
+      },
+      {
+        "id": "mw-shambhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śambhu' (SLP1 key: SamBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SamBu"
+      },
+      {
+        "id": "mw-yoga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yoga' (SLP1 key: yoga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yoga"
+      },
+      {
+        "id": "mw-apad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'āpad' (SLP1 key: Apad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Apad"
+      },
+      {
+        "id": "mw-duhkha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'duḥkha' (SLP1 key: duHKa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=duHKa"
+      },
+      {
+        "id": "mw-eva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'eva' (SLP1 key: eva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=eva"
+      },
+      {
+        "id": "mw-janman",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'janman' (SLP1 key: janman)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=janman"
+      },
+      {
+        "id": "mw-jara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jarā' (SLP1 key: jarA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jarA"
+      },
+      {
+        "id": "mw-jna",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'jñā' (SLP1 key: jYA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=jYA"
+      },
+      {
+        "id": "mw-ogha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ogha' (SLP1 key: oGa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=oGa"
+      },
+      {
+        "id": "mw-pa",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pā' (SLP1 key: pA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pA"
+      },
+      {
+        "id": "mw-tap",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tap' (SLP1 key: tap)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tap"
+      },
+      {
+        "id": "mw-yushmad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yuṣmad' (SLP1 key: yuzmad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yuzmad"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v8",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w2",
+            "text": "जानामि",
+            "iast": "jānāmi"
+          },
+          {
+            "id": "w3",
+            "text": "योगं",
+            "iast": "yogaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "जपं",
+            "iast": "japaṃ"
+          },
+          {
+            "id": "w5",
+            "text": "नैव",
+            "iast": "naiva"
+          },
+          {
+            "id": "w6",
+            "text": "पूजां",
+            "iast": "pūjāṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "नतोऽहं",
+            "iast": "nato'haṃ"
+          },
+          {
+            "id": "w8",
+            "text": "सदा",
+            "iast": "sadā"
+          },
+          {
+            "id": "w9",
+            "text": "सर्वदा",
+            "iast": "sarvadā"
+          },
+          {
+            "id": "w10",
+            "text": "शम्भु",
+            "iast": "śambhu"
+          },
+          {
+            "id": "w11",
+            "text": "तुभ्यम्",
+            "iast": "tubhyam"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w12",
+            "text": "जराजन्मदुःखौघतातप्यमानं",
+            "iast": "jarājanmaduḥkhaughatātapyamānaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w13",
+            "text": "प्रभो",
+            "iast": "prabho"
+          },
+          {
+            "id": "w14",
+            "text": "पाहि",
+            "iast": "pāhi"
+          },
+          {
+            "id": "w15",
+            "text": "आपन्नमामीश",
+            "iast": "āpannamāmīśa"
+          },
+          {
+            "id": "w16",
+            "text": "शम्भो",
+            "iast": "śambho"
+          }
+        ],
+        "end": "॥ ८ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2",
+          "w3",
+          "w4",
+          "w5",
+          "w6"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Three ways to reach God, and the singer claims none: *yoga*, stilling the mind in meditation; *japa*, softly repeating a prayer or a holy name; *pūjā*, worship with honour and offerings.\n\nThe sting is in the story. The pupil being prayed for was doing *japa*, repeating Śiva's name in Śiva's own temple, when his pride brought down the curse. The chanting did not shield him. So his teacher sets every practice aside and comes with empty hands.",
+          "hi": "ईश्वर तक पहुँचने के तीन मार्ग, और गाने वाला एक का भी दावा नहीं करता: *योग*, ध्यान में मन को स्थिर करना; *जप*, किसी प्रार्थना या पवित्र नाम को धीरे-धीरे दोहराना; *पूजा*, आदर और भेंट के साथ आराधना।\n\nचुभन कथा में है। जिस शिष्य के लिए यह विनती हो रही है, वह शिव के ही मन्दिर में शिव-नाम का *जप* कर रहा था, जब उसके अभिमान ने शाप बुला लिया। जप उसे बचा न सका। इसलिए गुरु सारे साधन एक ओर रखकर खाली हाथ आते हैं।"
+        },
+        "citations": [
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa, dohā 106 (ka)",
+            "quote": "एक बार हर मंदिर जपत रहेउँ सिव नाम।"
+          },
+          {
+            "source": "mw-yoga",
+            "locator": "MW yoga, p. 856",
+            "quote": "application or concentration of the thoughts, abstract contemplation, meditation"
+          },
+          {
+            "source": "mw-japa",
+            "locator": "MW japa, p. 412",
+            "quote": "repeating in a murmuring tone passages from scripture or charms or names of a deity"
+          },
+          {
+            "source": "mw-puja",
+            "locator": "MW pūjā, p. 641",
+            "quote": "honour, worship, respect, reverence, veneration"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w7",
+          "w8",
+          "w9"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "The pupil's fault was a bow he did not make. When his teacher walked into the temple, he stayed seated, too proud to rise and bow, and Śiva cursed him. Now that same teacher, who has just laid himself full length before Śiva, offers the missing bow: *nataḥ aham*, 'I am bowed', *sadā sarvadā*, always, at every moment. What one would not give for a moment, the other gives for all time.",
+          "hi": "शिष्य का दोष एक प्रणाम था, जो उसने नहीं किया। गुरु मन्दिर में आए तो वह अभिमान से बैठा रहा, उठकर प्रणाम नहीं किया, और शिव ने उसे शाप दे दिया। अब वही गुरु, जो अभी-अभी शिव के आगे दण्डवत् लेटे हैं, वह छूटा हुआ प्रणाम अर्पित करते हैं: *नतः अहम्*, 'मैं झुका हुआ हूँ', *सदा सर्वदा*, हमेशा, हर क्षण। जो प्रणाम एक ने एक पल को भी न दिया, दूसरा उसे सदा के लिए देता है।"
+        },
+        "citations": [
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa, dohā 106 (ka)",
+            "quote": "गुर आयउ अभिमान तें उठि नहिं कीन्ह प्रनाम॥"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa, dohā 107 (kha)",
+            "quote": "करि दंडवत सप्रेम द्विज सिव सन्मुख कर जोरि।"
+          },
+          {
+            "source": "mw-nata",
+            "locator": "MW nata, p. 525",
+            "quote": "bowing to, saluting"
+          },
+          {
+            "source": "ramcharitmanas-uttarakanda-104-108",
+            "locator": "Uttarakāṇḍa, dohā 107 (ka)",
+            "quote": "हाहाकार कीन्ह गुर दारुन सुनि सिव साप।"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w12"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "Picture a flood with a man burning inside it. *Ogha* is a flood, a rushing stream: here, the flood of sorrows that old age and birth bring. Yet he does not drown; he burns. *Tātapyamāna* comes from *tap*, to burn, with its first sound doubled, *tā-tap*, which makes the burning fierce and constant: scorched again and again, in violent pain. Old age is named before birth, as if the end of one life ran straight into the next.",
+          "hi": "एक बाढ़ की कल्पना कीजिए, जिसके भीतर एक मनुष्य जल रहा है। *ओघ* यानी बाढ़, तेज़ धारा: यहाँ बुढ़ापे और जन्म से आने वाले दुःखों की बाढ़। फिर भी वह डूबता नहीं, जलता है। *तातप्यमान* *तप्* (जलना) से बना है, जिसकी पहली ध्वनि दोहराई गई है, *ता-तप्*; इससे जलन तीव्र और लगातार हो जाती है: बार-बार झुलसता हुआ, घोर पीड़ा में। बुढ़ापा जन्म से पहले गिना गया है, मानो एक जीवन का अन्त सीधे अगले जीवन में जा मिलता हो।"
+        },
+        "citations": [
+          {
+            "source": "mw-ogha",
+            "locator": "MW ogha, p. 235",
+            "quote": "flood, stream, rapid flow of water"
+          },
+          {
+            "source": "mw-tap",
+            "locator": "MW √tap, p. 436",
+            "quote": "Intens. (p. tātapyamāna) to feel violent pain, be in great anxiety"
+          },
+          {
+            "source": "mw-jara",
+            "locator": "MW jarā, p. 413",
+            "quote": "the act of becoming old, old age"
+          },
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "stanza 8, Hindi translation",
+            "quote": "बुढ़ापा तथा जन्म [मृत्यु] के दुःखसमूहोंसे जलते हुए"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w15"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "One string of letters, two prayers. Read as *āpannam mām īśa*, it says 'protect me, who am in trouble, O Lord'. Some also hear a bow hidden in the same letters, *…namāmi īśa*, 'I bow to You, O Lord', so the line closes 'protect me in my distress… I bow to You'. Heard that way, the eight stanzas close on the word they opened with, *namāmīśa* ([verse 1](#v1-a2)). Plea and praise share the same letters.",
+          "hi": "अक्षर एक, विनतियाँ दो। *आपन्नम् माम् ईश* पढ़ें तो अर्थ है: 'हे ईश, मुझ विपत्ति में पड़े की रक्षा करो'। कुछ लोग इन्हीं अक्षरों में छिपा प्रणाम भी सुनते हैं, *…नमामि ईश*, 'हे ईश, मैं आपको नमन करता हूँ', और तब पंक्ति ऐसे पूरी होती है: 'मुझ दुःखी की रक्षा कीजिए… मैं आपको नमस्कार करता हूँ'। ऐसे सुनें तो आठों छन्द उसी शब्द पर पूरे होते हैं जिससे वे शुरू हुए थे, *नमामीश* ([पहला श्लोक](#v1-a2))। एक ही अक्षरों में विनती भी, वन्दना भी।"
+        },
+        "citations": [
+          {
+            "source": "gitapress-ramcharitmanas",
+            "locator": "stanza 8, Hindi translation",
+            "quote": "मुझ दुखीकी दुःखसे रक्षा कीजिये। हे ईश्वर! हे शम्भो! मैं आपको नमस्कार करता हूँ"
+          },
+          {
+            "source": "sanskritdocuments-rudra8",
+            "locator": "verse 8, Hindi bhāvārtha",
+            "quote": "मुझ दुःखी की रक्षा कीजिए । हे समर्थ ! हे शम्भो ! मैं आपको नमस्कार करता हूँ"
+          },
+          {
+            "source": "greenmesg-rudrashtakam",
+            "locator": "verse 8, transliteration",
+            "quote": "Aapanna-Maam-Iisha"
+          },
+          {
+            "source": "mw-apanna",
+            "locator": "MW āpanna, p. 143",
+            "quote": "afflicted, unfortunate"
+          },
+          {
+            "source": "mw-apad",
+            "locator": "MW āpad, p. 142",
+            "quote": "misfortune, calamity, distress"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "I know"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "no"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "yoga,"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "no"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "japa,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "nor even"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "worship;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "I"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "am"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "bowed down"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "to You"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "always,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "at every moment,"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "O Śambhu."
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "Scorched over and over by a flood of sorrows from old age and birth,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "O Lord,"
+            },
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "protect"
+            },
+            {
+              "refs": [
+                "w15"
+              ],
+              "text": "me in my distress, O Master,"
+            },
+            {
+              "refs": [
+                "w16"
+              ],
+              "text": "O Śambhu!"
+            }
+          ]
+        ],
+        "bhavartha": "The singer owns that he has none of the usual ways of devotion: no yoga, no japa, not even worship. All he has is his bow, and he stays bowed before Śambhu always, at every moment. Burning again and again in the flood of sorrow that old age and birth bring, he asks the Lord to protect him in his distress."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "मैं"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "न"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "योग"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "जानता हूँ,"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "न"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "जप,"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "और न ही"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "पूजा;"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "हे शम्भु!"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "मैं"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "सदा,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "हर समय"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "आपके आगे"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "झुका हुआ"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "हूँ।"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "बुढ़ापे और जन्म के दुःखों की बाढ़ से बार-बार झुलसते हुए"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "हे प्रभो!"
+            },
+            {
+              "refs": [
+                "w15"
+              ],
+              "text": "मुझ दुःखी की, हे ईश,"
+            },
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "रक्षा कीजिए,"
+            },
+            {
+              "refs": [
+                "w16"
+              ],
+              "text": "हे शम्भो!"
+            }
+          ]
+        ],
+        "bhavartha": "गाने वाला मान लेता है कि भक्ति के जाने-माने साधनों में से उसके पास कुछ भी नहीं: न योग, न जप, न ही पूजा। उसके पास केवल प्रणाम है, और वह सदा, हर क्षण शम्भु के आगे झुका रहता है। बुढ़ापे और जन्म से आने वाले दुःखों की बाढ़ में बार-बार झुलसते हुए वह प्रभु से विनती करता है कि उस दुःखी की रक्षा करें।"
+      }
+    },
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "na",
+              "gloss": "not, no, nor, neither"
+            },
+            "meaning": {
+              "en": "not",
+              "hi": "नहीं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "not, no",
+          "hi": "न, नहीं"
+        },
+        "notes": {
+          "en": "The 'not' that opens the verse covers yoga and japa; the naiva later in the line repeats it for worship.",
+          "hi": "श्लोक को खोलने वाला यह 'न' योग और जप दोनों पर लागू है; पंक्ति में आगे आने वाला नैव पूजा के लिए इसे दोहराता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "जानामि",
+            "iast": "jānāmi"
+          }
+        ],
+        "components": [
+          {
+            "sa": "जानामि",
+            "iast": "jānāmi",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ज्ञा",
+              "iast": "jñā",
+              "gana": 9,
+              "gloss": {
+                "en": "to know",
+                "hi": "जानना"
+              }
+            },
+            "formation": "√jñā (cl. 9), laṭ, first person singular, parasmaipada; jñā becomes jā before the -nā- of its present stem",
+            "sense": {
+              "dict": "mw",
+              "headword": "jñā",
+              "gloss": "to know, have knowledge, become acquainted with"
+            },
+            "meaning": {
+              "en": "I know",
+              "hi": "जानता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I know",
+          "hi": "(मैं) जानता हूँ"
+        },
+        "notes": {
+          "en": "The ending -mi means 'I', so no separate word for 'I' is needed in this line.",
+          "hi": "अन्त का -मि 'मैं' का भाव देता है, इसलिए इस पंक्ति में 'मैं' के लिए अलग शब्द की ज़रूरत नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-jna",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "योगम्",
+            "iast": "yogam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the j of japam: yogam → yogaṃ.",
+              "hi": "आगे के 'ज' (जपम्) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: योगम् → योगं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "योग",
+            "iast": "yoga",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "युज्",
+              "iast": "yuj",
+              "gana": 7,
+              "gloss": {
+                "en": "to yoke, to join",
+                "hi": "जोड़ना"
+              }
+            },
+            "formation": "√yuj + ghañ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "yoga",
+              "gloss": "application or concentration of the thoughts, abstract contemplation, meditation"
+            },
+            "meaning": {
+              "en": "yoga",
+              "hi": "योग"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "yoga, the discipline of meditation",
+          "hi": "योग, ध्यान की साधना"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-yoga",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "जपम्",
+            "iast": "japam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the n of naiva: japam → japaṃ.",
+              "hi": "आगे के 'न' (नैव) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: जपम् → जपं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "जप",
+            "iast": "japa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "जप्",
+              "iast": "jap",
+              "gana": 1,
+              "gloss": {
+                "en": "to murmur, to repeat softly",
+                "hi": "धीरे-धीरे जपना"
+              }
+            },
+            "formation": "√jap + ap (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "japa",
+              "gloss": "muttering prayers, repeating in a murmuring tone passages from scripture or charms or names of a deity"
+            },
+            "meaning": {
+              "en": "japa",
+              "hi": "जप"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "japa, the soft repeating of a prayer or holy name",
+          "hi": "जप, प्रार्थना या पवित्र नाम को धीरे-धीरे दोहराना"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-japa",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          },
+          {
+            "sa": "एव",
+            "iast": "eva"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "vṛddhi",
+            "rule": "a + e → ai",
+            "explanation": {
+              "en": "The a of na and the e of eva merge into ai: na + eva → naiva.",
+              "hi": "न का 'अ' और एव का 'ए' मिलकर 'ऐ' बन जाते हैं: न + एव → नैव।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "na",
+              "gloss": "not, no, nor, neither"
+            },
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          },
+          {
+            "sa": "एव",
+            "iast": "eva",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "eva",
+              "gloss": "just, exactly, very, same, only, even"
+            },
+            "meaning": {
+              "en": "even",
+              "hi": "ही"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor even",
+          "hi": "और न ही"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-naiva",
+          "mw-eva",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "पूजाम्",
+            "iast": "pūjām"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the n of nato'ham at the start of the next line: pūjām → pūjāṃ.",
+              "hi": "अगली पंक्ति के आरम्भ के 'न' (नतोऽहं) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पूजाम् → पूजां।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पूजा",
+            "iast": "pūjā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पूज्",
+              "iast": "pūj",
+              "gana": 10,
+              "gloss": {
+                "en": "to honour, to worship",
+                "hi": "पूजना, आदर करना"
+              }
+            },
+            "formation": "√pūj + a + ṭāp (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pūjā",
+              "gloss": "honour, worship, respect, reverence, veneration, homage to superiors or adoration of the gods"
+            },
+            "meaning": {
+              "en": "worship",
+              "hi": "पूजा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "worship, honouring God with offerings",
+          "hi": "पूजा, भेंट के साथ ईश्वर की आराधना"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-puja",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "नतः",
+            "iast": "nataḥ"
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga",
+            "rule": "aḥ + a → o + ऽ",
+            "explanation": {
+              "en": "The -aḥ of nataḥ becomes o before the a of aham, and that a is swallowed (marked ऽ): nataḥ + aham → nato'ham.",
+              "hi": "नतः का '-अः' आगे के 'अ' (अहम्) से पहले 'ओ' बन जाता है, और वह 'अ' लुप्त होकर ऽ से दिखाया जाता है: नतः + अहम् → नतोऽहम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the s of sadā: aham → ahaṃ.",
+              "hi": "आगे के 'स' (सदा) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: अहम् → अहं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "नत",
+            "iast": "nata",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नम्",
+              "iast": "nam",
+              "gana": 1,
+              "gloss": {
+                "en": "to bow",
+                "hi": "झुकना"
+              }
+            },
+            "formation": "√nam + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "nata",
+              "gloss": "bent, bowed; bowing to, saluting"
+            },
+            "meaning": {
+              "en": "bowed",
+              "hi": "झुका हुआ"
+            }
+          },
+          {
+            "sa": "अहम्",
+            "iast": "aham",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aham",
+              "gloss": "I"
+            },
+            "meaning": {
+              "en": "I",
+              "hi": "मैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I am bowed (before You)",
+          "hi": "मैं झुका हुआ हूँ, प्रणत हूँ"
+        },
+        "notes": {
+          "en": "There is no verb in this line; 'am' (asmi) is understood. nataḥ, 'bowed', describes the state the speaker stays in, not a single act. Some printings write नतोहं without the ऽ mark; the reading is the same.",
+          "hi": "इस पंक्ति में क्रिया नहीं है; 'हूँ' (अस्मि) समझा जाता है। नतः, 'झुका हुआ', एक बार के काम का नहीं, बल्कि उस दशा का वर्णन है जिसमें बोलने वाला बना रहता है। कुछ मुद्रणों में ऽ चिह्न के बिना नतोहं लिखा है; पाठ वही है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nata",
+          "mw-nam",
+          "mw-aham",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas",
+          "kashiraj-ramcharitmanas"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "सदा",
+            "iast": "sadā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सदा",
+            "iast": "sadā",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "sadā",
+              "gloss": "always, ever, every time, continually"
+            },
+            "meaning": {
+              "en": "always",
+              "hi": "सदा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "always",
+          "hi": "सदा, हमेशा"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-sada",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "सर्वदा",
+            "iast": "sarvadā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सर्वदा",
+            "iast": "sarvadā",
+            "pos": "indeclinable",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सर्व",
+              "iast": "sarva"
+            },
+            "formation": "sarva 'all' + -dā 'at the time of'",
+            "sense": {
+              "dict": "mw",
+              "headword": "sarvadā",
+              "gloss": "always, at all times"
+            },
+            "meaning": {
+              "en": "at all times",
+              "hi": "हर समय"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "at every moment, at all times",
+          "hi": "हर समय, सर्वदा"
+        },
+        "aside": {
+          "en": "*Sadā* and *sarvadā* both mean 'always'. Said one after the other, they leave no gap at all: always, at every single moment.",
+          "hi": "*सदा* और *सर्वदा* दोनों का अर्थ 'हमेशा' है। एक के बाद एक कहे जाने पर वे कोई खाली जगह नहीं छोड़ते: हमेशा, हर एक क्षण।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-sarvada",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "शम्भु",
+            "iast": "śambhu"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शम्",
+            "iast": "śam",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "well-being",
+              "hi": "कल्याण"
+            }
+          },
+          {
+            "sa": "भु",
+            "iast": "bhu",
+            "pos": "noun",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "gloss": {
+                "en": "to be, to come about",
+                "hi": "होना"
+              }
+            },
+            "formation": "śam + √bhū + ḍu: 'one from whom well-being comes'",
+            "sense": {
+              "dict": "mw",
+              "headword": "śambhu",
+              "gloss": "granting or causing happiness, beneficent, benevolent; N. of Śiva"
+            },
+            "meaning": {
+              "en": "source",
+              "hi": "स्रोत"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Śambhu (Śiva, the giver of well-being)",
+          "hi": "हे शम्भु (कल्याण देने वाले शिव)"
+        },
+        "literal": {
+          "en": "O source of well-being",
+          "hi": "हे कल्याण के स्रोत"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Textbook Sanskrit calls out to Śambhu as śambho, the form that closes this very verse. Here the poet writes śambhu, a Hindi-style ārṣa form accepted in this hymn; every witness has it.",
+          "hi": "पाठ्य संस्कृत में शम्भु को पुकारने का रूप शम्भो है, जो इसी श्लोक के अन्त में आता है। यहाँ कवि शम्भु लिखते हैं, हिन्दी की छाप वाला आर्ष रूप, जो इस स्तोत्र में मान्य है; सभी पाठों में यही है।"
+        },
+        "aside": {
+          "en": "Why *śambhu* here but *śambho* at the end? This spot in the beat needs a short sound, so the name is called with a short *-u*; at the line's end the long *-o* fits.",
+          "hi": "यहाँ *शम्भु* और अन्त में *शम्भो* क्यों? लय में इस जगह छोटी ध्वनि चाहिए, इसलिए नाम छोटे *-उ* से पुकारा गया; पंक्ति के अन्त में लम्बा *-ओ* ठीक बैठता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-shambhu",
+          "sanskritdocuments-rudra8",
+          "gitapress-ramcharitmanas",
+          "kashiraj-ramcharitmanas",
+          "belvedere-1926-ramcharitmanas"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "तुभ्यम्",
+            "iast": "tubhyam"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तुभ्यम्",
+            "iast": "tubhyam",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "युष्मद्",
+              "iast": "yuṣmad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "yuṣmad",
+              "gloss": "the base of the 2nd pers. pron."
+            },
+            "meaning": {
+              "en": "to You",
+              "hi": "आपको"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "to You, i.e. Śiva",
+          "hi": "आपको, अर्थात् शिव को"
+        },
+        "notes": {
+          "en": "The form of 'you' that means 'to you', the one a bow is made to, as in namas tubhyam, 'a bow to you'.",
+          "hi": "'तुम/आप' का वह रूप जिसका अर्थ है 'तुम्हें, आपको': जिसे प्रणाम किया जाता है, जैसे नमस्तुभ्यम्, 'आपको नमस्कार'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-yushmad",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w12": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "जरा",
+            "iast": "jarā"
+          },
+          {
+            "sa": "जन्म",
+            "iast": "janma"
+          },
+          {
+            "sa": "दुःख",
+            "iast": "duḥkha"
+          },
+          {
+            "sa": "ओघ",
+            "iast": "ogha"
+          },
+          {
+            "sa": "तातप्यमानम्",
+            "iast": "tātapyamānam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "vṛddhi",
+            "rule": "a + o → au",
+            "explanation": {
+              "en": "The final a of duḥkha and the o of ogha merge into au: duḥkha + ogha → duḥkhaugha.",
+              "hi": "दुःख का अन्तिम 'अ' और ओघ का 'ओ' मिलकर 'औ' बन जाते हैं: दुःख + ओघ → दुःखौघ।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the p of prabho on the next line: tātapyamānam → tātapyamānaṃ.",
+              "hi": "अगली पंक्ति के 'प' (प्रभो) से पहले अन्तिम 'म्' अनुस्वार बन जाता है: तातप्यमानम् → तातप्यमानं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "जरा",
+            "iast": "jarā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "जरा",
+              "iast": "jarā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "jarā",
+              "gloss": "the act of becoming old, old age"
+            },
+            "meaning": {
+              "en": "old age",
+              "hi": "बुढ़ापा"
+            }
+          },
+          {
+            "sa": "जन्मन्",
+            "iast": "janman",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "जन्",
+              "iast": "jan",
+              "gana": 4,
+              "gloss": {
+                "en": "to be born",
+                "hi": "जन्म लेना"
+              }
+            },
+            "formation": "√jan + manin",
+            "sense": {
+              "dict": "mw",
+              "headword": "janman",
+              "gloss": "birth, production; re-birth"
+            },
+            "meaning": {
+              "en": "birth",
+              "hi": "जन्म"
+            }
+          },
+          {
+            "sa": "दुःख",
+            "iast": "duḥkha",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दुःख",
+              "iast": "duḥkha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "duḥkha",
+              "gloss": "uneasiness, pain, sorrow, trouble, difficulty"
+            },
+            "meaning": {
+              "en": "sorrow",
+              "hi": "दुःख"
+            }
+          },
+          {
+            "sa": "ओघ",
+            "iast": "ogha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ओघ",
+              "iast": "ogha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ogha",
+              "gloss": "flood, stream, rapid flow of water; heap or quantity, multitude"
+            },
+            "meaning": {
+              "en": "flood",
+              "hi": "बाढ़"
+            }
+          },
+          {
+            "sa": "तातप्यमान",
+            "iast": "tātapyamāna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "तप्",
+              "iast": "tap",
+              "gana": 1,
+              "gloss": {
+                "en": "to burn, to suffer pain",
+                "hi": "तपना, जलना"
+              }
+            },
+            "formation": "√tap + yaṅ (intensive: tā-tap-ya-) + śānac (present participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "tap",
+              "gloss": "Intens. (p. tātapyamāna) to feel violent pain, be in great anxiety"
+            },
+            "meaning": {
+              "en": "burning",
+              "hi": "झुलसता"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(me) scorched over and over by a flood of sorrows from old age and birth",
+          "hi": "बुढ़ापे और जन्म के दुःखों की बाढ़ से बार-बार झुलसते हुए (मुझको)"
+        },
+        "literal": {
+          "en": "being burnt intensely by the flood of the sorrows of old age and birth",
+          "hi": "जरा और जन्म के दुःखों के समूह से अत्यन्त तपाया जाता हुआ"
+        },
+        "notes": {
+          "en": "The whole compound describes mām, 'me', in the next line. ogha can mean a flood or simply a great heap; the Hindi renderings take it as 'masses of sorrow'. Death is not named, though it is understood between old age and the next birth.",
+          "hi": "पूरा समास अगली पंक्ति के माम् 'मुझको' का वर्णन करता है। ओघ का अर्थ बाढ़ भी है और बड़ा समूह भी; हिन्दी में इसे 'दुःखसमूह' लिया जाता है। मृत्यु का नाम नहीं है, पर बुढ़ापे और अगले जन्म के बीच वह समझी जाती है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "burning in the masses of sorrow of old age and birth",
+              "hi": "बुढ़ापे और जन्म के दुःखसमूहों से जलते हुए"
+            },
+            "note": "gitapress-ramcharitmanas and sanskritdocuments-rudra8 render ogha as दुःखसमूह (a mass of sorrows), MW's 'heap, multitude' sense; MW's first sense, flood, is followed here."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-jara",
+          "mw-janman",
+          "mw-duhkha",
+          "mw-ogha",
+          "mw-tap",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w13": {
+        "padaccheda": [
+          {
+            "sa": "प्रभो",
+            "iast": "prabho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रभु",
+            "iast": "prabhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to be mighty, to prevail",
+                "hi": "समर्थ होना"
+              }
+            },
+            "formation": "pra + √bhū + ḍu",
+            "sense": {
+              "dict": "mw",
+              "headword": "prabhu",
+              "gloss": "a master, lord, king (also applied to gods)"
+            },
+            "meaning": {
+              "en": "Lord",
+              "hi": "प्रभु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Lord",
+          "hi": "हे प्रभो"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-prabhu",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w14": {
+        "padaccheda": [
+          {
+            "sa": "पाहि",
+            "iast": "pāhi"
+          }
+        ],
+        "components": [
+          {
+            "sa": "पाहि",
+            "iast": "pāhi",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पा",
+              "iast": "pā",
+              "gana": 2,
+              "gloss": {
+                "en": "to protect",
+                "hi": "रक्षा करना"
+              }
+            },
+            "formation": "√pā (cl. 2), loṭ, second person singular, parasmaipada",
+            "sense": {
+              "dict": "mw",
+              "headword": "pā",
+              "gloss": "to watch, keep, preserve; to protect from, defend against"
+            },
+            "meaning": {
+              "en": "protect!",
+              "hi": "रक्षा कीजिए"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "protect!",
+          "hi": "रक्षा कीजिए"
+        },
+        "notes": {
+          "en": "A request: 'protect!'. This is pā 'to protect', not its look-alike pā 'to drink'. pāhi and āpannam are not run together (pāhyāpannam would drop a beat), so the line keeps its twelve syllables.",
+          "hi": "विनती: 'रक्षा करो!'। यह 'रक्षा करना' वाला पा है, 'पीना' वाला उसका हमशक्ल पा नहीं। पाहि और आपन्नम् को मिलाया नहीं गया (पाह्यापन्नम् से एक मात्रा घट जाती), इसलिए पंक्ति के बारह अक्षर बने रहते हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-pa",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w15": {
+        "padaccheda": [
+          {
+            "sa": "आपन्नम्",
+            "iast": "āpannam"
+          },
+          {
+            "sa": "माम्",
+            "iast": "mām"
+          },
+          {
+            "sa": "ईश",
+            "iast": "īśa"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "m + m → m",
+            "rule": "m + m → m (one m written)",
+            "explanation": {
+              "en": "āpannam + mām is written with a single m, āpannamām; a doubled m would make na long and break the beat of the line.",
+              "hi": "आपन्नम् + माम् एक ही 'म' के साथ लिखा गया है, आपन्नमाम्; दो 'म' होने से 'न' दीर्घ हो जाता और पंक्ति की लय टूट जाती।"
+            }
+          },
+          {
+            "name": "none",
+            "rule": "m + vowel → m joins the vowel",
+            "explanation": {
+              "en": "The final m of mām simply joins the ī of īśa: mām + īśa → māmīśa.",
+              "hi": "माम् का अन्तिम 'म्' ईश के 'ई' से सीधे जुड़ जाता है: माम् + ईश → मामीश।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "आपन्न",
+            "iast": "āpanna",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पद्",
+              "iast": "pad",
+              "gana": 4,
+              "prefixes": [
+                "ā"
+              ],
+              "gloss": {
+                "en": "to fall into (trouble)",
+                "hi": "विपत्ति में पड़ना"
+              }
+            },
+            "formation": "ā + √pad + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "āpanna",
+              "gloss": "afflicted, unfortunate"
+            },
+            "meaning": {
+              "en": "distressed",
+              "hi": "दुःखी"
+            }
+          },
+          {
+            "sa": "माम्",
+            "iast": "mām",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अस्मद्",
+              "iast": "asmad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mām",
+              "gloss": "acc. sg. of 3. ma"
+            },
+            "meaning": {
+              "en": "me",
+              "hi": "मुझको"
+            }
+          },
+          {
+            "sa": "ईश",
+            "iast": "īśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ईश्",
+              "iast": "īś",
+              "gana": 2,
+              "gloss": {
+                "en": "to rule, to own",
+                "hi": "शासन करना"
+              }
+            },
+            "formation": "√īś + ka",
+            "sense": {
+              "dict": "mw",
+              "headword": "īśa",
+              "gloss": "a ruler, master, lord; N. of Śiva"
+            },
+            "meaning": {
+              "en": "Master",
+              "hi": "स्वामी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "me, who am in distress, O Master (Śiva)",
+          "hi": "मुझ दुःखी को, हे ईश (शिव)"
+        },
+        "notes": {
+          "en": "āpanna first means 'fallen into' and so 'fallen on hard times', afflicted. The jarā-janma compound of the line above also describes this mām, 'me'. Most printings run all three words together, some with a space before śambho.",
+          "hi": "आपन्न का पहला अर्थ है 'में पड़ा हुआ', और इसी से 'विपत्ति में पड़ा', दुःखी। ऊपर की पंक्ति का जरा-जन्म वाला समास भी इसी माम् 'मुझको' का वर्णन करता है। अधिकतर मुद्रणों में तीनों शब्द मिलाकर लिखे हैं, कुछ में शम्भो से पहले जगह है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(protect from) trouble; I bow to You, O Lord",
+              "hi": "(विपत्ति से बचाइए); हे ईश, मैं आपको नमन करता हूँ"
+            },
+            "note": "Split āpat + namāmi + īśa (āpad, MW 'misfortune, calamity, distress'; the d becomes n before n), the spelling fits exactly. gitapress-ramcharitmanas and sanskritdocuments-rudra8 end their Hindi with 'मैं आपको नमस्कार करता हूँ', reading both senses; greenmesg-rudrashtakam and shlokam-rudrashtakam split āpannam / mām (āmī) / īśa."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-apanna",
+          "mw-mam",
+          "mw-isha",
+          "mw-apad",
+          "sanskritdocuments-rudra8",
+          "greenmesg-rudrashtakam",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      },
+      "w16": {
+        "padaccheda": [
+          {
+            "sa": "शम्भो",
+            "iast": "śambho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शम्",
+            "iast": "śam",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "well-being",
+              "hi": "कल्याण"
+            }
+          },
+          {
+            "sa": "भु",
+            "iast": "bhu",
+            "pos": "noun",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "gloss": {
+                "en": "to be, to come about",
+                "hi": "होना"
+              }
+            },
+            "formation": "śam + √bhū + ḍu: 'one from whom well-being comes'",
+            "sense": {
+              "dict": "mw",
+              "headword": "śambhu",
+              "gloss": "granting or causing happiness, beneficent, benevolent; N. of Śiva"
+            },
+            "meaning": {
+              "en": "source",
+              "hi": "स्रोत"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Śambhu (Śiva, the giver of well-being)",
+          "hi": "हे शम्भो (कल्याण देने वाले शिव)"
+        },
+        "literal": {
+          "en": "O source of well-being",
+          "hi": "हे कल्याण के स्रोत"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "The regular form for calling out to Śambhu, set against the short śambhu of line two. With it the eight stanzas close on the Lord's name.",
+          "hi": "शम्भु को पुकारने का नियमित रूप, दूसरी पंक्ति के छोटे शम्भु के सामने। इसी के साथ आठों छन्द प्रभु के नाम पर समाप्त होते हैं।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-shambhu",
+          "sanskritdocuments-rudra8",
+          "shlokam-rudrashtakam",
+          "gitapress-ramcharitmanas"
+        ]
+      }
+    }
+  }
+}

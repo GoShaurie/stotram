@@ -1,0 +1,841 @@
+{
+  "id": "v8",
+  "number": 8,
+  "kind": "verse",
+  "meter": "bhujangaprayata",
+  "concepts": [
+    "vishvarupa"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w2",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w3",
+          "text": "विभो",
+          "iast": "vibho"
+        },
+        {
+          "id": "w4",
+          "text": "विश्वमूर्ते",
+          "iast": "viśvamūrte"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w6",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w7",
+          "text": "चिदानन्दमूर्ते",
+          "iast": "cidānandamūrte"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w9",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w10",
+          "text": "तपोयोगगम्य",
+          "iast": "tapoyogagamya"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w11",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w12",
+          "text": "नमस्ते",
+          "iast": "namaste"
+        },
+        {
+          "id": "w13",
+          "text": "श्रुतिज्ञानगम्य",
+          "iast": "śrutijñānagamya"
+        }
+      ],
+      "end": "॥ ८ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w4"],
+      "iast": "viśva-mūrte",
+      "type": "bahuvrīhi",
+      "vigraha": "विश्वं मूर्तिः यस्य सः, तत्सम्बुद्धौ",
+      "meaning": {
+        "en": "O You whose form is the universe",
+        "hi": "हे (प्रभु), विश्व ही जिनका रूप है"
+      }
+    },
+    "c2": {
+      "members": ["w7"],
+      "iast": "cid-ānanda-mūrte",
+      "type": "bahuvrīhi",
+      "structure": "((cit-ānanda)-mūrti)",
+      "vigraha": "चिच्च आनन्दश्च चिदानन्दौ, चिदानन्दः मूर्तिः यस्य सः, तत्सम्बुद्धौ",
+      "meaning": {
+        "en": "O You whose form is awareness and bliss",
+        "hi": "हे (प्रभु), चेतना और आनन्द ही जिनका रूप है"
+      }
+    },
+    "c3": {
+      "members": ["w10"],
+      "iast": "tapo-yoga-gamya",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā",
+      "structure": "((tapas-yoga)-gamya)",
+      "vigraha": "तपश्च योगश्च तपोयोगौ, ताभ्यां गम्यः, तत्सम्बुद्धौ",
+      "meaning": {
+        "en": "O You who are reached through austerity and meditation",
+        "hi": "हे तप और ध्यान से पाए जाने वाले"
+      }
+    },
+    "c4": {
+      "members": ["w13"],
+      "iast": "śruti-jñāna-gamya",
+      "type": "tatpuruṣa",
+      "subtype": "tṛtīyā",
+      "structure": "((śruti-jñāna)-gamya)",
+      "vigraha": "श्रुतेः ज्ञानं श्रुतिज्ञानम्, तेन गम्यः, तत्सम्बुद्धौ",
+      "meaning": {
+        "en": "O You who are reached through the knowledge of the Vedas",
+        "hi": "हे वेदों के ज्ञान से जाने जाने वाले"
+      }
+    }
+  },
+  "padas": [
+    {"id": "p1", "words": ["w1"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p2", "words": ["w1"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p1"},
+    {"id": "p3", "words": ["w2"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p4", "words": ["w2"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p3"},
+    {"id": "p5", "words": ["w3"], "sa": "विभो", "iast": "vibho", "morph": {"type": "subanta", "stem": {"sa": "विभु", "iast": "vibhu"}, "gender": "masculine", "case": "vocative", "number": "singular"}, "role": "sambodhana", "head": null},
+    {"id": "p6", "words": ["w4"], "sa": "विश्वमूर्ते", "iast": "viśvamūrte", "morph": {"type": "subanta", "stem": {"sa": "विश्वमूर्ति", "iast": "viśvamūrti"}, "gender": "masculine", "case": "vocative", "number": "singular"}, "role": "sambodhana", "head": null},
+    {"id": "p7", "words": ["w5"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p8", "words": ["w5"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p7"},
+    {"id": "p9", "words": ["w6"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p10", "words": ["w6"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p9"},
+    {"id": "p11", "words": ["w7"], "sa": "चिदानन्दमूर्ते", "iast": "cidānandamūrte", "morph": {"type": "subanta", "stem": {"sa": "चिदानन्दमूर्ति", "iast": "cidānandamūrti"}, "gender": "masculine", "case": "vocative", "number": "singular"}, "role": "sambodhana", "head": null},
+    {"id": "p12", "words": ["w8"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p13", "words": ["w8"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p12"},
+    {"id": "p14", "words": ["w9"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p15", "words": ["w9"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p14"},
+    {"id": "p16", "words": ["w10"], "sa": "तपोयोगगम्य", "iast": "tapoyogagamya", "morph": {"type": "subanta", "stem": {"sa": "तपोयोगगम्य", "iast": "tapoyogagamya"}, "gender": "masculine", "case": "vocative", "number": "singular"}, "role": "sambodhana", "head": null},
+    {"id": "p17", "words": ["w11"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p18", "words": ["w11"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p17"},
+    {"id": "p19", "words": ["w12"], "sa": "नमः", "iast": "namaḥ", "morph": {"type": "subanta", "stem": {"sa": "नमस्", "iast": "namas"}, "gender": "neuter", "case": "nominative", "number": "singular"}, "role": "kartā", "head": "x1"},
+    {"id": "p20", "words": ["w12"], "sa": "ते", "iast": "te", "morph": {"type": "subanta", "stem": {"sa": "युष्मद्", "iast": "yuṣmad"}, "case": "dative", "number": "singular"}, "role": "sampradāna", "head": "p19"},
+    {"id": "p21", "words": ["w13"], "sa": "श्रुतिज्ञानगम्य", "iast": "śrutijñānagamya", "morph": {"type": "subanta", "stem": {"sa": "श्रुतिज्ञानगम्य", "iast": "śrutijñānagamya"}, "gender": "masculine", "case": "vocative", "number": "singular"}, "role": "sambodhana", "head": null}
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अस्तु",
+      "iast": "astu",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {"sa": "अस्", "iast": "as", "gana": 2},
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null,
+      "meaning": {
+        "en": "be (may the salutation be offered)",
+        "hi": "है, हो"
+      }
+    }
+  ],
+  "anvaya": ["p5", "p6", "p2", "p1", "x1", "p4", "p3", "p11", "p8", "p7", "p10", "p9", "p16", "p13", "p12", "p15", "p14", "p21", "p18", "p17", "p20", "p19"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {"refs": ["w1"], "text": "Salutations"},
+          {"refs": ["x1"], "text": "be"},
+          {"refs": ["w1"], "text": "to You,"},
+          {"refs": ["w2"], "text": "salutations to You,"},
+          {"refs": ["w3"], "text": "O all-pervading Lord,"},
+          {"refs": ["w4"], "text": "whose form is the universe!"}
+        ],
+        [
+          {"refs": ["w5"], "text": "Salutations to You,"},
+          {"refs": ["w6"], "text": "salutations to You,"},
+          {"refs": ["w7"], "text": "O You whose form is awareness and bliss!"}
+        ],
+        [
+          {"refs": ["w8"], "text": "Salutations to You,"},
+          {"refs": ["w9"], "text": "salutations to You,"},
+          {"refs": ["w10"], "text": "O You who are reached through austerity and meditation!"}
+        ],
+        [
+          {"refs": ["w11"], "text": "Salutations to You,"},
+          {"refs": ["w12"], "text": "salutations to You,"},
+          {"refs": ["w13"], "text": "O You who are reached through the knowledge of the Vedas!"}
+        ]
+      ],
+      "bhavartha": "Twice in every line the singer bows to Śiva, eight bows in all, and each pair greets Him by a new name: the Lord who is everywhere, whose form is the whole universe; the One whose form is awareness and bliss; the One reached through austerity and meditation; and the One reached through the knowledge of the Vedas."
+    },
+    "hi": {
+      "lines": [
+        [
+          {"refs": ["w1"], "text": "आपको नमस्कार"},
+          {"refs": ["x1"], "text": "है,"},
+          {"refs": ["w2"], "text": "आपको नमस्कार,"},
+          {"refs": ["w3"], "text": "हे सर्वव्यापी प्रभु,"},
+          {"refs": ["w4"], "text": "हे विश्वमूर्ति, सारा विश्व ही जिनका रूप है!"}
+        ],
+        [
+          {"refs": ["w5"], "text": "आपको नमस्कार,"},
+          {"refs": ["w6"], "text": "आपको नमस्कार,"},
+          {"refs": ["w7"], "text": "हे चिदानन्दमूर्ति, चेतना और आनन्द ही जिनका रूप है!"}
+        ],
+        [
+          {"refs": ["w8"], "text": "आपको नमस्कार,"},
+          {"refs": ["w9"], "text": "आपको नमस्कार,"},
+          {"refs": ["w10"], "text": "हे तप और ध्यान से पाए जाने वाले!"}
+        ],
+        [
+          {"refs": ["w11"], "text": "आपको नमस्कार,"},
+          {"refs": ["w12"], "text": "आपको नमस्कार,"},
+          {"refs": ["w13"], "text": "हे वेदों के ज्ञान से जाने जाने वाले!"}
+        ]
+      ],
+      "bhavartha": "हर पंक्ति में भक्त दो बार शिव को नमस्कार करता है, कुल आठ बार, और हर जोड़ी में उन्हें एक नए नाम से पुकारता है: वे प्रभु जो सब जगह व्याप्त हैं और सारा विश्व जिनका रूप है; वे जिनका रूप चेतना और आनन्द है; वे जो तप और ध्यान से पाए जाते हैं; और वे जो वेदों के ज्ञान से जाने जाते हैं।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1", "w2"],
+      "kind": "wordplay",
+      "body": {
+        "en": "*Namaste* is two words run together: *namaḥ*, a bow, and *te*, 'to You'. *Namaḥ* comes from *nam*, to bend, so the word holds a picture: a body bending low. Here the hymn says it twice in every line, eight times in all, and after each pair it calls Śiva by a new name. The describing pauses, and the singer simply bows, again and again.",
+        "hi": "*नमस्ते* दो शब्दों का मेल है: *नमः*, यानी झुककर प्रणाम, और *ते*, यानी 'आपको'। *नमः* *नम्* से बना है, जिसका अर्थ है झुकना; इसलिए इस शब्द में एक चित्र है: नीचे झुकता हुआ शरीर। यहाँ स्तोत्र हर पंक्ति में इसे दो बार कहता है, कुल आठ बार, और हर जोड़ी के बाद शिव को एक नए नाम से पुकारता है। वर्णन थम जाता है, और भक्त बस बार-बार झुकता है।"
+      },
+      "citations": [
+        {"source": "mw-namas", "locator": "MW namas, p. 528", "quote": "bow, obeisance, reverential salutation"},
+        {"source": "mw-nam", "locator": "MW √nam, p. 528", "quote": "to bend or bow"},
+        {"source": "gitapress-stotraratnavali", "locator": "p. 28, verse 8, Hindi translation", "quote": "आपको नमस्कार है, नमस्कार है"}
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a2",
+      "refs": ["w7"],
+      "kind": "theology",
+      "body": {
+        "en": "Verse 6 said Śiva has [no *mūrti*, no body or shape](#v6-a4). Now the hymn gives Him two. The first line calls Him *viśva-mūrti*: the whole universe is His form. This line turns inward: His form is *cit* and *ānanda*, pure awareness and pure joy. In Vedānta these are marks of the Highest itself, so this 'form' has no outline at all. One form is everything you can see; the other is the seeing, and the joy.",
+        "hi": "छठे श्लोक ने कहा था कि शिव की [कोई *मूर्ति*, कोई देह या आकार नहीं](#v6-a4)। अब स्तोत्र उन्हें दो रूप देता है। पहली पंक्ति उन्हें *विश्व-मूर्ति* कहती है: सारा विश्व उनका रूप है। यह पंक्ति भीतर की ओर मुड़ती है: उनका रूप *चित्* और *आनन्द* है, शुद्ध चेतना और शुद्ध आनन्द। वेदान्त में ये स्वयं परम तत्त्व के लक्षण हैं, इसलिए इस 'रूप' की कोई रेखा नहीं। एक रूप वह सब है जो दिखता है; दूसरा स्वयं देखना है, और आनन्द।"
+      },
+      "citations": [
+        {"source": "mw-cit", "locator": "MW cit, p. 395", "quote": "pure Thought (Brahma"},
+        {"source": "mw-ananda", "locator": "MW ānanda, p. 139", "quote": "one of the three attributes of Ātman or Brahman in the Vedānta philosophy"},
+        {"source": "mw-murti", "locator": "MW mūrti, p. 824", "quote": "embodiment, manifestation, incarnation, personification"},
+        {"source": "shlokam-vedasara-shiva-stava", "locator": "verse 8, word-meanings", "quote": "embodiment of bliss of consciousness"}
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w10", "w11", "w12", "w13"],
+      "kind": "context",
+      "body": {
+        "en": "Two roads, one goal. Line three says Śiva is reached by *tapas* and *yoga*, hard discipline and deep meditation; line four, by the knowledge that *śruti*, the Veda, gives. The Kaṭha Upaniṣad names both together: the goal that all the Vedas declare and all austerities speak of. And the Śvetāśvatara calls the One *adhigamya*, 'to be reached', through Sāṃkhya and yoga, almost this hymn's own word.",
+        "hi": "दो रास्ते, एक लक्ष्य। तीसरी पंक्ति कहती है कि शिव *तप* और *योग* से, यानी कठोर साधना और गहरे ध्यान से, पाए जाते हैं; चौथी कहती है, *श्रुति* यानी वेद के ज्ञान से। कठ उपनिषद् दोनों को एक साथ रखता है: वह लक्ष्य जिसका सारे वेद वर्णन करते हैं और सारे तप जिसकी बात करते हैं। और श्वेताश्वतर उस एक को सांख्य और योग से *अधिगम्य*, 'पाने योग्य', कहता है, लगभग इसी स्तोत्र का शब्द।"
+      },
+      "citations": [
+        {"source": "katha-upanishad", "locator": "Kaṭha Up. 1.2.15", "quote": "सर्वे वेदा यत् पदमामनन्ति तपाँसि सर्वाणि च यद् वदन्ति"},
+        {"source": "shvetashvatara-upanishad", "locator": "Śvetāśvatara Up. 6.13", "quote": "तत्कारणं सांख्ययोगाधिगम्यं"},
+        {"source": "gitapress-stotraratnavali", "locator": "p. 28, verse 8, Hindi translation", "quote": "हे तप तथा योगसे प्राप्तव्य प्रभो"}
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "words": {
+    "w1": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नम्",
+            "iast": "nam",
+            "gana": 1,
+            "gloss": {"en": "to bend, to bow", "hi": "झुकना"}
+          },
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "notes": {
+        "en": "Two words: namaḥ, a bow, and te, 'to You'. No verb is spoken; 'be' (astu) is understood. The same word comes eight times in this verse.",
+        "hi": "दो शब्द: नमः (प्रणाम) और ते (आपको)। क्रिया कही नहीं गई; 'हो' (अस्तु) समझ लिया जाता है। यही शब्द इस श्लोक में आठ बार आता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w2": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "नम्", "iast": "nam", "gana": 1, "gloss": {"en": "to bend, to bow", "hi": "झुकना"}},
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w3": {
+      "padaccheda": [
+        {"sa": "विभो", "iast": "vibho"}
+      ],
+      "components": [
+        {
+          "sa": "विभु",
+          "iast": "vibhu",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "भू",
+            "iast": "bhū",
+            "gana": 1,
+            "prefixes": ["vi"],
+            "gloss": {"en": "to be, to become", "hi": "होना"}
+          },
+          "formation": "vi + √bhū + ḍu",
+          "sense": {"dict": "mw", "headword": "vi-bhu", "gloss": "being everywhere, far-extending, all-pervading, omnipresent"},
+          "meaning": {"en": "all-pervading", "hi": "सर्वव्यापी"}
+        }
+      ],
+      "meaning": {"en": "O all-pervading Lord, i.e. Śiva", "hi": "हे सर्वव्यापी प्रभु, अर्थात् हे शिव"},
+      "epithet": true,
+      "aside": {
+        "en": "*Vibhu* holds two ideas at once: being everywhere, and being mighty, a lord. Both fit the One whom the very next word calls the universe in form.",
+        "hi": "*विभु* में दो भाव एक साथ हैं: सब जगह होना, और शक्तिशाली स्वामी होना। दोनों उन पर ठीक बैठते हैं जिन्हें अगला ही शब्द विश्व-रूप कहता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vibhu", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w4": {
+      "compound": "c1",
+      "padaccheda": [
+        {"sa": "विश्व", "iast": "viśva"},
+        {"sa": "मूर्ते", "iast": "mūrte"}
+      ],
+      "components": [
+        {
+          "sa": "विश्व",
+          "iast": "viśva",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "pratipadika", "sa": "विश्व", "iast": "viśva"},
+          "sense": {"dict": "mw", "headword": "viśva", "gloss": "the whole world, universe"},
+          "meaning": {"en": "universe", "hi": "विश्व"}
+        },
+        {
+          "sa": "मूर्ति",
+          "iast": "mūrti",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "pratipadika", "sa": "मूर्ति", "iast": "mūrti"},
+          "sense": {"dict": "mw", "headword": "mūrti", "gloss": "embodiment, manifestation, incarnation"},
+          "meaning": {"en": "form", "hi": "रूप"}
+        }
+      ],
+      "meaning": {"en": "O You whose form is the universe, i.e. Śiva", "hi": "हे विश्वमूर्ति, सारा विश्व ही जिनका रूप है, अर्थात् हे शिव"},
+      "literal": {"en": "O You who have the universe as Your form", "hi": "हे विश्व-रूप वाले"},
+      "epithet": true,
+      "notes": {
+        "en": "The final -e is the calling form: 'O You whose…'. The name describes the one who has such a form, Śiva.",
+        "hi": "अन्त का '-ए' पुकारने का रूप है: 'हे…'। यह नाम उनका वर्णन करता है जिनका ऐसा रूप है, अर्थात् शिव।"
+      },
+      "confidence": "high",
+      "sources": ["mw-vishva", "mw-murti", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w5": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "नम्", "iast": "nam", "gana": 1, "gloss": {"en": "to bend, to bow", "hi": "झुकना"}},
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w6": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "नम्", "iast": "nam", "gana": 1, "gloss": {"en": "to bend, to bow", "hi": "झुकना"}},
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w7": {
+      "compound": "c2",
+      "padaccheda": [
+        {"sa": "चित्", "iast": "cit"},
+        {"sa": "आनन्द", "iast": "ānanda"},
+        {"sa": "मूर्ते", "iast": "mūrte"}
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "t + ā → d + ā",
+          "explanation": {
+            "en": "The final t of cit becomes the softer d before the vowel ā: cit + ānanda → cidānanda.",
+            "hi": "चित् का अन्तिम 'त्' आगे के स्वर 'आ' के कारण 'द्' बन जाता है: चित् + आनन्द → चिदानन्द।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "चित्",
+          "iast": "cit",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "dhatu", "sa": "चित्", "iast": "cit", "gana": 1, "gloss": {"en": "to perceive, to be aware", "hi": "जानना, चेतना"}},
+          "sense": {"dict": "mw", "headword": "cit", "gloss": "thought, intellect, spirit, soul; pure Thought"},
+          "meaning": {"en": "awareness", "hi": "चेतना"}
+        },
+        {
+          "sa": "आनन्द",
+          "iast": "ānanda",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "dhatu", "sa": "नन्द्", "iast": "nand", "gana": 1, "prefixes": ["ā"], "gloss": {"en": "to rejoice", "hi": "प्रसन्न होना"}},
+          "sense": {"dict": "mw", "headword": "ānanda", "gloss": "pure happiness"},
+          "meaning": {"en": "bliss", "hi": "आनन्द"}
+        },
+        {
+          "sa": "मूर्ति",
+          "iast": "mūrti",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "pratipadika", "sa": "मूर्ति", "iast": "mūrti"},
+          "sense": {"dict": "mw", "headword": "mūrti", "gloss": "embodiment, manifestation, incarnation"},
+          "meaning": {"en": "form", "hi": "रूप"}
+        }
+      ],
+      "meaning": {"en": "O You whose form is awareness and bliss, i.e. Śiva", "hi": "हे चिदानन्दमूर्ति, चेतना और आनन्द ही जिनका रूप है, अर्थात् हे शिव"},
+      "literal": {"en": "O You who have awareness-and-bliss as Your form", "hi": "हे चेतना-आनन्द-रूप वाले"},
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-cidananda", "mw-cit", "mw-ananda", "mw-murti", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w8": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "नम्", "iast": "nam", "gana": 1, "gloss": {"en": "to bend, to bow", "hi": "झुकना"}},
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w9": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "नम्", "iast": "nam", "gana": 1, "gloss": {"en": "to bend, to bow", "hi": "झुकना"}},
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w10": {
+      "compound": "c3",
+      "padaccheda": [
+        {"sa": "तपस्", "iast": "tapas"},
+        {"sa": "योग", "iast": "yoga"},
+        {"sa": "गम्य", "iast": "gamya"}
+      ],
+      "sandhi": [
+        {
+          "name": "utva",
+          "rule": "as + y → o + y",
+          "explanation": {
+            "en": "The final -as of tapas turns into -o before the soft y of yoga: tapas + yoga → tapoyoga.",
+            "hi": "तपस् का अन्तिम '-अस्' आगे के कोमल 'य' (योग) के कारण '-ओ' बन जाता है: तपस् + योग → तपोयोग।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "तपस्",
+          "iast": "tapas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "तप्", "iast": "tap", "gana": 1, "gloss": {"en": "to heat, to burn", "hi": "तपना"}},
+          "sense": {"dict": "mw", "headword": "tapas", "gloss": "religious austerity, bodily mortification, penance, severe meditation"},
+          "meaning": {"en": "austerity", "hi": "तप"}
+        },
+        {
+          "sa": "योग",
+          "iast": "yoga",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {"kind": "dhatu", "sa": "युज्", "iast": "yuj", "gana": 4, "gloss": {"en": "to concentrate the mind", "hi": "मन को एकाग्र करना"}},
+          "sense": {"dict": "mw", "headword": "yoga", "gloss": "concentration of the thoughts, abstract contemplation, meditation"},
+          "meaning": {"en": "meditation", "hi": "ध्यान"}
+        },
+        {
+          "sa": "गम्य",
+          "iast": "gamya",
+          "pos": "adjective",
+          "root": {"kind": "dhatu", "sa": "गम्", "iast": "gam", "gana": 1, "gloss": {"en": "to go, to reach", "hi": "जाना, पहुँचना"}},
+          "formation": "√gam + yat ('to be reached')",
+          "sense": {"dict": "mw", "headword": "gamya", "gloss": "to be gone or gone to, approachable, accessible, attainable"},
+          "meaning": {"en": "reachable", "hi": "प्राप्य"}
+        }
+      ],
+      "meaning": {"en": "O You who are reached through austerity and meditation, i.e. Śiva", "hi": "हे तप और ध्यान से पाए जाने वाले, अर्थात् हे शिव"},
+      "epithet": true,
+      "aside": {
+        "en": "*Yoga* here is the practice of meditation, the mind held still and turned inward, not its older sense of yoking. *Tapas* first meant heat: discipline that burns.",
+        "hi": "यहाँ *योग* का अर्थ ध्यान का अभ्यास है, मन को स्थिर करके भीतर मोड़ना। *तप* का पहला अर्थ था ताप: ऐसी साधना जो तपाती है।"
+      },
+      "alternatives": [
+        {
+          "reading": {"en": "O You who are reached through the practice of austerity", "hi": "हे तप के अभ्यास से पाए जाने वाले"},
+          "note": "mw-tapoyoga lists tapo-yoga as one word, 'the practice of penance'. gitapress-stotraratnavali (तप तथा योगसे) and shlokam-vedasara-shiva-stava (penance and yoga) read two things, austerity and yoga; that reading is followed."
+        }
+      ],
+      "confidence": "medium",
+      "sources": ["mw-tapas", "mw-yoga", "mw-tapoyoga", "mw-gamya", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w11": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "नम्", "iast": "nam", "gana": 1, "gloss": {"en": "to bend, to bow", "hi": "झुकना"}},
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w12": {
+      "padaccheda": [
+        {"sa": "नमः", "iast": "namaḥ"},
+        {"sa": "ते", "iast": "te"}
+      ],
+      "sandhi": [
+        {
+          "name": "satva",
+          "rule": "ḥ + t → s + t",
+          "explanation": {
+            "en": "The final ḥ of namaḥ becomes s before the t of te: namaḥ + te → namaste.",
+            "hi": "नमः का अन्तिम 'ः' आगे के 'त' (ते) के कारण 'स्' बन जाता है: नमः + ते → नमस्ते।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "नम्", "iast": "nam", "gana": 1, "gloss": {"en": "to bend, to bow", "hi": "झुकना"}},
+          "sense": {"dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation"},
+          "meaning": {"en": "salutation", "hi": "नमस्कार"}
+        },
+        {
+          "sa": "ते",
+          "iast": "te",
+          "pos": "pronoun",
+          "root": {"kind": "pratipadika", "sa": "युष्मद्", "iast": "yuṣmad"},
+          "meaning": {"en": "to You", "hi": "आपको"}
+        }
+      ],
+      "meaning": {"en": "salutations to You, i.e. Śiva", "hi": "आपको, अर्थात् शिव को, नमस्कार"},
+      "literal": {"en": "a bow to You", "hi": "आपको प्रणाम"},
+      "confidence": "high",
+      "sources": ["mw-namas", "mw-nam", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    },
+    "w13": {
+      "compound": "c4",
+      "padaccheda": [
+        {"sa": "श्रुति", "iast": "śruti"},
+        {"sa": "ज्ञान", "iast": "jñāna"},
+        {"sa": "गम्य", "iast": "gamya"}
+      ],
+      "components": [
+        {
+          "sa": "श्रुति",
+          "iast": "śruti",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {"kind": "dhatu", "sa": "श्रु", "iast": "śru", "gana": 5, "gloss": {"en": "to hear", "hi": "सुनना"}},
+          "sense": {"dict": "mw", "headword": "śruti", "gloss": "sacred knowledge orally transmitted, the Veda"},
+          "meaning": {"en": "Veda", "hi": "वेद"}
+        },
+        {
+          "sa": "ज्ञान",
+          "iast": "jñāna",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {"kind": "dhatu", "sa": "ज्ञा", "iast": "jñā", "gana": 9, "gloss": {"en": "to know", "hi": "जानना"}},
+          "sense": {"dict": "mw", "headword": "jñāna", "gloss": "knowing, knowledge, the higher knowledge"},
+          "meaning": {"en": "knowledge", "hi": "ज्ञान"}
+        },
+        {
+          "sa": "गम्य",
+          "iast": "gamya",
+          "pos": "adjective",
+          "root": {"kind": "dhatu", "sa": "गम्", "iast": "gam", "gana": 1, "gloss": {"en": "to go, to reach", "hi": "जाना, पहुँचना"}},
+          "formation": "√gam + yat ('to be reached')",
+          "sense": {"dict": "mw", "headword": "gamya", "gloss": "attainable; to be perceived or understood"},
+          "meaning": {"en": "reachable", "hi": "प्राप्य"}
+        }
+      ],
+      "meaning": {"en": "O You who are reached through the knowledge of the Vedas, i.e. Śiva", "hi": "हे वेदों के ज्ञान से जाने जाने वाले, अर्थात् हे शिव"},
+      "epithet": true,
+      "aside": {
+        "en": "*Śruti* means 'what is heard': the Veda, passed on by ear from teacher to pupil, generation after generation.",
+        "hi": "*श्रुति* का अर्थ है 'जो सुना गया': वेद, जो गुरु से शिष्य तक, पीढ़ी-दर-पीढ़ी, कानों से सुनकर आगे बढ़ा।"
+      },
+      "confidence": "high",
+      "sources": ["mw-shruti", "mw-jnana", "mw-gamya", "mw-jnanagamya", "shlokam-vedasara-shiva-stava", "gitapress-stotraratnavali"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {"date": "2026-11-21", "by": "ai", "action": "Drafted from evidence pack."}
+    ]
+  }
+}

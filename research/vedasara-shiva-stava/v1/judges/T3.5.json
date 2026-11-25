@@ -1,0 +1,12 @@
+{
+  "check": "T3.5",
+  "fields_hash": "4cdbd77fc80cf0b0",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.en.lines[0][1]",
+      "message": "EN segment 'of all living beings' (refs w1) adds 'all'. No pada says 'all': paśūnām is just a genitive plural, and w1.meaning.en is 'of living beings'. It is a small addition, and gitapress-stotraratnavali has 'सम्पूर्ण प्राणियोंके', so a source does read it that way. But the HI segment ('प्राणियों के') and the EN bhāvārtha ('Lord of living beings') both leave it out, so the EN line says slightly more than the rest of the data. A human should decide whether to keep it.",
+      "suggested_fix": "Change the text to 'of living beings,' so it matches w1.meaning, the HI line and the bhāvārtha. Or, if 'all' is wanted, add it in HI too ('सब प्राणियों के') and in the bhāvārtha."
+    }
+  ]
+}

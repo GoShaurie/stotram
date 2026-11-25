@@ -1,0 +1,1377 @@
+{
+  "id": "v5",
+  "number": 5,
+  "kind": "verse",
+  "concepts": [
+    "panchakshara-mantra",
+    "shiva-ascetic-adornment",
+    "shiva-supreme-lord"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "यक्षस्वरूपाय",
+          "iast": "yakṣasvarūpāya"
+        },
+        {
+          "id": "w2",
+          "text": "जटाधराय",
+          "iast": "jaṭādharāya"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "पिनाकहस्ताय",
+          "iast": "pinākahastāya"
+        },
+        {
+          "id": "w4",
+          "text": "सनातनाय",
+          "iast": "sanātanāya"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "दिव्याय",
+          "iast": "divyāya"
+        },
+        {
+          "id": "w6",
+          "text": "देवाय",
+          "iast": "devāya"
+        },
+        {
+          "id": "w7",
+          "text": "दिगम्बराय",
+          "iast": "digambarāya"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "तस्मै",
+          "iast": "tasmai"
+        },
+        {
+          "id": "w9",
+          "text": "यकाराय",
+          "iast": "yakārāya"
+        },
+        {
+          "id": "w10",
+          "text": "नमः",
+          "iast": "namaḥ"
+        },
+        {
+          "id": "w11",
+          "text": "शिवाय",
+          "iast": "śivāya"
+        }
+      ],
+      "end": "॥ ५ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": [
+        "w1"
+      ],
+      "iast": "yakṣa-svarūpāya",
+      "type": "bahuvrīhi",
+      "vigraha": "यक्षः स्वरूपं यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him whose form is a yakṣa",
+        "hi": "उन (शिव) को, जिन्होंने यक्ष का रूप धारण किया"
+      },
+      "note": {
+        "en": "yakṣa 'a supernatural being' + svarūpa 'own form': the one whose form is a yakṣa, i.e. Śiva, who took that shape.",
+        "hi": "यक्ष 'अलौकिक प्राणी' + स्वरूप 'अपना रूप': जिनका रूप यक्ष का है, अर्थात् शिव, जिन्होंने वह रूप धारण किया।"
+      }
+    },
+    "c2": {
+      "members": [
+        "w2"
+      ],
+      "iast": "jaṭā-dharāya",
+      "type": "upapada",
+      "vigraha": "जटाः धरति इति जटाधरः, तस्मै",
+      "meaning": {
+        "en": "to Him who wears matted hair",
+        "hi": "उन (शिव) को, जो जटा धारण करते हैं"
+      },
+      "note": {
+        "en": "jaṭā 'matted hair' + dhara 'wearing, bearing' (from √dhṛ, 'to hold'): the one who wears matted hair.",
+        "hi": "जटा 'उलझे केश' + धर 'धारण करने वाला' (√धृ, 'धारण करना' से): जो जटा धारण करते हैं।"
+      }
+    },
+    "c3": {
+      "members": [
+        "w3"
+      ],
+      "iast": "pināka-hastāya",
+      "type": "bahuvrīhi",
+      "subtype": "vyadhikaraṇa",
+      "vigraha": "पिनाकः हस्ते यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him in whose hand is the Pināka bow",
+        "hi": "उन (शिव) को, जिनके हाथ में पिनाक धनुष है"
+      },
+      "note": {
+        "en": "pināka 'Śiva's bow' + hasta 'hand': the one who has the Pināka in His hand.",
+        "hi": "पिनाक 'शिव का धनुष' + हस्त 'हाथ': जिनके हाथ में पिनाक है।"
+      }
+    },
+    "c4": {
+      "members": [
+        "w7"
+      ],
+      "iast": "dig-ambarāya",
+      "type": "bahuvrīhi",
+      "vigraha": "दिशः एव अम्बरं यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him whose clothing is the directions",
+        "hi": "उन (शिव) को, दिशाएँ ही जिनके वस्त्र हैं"
+      },
+      "note": {
+        "en": "diś 'direction' + ambara 'clothing' (also 'sky'): the one clothed only in the directions, i.e. naked.",
+        "hi": "दिश् 'दिशा' + अम्बर 'वस्त्र' (और 'आकाश'): जो केवल दिशाओं को ओढ़े हैं, अर्थात् निर्वस्त्र।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": [
+        "w1"
+      ],
+      "sa": "यक्षस्वरूपाय",
+      "iast": "yakṣasvarūpāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "यक्षस्वरूप",
+          "iast": "yakṣasvarūpa"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p2",
+      "words": [
+        "w2"
+      ],
+      "sa": "जटाधराय",
+      "iast": "jaṭādharāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "जटाधर",
+          "iast": "jaṭādhara"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p3",
+      "words": [
+        "w3"
+      ],
+      "sa": "पिनाकहस्ताय",
+      "iast": "pinākahastāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "पिनाकहस्त",
+          "iast": "pinākahasta"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p4",
+      "words": [
+        "w4"
+      ],
+      "sa": "सनातनाय",
+      "iast": "sanātanāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "सनातन",
+          "iast": "sanātana"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p5",
+      "words": [
+        "w5"
+      ],
+      "sa": "दिव्याय",
+      "iast": "divyāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "दिव्य",
+          "iast": "divya"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p6"
+    },
+    {
+      "id": "p6",
+      "words": [
+        "w6"
+      ],
+      "sa": "देवाय",
+      "iast": "devāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "देव",
+          "iast": "deva"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p7",
+      "words": [
+        "w7"
+      ],
+      "sa": "दिगम्बराय",
+      "iast": "digambarāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "दिगम्बर",
+          "iast": "digambara"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p8",
+      "words": [
+        "w8"
+      ],
+      "sa": "तस्मै",
+      "iast": "tasmai",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "तद्",
+          "iast": "tad"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p9",
+      "words": [
+        "w9"
+      ],
+      "sa": "यकाराय",
+      "iast": "yakārāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "यकार",
+          "iast": "yakāra"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p10",
+      "words": [
+        "w10"
+      ],
+      "sa": "नमः",
+      "iast": "namaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "नमस्",
+          "iast": "namas"
+        },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "x1"
+    },
+    {
+      "id": "p11",
+      "words": [
+        "w11"
+      ],
+      "sa": "शिवाय",
+      "iast": "śivāya",
+      "morph": {
+        "type": "subanta",
+        "stem": {
+          "sa": "शिव",
+          "iast": "śiva"
+        },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "sampradāna",
+      "head": "p10"
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अस्तु",
+      "iast": "astu",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": {
+          "sa": "अस्",
+          "iast": "as",
+          "gana": 2
+        },
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null,
+      "meaning": {
+        "en": "let (it) be",
+        "hi": "हो"
+      }
+    }
+  ],
+  "anvaya": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p11",
+    "p10",
+    "x1"
+  ],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "To Him who took the form of a yakṣa,"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "who wears matted hair,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "who holds the Pināka bow in His hand,"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "the eternal one,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "the divine"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "God,"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "who wears the directions as His clothes:"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "to Him,"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "the syllable ya,"
+          },
+          {
+            "refs": [
+              "w11"
+            ],
+            "text": "to Śiva,"
+          },
+          {
+            "refs": [
+              "x1"
+            ],
+            "text": "let there be"
+          },
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "salutation."
+          }
+        ]
+      ],
+      "bhavartha": "Śiva took the form of a yakṣa, a supernatural being. He wears matted hair and holds the Pināka bow in His hand. He is eternal, the divine God, and the directions are His only clothes. The poet bows to Him as the sound ya, the fifth and last syllable of the prayer namaḥ śivāya."
+    },
+    "hi": {
+      "lines": [
+        [
+          {
+            "refs": [
+              "w1"
+            ],
+            "text": "जिन्होंने यक्ष का रूप धारण किया,"
+          },
+          {
+            "refs": [
+              "w2"
+            ],
+            "text": "जो जटाधारी हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w3"
+            ],
+            "text": "जिनके हाथ में पिनाक धनुष है,"
+          },
+          {
+            "refs": [
+              "w4"
+            ],
+            "text": "जो सनातन हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w5"
+            ],
+            "text": "जो दिव्य"
+          },
+          {
+            "refs": [
+              "w6"
+            ],
+            "text": "देव हैं,"
+          },
+          {
+            "refs": [
+              "w7"
+            ],
+            "text": "दिशाएँ ही जिनके वस्त्र हैं,"
+          }
+        ],
+        [
+          {
+            "refs": [
+              "w8"
+            ],
+            "text": "उन"
+          },
+          {
+            "refs": [
+              "w9"
+            ],
+            "text": "'य'-कार रूपी"
+          },
+          {
+            "refs": [
+              "w11"
+            ],
+            "text": "शिव को"
+          },
+          {
+            "refs": [
+              "w10"
+            ],
+            "text": "नमस्कार"
+          },
+          {
+            "refs": [
+              "x1"
+            ],
+            "text": "है।"
+          }
+        ]
+      ],
+      "bhavartha": "शिव ने यक्ष का, एक अलौकिक प्राणी का, रूप धारण किया। वे जटाधारी हैं और उनके हाथ में पिनाक धनुष है। वे सनातन हैं, दिव्य देव हैं, और दिशाएँ ही उनके वस्त्र हैं। कवि उन्हें 'य' अक्षर के रूप में प्रणाम करता है, जो 'नमः शिवाय' मन्त्र का पाँचवाँ और अन्तिम अक्षर है।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": [
+        "w1"
+      ],
+      "kind": "variant",
+      "body": {
+        "en": "Most printings read *yakṣa-svarūpa*: He took the form of a *yakṣa*, a supernatural being, a spirit. One printing has *yajña-svarūpa* instead: 'whose very form is the sacrifice'.\n\nThe two words look and sound alike and fit the beat equally, yet the pictures differ: a Lord who shows Himself in a strange shape, or a Lord who is Himself the act of worship. We keep *yakṣa*, found in five of the six texts.",
+        "hi": "अधिकतर मुद्रित पाठों में *यक्ष-स्वरूप* है: उन्होंने *यक्ष* का रूप धारण किया, यानी एक अलौकिक प्राणी का। एक मुद्रित पाठ में इसकी जगह *यज्ञ-स्वरूप* है: 'यज्ञ ही जिनका स्वरूप है'।\n\nदोनों शब्द देखने-सुनने में मिलते-जुलते हैं और लय में बराबर बैठते हैं, पर चित्र अलग हैं: एक में प्रभु किसी विचित्र रूप में प्रकट होते हैं, दूसरे में वे स्वयं पूजा का कर्म हैं। हमने *यक्ष* रखा है, जो छह में से पाँच पाठों में है।"
+      },
+      "citations": [
+        {
+          "source": "sanskritdocuments-panch",
+          "locator": "verse 5",
+          "quote": "यक्षस्वरूपाय जटाधराय पिनाकहस्ताय सनातनाय"
+        },
+        {
+          "source": "vanivilas-1910-works-17",
+          "locator": "p. 120, verse 5",
+          "quote": "यक्षस्वरूपाय जटाधराय"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 34, verse 5",
+          "quote": "यक्षस्वरूपाय जटाधराय"
+        },
+        {
+          "source": "sringeri-shiva-panchakshara",
+          "locator": "verse 5",
+          "quote": "यक्षस्वरूपाय जटाधराय"
+        },
+        {
+          "source": "stotranidhi-shiva-panchakshara",
+          "locator": "verse 5",
+          "quote": "यक्षस्वरूपाय जटाधराय"
+        },
+        {
+          "source": "ramakrishna-math-mantrapushpam",
+          "locator": "p. 459, verse 5",
+          "quote": "यज्ञस्वरूपाय जटाधराय"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 34, verse 5, Hindi translation",
+          "quote": "जिन्होंने यक्षरूप धारण किया है"
+        },
+        {
+          "source": "mw-yaksha",
+          "locator": "MW yakṣa, p. 838",
+          "quote": "a living supernatural being, spiritual apparition"
+        },
+        {
+          "source": "mw-yajna",
+          "locator": "MW yajña, p. 839",
+          "quote": "act of worship or devotion, offering, oblation, sacrifice"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a2",
+      "refs": [
+        "w8",
+        "w9",
+        "w10",
+        "w11"
+      ],
+      "kind": "context",
+      "body": {
+        "en": "This verse opens with *ya* (*ya*-kṣa), the fifth and last sound of *na-maḥ śi-vā-ya*, after *na* ([verse 1](#v1-a5)), *ma* ([verse 2](#v2-a4)), *śi* ([verse 3](#v3-a4)) and *va* ([verse 4](#v4-a3)). The refrain names it: *ya-kāra*, 'the letter *ya*'.\n\nNow the prayer is complete. The first sounds of the five verses have spelled it out one at a time, while every refrain has said it whole.",
+        "hi": "यह श्लोक *य* (*य*-क्ष) से शुरू होता है, जो *न-मः शि-वा-य* का पाँचवाँ और अन्तिम अक्षर है, *न* ([पहला श्लोक](#v1-a5)), *म* ([दूसरा श्लोक](#v2-a4)), *शि* ([तीसरा श्लोक](#v3-a4)) और *व* ([चौथा श्लोक](#v4-a3)) के बाद। टेक उसी का नाम लेती है: *य-कार*, यानी 'य' अक्षर।\n\nअब मन्त्र पूरा हुआ। पाँचों श्लोकों के पहले अक्षरों ने उसे एक-एक करके रचा है, और हर टेक उसे पूरा कहती रही है।"
+      },
+      "citations": [
+        {
+          "source": "mw-yakara",
+          "locator": "MW ya-kāra, p. 838",
+          "quote": "the letter or sound ya"
+        },
+        {
+          "source": "mw-kara",
+          "locator": "MW 1. kāra, p. 274",
+          "quote": "the term used in designating a letter or sound"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "pp. 33–34, vv. 1–6",
+          "quote": "तस्मै ‘य’ काराय नमः शिवाय"
+        },
+        {
+          "source": "gitapress-stotraratnavali",
+          "locator": "p. 34, verse 5, Hindi translation",
+          "quote": "‘य’ कारस्वरूप शिवको नमस्कार है"
+        },
+        {
+          "source": "sanskritdocuments-panch",
+          "locator": "verse 5, translation",
+          "quote": "who is represented by the syllable"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        {
+          "sa": "यक्ष",
+          "iast": "yakṣa"
+        },
+        {
+          "sa": "स्वरूपाय",
+          "iast": "svarūpāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "यक्ष",
+          "iast": "yakṣa",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "यक्ष",
+            "iast": "yakṣa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "yakṣa",
+            "gloss": "a living supernatural being, spiritual apparition"
+          },
+          "meaning": {
+            "en": "yakṣa (a spirit)",
+            "hi": "यक्ष"
+          }
+        },
+        {
+          "sa": "स्वरूप",
+          "iast": "svarūpa",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "स्वरूप",
+            "iast": "svarūpa"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "svarūpa",
+            "gloss": "one's own form or shape"
+          },
+          "meaning": {
+            "en": "form",
+            "hi": "रूप"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who took the form of a yakṣa",
+        "hi": "(उन को, अर्थात् शिव को) जिन्होंने यक्ष का रूप धारण किया"
+      },
+      "literal": {
+        "en": "(to him) whose form is a yakṣa",
+        "hi": "(उन को) जिनका स्वरूप यक्ष है"
+      },
+      "aside": {
+        "en": "A *yakṣa* is a supernatural being, a spirit that can appear to people. This line says Śiva Himself took that form.",
+        "hi": "*यक्ष* एक अलौकिक प्राणी है, ऐसी आत्मा जो प्रकट होकर दिख सकती है। यह पंक्ति कहती है कि शिव ने स्वयं वह रूप धारण किया।"
+      },
+      "notes": {
+        "en": "yakṣa + svarūpa, joined without any sound change. The split yakṣ + asvarūpa ('shapeless') is wrong: yakṣ is a bare root, not a word that can stand in a compound. One printing reads yajñasvarūpāya, 'whose form is the sacrifice'; see the variant note. The yakṣa reading is often linked with the Kena Upaniṣad (3.1–12), where Brahman appears to the gods as a yakṣa; that passage has not been checked for this verse, so nothing visible relies on it.",
+        "hi": "यक्ष + स्वरूप, बिना किसी ध्वनि-परिवर्तन के जुड़े। 'यक्ष् + अस्वरूप' ('रूपहीन') विभाजन गलत है: यक्ष् केवल धातु है, समास में आने वाला शब्द नहीं। एक मुद्रित पाठ में यज्ञस्वरूपाय है, 'यज्ञ ही जिनका स्वरूप है'; पाठभेद की टिप्पणी देखें। यक्ष वाले पाठ को प्रायः केनोपनिषद् (3.1–12) से जोड़ा जाता है, जहाँ ब्रह्म देवताओं के सामने यक्ष के रूप में प्रकट होता है; वह अंश इस श्लोक के लिए जाँचा नहीं गया, इसलिए दिखने वाली सामग्री उस पर टिकी नहीं है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(to Him) whose very form is the sacrifice",
+            "hi": "(उन को) यज्ञ ही जिनका स्वरूप है"
+          },
+          "note": "ramakrishna-math-mantrapushpam reads यज्ञस्वरूपाय (yajña, mw-yajna 'sacrifice'); A, B, D, E and F read यक्षस्वरूपाय. Same syllable weights, so the metre does not decide."
+        }
+      ],
+      "confidence": "medium",
+      "sources": [
+        "mw-yaksha",
+        "mw-svarupa",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w2": {
+      "compound": "c2",
+      "padaccheda": [
+        {
+          "sa": "जटा",
+          "iast": "jaṭā"
+        },
+        {
+          "sa": "धराय",
+          "iast": "dharāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "जटा",
+          "iast": "jaṭā",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "जटा",
+            "iast": "jaṭā"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "jaṭā",
+            "gloss": "the hair twisted together (as worn by ascetics, by Śiva)"
+          },
+          "meaning": {
+            "en": "matted hair",
+            "hi": "जटा"
+          }
+        },
+        {
+          "sa": "धर",
+          "iast": "dhara",
+          "pos": "adjective",
+          "root": {
+            "kind": "dhatu",
+            "sa": "धृ",
+            "iast": "dhṛ",
+            "gana": 1,
+            "gloss": {
+              "en": "to hold, to wear",
+              "hi": "धारण करना"
+            }
+          },
+          "formation": "√dhṛ + ac (one who does the action)",
+          "sense": {
+            "dict": "mw",
+            "headword": "dhara",
+            "gloss": "ifc. holding, bearing, carrying, wearing"
+          },
+          "meaning": {
+            "en": "wearing",
+            "hi": "धारण करने वाले"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who wears matted hair",
+        "hi": "(उन को, अर्थात् शिव को) जो जटाधारी हैं"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "Jaṭādhara, 'wearer of matted locks', is also a name of Śiva. No sound change at the join (jaṭā + dhara).",
+        "hi": "जटाधर, 'जटा धारण करने वाले', शिव का एक नाम भी है। जोड़ पर कोई ध्वनि-परिवर्तन नहीं (जटा + धर)।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-jatadhara",
+        "mw-jata",
+        "mw-dhara",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w3": {
+      "compound": "c3",
+      "padaccheda": [
+        {
+          "sa": "पिनाक",
+          "iast": "pināka"
+        },
+        {
+          "sa": "हस्ताय",
+          "iast": "hastāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "पिनाक",
+          "iast": "pināka",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "पिनाक",
+            "iast": "pināka"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "pināka",
+            "gloss": "a staff or bow, (esp.) the staff or bow of Rudra-Śiva"
+          },
+          "meaning": {
+            "en": "the Pināka bow",
+            "hi": "पिनाक धनुष"
+          }
+        },
+        {
+          "sa": "हस्त",
+          "iast": "hasta",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "हस्त",
+            "iast": "hasta"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "hasta",
+            "gloss": "the hand"
+          },
+          "meaning": {
+            "en": "hand",
+            "hi": "हाथ"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who holds the Pināka bow in His hand",
+        "hi": "(उन को, अर्थात् शिव को) जिनके हाथ में पिनाक धनुष है"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "*Pināka* is the name of Śiva's own bow; the word can also mean His trident. *Pināka-hasta*, 'Pināka in hand', is an old name of Rudra.",
+        "hi": "*पिनाक* शिव के अपने धनुष का नाम है; इस शब्द का अर्थ उनका त्रिशूल भी हो सकता है। *पिनाक-हस्त*, 'हाथ में पिनाक', रुद्र का पुराना नाम है।"
+      },
+      "notes": {
+        "en": "At the end of a compound hasta means 'holding in the hand'. No sound change at the join (pināka + hasta).",
+        "hi": "समास के अन्त में हस्त का अर्थ 'हाथ में लिए हुए' होता है। जोड़ पर कोई ध्वनि-परिवर्तन नहीं (पिनाक + हस्त)।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-pinakahasta",
+        "mw-pinaka",
+        "mw-hasta",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w4": {
+      "padaccheda": [
+        {
+          "sa": "सनातनाय",
+          "iast": "sanātanāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "सनातन",
+          "iast": "sanātana",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "सनातन",
+            "iast": "sanātana"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "sanātana",
+            "gloss": "eternal, perpetual, permanent, everlasting, primeval, ancient"
+          },
+          "meaning": {
+            "en": "eternal",
+            "hi": "सनातन"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who is eternal",
+        "hi": "(उन को, अर्थात् शिव को) जो सनातन हैं"
+      },
+      "notes": {
+        "en": "sanātana means both 'everlasting' and 'from of old, primeval'; it is also listed as a name of Śiva.",
+        "hi": "सनातन का अर्थ 'सदा रहने वाला' भी है और 'आदि काल से, पुरातन' भी; यह शिव का एक नाम भी माना गया है।"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(to Him) the primeval one",
+            "hi": "(उन को) जो आदि पुरुष हैं"
+          },
+          "note": "sanskritdocuments-panch translates 'the Primeval Lord'; mw-sanatana gives both 'eternal' and 'primeval, ancient'. gitapress-stotraratnavali keeps सनातन."
+        }
+      ],
+      "confidence": "high",
+      "sources": [
+        "mw-sanatana",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w5": {
+      "padaccheda": [
+        {
+          "sa": "दिव्याय",
+          "iast": "divyāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "दिव्य",
+          "iast": "divya",
+          "pos": "adjective",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "दिव्य",
+            "iast": "divya"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "divya",
+            "gloss": "divine, heavenly, celestial"
+          },
+          "meaning": {
+            "en": "divine",
+            "hi": "दिव्य"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who is divine",
+        "hi": "(उन को, अर्थात् शिव को) जो दिव्य हैं"
+      },
+      "alternatives": [
+        {
+          "reading": {
+            "en": "(to Him) the shining one",
+            "hi": "(उन को) जो तेजस्वी हैं"
+          },
+          "note": "sanskritdocuments-panch renders divyāya devāya as 'the brilliant God'; mw-divya's main sense is 'divine, heavenly'."
+        }
+      ],
+      "confidence": "high",
+      "sources": [
+        "mw-divya",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w6": {
+      "padaccheda": [
+        {
+          "sa": "देवाय",
+          "iast": "devāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "देव",
+          "iast": "deva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "देव",
+            "iast": "deva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "deva",
+            "gloss": "a deity, god"
+          },
+          "meaning": {
+            "en": "god",
+            "hi": "देव"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "to the God, i.e. Śiva",
+        "hi": "देव को, अर्थात् शिव को"
+      },
+      "notes": {
+        "en": "deva with the 'to' ending, like the other titles. It is not the rare verb-stem devāya that the dictionary also lists.",
+        "hi": "देव का 'को' वाला रूप, बाकी विशेषणों की तरह। यह शब्दकोश में दर्ज दुर्लभ क्रिया-रूप देवाय नहीं है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-deva",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w7": {
+      "compound": "c4",
+      "padaccheda": [
+        {
+          "sa": "दिक्",
+          "iast": "dik"
+        },
+        {
+          "sa": "अम्बराय",
+          "iast": "ambarāya"
+        }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "k + a → g + a",
+          "explanation": {
+            "en": "The final k of dik becomes g before the vowel of ambara: dik + ambara → digambara.",
+            "hi": "दिक् का अन्तिम 'क्' आगे के स्वर (अम्बर) के कारण 'ग्' बन जाता है: दिक् + अम्बर → दिगम्बर।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "दिश्",
+          "iast": "diś",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "दिश्",
+            "iast": "diś"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "diś",
+            "gloss": "direction, cardinal point"
+          },
+          "meaning": {
+            "en": "direction",
+            "hi": "दिशा"
+          }
+        },
+        {
+          "sa": "अम्बर",
+          "iast": "ambara",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "अम्बर",
+            "iast": "ambara"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "ambara",
+            "gloss": "clothes, apparel, garment"
+          },
+          "meaning": {
+            "en": "clothing",
+            "hi": "वस्त्र"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who is clothed only by the directions, i.e. sky-clad, naked",
+        "hi": "(उनको, अर्थात् शिव को) दिशाएँ ही जिनके वस्त्र हैं, अर्थात् जो निर्वस्त्र हैं"
+      },
+      "literal": {
+        "en": "(to him) whose garment is the directions",
+        "hi": "(उन को) जिनका वस्त्र दिशाएँ हैं"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "The same word closed the third line of [verse 1](#v1-a4), where its two pictures, directions and sky, are told.",
+        "hi": "यही शब्द [पहले श्लोक](#v1-a4) की तीसरी पंक्ति के अन्त में भी आया था; वहाँ इसके दो चित्र, दिशाएँ और आकाश, बताए गए हैं।"
+      },
+      "notes": {
+        "en": "Repeats v1 w7 word for word. Digambara means 'naked'; it is also a name of Śiva. ambara also means 'sky', so 'sky-clad' is the usual English rendering.",
+        "hi": "पहले श्लोक के w7 को ज्यों का त्यों दोहराता है। दिगम्बर का अर्थ 'निर्वस्त्र' है; यह शिव का नाम भी है। अम्बर का अर्थ 'आकाश' भी है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-digambara",
+        "mw-dish",
+        "mw-ambara",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w8": {
+      "padaccheda": [
+        {
+          "sa": "तस्मै",
+          "iast": "tasmai"
+        }
+      ],
+      "components": [
+        {
+          "sa": "तस्मै",
+          "iast": "tasmai",
+          "pos": "pronoun",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "tad",
+            "gloss": "he, she, it, that, this"
+          },
+          "meaning": {
+            "en": "to Him",
+            "hi": "उनको"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "to Him, i.e. Śiva (the one just described)",
+        "hi": "उन को, अर्थात् शिव को (जिनका अभी वर्णन हुआ)"
+      },
+      "notes": {
+        "en": "'To that one': it gathers up all the descriptions before it and hands them to the refrain. The split tas + mai is not a real division; tasmai is a single form of tad.",
+        "hi": "'उनको': यह पहले के सारे वर्णन समेटकर टेक को सौंप देता है। तस् + मै विभाजन वास्तविक नहीं; तस्मै तद् का एक ही रूप है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-tad",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w9": {
+      "padaccheda": [
+        {
+          "sa": "य",
+          "iast": "ya"
+        },
+        {
+          "sa": "काराय",
+          "iast": "kārāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "य",
+          "iast": "ya",
+          "pos": "syllable",
+          "meaning": {
+            "en": "ya (the sound)",
+            "hi": "'य' (ध्वनि)"
+          }
+        },
+        {
+          "sa": "कार",
+          "iast": "kāra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "कृ",
+            "iast": "kṛ",
+            "gana": 8,
+            "gloss": {
+              "en": "to make",
+              "hi": "करना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "kāra",
+            "gloss": "the term used in designating a letter or sound"
+          },
+          "meaning": {
+            "en": "letter",
+            "hi": "अक्षर"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "(to Him, i.e. Śiva) who is the syllable ya",
+        "hi": "(उन को, अर्थात् शिव को) जो 'य' अक्षर-रूप हैं"
+      },
+      "literal": {
+        "en": "to the letter ya",
+        "hi": "'य' अक्षर को"
+      },
+      "notes": {
+        "en": "kāra after a sound names that sound as a letter (a-kāra, ka-kāra). Here it names the ya of na-maḥ śi-vā-ya, the last of the five, with which this verse opens (ya-kṣa).",
+        "hi": "किसी ध्वनि के बाद 'कार' उसे अक्षर के रूप में नाम देता है (अकार, ककार)। यहाँ यह न-मः शि-वा-य के अन्तिम अक्षर 'य' का नाम है, जिससे यह श्लोक आरम्भ होता है (य-क्ष)।"
+      },
+      "confidence": "medium",
+      "sources": [
+        "mw-yakara",
+        "mw-kara",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w10": {
+      "padaccheda": [
+        {
+          "sa": "नमः",
+          "iast": "namaḥ"
+        }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नम्",
+            "iast": "nam",
+            "gana": 1,
+            "gloss": {
+              "en": "to bow",
+              "hi": "झुकना"
+            }
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "namas",
+            "gloss": "bow, obeisance, reverential salutation, adoration"
+          },
+          "meaning": {
+            "en": "salutation",
+            "hi": "नमस्कार"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "salutation, a bow",
+        "hi": "नमस्कार, प्रणाम"
+      },
+      "notes": {
+        "en": "namas takes the one it honours with the 'to' ending (śivāya, 'to Śiva'). No verb is written; 'let there be' (astu) is understood.",
+        "hi": "नमः के साथ जिसे प्रणाम किया जाता है उसका रूप 'को' वाला होता है (शिवाय, 'शिव को')। क्रिया लिखी नहीं है; 'हो' (अस्तु) समझा जाता है।"
+      },
+      "confidence": "high",
+      "sources": [
+        "mw-namas",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    },
+    "w11": {
+      "padaccheda": [
+        {
+          "sa": "शिवाय",
+          "iast": "śivāya"
+        }
+      ],
+      "components": [
+        {
+          "sa": "शिव",
+          "iast": "śiva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "pratipadika",
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          "sense": {
+            "dict": "mw",
+            "headword": "śiva",
+            "gloss": "‘The Auspicious one’"
+          },
+          "meaning": {
+            "en": "Śiva",
+            "hi": "शिव"
+          }
+        }
+      ],
+      "meaning": {
+        "en": "to Śiva",
+        "hi": "शिव को"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": [
+        "mw-shiva",
+        "gitapress-stotraratnavali",
+        "sanskritdocuments-panch"
+      ]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      {
+        "date": "2026-11-20",
+        "by": "ai",
+        "action": "Drafted from evidence pack."
+      }
+    ]
+  }
+}

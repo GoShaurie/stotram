@@ -1,0 +1,1963 @@
+{
+  "group": "translation",
+  "checks": {
+    "T3.5": "checks/judges/T3.5.md",
+    "T4.6": "checks/judges/T4.6.md",
+    "T4.7": "checks/judges/T4.7.md",
+    "T4.8": "checks/judges/T4.8.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    }
+  },
+  "verse": {
+    "id": "v9",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "प्रभो",
+            "iast": "prabho"
+          },
+          {
+            "id": "w2",
+            "text": "शूलपाणे",
+            "iast": "śūlapāṇe"
+          },
+          {
+            "id": "w3",
+            "text": "विभो",
+            "iast": "vibho"
+          },
+          {
+            "id": "w4",
+            "text": "विश्वनाथ",
+            "iast": "viśvanātha"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "महादेव",
+            "iast": "mahādeva"
+          },
+          {
+            "id": "w6",
+            "text": "शम्भो",
+            "iast": "śambho"
+          },
+          {
+            "id": "w7",
+            "text": "महेश",
+            "iast": "maheśa"
+          },
+          {
+            "id": "w8",
+            "text": "त्रिनेत्र",
+            "iast": "trinetra"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w9",
+            "text": "शिवाकान्त",
+            "iast": "śivākānta"
+          },
+          {
+            "id": "w10",
+            "text": "शान्त",
+            "iast": "śānta"
+          },
+          {
+            "id": "w11",
+            "text": "स्मरारे",
+            "iast": "smarāre"
+          },
+          {
+            "id": "w12",
+            "text": "पुरारे",
+            "iast": "purāre"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w13",
+            "text": "त्वदन्यो",
+            "iast": "tvadanyo"
+          },
+          {
+            "id": "w14",
+            "text": "वरेण्यो",
+            "iast": "vareṇyo"
+          },
+          {
+            "id": "w15",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w16",
+            "text": "मान्यो",
+            "iast": "mānyo"
+          },
+          {
+            "id": "w17",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w18",
+            "text": "गण्यः",
+            "iast": "gaṇyaḥ"
+          }
+        ],
+        "end": "॥ ९ ॥"
+      }
+    ],
+    "adhyahara": [
+      {
+        "id": "x1",
+        "sa": "अस्ति",
+        "iast": "asti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "अस्",
+            "iast": "as",
+            "gana": 2
+          },
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null,
+        "meaning": {
+          "en": "is, there is",
+          "hi": "है"
+        }
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w11"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "Picture the moment as the Kumārasambhava paints it. Something stirs Śiva's mind in the middle of His penance, and He looks to the edges of the sky for the cause. There stands Kāma, god of love, his lovely bow bent into a circle, ready to shoot. Anger flares, and a flame leaps from Śiva's third eye. The gods in the sky are still crying \"Lord (*prabho*), hold back your anger!\" when Kāma is already ash. *Prabho*, the very word that opens this verse.",
+          "hi": "कुमारसम्भव इस क्षण का चित्र खींचता है। तपस्या के बीच शिव का मन डोल उठता है, और वे कारण देखने के लिए दिशाओं के छोर तक दृष्टि डालते हैं। वहाँ कामदेव खड़ा है, अपना सुन्दर धनुष गोल खींचे, बाण चलाने को तैयार। क्रोध भड़कता है, और शिव के तीसरे नेत्र से एक लपट निकल पड़ती है। आकाश में देवता अभी पुकार ही रहे हैं \"प्रभो (*प्रभो*), क्रोध रोकिए!\", कि कामदेव राख हो चुका है। *प्रभो*, वही शब्द जिससे यह श्लोक शुरू होता है।"
+        },
+        "citations": [
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.69",
+            "quote": "hetuṃ svacetovikṛter didṛkṣur diśām upānteṣu sasarja dṛṣṭim"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.70",
+            "quote": "dadarśa cakrīkṛtacārucāpaṃ prahartum abhyudyatam ātmayonim"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.71",
+            "quote": "sphurann udarciḥ sahasā tṛtīyād akṣṇaḥ kṛśānuḥ kila niṣpapāta"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.72",
+            "quote": "krodhaṃ prabho saṃhara saṃhareti"
+          },
+          {
+            "source": "kumarasambhava-3",
+            "locator": "Kumārasambhava 3.72",
+            "quote": "bhasmāvaśeṣaṃ madanaṃ cakāra"
+          },
+          {
+            "source": "mw-smara",
+            "locator": "MW smara, p. 1272",
+            "quote": "Kāma-deva (god of love)"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w12"
+        ],
+        "kind": "mythology",
+        "body": {
+          "en": "*Pur* is a fortress or city, and *Purāri* is the enemy of the cities: the three cities of the demons, set in the sky. In the Mahābhārata, Śiva strings His bow, fits an arrow joined to the Pāśupata weapon, and simply waits, thinking of the cities. In time the three come together as one. The gods cry \"Victory!\" He draws the bow and lets go one arrow holding the strength of the three worlds. It burns the city and its demons and hurls them into the western ocean.",
+          "hi": "*पुर्* यानी गढ़ या नगर, और *पुरारि* यानी पुरों के शत्रु: आकाश में बसे असुरों के तीन नगर। महाभारत का चित्र: शिव धनुष पर डोरी चढ़ाते हैं, पाशुपत अस्त्र से जुड़ा बाण साधते हैं, और नगरों का ध्यान करते हुए बस प्रतीक्षा करते हैं। समय आने पर तीनों नगर एक हो जाते हैं। देवता \"जय!\" पुकारते हैं। वे धनुष खींचकर तीनों लोकों के बल से भरा एक बाण छोड़ते हैं। वह नगर को असुरों सहित जलाकर पश्चिमी समुद्र में फेंक देता है।"
+        },
+        "citations": [
+          {
+            "source": "mw-pur",
+            "locator": "MW pur, p. 635",
+            "quote": "a rampart, wall, stronghold, fortress, castle, city, town (also of demons)"
+          },
+          {
+            "source": "linga-purana-1-72",
+            "locator": "Liṅga Purāṇa 1.72.33",
+            "quote": "purāṇyuddiśya khasthāni"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.115",
+            "quote": "yuktvā pāśupatāstreṇa tripuraṃ samacintayat"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.116",
+            "quote": "purāṇi tāni kālena jagmur ekatvatāṃ tadā"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.118",
+            "quote": "jayeti vāco mumucuḥ"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.120",
+            "quote": "trailokyasāraṃ tam iṣuṃ mumoca tripuraṃ prati"
+          },
+          {
+            "source": "mahabharata-karna-8-24",
+            "locator": "Mahābhārata (Critical Edition) 8.24.120",
+            "quote": "tat sāsuragaṇaṃ dagdhvā prākṣipat paścimārṇave"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w13",
+          "w14",
+          "w15",
+          "w16",
+          "w17",
+          "w18"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "Earlier the hymn said \"You are the One\" ([verse 4](#v4-a2)); here it says the same from the other side: no one else. *Vareṇya* is the one worth choosing above all. The Śvetāśvatara Upaniṣad gives this word to the same Lord: when darkness is gone, only Śiva remains, and He is the imperishable, the *vareṇya* of the Sun ([verse 7](#v7-a1)). It also says Rudra is one, with no one standing beside Him as a second. So the verse ends: none to choose, none to honour, none to count.",
+          "hi": "पहले स्तोत्र ने कहा था \"आप ही एक हैं\" ([श्लोक ४](#v4-a2)); यहाँ वही बात दूसरी ओर से कही गई है: और कोई नहीं। *वरेण्य* वह है जिसे सबसे ऊपर चुना जाए। श्वेताश्वतर उपनिषद् यही शब्द उसी प्रभु के लिए देता है: अन्धकार मिटने पर केवल शिव रहते हैं, वही अविनाशी हैं, सूर्य के *वरेण्य* तेज ([श्लोक ७](#v7-a1))। वह यह भी कहता है कि रुद्र एक हैं, उनके साथ कोई दूसरा नहीं खड़ा होता। इसीलिए श्लोक का अन्त है: न कोई चुनने योग्य, न आदर योग्य, न गिनने योग्य।"
+        },
+        "citations": [
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 4.18",
+            "quote": "तदक्षरं तत् सवितुर्वरेण्यं"
+          },
+          {
+            "source": "shvetashvatara-upanishad",
+            "locator": "Śvetāśvatara Upaniṣad 3.2",
+            "quote": "एको हि रुद्रो न द्वितीयाय"
+          },
+          {
+            "source": "mw-varenya",
+            "locator": "MW vareṇya, p. 923",
+            "quote": "to be wished for, desirable, excellent, best among (gen.)"
+          },
+          {
+            "source": "mw-manya",
+            "locator": "MW mānya, p. 809",
+            "quote": "to be respected or honoured, worthy of honour"
+          },
+          {
+            "source": "mw-ganya",
+            "locator": "MW gaṇya, p. 344",
+            "quote": "to be counted or calculated"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "प्रभो",
+        "iast": "prabho",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "प्रभु",
+            "iast": "prabhu"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "शूलपाणे",
+        "iast": "śūlapāṇe",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शूलपाणि",
+            "iast": "śūlapāṇi"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w3"
+        ],
+        "sa": "विभो",
+        "iast": "vibho",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विभु",
+            "iast": "vibhu"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w4"
+        ],
+        "sa": "विश्वनाथ",
+        "iast": "viśvanātha",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विश्वनाथ",
+            "iast": "viśvanātha"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w5"
+        ],
+        "sa": "महादेव",
+        "iast": "mahādeva",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "महादेव",
+            "iast": "mahādeva"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w6"
+        ],
+        "sa": "शम्भो",
+        "iast": "śambho",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शम्भु",
+            "iast": "śambhu"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w7"
+        ],
+        "sa": "महेश",
+        "iast": "maheśa",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "महेश",
+            "iast": "maheśa"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w8"
+        ],
+        "sa": "त्रिनेत्र",
+        "iast": "trinetra",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "त्रिनेत्र",
+            "iast": "trinetra"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w9"
+        ],
+        "sa": "शिवाकान्त",
+        "iast": "śivākānta",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शिवाकान्त",
+            "iast": "śivākānta"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w10"
+        ],
+        "sa": "शान्त",
+        "iast": "śānta",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शान्त",
+            "iast": "śānta"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w11"
+        ],
+        "sa": "स्मरारे",
+        "iast": "smarāre",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "स्मरारि",
+            "iast": "smarāri"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w12"
+        ],
+        "sa": "पुरारे",
+        "iast": "purāre",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "पुरारि",
+            "iast": "purāri"
+          },
+          "gender": "masculine",
+          "case": "vocative",
+          "number": "singular"
+        },
+        "role": "sambodhana",
+        "head": null
+      },
+      {
+        "id": "p13",
+        "words": [
+          "w13"
+        ],
+        "sa": "त्वदन्यः",
+        "iast": "tvadanyaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "त्वदन्य",
+            "iast": "tvadanya"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "x1"
+      },
+      {
+        "id": "p14",
+        "words": [
+          "w14"
+        ],
+        "sa": "वरेण्यः",
+        "iast": "vareṇyaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वरेण्य",
+            "iast": "vareṇya"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p15",
+        "words": [
+          "w15"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": "x1"
+      },
+      {
+        "id": "p16",
+        "words": [
+          "w16"
+        ],
+        "sa": "मान्यः",
+        "iast": "mānyaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "मान्य",
+            "iast": "mānya"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      },
+      {
+        "id": "p17",
+        "words": [
+          "w17"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": "x1"
+      },
+      {
+        "id": "p18",
+        "words": [
+          "w18"
+        ],
+        "sa": "गण्यः",
+        "iast": "gaṇyaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "गण्य",
+            "iast": "gaṇya"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p13"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "O Lord,"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "O You who hold the trident in Your hand,"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "O All-pervading One,"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "O Lord of the universe,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "O Great God,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "O Śambhu,"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "O Great Lord,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "O Three-eyed One,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "O Beloved of Śivā (Pārvatī),"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "O Peaceful One,"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "O Enemy of Smara (Kāma),"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "O Enemy of the cities (Tripura)!"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "Besides You"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "there is"
+            },
+            {
+              "refs": [
+                "w15"
+              ],
+              "text": "no one"
+            },
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "worth choosing,"
+            },
+            {
+              "refs": [
+                "w17"
+              ],
+              "text": "none"
+            },
+            {
+              "refs": [
+                "w16"
+              ],
+              "text": "to honour,"
+            },
+            {
+              "refs": [
+                "w17"
+              ],
+              "text": "none"
+            },
+            {
+              "refs": [
+                "w18"
+              ],
+              "text": "to count."
+            }
+          ]
+        ],
+        "bhavartha": "The poet calls out twelve names, one after another: Lord, holder of the trident, all-pervading, Lord of the universe, great God, Śambhu, great Lord, three-eyed, beloved of Śivā, peaceful, enemy of Kāma, enemy of the cities. Then he says plainly: besides You there is no one worth choosing, no one to honour, no one to count."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "हे प्रभु!"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "हे हाथ में त्रिशूल धारण करने वाले!"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "हे सर्वव्यापी!"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "हे विश्व के स्वामी!"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "हे महादेव!"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "हे शम्भु!"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "हे महेश!"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "हे तीन नेत्रों वाले!"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "हे शिवा (पार्वती) के प्रियतम!"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "हे शान्त!"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "हे स्मर (कामदेव) के शत्रु!"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "हे (त्रिपुर के) पुरों के शत्रु!"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "आपके सिवा"
+            },
+            {
+              "refs": [
+                "w15"
+              ],
+              "text": "न कोई"
+            },
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "वरण के योग्य"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "है,"
+            },
+            {
+              "refs": [
+                "w17"
+              ],
+              "text": "न कोई"
+            },
+            {
+              "refs": [
+                "w16"
+              ],
+              "text": "माननीय,"
+            },
+            {
+              "refs": [
+                "w17"
+              ],
+              "text": "न कोई"
+            },
+            {
+              "refs": [
+                "w18"
+              ],
+              "text": "गिनने योग्य।"
+            }
+          ]
+        ],
+        "bhavartha": "कवि एक के बाद एक बारह नामों से पुकारता है: प्रभु, त्रिशूलधारी, सर्वव्यापी, विश्व के स्वामी, महादेव, शम्भु, महेश, त्रिनेत्र, शिवा के प्रियतम, शान्त, कामदेव के शत्रु, त्रिपुर के शत्रु। फिर वह सीधे कहता है: आपके सिवा न कोई वरण के योग्य है, न कोई आदर के योग्य, न कोई गिनने योग्य।"
+      }
+    },
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "प्रभो",
+            "iast": "prabho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रभु",
+            "iast": "prabhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to be, to arise",
+                "hi": "होना, उत्पन्न होना"
+              }
+            },
+            "formation": "pra + √bhū + ḍu",
+            "sense": {
+              "dict": "mw",
+              "headword": "prabhu",
+              "gloss": "a master, lord, king (also applied to gods ... to Śiva, MBh.)"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "प्रभु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Lord, i.e. Śiva",
+          "hi": "हे प्रभु, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-prabhu",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w2": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "शूल",
+            "iast": "śūla"
+          },
+          {
+            "sa": "पाणे",
+            "iast": "pāṇe"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शूल",
+            "iast": "śūla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शूल",
+              "iast": "śūla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śūla",
+              "gloss": "any sharp instrument or pointed dart, lance, pike, spear (esp. the trident of Śiva)"
+            },
+            "meaning": {
+              "en": "trident",
+              "hi": "त्रिशूल"
+            }
+          },
+          {
+            "sa": "पाणि",
+            "iast": "pāṇi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाणि",
+              "iast": "pāṇi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāṇi",
+              "gloss": "the hand"
+            },
+            "meaning": {
+              "en": "hand",
+              "hi": "हाथ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O You who hold the trident in Your hand, i.e. Śiva",
+          "hi": "हे हाथ में त्रिशूल धारण करने वाले, अर्थात् शिव"
+        },
+        "literal": {
+          "en": "O (You) whose hand has a trident",
+          "hi": "हे (वे) जिनके हाथ में शूल है"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-shulapani",
+          "mw-shula",
+          "mw-pani",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "विभो",
+            "iast": "vibho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विभु",
+            "iast": "vibhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to be, to spread",
+                "hi": "होना, फैलना"
+              }
+            },
+            "formation": "vi + √bhū + ḍu",
+            "sense": {
+              "dict": "mw",
+              "headword": "vibhu",
+              "gloss": "being everywhere, far-extending, all-pervading, omnipresent"
+            },
+            "meaning": {
+              "en": "all-pervading",
+              "hi": "सर्वव्यापी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O All-pervading One, i.e. Śiva",
+          "hi": "हे सर्वव्यापी, अर्थात् शिव"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "vibhu also means 'lord, ruler'; the sense 'all-pervading' is the one both translations take here.",
+          "hi": "विभु का अर्थ 'स्वामी' भी है; यहाँ 'सर्वव्यापी' अर्थ लिया गया है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "O mighty Ruler",
+              "hi": "हे सामर्थ्यवान् स्वामी"
+            },
+            "note": "MW vibhu also gives 'mighty, powerful' and m. 'a lord, ruler, sovereign' (applied to Śiva); shlokam glosses 'all-pervading', Gita Press keeps विभो."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-vibhu",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w4": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "विश्व",
+            "iast": "viśva"
+          },
+          {
+            "sa": "नाथ",
+            "iast": "nātha"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विश्व",
+            "iast": "viśva",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "विश्व",
+              "iast": "viśva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "viśva",
+              "gloss": "all, every, every one; whole, entire, universal"
+            },
+            "meaning": {
+              "en": "universe",
+              "hi": "विश्व"
+            }
+          },
+          {
+            "sa": "नाथ",
+            "iast": "nātha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नाथ",
+              "iast": "nātha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nātha",
+              "gloss": "a protector, patron, possessor, owner, lord"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "स्वामी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Lord of the universe, i.e. Śiva",
+          "hi": "हे विश्व के स्वामी, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-vishvanatha",
+          "mw-natha",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w5": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "महा",
+            "iast": "mahā"
+          },
+          {
+            "sa": "देव",
+            "iast": "deva"
+          }
+        ],
+        "components": [
+          {
+            "sa": "महत्",
+            "iast": "mahat",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "महत्",
+              "iast": "mahat"
+            },
+            "meaning": {
+              "en": "great",
+              "hi": "महान्"
+            }
+          },
+          {
+            "sa": "देव",
+            "iast": "deva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "देव",
+              "iast": "deva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "deva",
+              "gloss": "a deity, god"
+            },
+            "meaning": {
+              "en": "God",
+              "hi": "देव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Great God, i.e. Śiva",
+          "hi": "हे महादेव, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "medium",
+        "sources": [
+          "mw-mahadeva",
+          "mw-deva",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "शम्भो",
+            "iast": "śambho"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शम्भु",
+            "iast": "śambhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शम्भु",
+              "iast": "śambhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śambhu",
+              "gloss": "granting or causing happiness, beneficent; N. of Śiva"
+            },
+            "meaning": {
+              "en": "Śambhu",
+              "hi": "शम्भु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Śambhu, i.e. Śiva",
+          "hi": "हे शम्भु, अर्थात् शिव"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "The name means 'one who brings well-being'.",
+          "hi": "नाम का अर्थ है 'कल्याण करने वाला'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shambhu",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w7": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "महा",
+            "iast": "mahā"
+          },
+          {
+            "sa": "ईश",
+            "iast": "īśa"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "ā + ī → e",
+            "explanation": {
+              "en": "The long ā of mahā and the ī of īśa merge into e: mahā + īśa → maheśa.",
+              "hi": "महा का 'आ' और ईश का 'ई' मिलकर 'ए' बनते हैं: महा + ईश → महेश।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "महत्",
+            "iast": "mahat",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "महत्",
+              "iast": "mahat"
+            },
+            "meaning": {
+              "en": "great",
+              "hi": "महान्"
+            }
+          },
+          {
+            "sa": "ईश",
+            "iast": "īśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "ईश",
+              "iast": "īśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "īśa",
+              "gloss": "a ruler, master, lord"
+            },
+            "meaning": {
+              "en": "lord",
+              "hi": "ईश्वर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Great Lord, i.e. Śiva",
+          "hi": "हे महेश, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "medium",
+        "sources": [
+          "mw-mahesha",
+          "mw-isha",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w8": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "त्रि",
+            "iast": "tri"
+          },
+          {
+            "sa": "नेत्र",
+            "iast": "netra"
+          }
+        ],
+        "components": [
+          {
+            "sa": "त्रि",
+            "iast": "tri",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "त्रि",
+              "iast": "tri"
+            },
+            "meaning": {
+              "en": "three",
+              "hi": "तीन"
+            }
+          },
+          {
+            "sa": "नेत्र",
+            "iast": "netra",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "नेत्र",
+              "iast": "netra"
+            },
+            "meaning": {
+              "en": "eye",
+              "hi": "नेत्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Three-eyed One, i.e. Śiva",
+          "hi": "हे तीन नेत्रों वाले, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-trinetra",
+          "mw-netra",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w9": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "शिवा",
+            "iast": "śivā"
+          },
+          {
+            "sa": "कान्त",
+            "iast": "kānta"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिवा",
+            "iast": "śivā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिवा",
+              "iast": "śivā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śivā",
+              "gloss": "the energy of Śiva personified as his wife (known as Durgā, Pārvatī &c.)"
+            },
+            "meaning": {
+              "en": "Śivā (Pārvatī)",
+              "hi": "शिवा (पार्वती)"
+            }
+          },
+          {
+            "sa": "कान्त",
+            "iast": "kānta",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कान्त",
+              "iast": "kānta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kānta",
+              "gloss": "any one beloved, a lover, husband"
+            },
+            "meaning": {
+              "en": "beloved",
+              "hi": "प्रियतम"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O beloved of Śivā (Pārvatī), i.e. Śiva",
+          "hi": "हे शिवा (पार्वती) के प्रियतम, अर्थात् शिव"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "The long ā marks śivā, the goddess, not śiva.",
+          "hi": "लम्बा आ बताता है कि यह शिवा (देवी) है, शिव नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shiva",
+          "mw-kanta",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "शान्त",
+            "iast": "śānta"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शान्त",
+            "iast": "śānta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "शम्",
+              "iast": "śam",
+              "gana": 4,
+              "gloss": {
+                "en": "to be calm",
+                "hi": "शान्त होना"
+              }
+            },
+            "formation": "√śam + kta",
+            "sense": {
+              "dict": "mw",
+              "headword": "śānta",
+              "gloss": "appeased, pacified, tranquil, calm, free from passions, undisturbed"
+            },
+            "meaning": {
+              "en": "peaceful",
+              "hi": "शान्त"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O Peaceful One, i.e. Śiva",
+          "hi": "हे शान्त, अर्थात् शिव"
+        },
+        "epithet": true,
+        "aside": {
+          "en": "Calm stands right beside battle: *śānta*, the Peaceful One, comes just before the enemy of Kāma and the enemy of the cities.",
+          "hi": "शान्ति ठीक युद्ध के पास खड़ी है: *शान्त* नाम ठीक कामदेव के शत्रु और पुरों के शत्रु से पहले आता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shanta",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w11": {
+        "compound": "c7",
+        "padaccheda": [
+          {
+            "sa": "स्मर",
+            "iast": "smara"
+          },
+          {
+            "sa": "अरे",
+            "iast": "are"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of smara and the first a of ari merge into a long ā: smara + ari → smarāri.",
+              "hi": "स्मर का अन्तिम 'अ' और अरि का 'अ' मिलकर दीर्घ 'आ' बनते हैं: स्मर + अरि → स्मरारि।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्मर",
+            "iast": "smara",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "स्मर",
+              "iast": "smara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "smara",
+              "gloss": "Kāma-deva (god of love)"
+            },
+            "meaning": {
+              "en": "Kāma",
+              "hi": "कामदेव"
+            }
+          },
+          {
+            "sa": "अरि",
+            "iast": "ari",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अरि",
+              "iast": "ari"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ari",
+              "gloss": "an enemy"
+            },
+            "meaning": {
+              "en": "enemy",
+              "hi": "शत्रु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O enemy of Smara (Kāma, god of love), i.e. Śiva",
+          "hi": "हे स्मर (कामदेव) के शत्रु, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-smarari",
+          "mw-smara",
+          "mw-ari",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w12": {
+        "compound": "c8",
+        "padaccheda": [
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अरे",
+            "iast": "are"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of pura and the first a of ari merge into a long ā: pura + ari → purāri.",
+              "hi": "पुर का अन्तिम 'अ' और अरि का 'अ' मिलकर दीर्घ 'आ' बनते हैं: पुर + अरि → पुरारि।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pur",
+              "gloss": "a rampart, wall, stronghold, fortress, castle, city, town (also of demons)"
+            },
+            "meaning": {
+              "en": "city",
+              "hi": "पुर"
+            }
+          },
+          {
+            "sa": "अरि",
+            "iast": "ari",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अरि",
+              "iast": "ari"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ari",
+              "gloss": "an enemy"
+            },
+            "meaning": {
+              "en": "enemy",
+              "hi": "शत्रु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "O enemy of the cities (Tripura), i.e. Śiva",
+          "hi": "हे (त्रिपुर के) पुरों के शत्रु, अर्थात् शिव"
+        },
+        "literal": {
+          "en": "O enemy of the cities",
+          "hi": "हे पुरों के शत्रु"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-purari",
+          "mw-pur",
+          "mw-ari",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w13": {
+        "compound": "c9",
+        "padaccheda": [
+          {
+            "sa": "त्वद्",
+            "iast": "tvad"
+          },
+          {
+            "sa": "अन्यः",
+            "iast": "anyaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga (utva)",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before the voiced v of vareṇyo (next word): anyaḥ + vareṇyaḥ → anyo vareṇyaḥ.",
+              "hi": "अन्तिम '-अः' आगे के घोष 'व' (वरेण्यो) के कारण '-ओ' बन जाता है: अन्यः + वरेण्यः → अन्यो वरेण्यः।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "युष्मद्",
+            "iast": "yuṣmad",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "युष्मद्",
+              "iast": "yuṣmad"
+            },
+            "meaning": {
+              "en": "You",
+              "hi": "आप"
+            }
+          },
+          {
+            "sa": "अन्य",
+            "iast": "anya",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अन्य",
+              "iast": "anya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "anya",
+              "gloss": "other than, different from, opposed to (abl. or in comp.)"
+            },
+            "meaning": {
+              "en": "other",
+              "hi": "दूसरा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "anyone other than You (Śiva)",
+          "hi": "आप (शिव) के सिवा कोई दूसरा"
+        },
+        "notes": {
+          "en": "tvad is the form 'you' (one person) takes inside a compound; anya 'other than' joins it directly.",
+          "hi": "त्वद् समास के भीतर 'तुम' (एक व्यक्ति) का रूप है; अन्य 'से भिन्न' उससे सीधे जुड़ता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-anya",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w14": {
+        "padaccheda": [
+          {
+            "sa": "वरेण्यः",
+            "iast": "vareṇyaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga (utva)",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before the voiced n of na: vareṇyaḥ + na → vareṇyo na.",
+              "hi": "अन्तिम '-अः' आगे के घोष 'न' के कारण '-ओ' बन जाता है: वरेण्यः + न → वरेण्यो न।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "वरेण्य",
+            "iast": "vareṇya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वरेण्य",
+              "iast": "vareṇya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vareṇya",
+              "gloss": "to be wished for, desirable, excellent, best among (gen.)"
+            },
+            "meaning": {
+              "en": "worth choosing",
+              "hi": "वरणीय"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "worth choosing, the best to be wished for",
+          "hi": "वरण के योग्य, श्रेष्ठ"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-varenya",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w15": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "na",
+              "gloss": "not, no, nor, neither"
+            },
+            "meaning": {
+              "en": "not",
+              "hi": "नहीं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "not, no one",
+          "hi": "न, कोई नहीं"
+        },
+        "notes": {
+          "en": "The two na's run down the list: no one worth choosing, none to honour, none to count.",
+          "hi": "दोनों 'न' पूरी सूची पर लागू होते हैं: न कोई वरणीय, न माननीय, न गणनीय।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w16": {
+        "padaccheda": [
+          {
+            "sa": "मान्यः",
+            "iast": "mānyaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "visarga (utva)",
+            "rule": "aḥ + voiced consonant → o",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before the voiced n of na: mānyaḥ + na → mānyo na.",
+              "hi": "अन्तिम '-अः' आगे के घोष 'न' के कारण '-ओ' बन जाता है: मान्यः + न → मान्यो न।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "मान्य",
+            "iast": "mānya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मान्य",
+              "iast": "mānya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mānya",
+              "gloss": "to be respected or honoured, worthy of honour, respectable, venerable"
+            },
+            "meaning": {
+              "en": "honoured",
+              "hi": "माननीय"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "worthy of honour",
+          "hi": "माननीय, आदर के योग्य"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-manya",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w17": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "na",
+              "gloss": "not, no, nor, neither"
+            },
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor, none",
+          "hi": "न, कोई नहीं"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w18": {
+        "padaccheda": [
+          {
+            "sa": "गण्यः",
+            "iast": "gaṇyaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "गण्य",
+            "iast": "gaṇya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गण्य",
+              "iast": "gaṇya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "gaṇya",
+              "gloss": "to be counted or calculated; to be considered or regarded"
+            },
+            "meaning": {
+              "en": "counted",
+              "hi": "गणनीय"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "worth counting, to be reckoned with",
+          "hi": "गिनने योग्य, गणनीय"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-ganya",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      }
+    }
+  }
+}

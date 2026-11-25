@@ -1,0 +1,12 @@
+{
+  "check": "T2.9b",
+  "fields_hash": "3fc19004057f16db",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c1.note",
+      "message": "The structure and vigraha for c1 attach virājamāna to the wave-vines ((…vallarī)-virājamāna)-mūrdhan, but the note presents virājamāna-mūrdhan ('a shining head') as an inner unit, which implies the other grouping.",
+      "suggested_fix": "Align the note with the structure, or say both groupings are possible."
+    }
+  ]
+}

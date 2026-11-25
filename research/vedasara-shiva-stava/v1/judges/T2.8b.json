@@ -1,0 +1,12 @@
+{
+  "check": "T2.8b",
+  "fields_hash": "e404ab4b5662f0c8",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c1.vigraha",
+      "message": "The type tatpuruṣa is acceptable, but the vigraha 'पापानां नाशः' means 'the destruction of sins', while the compound's meaning and note give 'the destroyer of sins' as an epithet of Śiva. mw-nasha supports the agent sense only for nāśa used ifc. ('destroying, annihilating'). A vigraha that analyses it as an agent would match the meaning: e.g. 'पापानां नाशः (नाशकः)', or upapada-style 'पापं नाशयति इति'. Another option is a bahuvrīhi reading like 'पापानां नाशो यस्मात्'. This is not a clear type error, so a human should decide how to word the vigraha.",
+      "suggested_fix": "Change vigraha to 'पापानि नाशयति इति पापनाशः' (or 'पापानां नाशकः'), keeping type tatpuruṣa, so the vigraha matches the agent meaning 'destroyer of sins'."
+    }
+  ]
+}

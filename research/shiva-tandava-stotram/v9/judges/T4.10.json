@@ -1,0 +1,12 @@
+{
+  "check": "T4.10",
+  "fields_hash": "882bcc10b885e179",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a3.body",
+      "message": "'also cuts the devotee free' states a saving benefit as fact, unattributed (vyakhya calls him भवभयहारी).",
+      "suggested_fix": "Attribute: '…(vyakhya.org: भवभयहारी)'."
+    }
+  ]
+}

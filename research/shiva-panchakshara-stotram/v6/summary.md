@@ -1,0 +1,11 @@
+# v6: stotram-refine run, 2026-11-20
+
+**Outcome:** `ai_verified`. Penalty 0 → 0. 8/8 words agreed across 2 drafts. Exit-ready: True.
+
+## Needs a human
+
+1. **Confirm the text lock** after reading `text-report.md`:
+   `.venv/bin/python -m checks lock data/stotrams/shiva-panchakshara-stotram.json --verse v6 --sources gitapress-stotraratnavali,gitapress-stotraratnavali,ramakrishna-math-mantrapushpam,sanskritdocuments-panch --confirm "<your name>"`
+- T2.5 `p2.morph.stem`: stem 'idam' equals the inflected form; check it is the prātipadika
+- T4.1 `words.w1.meaning`: The main meaning 'this five-syllable (hymn)' / 'यह पञ्चाक्षर (स्तोत्र)' reads the word as the hymn, but none of the evidence says that. The only explicit translation, sanskritdocuments-panch.md, has 'this sacred five-syllabled mantra, (namaH shivAya)'. gitapress-stotraratnavali.md has 'इस पवित्र पञ्चाक्षरका पाठ', which could mean either one. In mw-pancakshara.md, pañcākṣara is only an adjective, 'consisting of 5 syllables'; that fits the five-syllable prayer, while the hymn is only named after it. The prayer reading is recorded under alternatives, so this is not a fail. But the less-supported reading is the main one and confidence is 'high'. A human should decide which reading comes first. (suggested: Either make the prayer reading the main one (en 'this five-syllable prayer (namaḥ śivāya)', hi 'यह पञ्चाक्षर मन्त्र (नमः शिवाय)') and keep 'hymn' as the alternative, or keep 'hymn' first and lower confidence to 'medium'.)
+- T4.9 `annotations.a3.citations`: a3 says 'the other three end the hymn with verse 5' and cites vanivilas-1910-works-17, sringeri-shiva-panchakshara and stotranidhi-shiva-panchakshara. None of these three has an excerpt file in v6/sources/, and none of the citations carries a quote. The only support is text-report.md. Separately, the note calls all six witnesses 'printed texts', but text-report.md lists A (sanskritdocuments.org) and E (sringeri.net) as websites, so that wording goes further than the source. (suggested: Save short v6 excerpts for B, E and F that record the hymn ending after v5 with a colophon (or cite text-report.md as the locator). Change 'Three of the six printed texts compared' to 'Three of the six texts compared' (hi: keep 'छह पाठों').)

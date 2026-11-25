@@ -1,0 +1,96 @@
+[
+  {"op": "test", "path": "/verses/5/id", "value": "v6"},
+  {"op": "replace", "path": "/verses/5/padas/14/role", "value": "samānādhikaraṇa"},
+  {"op": "replace", "path": "/verses/5/padas/14/head", "value": "x1"},
+  {"op": "replace", "path": "/verses/5/padas/16/role", "value": "samānādhikaraṇa"},
+  {"op": "replace", "path": "/verses/5/padas/16/head", "value": "x1"},
+  {"op": "replace", "path": "/verses/5/padas/19/role", "value": "samānādhikaraṇa"},
+  {"op": "replace", "path": "/verses/5/padas/19/head", "value": "x1"},
+  {"op": "replace", "path": "/verses/5/padas/21/role", "value": "samānādhikaraṇa"},
+  {"op": "replace", "path": "/verses/5/padas/21/head", "value": "x1"},
+  {"op": "replace", "path": "/verses/5/anvaya", "value": ["x1", "p1", "p2", "p3", "p4", "p5", "p6", "p7", "p8", "p9", "p10", "p11", "p12", "p14", "p15", "p16", "p17", "p18", "p19", "p20", "p21", "p22", "p13", "p28", "p23", "p24", "p25", "p26", "p27", "p30", "p29", "p32", "p31", "p33"]},
+  {"op": "replace", "path": "/verses/5/translations/en/lines/1", "value": [
+    {"refs": ["w7"], "text": "nor"},
+    {"refs": ["w8"], "text": "space is"},
+    {"refs": ["x1"], "text": "He,"},
+    {"refs": ["w9"], "text": "nor"},
+    {"refs": ["w10"], "text": "tiredness,"},
+    {"refs": ["w11"], "text": "nor"},
+    {"refs": ["w12"], "text": "sleep,"}
+  ]},
+  {"op": "replace", "path": "/verses/5/translations/en/lines/2", "value": [
+    {"refs": ["w13"], "text": "nor"},
+    {"refs": ["w14"], "text": "heat,"},
+    {"refs": ["w15"], "text": "nor"},
+    {"refs": ["w16"], "text": "cold;"},
+    {"refs": ["w17"], "text": "no"},
+    {"refs": ["w18"], "text": "place,"},
+    {"refs": ["w19"], "text": "no"},
+    {"refs": ["w20"], "text": "dress,"}
+  ]},
+  {"op": "replace", "path": "/verses/5/translations/en/bhavartha", "value": "Earth, water, fire, wind and space, the five elements of the world: He is none of them, and He is not tiredness or sleep, heat or cold either. He has no place and no dress, and no form at all. And still the poet praises Him as the Trimūrti, the One who has three forms."},
+  {"op": "replace", "path": "/verses/5/translations/hi/lines/1", "value": [
+    {"refs": ["w7"], "text": "न"},
+    {"refs": ["w8"], "text": "आकाश,"},
+    {"refs": ["w9"], "text": "न"},
+    {"refs": ["w10"], "text": "थकान,"},
+    {"refs": ["w11"], "text": "न"},
+    {"refs": ["w12"], "text": "नींद,"}
+  ]},
+  {"op": "replace", "path": "/verses/5/translations/hi/lines/2", "value": [
+    {"refs": ["w13"], "text": "न"},
+    {"refs": ["w14"], "text": "गर्मी"},
+    {"refs": ["w8"], "text": "हैं,"},
+    {"refs": ["w15"], "text": "न"},
+    {"refs": ["w16"], "text": "सर्दी;"},
+    {"refs": ["w22"], "text": "जिनका"},
+    {"refs": ["w17"], "text": "न"},
+    {"refs": ["w18"], "text": "कोई स्थान"},
+    {"refs": ["w22"], "text": "है,"},
+    {"refs": ["w19"], "text": "न"},
+    {"refs": ["w20"], "text": "कोई वेश,"}
+  ]},
+  {"op": "replace", "path": "/verses/5/translations/hi/lines/3", "value": [
+    {"refs": ["w21"], "text": "और न"},
+    {"refs": ["w23"], "text": "कोई मूर्ति,"},
+    {"refs": ["w24"], "text": "उन"},
+    {"refs": ["w23"], "text": "त्रिमूर्ति की"},
+    {"refs": ["w24"], "text": "मैं स्तुति करता हूँ।"}
+  ]},
+  {"op": "replace", "path": "/verses/5/translations/hi/bhavartha", "value": "पृथ्वी, जल, अग्नि, वायु और आकाश, संसार के ये पाँच तत्त्व: वे इनमें से कोई नहीं हैं, और न वे थकान या नींद हैं, न गर्मी या सर्दी। उनका न कोई स्थान है, न वेश, और न कोई मूर्ति। फिर भी कवि उनकी स्तुति त्रिमूर्ति के रूप में करता है, यानी उनकी जिनके तीन रूप हैं।"},
+  {"op": "replace", "path": "/verses/5/words/w8/notes", "value": {
+    "en": "Āste, 'sits, stays, is', is the verb for the whole list up to cold: He who is not earth, water, fire, wind or space, not tiredness, sleep, heat or cold. With the na before it (na ca) it reads 'nor'.",
+    "hi": "'आस्ते' (बैठता है, रहता है, है) सर्दी तक की पूरी सूची की क्रिया है: जो न पृथ्वी, न जल, न अग्नि, न वायु, न आकाश हैं, न थकान, न नींद, न गर्मी, न सर्दी। पहले के 'न' के साथ (न च) अर्थ 'और न' है।"
+  }},
+  {"op": "replace", "path": "/verses/5/words/w9/components/0/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w9/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w11/components/0/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w11/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w13/components/0/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w13/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w15/components/0/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w15/meaning/en", "value": "nor"},
+  {"op": "replace", "path": "/verses/5/words/w10/aside", "value": {
+    "en": "*Tandrā* is the dull, heavy tiredness of a worn-out body; the next word, *nidrā*, is sleep itself. He is neither.",
+    "hi": "*तन्द्रा* थके शरीर की भारी सुस्ती है; अगला शब्द *निद्रा* स्वयं नींद है। वे इन दोनों में से कुछ भी नहीं हैं।"
+  }},
+  {"op": "replace", "path": "/verses/5/words/w22/meaning/hi", "value": "जिनका (अर्थात् शिव का) … है"},
+  {"op": "replace", "path": "/verses/5/words/w22/notes", "value": {
+    "en": "Yasya, 'whose', goes with the last three things in the list: whose is no place, no dress, no form. Tiredness, sleep, heat and cold stay with the elements before them, as things He is not. Tam, 'Him', in the next words answers yasya.",
+    "hi": "'यस्य' (जिनका) सूची की अन्तिम तीन चीज़ों से जुड़ता है: जिनका न कोई स्थान है, न वेश, न मूर्ति। थकान, नींद, गर्मी और सर्दी पहले के तत्त्वों के साथ रहते हैं: वे इनमें से भी कुछ नहीं हैं। आगे का 'तम्' (उन्हें) 'यस्य' का उत्तर देता है।"
+  }},
+  {"op": "add", "path": "/verses/5/words/w22/alternatives", "value": [
+    {
+      "reading": {
+        "en": "whose is no tiredness, no sleep, no heat, no cold, no place, no dress, no form",
+        "hi": "जिनकी न थकान है, न नींद, न गर्मी, न सर्दी, न स्थान, न वेश, न मूर्ति"
+      },
+      "note": "Yasya … asti can also be taken over all seven nouns from tandrā to mūrti, so that tiredness, sleep, heat and cold are things He does not have rather than things He is not. This was the earlier reading here; the split now follows gitapress-stotraratnavali ('न तन्द्रा हैं, न निद्रा हैं, न ग्रीष्म हैं और न शीत हैं तथा जिनका न कोई देश है, न वेष है'). The sense barely changes."
+    }
+  ]},
+  {"op": "add", "path": "/verses/5/review/history/-", "value": {
+    "date": "2026-11-21",
+    "by": "ai",
+    "action": "Owner decision: tandrā, nidrā, uṣṇam and śītam now read with the 'is not' list of the elements (heads → x1, verb āste); yasya … asti governs only deśa, veṣa, mūrti. Padas, anvaya, en/hi lines 2–4, both bhāvārthas, w8/w9/w10/w11/w13/w15/w22 updated; old grouping kept as a w22 alternative."
+  }}
+]

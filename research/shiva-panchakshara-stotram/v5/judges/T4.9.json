@@ -1,0 +1,12 @@
+{
+  "check": "T4.9",
+  "fields_hash": "64e9d4c5b5102de6",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "verse.annotations.a1.body",
+      "message": "The claim 'One sound changes' (Hindi 'एक ध्वनि बदलती है') is not exactly right. In the readings यक्ष (ya-k-ṣa) and यज्ञ (ya-j-ña), two consonants differ (k→j and ṣ→ñ). All the other claims in a1 have support. This is minor, so a human should decide whether to reword it.",
+      "suggested_fix": "EN: 'One cluster of sounds changes (kṣa becomes jña), and the picture moves…'; HI: 'बस एक संयुक्ताक्षर बदलता है (क्ष की जगह ज्ञ), और चित्र…'"
+    }
+  ]
+}

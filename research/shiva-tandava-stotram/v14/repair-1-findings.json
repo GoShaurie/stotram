@@ -1,0 +1,50 @@
+[
+ {
+  "status": "fail",
+  "path": "translations.hi.lines[3]",
+  "message": "In the Hindi line 'और सर्वोच्च | श्री का परम | पद', the two adjectives are attached to the wrong words. 'सर्वोच्च' (w10, param) sits in front of 'श्री', so it reads as describing śrī, which is the para of paraśrī (w9). 'परम', placed after 'श्री का', describes 'पद', which is w10's job. As a result, hovering w10 highlights the adjective on glory, and w9's segment contains the adjective on the seat. The word meanings themselves give the right split: w9 = 'परम श्री का', w10 = 'सर्वोच्च'. The HI bhāvārtha also uses that order: 'परम श्री का सर्वोच्च पद'.",
+  "suggested_fix": "Reorder and retext the segments as [{refs:[\"w9\"], text:\"और परम श्री का\"}, {refs:[\"w10\"], text:\"सर्वोच्च\"}, {refs:[\"w11\"], text:\"पद\"}, {refs:[\"w5\"], text:\"बढ़ाए और प्रदान करे।\"}]",
+  "check": "T4.6",
+  "severity": "blocker"
+ },
+ {
+  "status": "fail",
+  "path": "verse.annotations.a3.body.en",
+  "message": "The English body says the commentator stresses Śiva is perfumed 'not by sandal paste or his own flowers'. The cited excerpt (vyakhya-sts-14.md, व्याख्या) says 'चन्दन आदि अंगराग अथवा अन्य पुष्पों से नहीं', which means 'not by sandal and other unguents or by other flowers'. The source says nothing about 'his own' flowers, so the English misstates what was cited. The Hindi body ('अन्य फूलों से') is correct.",
+  "suggested_fix": "Change 'not by sandal paste or his own flowers' to 'not by sandal paste or other flowers'.",
+  "check": "T4.9",
+  "severity": "blocker"
+ },
+ {
+  "status": "flag",
+  "path": "compounds.c1.note",
+  "message": "Outside this rubric: compounds.c1.note (en and hi) says the compound has 'Eleven members' (ग्यारह पदों का समास), but c1.structure and c1.iast list twelve: nilimpa, nātha, nāgarī, kadamba, maula, mallikā, nigumpha, nirbhara, kṣarat, madhu, uṣṇikā, manohara. The nesting itself is correct and matches the vigraha.",
+  "suggested_fix": "Change 'Eleven members' to 'Twelve members' and 'ग्यारह पदों' to 'बारह पदों' in compounds.c1.note.",
+  "check": "T2.9b",
+  "severity": "flag (verified: 12 members)"
+ },
+ {
+  "status": "flag",
+  "path": "translations.en.lines[1]",
+  "message": "The single verb 'spread' governs two objects: 'spread ... a delightful joy in our hearts, and the highest seat of supreme glory'. 'Spread the highest seat' is an unnatural zeugma. The Hindi avoids it with 'बढ़ाए और प्रदान करे', and the w5 meaning ('may it spread, may it bestow') supports a second verb.",
+  "suggested_fix": "Prefix the third EN line with a w5 segment, e.g. [{refs:[\"w5\"], text:\"and grant\"}, {refs:[\"w10\"], text:\"the highest\"}, {refs:[\"w11\"], text:\"seat\"}, {refs:[\"w9\"], text:\"of supreme glory.\"}]",
+  "check": "T4.8",
+  "severity": "flag"
+ },
+ {
+  "status": "flag",
+  "path": "translations.hi.bhavartha",
+  "message": "The EN bhāvārtha says 'fill our hearts with a playful gladness', which renders vinodinīm (w8). The HI bhāvārtha says only 'हमारे मन को आनन्द से भरता रहे' and has nothing for vinodinī. This is a small loss of one pada's meaning in a summary, so a human should decide whether to add it.",
+  "suggested_fix": "HI: 'कवि माँगता है कि यह तेज दिन-रात हमारे मन को विनोद-भरे आनन्द से भरता रहे और परम श्री का सर्वोच्च पद दे।'",
+  "check": "T4.7",
+  "severity": "flag"
+ },
+ {
+  "status": "flag",
+  "path": "verse.annotations.a2.body.en",
+  "message": "The body (and the matching Hindi) opens with 'Only three of the witnesses consulted print this verse at all', which implies other witnesses were checked and lack the verse. None of the evidence excerpts records those other witnesses. The closest support is the note in sanskritdocuments-shivtand-meaning.md that its main text has 15 verses and prints this verse only in an appendix. The variant facts themselves (maula in sanskritdocuments-shivtand.md and sa-wikisource-shivatandava.md, mauli in vyakhya-sts-14.md) are correctly cited.",
+  "suggested_fix": "Either cite a source showing editions that omit the verse, or soften the wording to 'Of the three texts consulted, two read ... and one reads ...'.",
+  "check": "T4.9",
+  "severity": "flag"
+ }
+]

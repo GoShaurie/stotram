@@ -1,0 +1,950 @@
+{
+  "id": "v1",
+  "number": 1,
+  "kind": "verse",
+  "concepts": [
+    "pancakshara-mantra",
+    "ascetic-lord"
+  ],
+  "lines": [
+    {
+      "words": [
+        {
+          "id": "w1",
+          "text": "नागेन्द्रहाराय",
+          "iast": "nāgendrahārāya"
+        },
+        {
+          "id": "w2",
+          "text": "त्रिलोचनाय",
+          "iast": "trilocanāya"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w3",
+          "text": "भस्माङ्गरागाय",
+          "iast": "bhasmāṅgarāgāya"
+        },
+        {
+          "id": "w4",
+          "text": "महेश्वराय",
+          "iast": "maheśvarāya"
+        }
+      ],
+      "end": "।"
+    },
+    {
+      "words": [
+        {
+          "id": "w5",
+          "text": "नित्याय",
+          "iast": "nityāya"
+        },
+        {
+          "id": "w6",
+          "text": "शुद्धाय",
+          "iast": "śuddhāya"
+        },
+        {
+          "id": "w7",
+          "text": "दिगम्बराय",
+          "iast": "digambarāya"
+        }
+      ],
+      "end": ""
+    },
+    {
+      "words": [
+        {
+          "id": "w8",
+          "text": "तस्मै",
+          "iast": "tasmai"
+        },
+        {
+          "id": "w9",
+          "text": "नकाराय",
+          "iast": "nakārāya"
+        },
+        {
+          "id": "w10",
+          "text": "नमः",
+          "iast": "namaḥ"
+        },
+        {
+          "id": "w11",
+          "text": "शिवाय",
+          "iast": "śivāya"
+        }
+      ],
+      "end": "॥ १ ॥"
+    }
+  ],
+  "compounds": {
+    "c1": {
+      "members": ["w1"],
+      "iast": "nāga-indra-hārāya",
+      "type": "bahuvrīhi",
+      "structure": "((nāga-indra)-hāra)",
+      "vigraha": "नागानाम् इन्द्रः नागेन्द्रः, सः हारः यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him whose necklace is the king of snakes",
+        "hi": "उन (शिव) को, नागराज ही जिनका हार है"
+      },
+      "note": {
+        "en": "nāga-indra 'king of the snakes' is itself a compound; with hāra 'necklace' it describes the one who wears such a necklace, Śiva.",
+        "hi": "नाग-इन्द्र 'साँपों का राजा' स्वयं एक समास है; हार के साथ यह उनका वर्णन करता है जो ऐसा हार पहनते हैं, अर्थात् शिव।"
+      }
+    },
+    "c2": {
+      "members": ["w2"],
+      "iast": "tri-locanāya",
+      "type": "bahuvrīhi",
+      "vigraha": "त्रीणि लोचनानि यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him who has three eyes",
+        "hi": "उन (शिव) को, जिनके तीन नेत्र हैं"
+      },
+      "note": {
+        "en": "'Three eyes' describes the one who has them; a well-known name of Śiva.",
+        "hi": "'तीन नेत्र' उनका वर्णन है जिनके ये हैं; शिव का प्रसिद्ध नाम।"
+      }
+    },
+    "c3": {
+      "members": ["w3"],
+      "iast": "bhasma-aṅga-rāgāya",
+      "type": "bahuvrīhi",
+      "structure": "(bhasman-(aṅga-rāga))",
+      "vigraha": "भस्म एव अङ्गरागः यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him whose body-paint is ash",
+        "hi": "उन (शिव) को, भस्म ही जिनके शरीर का लेप है"
+      },
+      "note": {
+        "en": "aṅga-rāga 'body paint' is a compound of 'limb' and 'colouring'; bhasma 'ash' says what that paint is, and the whole describes Śiva.",
+        "hi": "अंग-राग 'शरीर का लेप' 'अंग' और 'रंग/लेप' से बना है; भस्म बताता है कि वह लेप क्या है, और पूरा शब्द शिव का वर्णन करता है।"
+      }
+    },
+    "c4": {
+      "members": ["w4"],
+      "iast": "mahā-īśvarāya",
+      "type": "karmadhāraya",
+      "vigraha": "महान् चासौ ईश्वरः, तस्मै",
+      "meaning": {
+        "en": "to the great Lord",
+        "hi": "महान ईश्वर को"
+      },
+      "note": {
+        "en": "mahat 'great' takes the form mahā at the start of a compound; it describes īśvara 'lord'.",
+        "hi": "समास के आरम्भ में महत् 'महान' का रूप महा हो जाता है; यह ईश्वर 'स्वामी' का विशेषण है।"
+      }
+    },
+    "c5": {
+      "members": ["w7"],
+      "iast": "dig-ambarāya",
+      "type": "bahuvrīhi",
+      "vigraha": "दिशः एव अम्बरं यस्य सः, तस्मै",
+      "meaning": {
+        "en": "to Him whose clothing is the directions",
+        "hi": "उन (शिव) को, दिशाएँ ही जिनका वस्त्र हैं"
+      },
+      "note": {
+        "en": "diś 'direction' and ambara 'clothing' (also 'sky'); the whole describes the one who wears only the directions, i.e. is naked.",
+        "hi": "दिश् 'दिशा' और अम्बर 'वस्त्र' (और 'आकाश'); पूरा शब्द उनका वर्णन करता है जो केवल दिशाओं को पहनते हैं, अर्थात् नग्न हैं।"
+      }
+    }
+  },
+  "padas": [
+    {
+      "id": "p1",
+      "words": ["w1"],
+      "sa": "नागेन्द्रहाराय",
+      "iast": "nāgendrahārāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "नागेन्द्रहार", "iast": "nāgendrahāra" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p2",
+      "words": ["w2"],
+      "sa": "त्रिलोचनाय",
+      "iast": "trilocanāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "त्रिलोचन", "iast": "trilocana" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p3",
+      "words": ["w3"],
+      "sa": "भस्माङ्गरागाय",
+      "iast": "bhasmāṅgarāgāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "भस्माङ्गराग", "iast": "bhasmāṅgarāga" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p4",
+      "words": ["w4"],
+      "sa": "महेश्वराय",
+      "iast": "maheśvarāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "महेश्वर", "iast": "maheśvara" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p5",
+      "words": ["w5"],
+      "sa": "नित्याय",
+      "iast": "nityāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "नित्य", "iast": "nitya" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p6",
+      "words": ["w6"],
+      "sa": "शुद्धाय",
+      "iast": "śuddhāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "शुद्ध", "iast": "śuddha" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p7",
+      "words": ["w7"],
+      "sa": "दिगम्बराय",
+      "iast": "digambarāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "दिगम्बर", "iast": "digambara" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p8",
+      "words": ["w8"],
+      "sa": "तस्मै",
+      "iast": "tasmai",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "तद्", "iast": "tad" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "viśeṣaṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p9",
+      "words": ["w9"],
+      "sa": "नकाराय",
+      "iast": "nakārāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "नकार", "iast": "nakāra" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "samānādhikaraṇa",
+      "head": "p11"
+    },
+    {
+      "id": "p10",
+      "words": ["w10"],
+      "sa": "नमः",
+      "iast": "namaḥ",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "नमस्", "iast": "namas" },
+        "gender": "neuter",
+        "case": "nominative",
+        "number": "singular"
+      },
+      "role": "kartā",
+      "head": "x1"
+    },
+    {
+      "id": "p11",
+      "words": ["w11"],
+      "sa": "शिवाय",
+      "iast": "śivāya",
+      "morph": {
+        "type": "subanta",
+        "stem": { "sa": "शिव", "iast": "śiva" },
+        "gender": "masculine",
+        "case": "dative",
+        "number": "singular"
+      },
+      "role": "sampradāna",
+      "head": "p10"
+    }
+  ],
+  "adhyahara": [
+    {
+      "id": "x1",
+      "sa": "अस्तु",
+      "iast": "astu",
+      "morph": {
+        "type": "tinanta",
+        "dhatu": { "sa": "अस्", "iast": "as", "gana": 2 },
+        "lakara": "loṭ",
+        "prayoga": "kartari",
+        "person": 3,
+        "number": "singular",
+        "pada": "parasmaipada"
+      },
+      "role": "kriyā",
+      "head": null,
+      "meaning": {
+        "en": "let (it) be",
+        "hi": "हो"
+      }
+    }
+  ],
+  "anvaya": ["p1", "p2", "p3", "p4", "p5", "p6", "p7", "p9", "p8", "p11", "p10", "x1"],
+  "translations": {
+    "en": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "To Him whose necklace is the king of snakes," },
+          { "refs": ["w2"], "text": "the three-eyed one," }
+        ],
+        [
+          { "refs": ["w3"], "text": "whose body-paint is ash," },
+          { "refs": ["w4"], "text": "the great Lord," }
+        ],
+        [
+          { "refs": ["w5"], "text": "the eternal," },
+          { "refs": ["w6"], "text": "the pure," },
+          { "refs": ["w7"], "text": "clothed in nothing but the directions:" }
+        ],
+        [
+          { "refs": ["w8"], "text": "to Him," },
+          { "refs": ["w9"], "text": "the syllable “na”," },
+          { "refs": ["w11"], "text": "to Śiva," },
+          { "refs": ["x1"], "text": "let there be" },
+          { "refs": ["w10"], "text": "a bow!" }
+        ]
+      ],
+      "bhavartha": "The first verse paints Śiva as a king turned inside out: a living snake-king for a necklace, a third eye, ash where others rub on scented paste, and only the open directions for clothes. Yet He is the great Lord, eternal and pure. The refrain bows to Him as “na”, the first sound of the five-syllable prayer namaḥ śivāya, which the hymn spells out one verse at a time."
+    },
+    "hi": {
+      "lines": [
+        [
+          { "refs": ["w1"], "text": "नागराज ही जिनका हार है," },
+          { "refs": ["w2"], "text": "जो तीन नेत्रों वाले हैं," }
+        ],
+        [
+          { "refs": ["w3"], "text": "भस्म ही जिनके शरीर का लेप है," },
+          { "refs": ["w4"], "text": "जो महान ईश्वर हैं," }
+        ],
+        [
+          { "refs": ["w5"], "text": "जो नित्य," },
+          { "refs": ["w6"], "text": "शुद्ध" },
+          { "refs": ["w7"], "text": "और दिशाओं को ही वस्त्र की तरह पहनने वाले हैं," }
+        ],
+        [
+          { "refs": ["w8"], "text": "उन" },
+          { "refs": ["w9"], "text": "‘न’ अक्षर-रूप" },
+          { "refs": ["w11"], "text": "शिव को" },
+          { "refs": ["w10"], "text": "नमस्कार" },
+          { "refs": ["x1"], "text": "हो।" }
+        ]
+      ],
+      "bhavartha": "पहला श्लोक शिव को ऐसे राजा के रूप में दिखाता है जिसका सब कुछ उलटा है: गले में जीवित नागराज का हार, माथे पर तीसरा नेत्र, सुगन्धित लेप की जगह भस्म, और वस्त्र के नाम पर केवल खुली दिशाएँ। फिर भी वे महान ईश्वर हैं, नित्य और शुद्ध। टेक उन्हें ‘न’ कहकर प्रणाम करती है, जो पाँच अक्षरों की प्रार्थना नमः शिवाय का पहला अक्षर है; स्तोत्र एक-एक श्लोक में यह पूरा मन्त्र खोलता है।"
+    }
+  },
+  "annotations": [
+    {
+      "id": "a1",
+      "refs": ["w1"],
+      "kind": "context",
+      "body": {
+        "en": "A *hāra* is the kind of necklace kings wear, strings of pearls hanging over the chest. Śiva's is alive: *nāgendra*, the king of the snakes, coiled around His neck. The creature that makes everyone else step back is, for Him, jewellery, and it rests on Him as quietly as pearls. The hymn's very first word tells you this Lord is no ordinary king.",
+        "hi": "*हार* वह माला है जो राजा पहनते हैं, सीने पर लटकती मोतियों की लड़ियाँ। शिव का हार जीवित है: *नागेन्द्र*, साँपों का राजा, उनके गले में लिपटा है। जिस जीव को देखकर सब पीछे हट जाते हैं, वह उनके लिए गहना है, और उन पर मोतियों की तरह शान्त पड़ा रहता है। स्तोत्र का पहला ही शब्द बता देता है कि ये स्वामी साधारण राजा नहीं।"
+      },
+      "citations": [
+        { "source": "mw-hara", "locator": "MW hāra, p. 1289", "quote": "a garland of pearls, necklace" },
+        { "source": "mw-nagendra", "locator": "MW nāgendra, p. 533", "quote": "serpent-chief" },
+        { "source": "gitapress-stotraratnavali", "locator": "p. 33, verse १, Hindi translation", "quote": "जिनके कण्ठमें साँपोंका हार है" }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a2",
+      "refs": ["w2"],
+      "kind": "variant",
+      "body": {
+        "en": "Three eyes, or just eyes? Almost every printing reads *tri-locana*, “three-eyed”: two eyes like ours and a third set in the forehead. An older printing has *vi-locana*, which usually means simply “eye” and drops the “three”. That version fits the beat of the line exactly, while the *tr* of *tri-* makes the sound before it heavy where the beat wants a light one. This text keeps *tri-locana*, the reading of nearly every printing.",
+        "hi": "तीन नेत्र, या केवल नेत्र? लगभग हर मुद्रित पाठ में *त्रि-लोचन*, “तीन नेत्रों वाले” है: हमारी तरह दो आँखें और तीसरी माथे पर। एक पुराने मुद्रित पाठ में *वि-लोचन* है, जिसका सामान्य अर्थ बस “नेत्र” है; उसमें “तीन” नहीं रहता। वह पाठ पंक्ति की लय में ठीक बैठता है, जबकि *त्रि* का *त्र* अपने से पहले के अक्षर को भारी कर देता है, जहाँ लय हल्का अक्षर चाहती है। यह पाठ *त्रि-लोचन* रखता है, जो लगभग हर मुद्रण में है।"
+      },
+      "citations": [
+        { "source": "vanivilas-1910-works-17", "locator": "p. [119], verse १", "quote": "नागेन्द्रहाराय विलोचनाय" },
+        { "source": "sringeri-shiva-panchakshara", "locator": "verse 1", "quote": "नागेन्द्रहाराय त्रिलोचनाय" },
+        { "source": "gitapress-stotraratnavali", "locator": "p. 33, verse १", "quote": "नागेन्द्रहाराय त्रिलोचनाय" },
+        { "source": "ramakrishna-math-mantrapushpam", "locator": "p. 459, verse १", "quote": "नागेन्द्रहाराय त्रिलोचनाय" },
+        { "source": "stotranidhi-shiva-panchakshara", "locator": "verse 1", "quote": "नागेन्द्रहाराय त्रिलोचनाय" },
+        { "source": "sanskritdocuments-panch", "locator": "verse 1", "quote": "नागेन्द्रहाराय त्रिलोचनाय" },
+        { "source": "mw-trilocana", "locator": "MW tri-locana, p. 460", "quote": "three-eyed (Śiva)" },
+        { "source": "mw-vilocana", "locator": "MW vi-locana, p. 986", "quote": "the eye, sight" },
+        { "source": "mw-shiva", "locator": "MW śiva, p. 1074", "quote": "he has three eyes, one of which is in his forehead" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a3",
+      "refs": ["w3"],
+      "kind": "context",
+      "body": {
+        "en": "An *aṅga-rāga* is body paint: the scented paste rubbed on the limbs after a bath, the last touch of a rich person's dressing. Śiva's paste is *bhasma*, ash, what is left when a fire is done. Tradition holds that the ash is from His own fire: the glance that burnt Kāma, the god of love, and, at the end of time, the whole universe, whose ashes He smears on Himself. That is why ash is worn in His worship.",
+        "hi": "*अंग-राग* शरीर का लेप है: नहाने के बाद अंगों पर मला जाने वाला सुगन्धित लेप, किसी धनी के शृंगार का अन्तिम स्पर्श। शिव का लेप *भस्म* है, वह राख जो आग बुझने पर बचती है। परम्परा मानती है कि यह राख उन्हीं की अग्नि की है: वह दृष्टि जिसने कामदेव को जलाया, और प्रलय में पूरा विश्व, जिसकी राख वे अपने शरीर पर मलते हैं। इसीलिए उनकी पूजा में भस्म लगाई जाती है।"
+      },
+      "citations": [
+        { "source": "mw-angaraga", "locator": "MW aṅga-rāga, p. 7", "quote": "application of unguents or cosmetics to the body (especially after bathing)" },
+        { "source": "mw-bhasman", "locator": "MW bhasman, p. 750", "quote": "sacred ashes (smeared on the body" },
+        { "source": "mw-shiva", "locator": "MW śiva, p. 1074", "quote": "to have rubbed the resulting ashes upon his body, whence the use of ashes in his worship" },
+        { "source": "gitapress-stotraratnavali", "locator": "p. 33, verse १, Hindi translation", "quote": "भस्म ही जिनका अंगराग (अनुलेपन) है" }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "a4",
+      "refs": ["w7"],
+      "kind": "wordplay",
+      "body": {
+        "en": "*Dig-ambara*: the directions (*diś*) are His clothing (*ambara*). Plainly, it means naked, owning not even a cloth. But *ambara* also means the sky, so the word holds a second picture: wrapped in the sky itself, the open space on every side His only robe. Coming just after *Maheśvara*, “the great Lord”, it makes the verse's point: the Lord of everything wears nothing.",
+        "hi": "*दिग्-अम्बर*: दिशाएँ (*दिश्*) ही जिनका वस्त्र (*अम्बर*) हैं। सीधा अर्थ है नग्न, जिनके पास एक कपड़ा भी नहीं। पर *अम्बर* का अर्थ आकाश भी है, इसलिए शब्द में एक दूसरा चित्र भी है: आकाश ही जिनका ओढ़ना है, चारों ओर फैला खुलापन ही उनका एकमात्र वस्त्र। *महेश्वर*, “महान ईश्वर”, के ठीक बाद आकर यह श्लोक की बात कह देता है: जो सबके स्वामी हैं, वे कुछ भी नहीं पहनते।"
+      },
+      "citations": [
+        { "source": "mw-digambara", "locator": "MW dig-ambara, p. 480", "quote": "‘sky clothed’ i.e. quite naked" },
+        { "source": "mw-ambara", "locator": "MW ambara, p. 83", "quote": "clothes, apparel, garment" },
+        { "source": "mw-ambara", "locator": "MW ambara, p. 83", "quote": "sky, atmosphere, ether" },
+        { "source": "mw-dish", "locator": "MW 2. diś, p. 480", "quote": "quarter or region pointed at, direction, cardinal point" },
+        { "source": "gitapress-stotraratnavali", "locator": "p. 33, verse १, Hindi translation", "quote": "दिशाएँ ही जिनका वस्त्र हैं" }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "a5",
+      "refs": ["w8", "w9", "w10", "w11"],
+      "kind": "context",
+      "body": {
+        "en": "Say the last two words slowly: *na-maḥ śi-vā-ya*. Five syllables, the five-syllable prayer to Śiva, and this hymn gives each syllable its own verse. Verse 1 opens on *nā-gendra* and bows to Śiva as *na-kāra*, “the letter na” (*kāra* added to a sound makes its name, as in *a-kāra*). Yet every refrain also ends with the whole prayer, so each verse holds one syllable and all five at once.",
+        "hi": "अन्तिम दो शब्द धीरे से बोलिए: *न-मः शि-वा-य*। पाँच अक्षर, शिव की पाँच अक्षरों वाली प्रार्थना, और यह स्तोत्र हर अक्षर को अपना एक श्लोक देता है। पहला श्लोक *ना-गेन्द्र* से खुलता है और शिव को *न-कार*, “न अक्षर”, कहकर प्रणाम करता है (किसी ध्वनि के साथ *कार* जोड़ने से उसका नाम बनता है, जैसे *अ-कार*)। फिर भी हर टेक पूरी प्रार्थना पर समाप्त होती है, इसलिए हर श्लोक में एक अक्षर भी है और पाँचों भी।"
+      },
+      "citations": [
+        { "source": "mw-pancakshara", "locator": "MW pañcākṣara, p. 577", "quote": "consisting of 5 syllables" },
+        { "source": "mw-kara", "locator": "MW kāra, p. 274", "quote": "the term used in designating a letter or sound or indeclinable word" },
+        { "source": "mw-nakara", "locator": "MW na-kāra, p. 523", "quote": "the sound or letter n" },
+        { "source": "gitapress-stotraratnavali", "locator": "p. 33, verse १, Hindi translation", "quote": "‘न’ कारस्वरूप शिवको नमस्कार है" }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "words": {
+    "w1": {
+      "compound": "c1",
+      "padaccheda": [
+        { "sa": "नाग", "iast": "nāga" },
+        { "sa": "इन्द्र", "iast": "indra" },
+        { "sa": "हाराय", "iast": "hārāya" }
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "a + i → e",
+          "explanation": {
+            "en": "The a of nāga and the i of indra merge into e: nāga + indra → nāgendra.",
+            "hi": "नाग का 'अ' और इन्द्र का 'इ' मिलकर 'ए' बनते हैं: नाग + इन्द्र → नागेन्द्र।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "नाग",
+          "iast": "nāga",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "नाग", "iast": "nāga" },
+          "sense": { "dict": "mw", "headword": "nāga", "gloss": "a snake" },
+          "meaning": { "en": "snake", "hi": "साँप" }
+        },
+        {
+          "sa": "इन्द्र",
+          "iast": "indra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "इन्द्र", "iast": "indra" },
+          "sense": { "dict": "mw", "headword": "indra", "gloss": "ifc. best, excellent, the first, the chief" },
+          "meaning": { "en": "king", "hi": "राजा" }
+        },
+        {
+          "sa": "हार",
+          "iast": "hāra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "हार", "iast": "hāra" },
+          "sense": { "dict": "mw", "headword": "hāra", "gloss": "a garland of pearls, necklace" },
+          "meaning": { "en": "necklace", "hi": "हार" }
+        }
+      ],
+      "meaning": {
+        "en": "to Him, i.e. Śiva, whose necklace is the king of snakes",
+        "hi": "उन को, अर्थात् शिव को, नागराज ही जिनका हार है"
+      },
+      "literal": {
+        "en": "to the one whose necklace is the snake-king",
+        "hi": "नागराज-रूपी हार वाले को"
+      },
+      "notes": {
+        "en": "indra at the end of a compound means 'the chief of', so nāgendra is 'chief of snakes'. nāgendra can also mean a great elephant, but a necklace makes the snake sense clear.",
+        "hi": "समास के अन्त में इन्द्र का अर्थ 'में श्रेष्ठ, राजा' है, इसलिए नागेन्द्र 'साँपों का राजा'। नागेन्द्र का अर्थ बड़ा हाथी भी होता है, पर हार के साथ साँप वाला अर्थ ही स्पष्ट है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-nagendra", "mw-naga", "mw-indra", "mw-hara", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w2": {
+      "compound": "c2",
+      "padaccheda": [
+        { "sa": "त्रि", "iast": "tri" },
+        { "sa": "लोचनाय", "iast": "locanāya" }
+      ],
+      "components": [
+        {
+          "sa": "त्रि",
+          "iast": "tri",
+          "pos": "numeral",
+          "root": { "kind": "pratipadika", "sa": "त्रि", "iast": "tri" },
+          "meaning": { "en": "three", "hi": "तीन" }
+        },
+        {
+          "sa": "लोचन",
+          "iast": "locana",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "लोचन", "iast": "locana" },
+          "sense": { "dict": "mw", "headword": "locana", "gloss": "the eye" },
+          "meaning": { "en": "eye", "hi": "नेत्र" }
+        }
+      ],
+      "meaning": {
+        "en": "to the three-eyed one, i.e. Śiva",
+        "hi": "तीन नेत्रों वाले को, अर्थात् शिव को"
+      },
+      "epithet": true,
+      "alternatives": [
+        {
+          "reading": {
+            "en": "to the one with (wonderful) eyes (reading vilocanāya)",
+            "hi": "(सुन्दर) नेत्रों वाले को (पाठ विलोचनाय)"
+          },
+          "note": "vanivilas-1910-works-17 reads विलोचनाय, which scans as regular indravajrā; MW vilocana 'the eye, sight'. All other witnesses read त्रिलोचनाय."
+        }
+      ],
+      "confidence": "high",
+      "sources": ["mw-trilocana", "mw-tri", "mw-locana", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w3": {
+      "compound": "c3",
+      "padaccheda": [
+        { "sa": "भस्म", "iast": "bhasma" },
+        { "sa": "अङ्ग", "iast": "aṅga" },
+        { "sa": "रागाय", "iast": "rāgāya" }
+      ],
+      "sandhi": [
+        {
+          "name": "savarṇa-dīrgha",
+          "rule": "a + a → ā",
+          "explanation": {
+            "en": "The final a of bhasma and the first a of aṅga merge into a long ā: bhasma + aṅga → bhasmāṅga.",
+            "hi": "भस्म का अन्तिम 'अ' और अंग का 'अ' मिलकर दीर्घ 'आ' बनते हैं: भस्म + अङ्ग → भस्माङ्ग।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "भस्मन्",
+          "iast": "bhasman",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "भस्मन्", "iast": "bhasman" },
+          "sense": { "dict": "mw", "headword": "bhasman", "gloss": "sacred ashes (smeared on the body)" },
+          "meaning": { "en": "ash", "hi": "भस्म" }
+        },
+        {
+          "sa": "अङ्ग",
+          "iast": "aṅga",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "अङ्ग", "iast": "aṅga" },
+          "sense": { "dict": "mw", "headword": "aṅga", "gloss": "a limb of the body; the body" },
+          "meaning": { "en": "body", "hi": "शरीर" }
+        },
+        {
+          "sa": "राग",
+          "iast": "rāga",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": {
+            "kind": "dhatu",
+            "sa": "रञ्ज्",
+            "iast": "rañj",
+            "gana": 1,
+            "gloss": { "en": "to colour", "hi": "रँगना" }
+          },
+          "formation": "√rañj + ghañ (action noun)",
+          "sense": { "dict": "mw", "headword": "rāga", "gloss": "the act of colouring or dyeing" },
+          "meaning": { "en": "colouring", "hi": "लेप" }
+        }
+      ],
+      "meaning": {
+        "en": "to Him, i.e. Śiva, whose body-paint is ash",
+        "hi": "उन को, अर्थात् शिव को, भस्म ही जिनके शरीर का लेप है"
+      },
+      "literal": {
+        "en": "to the one whose body-colouring is ash",
+        "hi": "भस्म-रूपी अंगराग वाले को"
+      },
+      "notes": {
+        "en": "aṅga-rāga is a set word for scented paste rubbed on the body; bhasman drops its final n at the start of a compound.",
+        "hi": "अंग-राग शरीर पर मले जाने वाले सुगन्धित लेप का प्रचलित शब्द है; समास के आरम्भ में भस्मन् का अन्तिम 'न्' हट जाता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-bhasman", "mw-angaraga", "mw-anga", "mw-raga", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w4": {
+      "compound": "c4",
+      "padaccheda": [
+        { "sa": "महा", "iast": "mahā" },
+        { "sa": "ईश्वराय", "iast": "īśvarāya" }
+      ],
+      "sandhi": [
+        {
+          "name": "guṇa",
+          "rule": "ā + ī → e",
+          "explanation": {
+            "en": "The ā of mahā and the ī of īśvara merge into e: mahā + īśvara → maheśvara.",
+            "hi": "महा का 'आ' और ईश्वर का 'ई' मिलकर 'ए' बनते हैं: महा + ईश्वर → महेश्वर।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "महत्",
+          "iast": "mahat",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "महत्", "iast": "mahat" },
+          "sense": { "dict": "mw", "headword": "mahat", "gloss": "great" },
+          "meaning": { "en": "great", "hi": "महान" }
+        },
+        {
+          "sa": "ईश्वर",
+          "iast": "īśvara",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "ईश्वर", "iast": "īśvara" },
+          "sense": { "dict": "mw", "headword": "īśvara", "gloss": "master, lord" },
+          "meaning": { "en": "lord", "hi": "ईश्वर" }
+        }
+      ],
+      "meaning": {
+        "en": "to the great Lord, i.e. Śiva",
+        "hi": "महान ईश्वर को, अर्थात् शिव को"
+      },
+      "epithet": true,
+      "aside": {
+        "en": "Maheśvara, “the great Lord”, is one of Śiva's most common names. Here it sits between the snake, the ash and the nakedness: the greatest Lord, dressed like no lord at all.",
+        "hi": "महेश्वर, “महान ईश्वर”, शिव का बहुत प्रचलित नाम है। यहाँ यह साँप, भस्म और नग्नता के बीच आता है: सबसे बड़े स्वामी, जो किसी स्वामी जैसे नहीं सजे।"
+      },
+      "confidence": "high",
+      "sources": ["mw-maheshvara", "mw-mahat", "mw-ishvara", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w5": {
+      "padaccheda": [
+        { "sa": "नित्याय", "iast": "nityāya" }
+      ],
+      "components": [
+        {
+          "sa": "नित्य",
+          "iast": "nitya",
+          "pos": "adjective",
+          "root": { "kind": "pratipadika", "sa": "नित्य", "iast": "nitya" },
+          "sense": { "dict": "mw", "headword": "nitya", "gloss": "continual, perpetual, eternal" },
+          "meaning": { "en": "eternal", "hi": "नित्य" }
+        }
+      ],
+      "meaning": {
+        "en": "to the eternal one, i.e. Śiva",
+        "hi": "नित्य (अविनाशी) को, अर्थात् शिव को"
+      },
+      "confidence": "high",
+      "sources": ["mw-nitya", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w6": {
+      "padaccheda": [
+        { "sa": "शुद्धाय", "iast": "śuddhāya" }
+      ],
+      "components": [
+        {
+          "sa": "शुद्ध",
+          "iast": "śuddha",
+          "pos": "participle",
+          "root": {
+            "kind": "dhatu",
+            "sa": "शुध्",
+            "iast": "śudh",
+            "gana": 4,
+            "gloss": { "en": "to become pure", "hi": "शुद्ध होना" }
+          },
+          "formation": "√śudh + kta (past participle)",
+          "sense": { "dict": "mw", "headword": "śuddha", "gloss": "cleansed, cleared, clean, pure" },
+          "meaning": { "en": "pure", "hi": "शुद्ध" }
+        }
+      ],
+      "meaning": {
+        "en": "to the pure one, i.e. Śiva",
+        "hi": "शुद्ध को, अर्थात् शिव को"
+      },
+      "aside": {
+        "en": "Śuddha, pure, untouched by anything, is also listed as a name of Śiva himself. Beside the ash on His body, the word says that nothing really clings to Him.",
+        "hi": "शुद्ध, यानी जिसे कुछ छूता नहीं, शिव का अपना एक नाम भी है। शरीर पर लगी भस्म के पास यह शब्द कहता है कि उन पर सचमुच कुछ नहीं चिपकता।"
+      },
+      "confidence": "high",
+      "sources": ["mw-shuddha", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w7": {
+      "compound": "c5",
+      "padaccheda": [
+        { "sa": "दिक्", "iast": "dik" },
+        { "sa": "अम्बराय", "iast": "ambarāya" }
+      ],
+      "sandhi": [
+        {
+          "name": "jaśtva",
+          "rule": "k + vowel → g",
+          "explanation": {
+            "en": "The k of dik becomes g before the vowel of ambara: dik + ambara → digambara.",
+            "hi": "दिक् का 'क्' आगे के स्वर (अम्बर) के कारण 'ग्' बन जाता है: दिक् + अम्बर → दिगम्बर।"
+          }
+        }
+      ],
+      "components": [
+        {
+          "sa": "दिश्",
+          "iast": "diś",
+          "pos": "noun",
+          "gender": "feminine",
+          "root": { "kind": "pratipadika", "sa": "दिश्", "iast": "diś" },
+          "sense": { "dict": "mw", "headword": "diś", "gloss": "quarter or region pointed at, direction, cardinal point" },
+          "meaning": { "en": "direction", "hi": "दिशा" }
+        },
+        {
+          "sa": "अम्बर",
+          "iast": "ambara",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": { "kind": "pratipadika", "sa": "अम्बर", "iast": "ambara" },
+          "sense": { "dict": "mw", "headword": "ambara", "gloss": "clothes, apparel, garment; sky" },
+          "meaning": { "en": "clothing", "hi": "वस्त्र" }
+        }
+      ],
+      "meaning": {
+        "en": "to Him, i.e. Śiva, who wears only the directions, the sky-clad one",
+        "hi": "उन को, अर्थात् शिव को, दिशाएँ ही जिनका वस्त्र हैं"
+      },
+      "literal": {
+        "en": "to the one whose clothing is the directions",
+        "hi": "दिशा-रूपी वस्त्र वाले को"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-digambara", "mw-dish", "mw-ambara", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w8": {
+      "padaccheda": [
+        { "sa": "तस्मै", "iast": "tasmai" }
+      ],
+      "components": [
+        {
+          "sa": "तस्मै",
+          "iast": "tasmai",
+          "pos": "pronoun",
+          "root": { "kind": "pratipadika", "sa": "तद्", "iast": "tad" },
+          "sense": { "dict": "mw", "headword": "tad", "gloss": "he, she, it, that, this" },
+          "meaning": { "en": "to Him", "hi": "उनको" }
+        }
+      ],
+      "meaning": {
+        "en": "to Him, i.e. the Śiva just described",
+        "hi": "उन को, अर्थात् ऊपर वर्णित शिव को"
+      },
+      "notes": {
+        "en": "tasmai points back to everything said in the first three lines and gathers it into one 'Him'.",
+        "hi": "तस्मै पहली तीन पंक्तियों में कही गई सारी बातों की ओर संकेत करता है और उन्हें एक 'उन' में समेट देता है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-tad", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w9": {
+      "padaccheda": [
+        { "sa": "नकाराय", "iast": "nakārāya" }
+      ],
+      "components": [
+        {
+          "sa": "न",
+          "iast": "na",
+          "pos": "noun",
+          "root": { "kind": "pratipadika", "sa": "न", "iast": "na" },
+          "meaning": { "en": "na", "hi": "न" }
+        },
+        {
+          "sa": "कार",
+          "iast": "kāra",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "कार", "iast": "kāra" },
+          "sense": { "dict": "mw", "headword": "kāra", "gloss": "the term used in designating a letter or sound" },
+          "meaning": { "en": "letter", "hi": "अक्षर" }
+        }
+      ],
+      "meaning": {
+        "en": "to Him, i.e. Śiva, who is the syllable “na”",
+        "hi": "‘न’ अक्षर-रूप (शिव) को"
+      },
+      "literal": {
+        "en": "to the letter na",
+        "hi": "नकार को"
+      },
+      "epithet": true,
+      "notes": {
+        "en": "na is the first syllable of namaḥ śivāya; the verse itself opens with nā-. kāra after a sound gives its name: na-kāra 'the letter na'.",
+        "hi": "न, नमः शिवाय का पहला अक्षर है; श्लोक स्वयं ना- से शुरू होता है। किसी ध्वनि के बाद कार लगाने से उसका नाम बनता है: न-कार 'न अक्षर'।"
+      },
+      "confidence": "high",
+      "sources": ["mw-nakara", "mw-kara", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w10": {
+      "padaccheda": [
+        { "sa": "नमः", "iast": "namaḥ" }
+      ],
+      "components": [
+        {
+          "sa": "नमस्",
+          "iast": "namas",
+          "pos": "noun",
+          "gender": "neuter",
+          "root": {
+            "kind": "dhatu",
+            "sa": "नम्",
+            "iast": "nam",
+            "gana": 1,
+            "gloss": { "en": "to bow", "hi": "झुकना" }
+          },
+          "formation": "√nam + asun (action noun)",
+          "sense": { "dict": "mw", "headword": "namas", "gloss": "bow, obeisance, reverential salutation" },
+          "meaning": { "en": "bow", "hi": "नमस्कार" }
+        }
+      ],
+      "meaning": {
+        "en": "a bow, salutation",
+        "hi": "नमस्कार"
+      },
+      "notes": {
+        "en": "namaḥ takes the one honoured in the 'to' form: śivāya, 'to Śiva'. The verb 'let there be' is understood.",
+        "hi": "नमः के साथ जिसे नमन किया जाता है वह 'को' वाले रूप में आता है: शिवाय, 'शिव को'। 'हो' क्रिया समझी जाती है।"
+      },
+      "confidence": "high",
+      "sources": ["mw-namas", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    },
+    "w11": {
+      "padaccheda": [
+        { "sa": "शिवाय", "iast": "śivāya" }
+      ],
+      "components": [
+        {
+          "sa": "शिव",
+          "iast": "śiva",
+          "pos": "noun",
+          "gender": "masculine",
+          "root": { "kind": "pratipadika", "sa": "शिव", "iast": "śiva" },
+          "sense": { "dict": "mw", "headword": "śiva", "gloss": "‘The Auspicious one’" },
+          "meaning": { "en": "Śiva", "hi": "शिव" }
+        }
+      ],
+      "meaning": {
+        "en": "to Śiva, the auspicious one",
+        "hi": "शिव को, कल्याणकारी को"
+      },
+      "epithet": true,
+      "confidence": "high",
+      "sources": ["mw-shiva", "gitapress-stotraratnavali", "sanskritdocuments-panch"]
+    }
+  },
+  "review": {
+    "status": "ai_draft",
+    "history": [
+      { "date": "2026-11-18", "by": "ai", "action": "Drafted from evidence pack." }
+    ]
+  },
+  "_new_concepts": {
+    "pancakshara-mantra": {
+      "name": { "en": "The five syllables: na-maḥ śi-vā-ya", "hi": "पंचाक्षर: न-मः शि-वा-य" },
+      "description": {
+        "en": "Namaḥ śivāya, “a bow to Śiva”, has five syllables, and this hymn is built on them: each of its five verses opens with one syllable and bows to Śiva as that sound. Every refrain still ends with the whole prayer, so the hymn teaches the mantra one sound at a time.",
+        "hi": "नमः शिवाय, “शिव को नमस्कार”, में पाँच अक्षर हैं, और यह स्तोत्र इन्हीं पर बना है: इसके पाँचों श्लोक एक-एक अक्षर से शुरू होते हैं और शिव को उसी अक्षर के रूप में प्रणाम करते हैं। हर टेक फिर भी पूरी प्रार्थना पर समाप्त होती है, इसलिए स्तोत्र मन्त्र को एक-एक ध्वनि करके सिखाता है।"
+      }
+    },
+    "ascetic-lord": {
+      "name": { "en": "The great Lord who owns nothing", "hi": "सब के स्वामी, जिनके पास कुछ नहीं" },
+      "description": {
+        "en": "Śiva is called Maheśvara, the great Lord, yet He is dressed like a wandering ascetic: a snake for a necklace, ash for body-paint, the open directions for clothes. The hymn keeps setting these side by side, showing a Lord whose greatness needs no wealth.",
+        "hi": "शिव को महेश्वर, महान ईश्वर कहा जाता है, फिर भी वे एक घुमन्तू तपस्वी जैसे सजे हैं: हार की जगह साँप, लेप की जगह भस्म, वस्त्र की जगह खुली दिशाएँ। स्तोत्र इन्हें बार-बार साथ रखता है, ऐसे स्वामी को दिखाते हुए जिनकी महानता को धन की ज़रूरत नहीं।"
+      }
+    }
+  }
+}

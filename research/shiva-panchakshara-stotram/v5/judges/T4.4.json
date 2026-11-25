@@ -1,0 +1,12 @@
+{
+  "check": "T4.4",
+  "fields_hash": "f95e4b096d9a4324",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w11",
+      "message": "śivāya is flagged epithet: true, but its meaning is only 'to Śiva' and it has no note in this verse saying the name means 'the auspicious one'. The only trace is components[0].sense.gloss (mw-shiva.md: 'The Auspicious one'). The rubric allows a common name when a note explains its meaning once. That note may be in the refrain of an earlier verse (e.g. v1), which this bundle does not show, so a human should confirm it exists.",
+      "suggested_fix": "If no earlier verse explains it, add a note to words.w11."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "check": "T4.1",
+  "fields_hash": "4b604149da5c6888",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "words.w2.alternatives",
+      "message": "The alternative reading for vilocanāya is glossed '(to Him) with (striking) eyes' (hi: 'जिनके नेत्र विलक्षण हैं'), and words.w2.notes.hi calls it 'सुन्दर नेत्रों वाले को'. mw-vilocana.md gives only 'the eye, sight' or 'distorting the eyes'. No evidence file supports 'striking' or 'beautiful', and the two Hindi glosses disagree with each other. This is a recorded alternative with medium confidence, so it is not a fail. A human should decide whether to drop the qualifier.",
+      "suggested_fix": "Gloss the alternative as '(to Him) with eyes, the seeing one', and use the same Hindi wording in notes.hi and alternatives.reading.hi."
+    }
+  ]
+}

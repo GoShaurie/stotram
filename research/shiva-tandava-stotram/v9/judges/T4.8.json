@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "882bcc10b885e179",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.hi.lines[0][2].text",
+      "message": "\"धारण करने वाले कण्ठ-नाल की\": नाल is usually feminine (as in w3.literal.hi), so वाली.",
+      "suggested_fix": "धारण करने वाली कण्ठ-नाल की (and w3.meaning.hi)"
+    }
+  ]
+}

@@ -1,0 +1,1404 @@
+{
+  "group": "meaning",
+  "checks": {
+    "T4.2": "checks/judges/T4.2.md",
+    "T4.3": "checks/judges/T4.3.md",
+    "T4.4": "checks/judges/T4.4.md"
+  },
+  "stotram": {
+    "id": "kalabhairava-ashtakam",
+    "title": {
+      "sa": "कालभैरवाष्टकम्",
+      "iast": "Kālabhairavāṣṭakam",
+      "en": "Kalabhairava Ashtakam",
+      "hi": "कालभैरवाष्टकम्"
+    },
+    "deities": [
+      "kalabhairava",
+      "shiva"
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v5",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "धर्मसेतुपालकं",
+            "iast": "dharmasetupālakaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "त्वधर्ममार्गनाशकं",
+            "iast": "tvadharmamārganāśakaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "कर्मपाशमोचकं",
+            "iast": "karmapāśamocakaṃ"
+          },
+          {
+            "id": "w4",
+            "text": "सुशर्मदायकं",
+            "iast": "suśarmadāyakaṃ"
+          },
+          {
+            "id": "w5",
+            "text": "विभुम्",
+            "iast": "vibhum"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w6",
+            "text": "स्वर्णवर्णशेषपाशशोभिताङ्गमण्डलं",
+            "iast": "svarṇavarṇaśeṣapāśaśobhitāṅgamaṇḍalaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "काशिकापुराधिनाथ",
+            "iast": "kāśikāpurādhinātha"
+          },
+          {
+            "id": "w8",
+            "text": "कालभैरवं",
+            "iast": "kālabhairavaṃ"
+          },
+          {
+            "id": "w9",
+            "text": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "end": "॥ ५ ॥"
+      }
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w1"
+        ],
+        "iast": "dharma-setu-pālakam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((dharma-setu)-pālaka)",
+        "vigraha": "धर्मस्य सेतुः धर्मसेतुः, तस्य पालकः, तम्",
+        "meaning": {
+          "en": "the guardian of the dam of dharma",
+          "hi": "धर्म के बाँध की रक्षा करने वाले"
+        },
+        "note": {
+          "en": "dharma-setu 'the dam (or bank) of dharma'; pālaka 'guardian' says who keeps it standing.",
+          "hi": "धर्म-सेतु 'धर्म का बाँध (या किनारा)'; पालक 'रक्षक' बताता है कि उसे कौन खड़ा रखता है।"
+        }
+      },
+      "c2": {
+        "members": [
+          "w2"
+        ],
+        "iast": "adharma-mārga-nāśakam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "(((a-dharma)-mārga)-nāśaka)",
+        "vigraha": "न धर्मः अधर्मः, तस्य मार्गः अधर्ममार्गः, तस्य नाशकः, तम्",
+        "meaning": {
+          "en": "the destroyer of the road of wrongdoing",
+          "hi": "अधर्म के मार्ग का नाश करने वाले"
+        },
+        "note": {
+          "en": "a-dharma 'what is not dharma, wrongdoing'; with mārga 'road' it is the road of wrongdoing; nāśaka 'destroyer' is the one who wipes it out. The little word tu 'and' stands in front, joined in writing.",
+          "hi": "अ-धर्म 'जो धर्म नहीं, अधर्म'; मार्ग 'रास्ता' के साथ अर्थ है अधर्म का रास्ता; नाशक 'नष्ट करने वाला' वह है जो उसे मिटाता है। आगे छोटा-सा शब्द 'तु' (और) लिखने में जुड़ा है।"
+        }
+      },
+      "c3": {
+        "members": [
+          "w3"
+        ],
+        "iast": "karma-pāśa-mocakam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((karma-pāśa)-mocaka)",
+        "vigraha": "कर्माणि एव पाशाः कर्मपाशाः, तेषां मोचकः, तम्",
+        "meaning": {
+          "en": "the one who loosens the bonds of karma",
+          "hi": "कर्म के बन्धनों से छुड़ाने वाले"
+        },
+        "note": {
+          "en": "karma-pāśa 'deeds that are bonds', deeds pictured as ropes; mocaka 'the one who sets free' unties them.",
+          "hi": "कर्म-पाश 'कर्म-रूपी बन्धन', कर्मों को रस्सियों के रूप में देखा गया है; मोचक 'छुड़ाने वाला' उन्हें खोलता है।"
+        }
+      },
+      "c4": {
+        "members": [
+          "w4"
+        ],
+        "iast": "su-śarma-dāyakam",
+        "type": "tatpuruṣa",
+        "subtype": "ṣaṣṭhī",
+        "structure": "((su-śarma)-dāyaka)",
+        "vigraha": "शोभनं शर्म सुशर्म, तस्य दायकः, तम्",
+        "meaning": {
+          "en": "the giver of true happiness",
+          "hi": "उत्तम सुख देने वाले"
+        },
+        "note": {
+          "en": "su 'good, true' + śarman 'happiness' (śarma inside the word); dāyaka 'giver'.",
+          "hi": "सु 'उत्तम' + शर्मन् 'सुख' (शब्द के भीतर 'शर्म'); दायक 'देने वाला'।"
+        }
+      },
+      "c5": {
+        "members": [
+          "w6"
+        ],
+        "iast": "svarṇa-varṇa-śeṣa-pāśa-śobhita-aṅga-maṇḍalam",
+        "type": "bahuvrīhi",
+        "structure": "((((svarṇa-varṇa)-(śeṣa-pāśa))-śobhita)-(aṅga-maṇḍala))",
+        "vigraha": "स्वर्णस्य इव वर्णः येषां ते स्वर्णवर्णाः, ते च ते शेषपाशाः, तैः शोभितम् अङ्गमण्डलं यस्य सः, तम्",
+        "meaning": {
+          "en": "Him whose whole body is adorned with the golden coils of the serpent Śeṣa",
+          "hi": "उन्हें, जिनका सारा शरीर सोने के रंग वाले शेषनाग की कुण्डलियों से सुशोभित है"
+        },
+        "note": {
+          "en": "svarṇa-varṇa 'gold-coloured' describes śeṣa-pāśa 'the cords that are the serpent Śeṣa'; śobhita 'adorned' says what they do to aṅga-maṇḍala 'the whole round of the limbs', the whole body. The whole describes Kālabhairava, the one who has such a body, and so takes His ending.",
+          "hi": "स्वर्ण-वर्ण 'सोने के रंग वाले' शेष-पाश 'शेषनाग-रूपी रस्सियों' का विशेषण है; शोभित 'सुशोभित' बताता है कि वे अङ्ग-मण्डल 'अंगों के पूरे घेरे', यानी सारे शरीर, को सजाते हैं। पूरा शब्द उन कालभैरव का वर्णन करता है जिनका ऐसा शरीर है।"
+        }
+      },
+      "c6": {
+        "members": [
+          "w7",
+          "w8"
+        ],
+        "iast": "kāśikā-pura-adhinātha-kāla-bhairavam",
+        "type": "karmadhāraya",
+        "structure": "(((kāśikā-pura)-adhinātha)-(kāla-bhairava))",
+        "vigraha": "काशिका इति पुरम्, तस्य अधिनाथः, स एव कालभैरवः, तम्",
+        "meaning": {
+          "en": "Kālabhairava, the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति कालभैरव को"
+        },
+        "note": {
+          "en": "kāśikā-pura 'the city Kāśikā'; with adhinātha 'supreme lord' it means the lord of that city; that title and the name Kāla-bhairava stand for one and the same person.",
+          "hi": "काशिका-पुर 'काशी नगरी'; अधिनाथ 'अधिपति' के साथ अर्थ है उस नगरी के स्वामी; यह उपाधि और कालभैरव नाम एक ही के लिए हैं।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "धर्मसेतुपालकम्",
+        "iast": "dharmasetupālakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "धर्मसेतुपालक",
+            "iast": "dharmasetupālaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "तु",
+        "iast": "tu",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w2"
+        ],
+        "sa": "अधर्ममार्गनाशकम्",
+        "iast": "adharmamārganāśakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अधर्ममार्गनाशक",
+            "iast": "adharmamārganāśaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w3"
+        ],
+        "sa": "कर्मपाशमोचकम्",
+        "iast": "karmapāśamocakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "कर्मपाशमोचक",
+            "iast": "karmapāśamocaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w4"
+        ],
+        "sa": "सुशर्मदायकम्",
+        "iast": "suśarmadāyakam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "सुशर्मदायक",
+            "iast": "suśarmadāyaka"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w5"
+        ],
+        "sa": "विभुम्",
+        "iast": "vibhum",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "विभु",
+            "iast": "vibhu"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w6"
+        ],
+        "sa": "स्वर्णवर्णशेषपाशशोभिताङ्गमण्डलम्",
+        "iast": "svarṇavarṇaśeṣapāśaśobhitāṅgamaṇḍalam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "स्वर्णवर्णशेषपाशशोभिताङ्गमण्डल",
+            "iast": "svarṇavarṇaśeṣapāśaśobhitāṅgamaṇḍala"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p8"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w7",
+          "w8"
+        ],
+        "sa": "काशिकापुराधिनाथकालभैरवम्",
+        "iast": "kāśikāpurādhināthakālabhairavam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "काशिकापुराधिनाथकालभैरव",
+            "iast": "kāśikāpurādhināthakālabhairava"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p9"
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w9"
+        ],
+        "sa": "भजे",
+        "iast": "bhaje",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "भज्",
+            "iast": "bhaj",
+            "gana": 1
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "ātmanepada"
+        },
+        "role": "kriyā",
+        "head": null
+      }
+    ],
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "धर्म",
+            "iast": "dharma"
+          },
+          {
+            "sa": "सेतु",
+            "iast": "setu"
+          },
+          {
+            "sa": "पालकम्",
+            "iast": "pālakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (tvadharma): pālakam → pālakaṃ.",
+              "hi": "अगले शब्द (त्वधर्म) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पालकम् → पालकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "धर्म",
+            "iast": "dharma",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "धर्म",
+              "iast": "dharma"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "dharma",
+              "gloss": "virtue, morality, religion, religious merit, good works"
+            },
+            "meaning": {
+              "en": "dharma",
+              "hi": "धर्म"
+            }
+          },
+          {
+            "sa": "सेतु",
+            "iast": "setu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "सेतु",
+              "iast": "setu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "setu",
+              "gloss": "a ridge of earth, mound, bank, causeway, dike, dam, bridge"
+            },
+            "meaning": {
+              "en": "dam",
+              "hi": "बाँध"
+            }
+          },
+          {
+            "sa": "पालक",
+            "iast": "pālaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पाल्",
+              "iast": "pāl",
+              "gana": 10,
+              "gloss": {
+                "en": "to guard, to protect",
+                "hi": "रक्षा करना, पालना"
+              }
+            },
+            "formation": "√pāl + ṇvul (agent noun: 'one who guards')",
+            "sense": {
+              "dict": "mw",
+              "headword": "pālaka",
+              "gloss": "a guardian, protector"
+            },
+            "meaning": {
+              "en": "guardian",
+              "hi": "रक्षक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who guards the dam of dharma",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो धर्म के बाँध की रक्षा करते हैं"
+        },
+        "literal": {
+          "en": "the guardian of the bank of dharma",
+          "hi": "धर्म-सेतु के पालक"
+        },
+        "notes": {
+          "en": "dharmasya setuḥ, 'the dam of dharma': a bank of earth that keeps water in its channel, so the bounds that hold right living in place. Dharmasetu is also listed as a name of Śiva.",
+          "hi": "धर्मस्य सेतुः, 'धर्म का बाँध': मिट्टी का किनारा जो पानी को धारा में रखता है, यानी वे मर्यादाएँ जो सही जीवन को अपनी जगह थामे रखती हैं। धर्मसेतु शिव का एक नाम भी है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dharmasetu",
+          "mw-dharma",
+          "mw-setu",
+          "mw-palaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w2": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "तु",
+            "iast": "tu"
+          },
+          {
+            "sa": "अधर्म",
+            "iast": "adharma"
+          },
+          {
+            "sa": "मार्ग",
+            "iast": "mārga"
+          },
+          {
+            "sa": "नाशकम्",
+            "iast": "nāśakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "yaṇ",
+            "rule": "u + a → va",
+            "explanation": {
+              "en": "The u of tu becomes v before the vowel a of adharma: tu + adharma → tvadharma.",
+              "hi": "तु का 'उ' आगे के स्वर 'अ' (अधर्म) के कारण 'व्' बन जाता है: तु + अधर्म → त्वधर्म।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (karmapāśa): nāśakam → nāśakaṃ.",
+              "hi": "अगले शब्द (कर्मपाश) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: नाशकम् → नाशकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "तु",
+            "iast": "tu",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "tu",
+              "gloss": "but; and; sometimes used as a mere expletive"
+            },
+            "meaning": {
+              "en": "and",
+              "hi": "और"
+            }
+          },
+          {
+            "sa": "अधर्म",
+            "iast": "adharma",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अधर्म",
+              "iast": "adharma"
+            },
+            "formation": "a- ('not') + dharma",
+            "sense": {
+              "dict": "mw",
+              "headword": "a-dharma",
+              "gloss": "unrighteousness, injustice, irreligion, wickedness"
+            },
+            "meaning": {
+              "en": "wrongdoing",
+              "hi": "अधर्म"
+            }
+          },
+          {
+            "sa": "मार्ग",
+            "iast": "mārga",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मार्ग",
+              "iast": "mārga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mārga",
+              "gloss": "any track, road, path, way"
+            },
+            "meaning": {
+              "en": "road",
+              "hi": "मार्ग"
+            }
+          },
+          {
+            "sa": "नाशक",
+            "iast": "nāśaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "नश्",
+              "iast": "naś",
+              "gana": 4,
+              "gloss": {
+                "en": "to perish; (causative) to destroy",
+                "hi": "नष्ट होना; नष्ट करना"
+              }
+            },
+            "formation": "√naś (causative) + ṇvul (agent noun: 'one who destroys')",
+            "sense": {
+              "dict": "mw",
+              "headword": "nāśaka",
+              "gloss": "destroying, annihilating, removing"
+            },
+            "meaning": {
+              "en": "destroyer",
+              "hi": "नाशक"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "and (Him, i.e. Kālabhairava) who destroys the road of wrongdoing",
+          "hi": "और (उन्हें, अर्थात् कालभैरव को) जो अधर्म के मार्ग का नाश करते हैं"
+        },
+        "notes": {
+          "en": "tu, often 'but', here simply joins the two halves of the line: 'and'. Written together with adharma it becomes tv-; the word is tu + adharma, not tva-dharma 'your dharma'.",
+          "hi": "तु, जो प्रायः 'किन्तु' होता है, यहाँ पंक्ति के दोनों हिस्सों को जोड़ता है: 'और'। अधर्म के साथ जुड़कर यह त्व- बन जाता है; शब्द तु + अधर्म है, 'त्व-धर्म' (तेरा धर्म) नहीं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tu",
+          "mw-adharma",
+          "mw-marga",
+          "mw-nashaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w3": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "कर्म",
+            "iast": "karma"
+          },
+          {
+            "sa": "पाश",
+            "iast": "pāśa"
+          },
+          {
+            "sa": "मोचकम्",
+            "iast": "mocakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (suśarma): mocakam → mocakaṃ.",
+              "hi": "अगले शब्द (सुशर्म) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: मोचकम् → मोचकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "कर्मन्",
+            "iast": "karman",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "कर्मन्",
+              "iast": "karman"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "karman",
+              "gloss": "act, action; former act as leading to inevitable results, fate"
+            },
+            "meaning": {
+              "en": "deeds",
+              "hi": "कर्म"
+            }
+          },
+          {
+            "sa": "पाश",
+            "iast": "pāśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाश",
+              "iast": "pāśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāśa",
+              "gloss": "a snare, trap, noose, tie, bond, cord, chain, fetter"
+            },
+            "meaning": {
+              "en": "bonds",
+              "hi": "बन्धन"
+            }
+          },
+          {
+            "sa": "मोचक",
+            "iast": "mocaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मुच्",
+              "iast": "muc",
+              "gana": 6,
+              "gloss": {
+                "en": "to loosen, to set free",
+                "hi": "छोड़ना, मुक्त करना"
+              }
+            },
+            "formation": "√muc (causative) + ṇvul (agent noun: 'one who sets free')",
+            "sense": {
+              "dict": "mw",
+              "headword": "mocaka",
+              "gloss": "liberating, emancipating"
+            },
+            "meaning": {
+              "en": "freer",
+              "hi": "छुड़ाने वाले"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who loosens the bonds of karma",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो कर्म के बन्धनों से छुड़ाते हैं"
+        },
+        "literal": {
+          "en": "the untier of the deed-ropes",
+          "hi": "कर्म-रूपी पाशों को खोलने वाले"
+        },
+        "notes": {
+          "en": "karma is the form karman takes at the front of a word. The deeds are pictured as ropes (pāśa), and He is the one who unties them.",
+          "hi": "शब्द के आरम्भ में कर्मन् का रूप कर्म हो जाता है। कर्मों को रस्सियों (पाश) के रूप में देखा गया है, और वे उन्हें खोलने वाले हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-karman",
+          "mw-karma",
+          "mw-pasha",
+          "mw-mocaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w4": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "सु",
+            "iast": "su"
+          },
+          {
+            "sa": "शर्म",
+            "iast": "śarma"
+          },
+          {
+            "sa": "दायकम्",
+            "iast": "dāyakam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (vibhum): dāyakam → dāyakaṃ.",
+              "hi": "अगले शब्द (विभुम्) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: दायकम् → दायकं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "सु",
+            "iast": "su",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "su",
+              "gloss": "good, excellent, right, virtuous, beautiful"
+            },
+            "meaning": {
+              "en": "true",
+              "hi": "उत्तम"
+            }
+          },
+          {
+            "sa": "शर्मन्",
+            "iast": "śarman",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शर्मन्",
+              "iast": "śarman"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śarman",
+              "gloss": "joy, bliss, comfort, delight, happiness; shelter, protection, refuge"
+            },
+            "meaning": {
+              "en": "happiness",
+              "hi": "सुख"
+            }
+          },
+          {
+            "sa": "दायक",
+            "iast": "dāyaka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दा",
+              "iast": "dā",
+              "gana": 3,
+              "gloss": {
+                "en": "to give",
+                "hi": "देना"
+              }
+            },
+            "formation": "√dā + ṇvul (agent noun: 'one who gives')",
+            "sense": {
+              "dict": "mw",
+              "headword": "dāyaka",
+              "gloss": "giving, granting, bestowing"
+            },
+            "meaning": {
+              "en": "giver",
+              "hi": "देने वाले"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) who gives true happiness",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो उत्तम सुख देते हैं"
+        },
+        "notes": {
+          "en": "śarma is the form śarman takes inside a word. śarman means happiness and also shelter, refuge; the happiness sense is followed here.",
+          "hi": "शब्द के भीतर शर्मन् का रूप शर्म हो जाता है। शर्मन् का अर्थ सुख भी है और शरण, रक्षा भी; यहाँ सुख का अर्थ लिया गया है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "who gives good shelter",
+              "hi": "उत्तम शरण देने वाले"
+            },
+            "note": "MW śarman also lists 'shelter, protection, refuge'; gitapress-shiv-stotra-ratnakar has प्रशस्त कल्याण, shlokam-kalabhairava and greenmesg-kalabhairava have happiness/joy."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-su",
+          "mw-sharman",
+          "mw-sharma",
+          "mw-dayaka",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "विभुम्",
+            "iast": "vibhum"
+          }
+        ],
+        "components": [
+          {
+            "sa": "विभु",
+            "iast": "vibhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भू",
+              "iast": "bhū",
+              "gana": 1,
+              "prefixes": [
+                "vi"
+              ],
+              "gloss": {
+                "en": "to be, to spread through",
+                "hi": "होना, व्याप्त होना"
+              }
+            },
+            "formation": "vi + √bhū",
+            "sense": {
+              "dict": "mw",
+              "headword": "vi-bhu",
+              "gloss": "being everywhere, far-extending, all-pervading, omnipresent; a lord, ruler"
+            },
+            "meaning": {
+              "en": "all-pervading Lord",
+              "hi": "सर्वव्यापी प्रभु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) the Lord present everywhere",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जो सर्वव्यापी प्रभु हैं"
+        },
+        "notes": {
+          "en": "vibhu carries two senses at once: present everywhere, and lord or ruler. The word is also applied to Śiva.",
+          "hi": "विभु में दो अर्थ एक साथ हैं: सब जगह व्याप्त, और स्वामी या प्रभु। यह शब्द शिव के लिए भी आता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vibhu",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w6": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "स्वर्ण",
+            "iast": "svarṇa"
+          },
+          {
+            "sa": "वर्ण",
+            "iast": "varṇa"
+          },
+          {
+            "sa": "शेष",
+            "iast": "śeṣa"
+          },
+          {
+            "sa": "पाश",
+            "iast": "pāśa"
+          },
+          {
+            "sa": "शोभित",
+            "iast": "śobhita"
+          },
+          {
+            "sa": "अङ्ग",
+            "iast": "aṅga"
+          },
+          {
+            "sa": "मण्डलम्",
+            "iast": "maṇḍalam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of śobhita and the first a of aṅga merge into a long ā: śobhita + aṅga → śobhitāṅga.",
+              "hi": "शोभित का अन्तिम 'अ' और अङ्ग का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: शोभित + अङ्ग → शोभिताङ्ग।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (kāśikā): maṇḍalam → maṇḍalaṃ.",
+              "hi": "अगले शब्द (काशिका) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: मण्डलम् → मण्डलं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्वर्ण",
+            "iast": "svarṇa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "स्वर्ण",
+              "iast": "svarṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "svarṇa",
+              "gloss": "gold"
+            },
+            "meaning": {
+              "en": "gold",
+              "hi": "सोना"
+            }
+          },
+          {
+            "sa": "वर्ण",
+            "iast": "varṇa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वर्ण",
+              "iast": "varṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "varṇa",
+              "gloss": "outward appearance, exterior, form, figure, shape, colour"
+            },
+            "meaning": {
+              "en": "colour",
+              "hi": "रंग"
+            }
+          },
+          {
+            "sa": "शेष",
+            "iast": "śeṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शेष",
+              "iast": "śeṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śeṣa",
+              "gloss": "N. of a celebrated mythological thousand-headed serpent"
+            },
+            "meaning": {
+              "en": "Śeṣa",
+              "hi": "शेषनाग"
+            }
+          },
+          {
+            "sa": "पाश",
+            "iast": "pāśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पाश",
+              "iast": "pāśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pāśa",
+              "gloss": "a snare, trap, noose, tie, bond, cord"
+            },
+            "meaning": {
+              "en": "coils",
+              "hi": "कुण्डलियाँ"
+            }
+          },
+          {
+            "sa": "शोभित",
+            "iast": "śobhita",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "शुभ्",
+              "iast": "śubh",
+              "gana": 1,
+              "gloss": {
+                "en": "to shine, to be beautiful",
+                "hi": "शोभा पाना, चमकना"
+              }
+            },
+            "formation": "√śubh (causative) + kta",
+            "sense": {
+              "dict": "mw",
+              "headword": "śobhita",
+              "gloss": "splendid, beautiful, adorned or embellished by"
+            },
+            "meaning": {
+              "en": "adorned",
+              "hi": "सुशोभित"
+            }
+          },
+          {
+            "sa": "अङ्ग",
+            "iast": "aṅga",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अङ्ग",
+              "iast": "aṅga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "aṅga",
+              "gloss": "a limb of the body; the body"
+            },
+            "meaning": {
+              "en": "limbs",
+              "hi": "अंग"
+            }
+          },
+          {
+            "sa": "मण्डल",
+            "iast": "maṇḍala",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मण्डल",
+              "iast": "maṇḍala"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "maṇḍala",
+              "gloss": "a multitude, group, band, collection, whole body"
+            },
+            "meaning": {
+              "en": "whole",
+              "hi": "समूचा घेरा"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(Him, i.e. Kālabhairava) whose whole body is adorned with the golden coils of the serpent Śeṣa",
+          "hi": "(उन्हें, अर्थात् कालभैरव को) जिनका सारा शरीर सोने के रंग वाले शेषनाग की कुण्डलियों से सुशोभित है"
+        },
+        "literal": {
+          "en": "whose round of limbs is adorned with gold-coloured Śeṣa-cords",
+          "hi": "जिनका अंग-मण्डल स्वर्ण-वर्ण शेष-पाशों से शोभित है"
+        },
+        "notes": {
+          "en": "'Gold-coloured' describes the serpent cords, not His skin: verse 3 calls His body dark. aṅga-maṇḍala, 'the round of the limbs', is the whole body.",
+          "hi": "'सोने के रंग वाले' सर्प-रस्सियों का विशेषण है, उनकी त्वचा का नहीं: तीसरा श्लोक उनके शरीर को श्याम कहता है। अङ्ग-मण्डल, 'अंगों का घेरा', यानी सारा शरीर।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(Him) adorned with golden locks of hair, His body spotless",
+              "hi": "(उन्हें) जो सुनहरी केशराशि से सुशोभित हैं और जिनका शरीर निर्मल है"
+            },
+            "note": "Reading स्वर्णवर्णकेशपाशशोभिताङ्गनिर्मलं: vanivilas-1910-works-18 (printed कश), the bracketed variant in sanskritdocuments-kaalabhairava, and sanskritdocuments-shivarahasya-kalabhairava (सुवर्ण-, hypermetric). gitapress-shiv-stotra-ratnakar, ramakrishna-math-mantrapushpam, greenmesg and shlokam read शेषपाश…मण्डलं."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-svarna",
+          "mw-varna",
+          "mw-shesha",
+          "mw-pasha",
+          "mw-shobhita",
+          "mw-anga",
+          "mw-mandala",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w7": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā"
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura"
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of pura and the first a of adhinātha merge into a long ā: pura + adhinātha → purādhinātha.",
+              "hi": "पुर का अन्तिम 'अ' और अधिनाथ का पहला 'अ' मिलकर दीर्घ 'आ' बन जाते हैं: पुर + अधिनाथ → पुराधिनाथ।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काशिका",
+            "iast": "kāśikā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काशिका",
+              "iast": "kāśikā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāśikā",
+              "gloss": "'the city of the Kāśis', Benares"
+            },
+            "meaning": {
+              "en": "Kāśī",
+              "hi": "काशी"
+            }
+          },
+          {
+            "sa": "पुर",
+            "iast": "pura",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुर",
+              "iast": "pura"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pura",
+              "gloss": "a fortress, castle, city, town"
+            },
+            "meaning": {
+              "en": "city",
+              "hi": "नगरी"
+            }
+          },
+          {
+            "sa": "अधिनाथ",
+            "iast": "adhinātha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अधिनाथ",
+              "iast": "adhinātha"
+            },
+            "formation": "adhi ('over, above') + nātha ('lord')",
+            "sense": {
+              "dict": "mw",
+              "headword": "adhi-nātha",
+              "gloss": "a supreme lord, chieftain"
+            },
+            "meaning": {
+              "en": "supreme lord",
+              "hi": "अधिपति"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "the supreme lord of the city of Kāśī",
+          "hi": "काशी नगरी के अधिपति"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāśikā is Kāśī, the city also called Benares (Vārāṇasī). adhi-nātha is more than nātha 'lord': the prefix adhi- makes Him the lord over all. The title runs on into the name Kālabhairava.",
+          "hi": "काशिका यानी काशी, जिसे बनारस (वाराणसी) भी कहते हैं। अधि-नाथ केवल नाथ 'स्वामी' नहीं: 'अधि' उन्हें सबके ऊपर का स्वामी बनाता है। यह उपाधि कालभैरव नाम से जुड़ी है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kashika",
+          "mw-kashi",
+          "mw-pura",
+          "mw-adhinatha",
+          "mw-natha",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w8": {
+        "compound": "c6",
+        "padaccheda": [
+          {
+            "sa": "काल",
+            "iast": "kāla"
+          },
+          {
+            "sa": "भैरवम्",
+            "iast": "bhairavam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (bhaje): kālabhairavam → kālabhairavaṃ.",
+              "hi": "अगले शब्द (भजे) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: कालभैरवम् → कालभैरवं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "काल",
+            "iast": "kāla",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "काल",
+              "iast": "kāla"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "kāla",
+              "gloss": "black, of a dark colour; time (in general)"
+            },
+            "meaning": {
+              "en": "black; time",
+              "hi": "काला; समय"
+            }
+          },
+          {
+            "sa": "भैरव",
+            "iast": "bhairava",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भैरव",
+              "iast": "bhairava"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhairava",
+              "gloss": "N. of a form of Śiva; frightful, terrible"
+            },
+            "meaning": {
+              "en": "Bhairava",
+              "hi": "भैरव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Kālabhairava",
+          "hi": "कालभैरव को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Kāla-bhairava is a form of Bhairava, the fierce form of Śiva. kāla can mean 'black' and 'time'; bhairava means 'terrible'. The ending -m marks Him as the one worshipped (bhaje).",
+          "hi": "काल-भैरव भैरव का एक रूप है, जो शिव का उग्र रूप है। काल का अर्थ 'काला' भी है और 'समय' भी; भैरव का अर्थ है 'भयानक'। अन्त का '-म्' बताता है कि उन्हीं को भजा जा रहा है (भजे)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-kalabhairava",
+          "mw-kala",
+          "mw-bhairava",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje"
+          }
+        ],
+        "components": [
+          {
+            "sa": "भजे",
+            "iast": "bhaje",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "भज्",
+              "iast": "bhaj",
+              "gana": 1,
+              "gloss": {
+                "en": "to serve, to worship",
+                "hi": "भजना, सेवा करना"
+              }
+            },
+            "formation": "laṭ, first person singular, ātmanepada",
+            "sense": {
+              "dict": "mw",
+              "headword": "bhaj",
+              "gloss": "to serve, honour, revere, love, adore"
+            },
+            "meaning": {
+              "en": "I worship",
+              "hi": "भजता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "I worship",
+          "hi": "मैं भजता हूँ"
+        },
+        "notes": {
+          "en": "From √bhaj, 'to serve, revere, love': the root of bhakti and bhajan. The form itself says 'I', so no separate word for 'I' is needed.",
+          "hi": "√भज् से, 'सेवा करना, आदर करना, प्रेम करना': इसी धातु से भक्ति और भजन बने हैं। रूप स्वयं 'मैं' बताता है, इसलिए 'मैं' के लिए अलग शब्द नहीं चाहिए।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-bhaj",
+          "gitapress-shiv-stotra-ratnakar",
+          "shlokam-kalabhairava",
+          "greenmesg-kalabhairava"
+        ]
+      }
+    }
+  }
+}

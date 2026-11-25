@@ -1,0 +1,2070 @@
+{
+  "group": "structure",
+  "checks": {
+    "T2.8b": "checks/judges/T2.8b.md",
+    "T2.9b": "checks/judges/T2.9b.md",
+    "T3.4": "checks/judges/T3.4.md",
+    "T3.6": "checks/judges/T3.6.md"
+  },
+  "stotram": {
+    "id": "vedasara-shiva-stava",
+    "title": {
+      "sa": "वेदसारशिवस्तवः",
+      "iast": "Vedasāraśivastavaḥ",
+      "en": "Vedasara Shiva Stava",
+      "hi": "वेदसार शिव स्तव"
+    }
+  },
+  "verse": {
+    "id": "v6",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w2",
+            "text": "भूमिर्न",
+            "iast": "bhūmirna"
+          },
+          {
+            "id": "w3",
+            "text": "चापो",
+            "iast": "cāpo"
+          },
+          {
+            "id": "w4",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w5",
+            "text": "वह्निर्न",
+            "iast": "vahnirna"
+          },
+          {
+            "id": "w6",
+            "text": "वायु",
+            "iast": "vāyu"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "र्न",
+            "iast": "rna"
+          },
+          {
+            "id": "w8",
+            "text": "चाकाशमास्ते",
+            "iast": "cākāśamāste"
+          },
+          {
+            "id": "w9",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w10",
+            "text": "तन्द्रा",
+            "iast": "tandrā"
+          },
+          {
+            "id": "w11",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w12",
+            "text": "निद्रा",
+            "iast": "nidrā"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w13",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w14",
+            "text": "चोष्णं",
+            "iast": "coṣṇaṃ"
+          },
+          {
+            "id": "w15",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w16",
+            "text": "शीतं",
+            "iast": "śītaṃ"
+          },
+          {
+            "id": "w17",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w18",
+            "text": "देशो",
+            "iast": "deśo"
+          },
+          {
+            "id": "w19",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w20",
+            "text": "वेषो",
+            "iast": "veṣo"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w21",
+            "text": "न",
+            "iast": "na"
+          },
+          {
+            "id": "w22",
+            "text": "यस्यास्ति",
+            "iast": "yasyāsti"
+          },
+          {
+            "id": "w23",
+            "text": "मूर्तिस्त्रिमूर्तिं",
+            "iast": "mūrtistrimūrtiṃ"
+          },
+          {
+            "id": "w24",
+            "text": "तमीडे",
+            "iast": "tamīḍe"
+          }
+        ],
+        "end": "॥ ६ ॥"
+      }
+    ],
+    "adhyahara": [
+      {
+        "id": "x1",
+        "sa": "यः",
+        "iast": "yaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "यद्",
+            "iast": "yad"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p13",
+        "meaning": {
+          "en": "He who (i.e. Śiva)",
+          "hi": "जो (अर्थात् शिव)"
+        }
+      }
+    ],
+    "anvaya": [
+      "x1",
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18",
+      "p19",
+      "p20",
+      "p21",
+      "p22",
+      "p13",
+      "p28",
+      "p23",
+      "p24",
+      "p25",
+      "p26",
+      "p27",
+      "p30",
+      "p29",
+      "p32",
+      "p31",
+      "p33"
+    ],
+    "compounds": {
+      "c1": {
+        "members": [
+          "w23"
+        ],
+        "iast": "tri-mūrtim",
+        "type": "bahuvrīhi",
+        "vigraha": "तिस्रः मूर्तयः यस्य सः, तम्",
+        "meaning": {
+          "en": "Him who has three forms",
+          "hi": "उन्हें, जिनकी तीन मूर्तियाँ (रूप) हैं"
+        },
+        "note": {
+          "en": "tri 'three' + mūrti 'form'. The whole describes the one who has three forms, and so takes the ending of tam, 'Him'.",
+          "hi": "त्रि 'तीन' + मूर्ति 'रूप'। पूरा शब्द उनका वर्णन करता है जिनके तीन रूप हैं, इसलिए यह 'तम्' (उन्हें) जैसा ही रूप लेता है।"
+        }
+      }
+    },
+    "padas": [
+      {
+        "id": "p1",
+        "words": [
+          "w1"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p2",
+        "words": [
+          "w2"
+        ],
+        "sa": "भूमिः",
+        "iast": "bhūmiḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "भूमि",
+            "iast": "bhūmi"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p3",
+        "words": [
+          "w2"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p4",
+        "words": [
+          "w3"
+        ],
+        "sa": "च",
+        "iast": "ca",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p5",
+        "words": [
+          "w3"
+        ],
+        "sa": "आपः",
+        "iast": "āpaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "अप्",
+            "iast": "ap"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "plural"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p6",
+        "words": [
+          "w4"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p7",
+        "words": [
+          "w5"
+        ],
+        "sa": "वह्निः",
+        "iast": "vahniḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वह्नि",
+            "iast": "vahni"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p8",
+        "words": [
+          "w5"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p9",
+        "words": [
+          "w6",
+          "w7"
+        ],
+        "sa": "वायुः",
+        "iast": "vāyuḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वायु",
+            "iast": "vāyu"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p10",
+        "words": [
+          "w7"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p11",
+        "words": [
+          "w8"
+        ],
+        "sa": "च",
+        "iast": "ca",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p12",
+        "words": [
+          "w8"
+        ],
+        "sa": "आकाशम्",
+        "iast": "ākāśam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "आकाश",
+            "iast": "ākāśa"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p13",
+        "words": [
+          "w8"
+        ],
+        "sa": "आस्ते",
+        "iast": "āste",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "आस्",
+            "iast": "ās",
+            "gana": 2
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "ātmanepada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p14",
+        "words": [
+          "w9"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p15",
+        "words": [
+          "w10"
+        ],
+        "sa": "तन्द्रा",
+        "iast": "tandrā",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तन्द्रा",
+            "iast": "tandrā"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p16",
+        "words": [
+          "w11"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p17",
+        "words": [
+          "w12"
+        ],
+        "sa": "निद्रा",
+        "iast": "nidrā",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "निद्रा",
+            "iast": "nidrā"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p18",
+        "words": [
+          "w13"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p19",
+        "words": [
+          "w14"
+        ],
+        "sa": "च",
+        "iast": "ca",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p20",
+        "words": [
+          "w14"
+        ],
+        "sa": "उष्णम्",
+        "iast": "uṣṇam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "उष्ण",
+            "iast": "uṣṇa"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p21",
+        "words": [
+          "w15"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p22",
+        "words": [
+          "w16"
+        ],
+        "sa": "शीतम्",
+        "iast": "śītam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "शीत",
+            "iast": "śīta"
+          },
+          "gender": "neuter",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "samānādhikaraṇa",
+        "head": "x1"
+      },
+      {
+        "id": "p23",
+        "words": [
+          "w17"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p24",
+        "words": [
+          "w18"
+        ],
+        "sa": "देशः",
+        "iast": "deśaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "देश",
+            "iast": "deśa"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p29"
+      },
+      {
+        "id": "p25",
+        "words": [
+          "w19"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p26",
+        "words": [
+          "w20"
+        ],
+        "sa": "वेषः",
+        "iast": "veṣaḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "वेष",
+            "iast": "veṣa"
+          },
+          "gender": "masculine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p29"
+      },
+      {
+        "id": "p27",
+        "words": [
+          "w21"
+        ],
+        "sa": "न",
+        "iast": "na",
+        "morph": {
+          "type": "avyaya"
+        },
+        "role": "nipāta",
+        "head": null
+      },
+      {
+        "id": "p28",
+        "words": [
+          "w22"
+        ],
+        "sa": "यस्य",
+        "iast": "yasya",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "यद्",
+            "iast": "yad"
+          },
+          "gender": "masculine",
+          "case": "genitive",
+          "number": "singular"
+        },
+        "role": "sambandha",
+        "head": "p29"
+      },
+      {
+        "id": "p29",
+        "words": [
+          "w22"
+        ],
+        "sa": "अस्ति",
+        "iast": "asti",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "अस्",
+            "iast": "as",
+            "gana": 2
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 3,
+          "number": "singular",
+          "pada": "parasmaipada"
+        },
+        "role": "kriyā",
+        "head": null
+      },
+      {
+        "id": "p30",
+        "words": [
+          "w23"
+        ],
+        "sa": "मूर्तिः",
+        "iast": "mūrtiḥ",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "मूर्ति",
+            "iast": "mūrti"
+          },
+          "gender": "feminine",
+          "case": "nominative",
+          "number": "singular"
+        },
+        "role": "kartā",
+        "head": "p29"
+      },
+      {
+        "id": "p31",
+        "words": [
+          "w23"
+        ],
+        "sa": "त्रिमूर्तिम्",
+        "iast": "trimūrtim",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "त्रिमूर्ति",
+            "iast": "trimūrti"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "viśeṣaṇa",
+        "head": "p32"
+      },
+      {
+        "id": "p32",
+        "words": [
+          "w24"
+        ],
+        "sa": "तम्",
+        "iast": "tam",
+        "morph": {
+          "type": "subanta",
+          "stem": {
+            "sa": "तद्",
+            "iast": "tad"
+          },
+          "gender": "masculine",
+          "case": "accusative",
+          "number": "singular"
+        },
+        "role": "karma",
+        "head": "p33"
+      },
+      {
+        "id": "p33",
+        "words": [
+          "w24"
+        ],
+        "sa": "ईडे",
+        "iast": "īḍe",
+        "morph": {
+          "type": "tinanta",
+          "dhatu": {
+            "sa": "ईड्",
+            "iast": "īḍ",
+            "gana": 2
+          },
+          "prefixes": [],
+          "lakara": "laṭ",
+          "prayoga": "kartari",
+          "person": 1,
+          "number": "singular",
+          "pada": "ātmanepada"
+        },
+        "role": "kriyā",
+        "head": null
+      }
+    ],
+    "words": {
+      "w1": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "na",
+              "gloss": "not, no, nor, neither"
+            },
+            "meaning": {
+              "en": "not",
+              "hi": "न, नहीं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "not",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "भूमिः",
+            "iast": "bhūmiḥ"
+          },
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "rutva",
+            "rule": "iḥ + n → ir + n",
+            "explanation": {
+              "en": "The final -ḥ of bhūmiḥ turns into r before the n of na: bhūmiḥ + na → bhūmir na.",
+              "hi": "भूमिः का अन्तिम विसर्ग आगे के 'न' के कारण 'र्' बन जाता है: भूमिः + न → भूमिर्न।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "भूमि",
+            "iast": "bhūmi",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "भूमि",
+              "iast": "bhūmi"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "bhūmi",
+              "gloss": "the earth, soil, ground"
+            },
+            "meaning": {
+              "en": "earth",
+              "hi": "पृथ्वी"
+            }
+          },
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "earth; nor (water)",
+          "hi": "पृथ्वी; न (जल)"
+        },
+        "notes": {
+          "en": "The na at the end of this word goes with the next word, water. Some printings have bhūmirnaṃ here, a misprint for bhūmirna.",
+          "hi": "इस शब्द के अन्त का 'न' अगले शब्द, जल, के साथ जाता है। कुछ छपे पाठों में यहाँ 'भूमिर्नं' है, जो 'भूमिर्न' की छपाई की भूल है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-bhumi",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "च",
+            "iast": "ca"
+          },
+          {
+            "sa": "आपः",
+            "iast": "āpaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + ā → ā",
+            "explanation": {
+              "en": "The a of ca and the ā of āpaḥ merge into one long ā: ca + āpaḥ → cāpaḥ.",
+              "hi": "च का 'अ' और आपः का 'आ' मिलकर एक दीर्घ 'आ' बनते हैं: च + आपः → चापः।"
+            }
+          },
+          {
+            "name": "utva",
+            "rule": "aḥ + n → o + n",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before the n of the next na: āpaḥ + na → āpo na.",
+              "hi": "अन्तिम '-अः' आगे के 'न' से पहले '-ओ' बन जाता है: आपः + न → आपो न।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "च",
+            "iast": "ca",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "ca",
+              "gloss": "and, both, also"
+            },
+            "meaning": {
+              "en": "and",
+              "hi": "और"
+            }
+          },
+          {
+            "sa": "अप्",
+            "iast": "ap",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अप्",
+              "iast": "ap"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ap",
+              "gloss": "water"
+            },
+            "meaning": {
+              "en": "water",
+              "hi": "जल"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "and water",
+          "hi": "और जल"
+        },
+        "notes": {
+          "en": "Āpaḥ, 'the waters', is always plural in later Sanskrit; it still means simply water. With the na before it, na ca … reads 'nor'.",
+          "hi": "'आपः' (जल) बाद की संस्कृत में सदा बहुवचन में आता है, पर अर्थ केवल 'जल' है। पहले के 'न' के साथ 'न च' का अर्थ है 'और न'।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-ap",
+          "mw-ca",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w4": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "वह्निः",
+            "iast": "vahniḥ"
+          },
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "rutva",
+            "rule": "iḥ + n → ir + n",
+            "explanation": {
+              "en": "The final -ḥ of vahniḥ turns into r before na: vahniḥ + na → vahnir na.",
+              "hi": "वह्निः का अन्तिम विसर्ग 'न' से पहले 'र्' बन जाता है: वह्निः + न → वह्निर्न।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "वह्नि",
+            "iast": "vahni",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वह्नि",
+              "iast": "vahni"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vahni",
+              "gloss": "fire (in general or 'the god of fire')"
+            },
+            "meaning": {
+              "en": "fire",
+              "hi": "अग्नि"
+            }
+          },
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "fire; nor (wind)",
+          "hi": "अग्नि; न (वायु)"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-vahni",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "वायुः",
+            "iast": "vāyuḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "rutva",
+            "rule": "uḥ + n → ur + n",
+            "explanation": {
+              "en": "The final -ḥ of vāyuḥ turns into r before the na that opens the next line; the r is printed with that line (र्न).",
+              "hi": "वायुः का अन्तिम विसर्ग अगली पंक्ति के 'न' से पहले 'र्' बन जाता है; यह 'र्' अगली पंक्ति में (र्न) छपता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "वायु",
+            "iast": "vāyu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वायु",
+              "iast": "vāyu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vāyu",
+              "gloss": "wind, air (as one of the 5 elements)"
+            },
+            "meaning": {
+              "en": "wind",
+              "hi": "वायु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "wind",
+          "hi": "वायु"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-vayu",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor",
+          "hi": "न"
+        },
+        "notes": {
+          "en": "The r here is the last sound of vāyuḥ from the line before (vāyur na); only na belongs to this word.",
+          "hi": "यहाँ का 'र्' पिछली पंक्ति के वायुः की अन्तिम ध्वनि है (वायुर्न); इस शब्द का अपना भाग केवल 'न' है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "च",
+            "iast": "ca"
+          },
+          {
+            "sa": "आकाशम्",
+            "iast": "ākāśam"
+          },
+          {
+            "sa": "आस्ते",
+            "iast": "āste"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + ā → ā",
+            "explanation": {
+              "en": "The a of ca and the ā of ākāśam merge into one long ā: ca + ākāśam → cākāśam.",
+              "hi": "च का 'अ' और आकाशम् का 'आ' मिलकर दीर्घ 'आ' बनते हैं: च + आकाशम् → चाकाशम्।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "च",
+            "iast": "ca",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "and",
+              "hi": "और"
+            }
+          },
+          {
+            "sa": "आकाश",
+            "iast": "ākāśa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "आकाश",
+              "iast": "ākāśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ākāśa",
+              "gloss": "the ether, sky or atmosphere"
+            },
+            "meaning": {
+              "en": "space",
+              "hi": "आकाश"
+            }
+          },
+          {
+            "sa": "आस्ते",
+            "iast": "āste",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "आस्",
+              "iast": "ās",
+              "gana": 2,
+              "gloss": {
+                "en": "to sit, to stay, to be",
+                "hi": "बैठना, रहना, होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ās",
+              "gloss": "to sit quietly, abide, remain, continue"
+            },
+            "meaning": {
+              "en": "is",
+              "hi": "हैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "and (He, i.e. Śiva) is space",
+          "hi": "और (वे, अर्थात् शिव) आकाश हैं"
+        },
+        "literal": {
+          "en": "and space (He) remains",
+          "hi": "और आकाश (होकर) रहते हैं"
+        },
+        "notes": {
+          "en": "Āste, 'sits, stays, is', is the verb for the whole list up to cold: He who is not earth, water, fire, wind or space, not tiredness, sleep, heat or cold. With the na before it (na ca) it reads 'nor'.",
+          "hi": "'आस्ते' (बैठता है, रहता है, है) सर्दी तक की पूरी सूची की क्रिया है: जो न पृथ्वी, न जल, न अग्नि, न वायु, न आकाश हैं, न थकान, न नींद, न गर्मी, न सर्दी। पहले के 'न' के साथ (न च) अर्थ 'और न' है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "nor does space exist (in Him)",
+              "hi": "न (उनमें) आकाश रहता है"
+            },
+            "note": "shlokam-vedasara-shiva-stava glosses āste as 'exists' with ākāśam as its subject ('neither by space is his presence limited'); gitapress-stotraratnavali takes the five elements as what He is not ('जो न पृथ्वी हैं … और न आकाश हैं'), which is followed here."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-akasha",
+          "mw-aas",
+          "mw-ca",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w9": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "तन्द्रा",
+            "iast": "tandrā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तन्द्रा",
+            "iast": "tandrā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तन्द्रा",
+              "iast": "tandrā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tandrā",
+              "gloss": "lassitude, exhaustion, laziness"
+            },
+            "meaning": {
+              "en": "tiredness",
+              "hi": "थकान"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "tiredness, heavy weariness",
+          "hi": "थकान, तन्द्रा"
+        },
+        "aside": {
+          "en": "*Tandrā* is the dull, heavy tiredness of a worn-out body; the next word, *nidrā*, is sleep itself. He is neither.",
+          "hi": "*तन्द्रा* थके शरीर की भारी सुस्ती है; अगला शब्द *निद्रा* स्वयं नींद है। वे इन दोनों में से कुछ भी नहीं हैं।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tandra",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w12": {
+        "padaccheda": [
+          {
+            "sa": "निद्रा",
+            "iast": "nidrā"
+          }
+        ],
+        "components": [
+          {
+            "sa": "निद्रा",
+            "iast": "nidrā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "द्रा",
+              "iast": "drā",
+              "gana": 2,
+              "prefixes": [
+                "ni"
+              ],
+              "gloss": {
+                "en": "to sleep",
+                "hi": "सोना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "nidrā",
+              "gloss": "sleep, slumber, sleepiness"
+            },
+            "meaning": {
+              "en": "sleep",
+              "hi": "नींद"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "sleep",
+          "hi": "नींद"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-nidra",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w13": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w14": {
+        "padaccheda": [
+          {
+            "sa": "च",
+            "iast": "ca"
+          },
+          {
+            "sa": "उष्णम्",
+            "iast": "uṣṇam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + u → o",
+            "explanation": {
+              "en": "The a of ca and the u of uṣṇam merge into o: ca + uṣṇam → coṣṇam.",
+              "hi": "च का 'अ' और उष्णम् का 'उ' मिलकर 'ओ' बनते हैं: च + उष्णम् → चोष्णम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the n of the next na: coṣṇam → coṣṇaṃ.",
+              "hi": "अगले 'न' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: चोष्णम् → चोष्णं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "च",
+            "iast": "ca",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "and",
+              "hi": "और"
+            }
+          },
+          {
+            "sa": "उष्ण",
+            "iast": "uṣṇa",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "उष्ण",
+              "iast": "uṣṇa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "uṣṇa",
+              "gloss": "heat, warmth, the hot season"
+            },
+            "meaning": {
+              "en": "heat",
+              "hi": "गर्मी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "and heat",
+          "hi": "और गर्मी"
+        },
+        "notes": {
+          "en": "Read as ca + uṣṇam, 'and heat', not as oṣṇa 'lukewarm'. Some printings have na grīṣmo, 'nor summer', here (see the variant card).",
+          "hi": "इसे च + उष्णम्, 'और गर्मी', पढ़ें, 'ओष्ण' (गुनगुना) नहीं। कुछ छपे पाठों में यहाँ 'न ग्रीष्मो' (न ग्रीष्म ऋतु) है (पाठभेद का कार्ड देखें)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-ushna",
+          "mw-ca",
+          "shlokam-vedasara-shiva-stava",
+          "sanskritdocuments-vedasarast",
+          "vanivilas-1910-works-17"
+        ]
+      },
+      "w15": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "nor",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "nor",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w16": {
+        "padaccheda": [
+          {
+            "sa": "शीतम्",
+            "iast": "śītam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the n of the next na: śītam → śītaṃ.",
+              "hi": "अगले 'न' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: शीतम् → शीतं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शीत",
+            "iast": "śīta",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शीत",
+              "iast": "śīta"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śīta",
+              "gloss": "cold, coldness, cold weather"
+            },
+            "meaning": {
+              "en": "cold",
+              "hi": "सर्दी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "cold",
+          "hi": "सर्दी, ठंड"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shita",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w17": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "no",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "no",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w18": {
+        "padaccheda": [
+          {
+            "sa": "देशः",
+            "iast": "deśaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "utva",
+            "rule": "aḥ + n → o + n",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before the n of the next na: deśaḥ + na → deśo na.",
+              "hi": "अन्तिम '-अः' आगे के 'न' से पहले '-ओ' बन जाता है: देशः + न → देशो न।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "देश",
+            "iast": "deśa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "देश",
+              "iast": "deśa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "deśa",
+              "gloss": "point, region, spot, place"
+            },
+            "meaning": {
+              "en": "place",
+              "hi": "स्थान"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "place",
+          "hi": "स्थान"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-desha",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w19": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "no",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "no",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w20": {
+        "padaccheda": [
+          {
+            "sa": "वेषः",
+            "iast": "veṣaḥ"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "utva",
+            "rule": "aḥ + n → o + n",
+            "explanation": {
+              "en": "Final -aḥ becomes -o before the n of the na that opens the next line: veṣaḥ + na → veṣo na.",
+              "hi": "अन्तिम '-अः' अगली पंक्ति के 'न' से पहले '-ओ' बन जाता है: वेषः + न → वेषो न।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "वेष",
+            "iast": "veṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वेष",
+              "iast": "veṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "veṣa",
+              "gloss": "dress, apparel, ornament, assumed appearance"
+            },
+            "meaning": {
+              "en": "dress",
+              "hi": "वेश"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "dress, outward look",
+          "hi": "वेश, पहनावा"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-vesha",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w21": {
+        "padaccheda": [
+          {
+            "sa": "न",
+            "iast": "na"
+          }
+        ],
+        "components": [
+          {
+            "sa": "न",
+            "iast": "na",
+            "pos": "indeclinable",
+            "meaning": {
+              "en": "no",
+              "hi": "न"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "no",
+          "hi": "न"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-na",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w22": {
+        "padaccheda": [
+          {
+            "sa": "यस्य",
+            "iast": "yasya"
+          },
+          {
+            "sa": "अस्ति",
+            "iast": "asti"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of yasya and the a of asti merge into one long ā: yasya + asti → yasyāsti.",
+              "hi": "यस्य का अन्तिम 'अ' और अस्ति का 'अ' मिलकर दीर्घ 'आ' बनते हैं: यस्य + अस्ति → यस्यास्ति।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "यद्",
+            "iast": "yad",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "यद्",
+              "iast": "yad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "yad",
+              "gloss": "who, which, what"
+            },
+            "meaning": {
+              "en": "whose",
+              "hi": "जिसका"
+            }
+          },
+          {
+            "sa": "अस्ति",
+            "iast": "asti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "अस्",
+              "iast": "as",
+              "gana": 2,
+              "gloss": {
+                "en": "to be",
+                "hi": "होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "as",
+              "gloss": "to be, live, exist, be present"
+            },
+            "meaning": {
+              "en": "is",
+              "hi": "है"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "whose (i.e. Śiva's) … is",
+          "hi": "जिनका (अर्थात् शिव का) … है"
+        },
+        "notes": {
+          "en": "Yasya, 'whose', goes with the last three things in the list: whose is no place, no dress, no form. Tiredness, sleep, heat and cold stay with the elements before them, as things He is not. Tam, 'Him', in the next words answers yasya.",
+          "hi": "'यस्य' (जिनका) सूची की अन्तिम तीन चीज़ों से जुड़ता है: जिनका न कोई स्थान है, न वेश, न मूर्ति। थकान, नींद, गर्मी और सर्दी पहले के तत्त्वों के साथ रहते हैं: वे इनमें से भी कुछ नहीं हैं। आगे का 'तम्' (उन्हें) 'यस्य' का उत्तर देता है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-yad",
+          "mw-as",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ],
+        "alternatives": [
+          {
+            "reading": {
+              "en": "whose is no tiredness, no sleep, no heat, no cold, no place, no dress, no form",
+              "hi": "जिनकी न थकान है, न नींद, न गर्मी, न सर्दी, न स्थान, न वेश, न मूर्ति"
+            },
+            "note": "Yasya … asti can also be taken over all seven nouns from tandrā to mūrti, so that tiredness, sleep, heat and cold are things He does not have rather than things He is not. This was the earlier reading here; the split now follows gitapress-stotraratnavali ('न तन्द्रा हैं, न निद्रा हैं, न ग्रीष्म हैं और न शीत हैं तथा जिनका न कोई देश है, न वेष है'). The sense barely changes."
+          }
+        ]
+      },
+      "w23": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "मूर्तिः",
+            "iast": "mūrtiḥ"
+          },
+          {
+            "sa": "त्रि",
+            "iast": "tri"
+          },
+          {
+            "sa": "मूर्तिम्",
+            "iast": "mūrtim"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "satva",
+            "rule": "ḥ + t → s + t",
+            "explanation": {
+              "en": "The final -ḥ of mūrtiḥ becomes s before the t of trimūrtim: mūrtiḥ + trimūrtim → mūrtis trimūrtim.",
+              "hi": "मूर्तिः का अन्तिम विसर्ग 'त्रि' के 'त' से पहले 'स्' बन जाता है: मूर्तिः + त्रिमूर्तिम् → मूर्तिस्त्रिमूर्तिम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as ṃ before the t of tam: trimūrtim → trimūrtiṃ.",
+              "hi": "'तम्' के 'त' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: त्रिमूर्तिम् → त्रिमूर्तिं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "मूर्ति",
+            "iast": "mūrti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मूर्ति",
+              "iast": "mūrti"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mūrti",
+              "gloss": "any solid body or material form; embodiment, manifestation"
+            },
+            "meaning": {
+              "en": "form",
+              "hi": "मूर्ति, रूप"
+            }
+          },
+          {
+            "sa": "त्रि",
+            "iast": "tri",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "त्रि",
+              "iast": "tri"
+            },
+            "meaning": {
+              "en": "three",
+              "hi": "तीन"
+            }
+          },
+          {
+            "sa": "मूर्ति",
+            "iast": "mūrti",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मूर्ति",
+              "iast": "mūrti"
+            },
+            "meaning": {
+              "en": "form",
+              "hi": "रूप"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "form; (Him, i.e. Śiva,) the One of three forms",
+          "hi": "मूर्ति; (उन, अर्थात् शिव,) त्रिमूर्ति को"
+        },
+        "literal": {
+          "en": "form; having three forms",
+          "hi": "मूर्ति; तीन रूपों वाले को"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "Two words meet here: mūrtiḥ, 'form', closes the list of what He does not have, and trimūrtim, 'the One with three forms', opens the praise. The same word mūrti sits side by side, denied and then counted three times over. The three forms are Brahmā, Viṣṇu and Śiva, who make, keep and dissolve the world: the One with no form of His own takes all three.",
+          "hi": "यहाँ दो शब्द मिलते हैं: 'मूर्तिः' (रूप) उस सूची को पूरा करता है जो उनकी नहीं है, और 'त्रिमूर्तिम्' (तीन रूपों वाले को) स्तुति शुरू करता है। एक ही शब्द 'मूर्ति' अगल-बगल है: पहले नकारा गया, फिर तीन गुना गिना गया। तीन रूप हैं ब्रह्मा, विष्णु और शिव, जो संसार को रचते, पालते और लीन करते हैं: जिनका अपना कोई रूप नहीं, वही तीनों रूप धारण करते हैं।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-murti",
+          "mw-trimurti",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      },
+      "w24": {
+        "padaccheda": [
+          {
+            "sa": "तम्",
+            "iast": "tam"
+          },
+          {
+            "sa": "ईडे",
+            "iast": "īḍe"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तद्",
+            "iast": "tad",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "tad",
+              "gloss": "he, she, it, that"
+            },
+            "meaning": {
+              "en": "Him",
+              "hi": "उन्हें"
+            }
+          },
+          {
+            "sa": "ईडे",
+            "iast": "īḍe",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "ईड्",
+              "iast": "īḍ",
+              "gana": 2,
+              "gloss": {
+                "en": "to praise",
+                "hi": "स्तुति करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "īḍ",
+              "gloss": "to praise"
+            },
+            "meaning": {
+              "en": "I praise",
+              "hi": "मैं स्तुति करता हूँ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Him (i.e. Śiva) I praise",
+          "hi": "उनकी (अर्थात् शिव की) मैं स्तुति करता हूँ"
+        },
+        "notes": {
+          "en": "Tam, 'Him', picks up both 'He who' of the first lines and yasya, 'whose', of this line. Īḍe is 'I praise'; the m of tam simply runs into the vowel (tam īḍe → tamīḍe).",
+          "hi": "'तम्' (उन्हें) पहली पंक्तियों के 'जो' और इस पंक्ति के 'यस्य' (जिनकी), दोनों को समेटता है। 'ईडे' का अर्थ है 'मैं स्तुति करता हूँ'; 'तम्' का 'म्' सीधे आगे के स्वर से जुड़ जाता है (तम् ईडे → तमीडे)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-tad",
+          "mw-id",
+          "shlokam-vedasara-shiva-stava",
+          "gitapress-stotraratnavali"
+        ]
+      }
+    }
+  }
+}

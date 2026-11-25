@@ -1,0 +1,22 @@
+[
+ {
+  "check": "T2.9b",
+  "status": "fail",
+  "message": "The structure brackets (vimukta-vāma) together as a unit, but in this compound vāma 'lovely' qualifies locana 'eye', and vimukta 'let loose' describes those lovely eyes. The c3 note says 'women whose lovely (vāma) eyes are let loose (vimukta)', and w5 notes that MW lists vāma-locanā as one word, 'a fair-eyed woman' (mw-vamalocana). 'Let-loose-lovely' is not a unit of meaning. This is the same mistake as the rubric's ((galat-jala)-pravāha) example. The vigraha 'विमुक्ते वामे लोचने यासां' also puts both adjectives on लोचने and never joins vimukta with vāma.",
+  "path": "compounds.c3.structure",
+  "suggested_fix": "((vimukta-(vāma-locanā))-((vivāha-kālika)-dhvani))",
+  "severity": "major",
+  "tier": 2,
+  "method": "JUDGE"
+ },
+ {
+  "check": "T3.6",
+  "status": "fail",
+  "message": "In the anvaya order p1 p2 p3 p4 p5 p6 p7 p8, mantrabhūṣaṇā (p6) is a viśeṣaṇa with head p2 (jalpanā), and 'śiva iti' (p4, p5) belongs to it. All three come after the masculine appositive dhvaniḥ (p3), so the feminine qualifier sits far from its noun with another subject-noun in between. This keeps the verse order, which only fits vyakhya-sts-15's reading of a masculine mantrabhūṣaṇaḥ as a separate subject, not this data's feminine reading that agrees with jalpanā. In prose, the qualifiers of jalpanā should sit next to it, with the appositive dhvaniḥ after it.",
+  "path": "anvaya",
+  "suggested_fix": "[\"p1\", \"p4\", \"p5\", \"p6\", \"p2\", \"p3\", \"p7\", \"p8\"] (pracaṇḍa…pracāraṇī śiva iti mantrabhūṣaṇā mahāṣṭa…jalpanā vimukta…dhvaniḥ jagajjayāya jāyatām), or p1 p2 p4 p5 p6 p3 p7 p8",
+  "severity": "major",
+  "tier": 3,
+  "method": "JUDGE"
+ }
+]

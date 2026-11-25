@@ -1,0 +1,18 @@
+{
+  "check": "T4.9",
+  "fields_hash": "b7bbe291f6ca9411",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "annotations.a1.body",
+      "message": "The legend itself is supported by mw-agasti.md, but MW hedges the parentage and birth ('said to have been...'), while a1 states it flatly in EN and HI. Vasiṣṭha's parentage is hedged, yet 'so the line opens with two brothers' is stated as fact. Normal storytelling, so flagged, not failed.",
+      "suggested_fix": "Hedge Agastya's birth like Vasiṣṭha's ('is said to have been born in a water-jar') and soften the conclusion."
+    },
+    {
+      "status": "flag",
+      "path": "annotations.a3.body",
+      "message": "'yet every printing writes vakārāya' goes a little further than the evidence: text-report.md covers the six witnesses consulted, not all printings.",
+      "suggested_fix": "EN: 'yet every printing we checked writes vakārāya' / HI: 'फिर भी देखे गए सभी मुद्रित पाठों में वकाराय ही है'."
+    }
+  ]
+}

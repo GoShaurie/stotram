@@ -1,0 +1,12 @@
+{
+  "check": "T2.9b",
+  "fields_hash": "b2abc6cf14963e10",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "compounds.c1.structure",
+      "message": "Groups (karāla-bhāla)-havyavāh; vyakhya-sts-11 reads karāla-(bhāla-havyavāh) (भालहव्यवाट् = ललाटाग्नि, the fire is fierce). Only one grouping is mentioned.",
+      "suggested_fix": "Mention the other grouping in c1.note, or switch."
+    }
+  ]
+}

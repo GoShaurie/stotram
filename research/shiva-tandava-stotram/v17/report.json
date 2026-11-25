@@ -1,0 +1,736 @@
+{
+  "stotram": "shiva-tandava-stotram",
+  "verse": "v17",
+  "date": "2026-11-24",
+  "summary": {
+    "blockers_failed": 42,
+    "majors_failed": 1,
+    "minors_failed": 0,
+    "flags": 3,
+    "skipped": 3,
+    "judges_pending": 15,
+    "penalty": 4210,
+    "exit_ready": false
+  },
+  "results": [
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w1' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w2' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w3' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w4' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w5' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w6' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w7' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w8' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w9' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w10' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w11' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w12' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w13' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.en: word 'w14' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w1' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w2' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w3' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w4' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w5' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w6' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w7' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w8' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w9' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w10' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w11' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w12' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w13' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17.translations.hi: word 'w14' has no translation segment (hover would be dead)",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w1' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w2' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w3' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w4' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w5' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w6' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w7' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w8' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w9' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w10' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w11' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w12' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w13' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.1",
+      "status": "fail",
+      "message": "v17: word 'w14' has no dictionary entry",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.2",
+      "status": "flag",
+      "message": "Text lock not yet confirmed by a human.",
+      "path": "lock.confirmed_by",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T0.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 0,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.10",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.3",
+      "status": "skip",
+      "message": "no padas",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.4",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "TOOL"
+    },
+    {
+      "check": "T1.8",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.10",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.3",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.4",
+      "status": "skip",
+      "message": "no padas",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.5",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 2,
+      "method": "TOOL"
+    },
+    {
+      "check": "T2.7",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.9",
+      "status": "pass",
+      "severity": "major",
+      "tier": 2,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.3",
+      "status": "skip",
+      "message": "no padas",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.4a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T3.5a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 3,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.10a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8a",
+      "status": "pass",
+      "severity": "major",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.8b",
+      "status": "pass",
+      "severity": "minor",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9a",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T4.9c",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.2",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.3",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.4",
+      "status": "fail",
+      "message": "no review history",
+      "path": "review.history",
+      "severity": "major",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T2.8b",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T2.8b.md",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T2.9b",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T2.9b.md",
+      "severity": "major",
+      "tier": 2,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.4",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T3.4.md",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.5",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T3.5.md",
+      "severity": "blocker",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T3.6",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T3.6.md",
+      "severity": "major",
+      "tier": 3,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.1",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.1.md",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.2",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.2.md",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.3",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.3.md",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.4",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.4.md",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.5",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.5.md",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.6",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.6.md",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.7",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.7.md",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.8",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.8.md",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.9",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.9.md",
+      "severity": "blocker",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T4.10",
+      "status": "pending",
+      "message": "judge not run yet; rubric checks/judges/T4.10.md",
+      "severity": "major",
+      "tier": 4,
+      "method": "JUDGE"
+    },
+    {
+      "check": "T1.1",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T6.6",
+      "status": "pass",
+      "severity": "blocker",
+      "tier": 6,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'naḥ' is analysed differently in v1 and v6; fine if the context differs, but say why",
+      "path": "v6.p10",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    },
+    {
+      "check": "T1.9",
+      "status": "flag",
+      "message": "'naḥ' is analysed differently in v1 and v14; fine if the context differs, but say why",
+      "path": "v14.p3",
+      "severity": "major",
+      "tier": 1,
+      "method": "CODE"
+    }
+  ]
+}

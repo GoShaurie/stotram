@@ -1,0 +1,12 @@
+{
+  "check": "T3.5",
+  "fields_hash": "9fc6f718df6edf70",
+  "findings": [
+    {
+      "status": "flag",
+      "path": "translations.hi.lines[0][3].text",
+      "message": "HI 'उमड़ने पर रीझे भँवरे' adds 'charmed', which no pada says (vyakhya calls Śiva रसिक).",
+      "suggested_fix": "'उमड़ती मधुरता पर मँडराते भँवरे' or EN 'the bee delighting in the welling-up'."
+    }
+  ]
+}

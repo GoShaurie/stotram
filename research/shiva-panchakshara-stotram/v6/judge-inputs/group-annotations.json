@@ -1,0 +1,1093 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "shiva-panchakshara-stotram",
+    "title": {
+      "sa": "शिवपञ्चाक्षरस्तोत्रम्",
+      "iast": "Śivapañcākṣarastotram",
+      "en": "Shiva Panchakshara Stotram",
+      "hi": "शिव पञ्चाक्षर स्तोत्र"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Ādi Śaṅkarācārya.",
+      "hi": "परम्परा से आदि शंकराचार्य द्वारा रचित माना जाता है।"
+    },
+    "sources": [
+      {
+        "id": "sanskritdocuments-panch",
+        "name": "sanskritdocuments.org — Shiva Panchakshara Stotram (panch.itx, Anand Hudli; 5 verses + phalaśruti, English translation); read from the Wayback copy of 2025-08-01",
+        "kind": "translation",
+        "url": "https://web.archive.org/web/20250801111702/https://sanskritdocuments.org/doc_shiva/panch.html"
+      },
+      {
+        "id": "vanivilas-1910-works-17",
+        "name": "Works of Sri Sankaracharya, vol. 17 (Stotras 1), Sri Vani Vilas Press, Srirangam, 1910, pp. [119]–120; Sanskrit Wikisource transcribes the same pages",
+        "kind": "text",
+        "url": "https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n129/mode/1up"
+      },
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007, p. 459; scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/459/mode/1up"
+      },
+      {
+        "id": "gitapress-stotraratnavali",
+        "name": "स्तोत्ररत्नावली (Stotraratnavali), Gita Press, Gorakhpur, pp. 33–34, with Hindi translation; scan on Internet Archive (edition year not seen)",
+        "kind": "translation",
+        "url": "https://archive.org/details/0052_20221022"
+      },
+      {
+        "id": "sringeri-shiva-panchakshara",
+        "name": "Sri Sringeri Sharada Peetham (sringeri.net) — Shiva Panchakshara Stotram",
+        "kind": "text",
+        "url": "https://www.sringeri.net/stotras/shivastotrani/shiva-panchakshara-stotram"
+      },
+      {
+        "id": "stotranidhi-shiva-panchakshara",
+        "name": "stotranidhi.com — Shiva Panchakshara Stotram (Sanskrit); probably descends from the 1910 Vani Vilas text",
+        "kind": "text",
+        "url": "https://stotranidhi.com/shiva-panchakshara-stotram-in-sanskrit/"
+      },
+      {
+        "id": "mw-shiva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śiva' (SLP1 key: Siva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Siva"
+      },
+      {
+        "id": "mw-pancakshara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcākṣara' (SLP1 key: paYcAkzara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcAkzara"
+      },
+      {
+        "id": "mw-avap",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'avāp' (SLP1 key: avAp)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=avAp"
+      },
+      {
+        "id": "mw-idam",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'idam' (SLP1 key: idam)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=idam"
+      },
+      {
+        "id": "mw-moda",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'moda' (SLP1 key: moda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=moda"
+      },
+      {
+        "id": "mw-path",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paṭh' (SLP1 key: paW)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paW"
+      },
+      {
+        "id": "mw-punya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'puṇya' (SLP1 key: puRya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=puRya"
+      },
+      {
+        "id": "mw-saha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'saha' (SLP1 key: saha)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=saha"
+      },
+      {
+        "id": "mw-shivaloka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śivaloka' (SLP1 key: Sivaloka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Sivaloka"
+      },
+      {
+        "id": "mw-akshara",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'akṣara' (SLP1 key: akzara)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=akzara"
+      },
+      {
+        "id": "mw-ap",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'āp' (SLP1 key: Ap)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=Ap"
+      },
+      {
+        "id": "mw-dha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'dhā' (SLP1 key: DA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=DA"
+      },
+      {
+        "id": "mw-loka",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'loka' (SLP1 key: loka)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=loka"
+      },
+      {
+        "id": "mw-mud",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'mud' (SLP1 key: mud)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=mud"
+      },
+      {
+        "id": "mw-pancan",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pañcan' (SLP1 key: paYcan)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paYcan"
+      },
+      {
+        "id": "mw-samnidhi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'saṃnidhi' (SLP1 key: saMniDi)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=saMniDi"
+      },
+      {
+        "id": "mw-yad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yad' (SLP1 key: yad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yad"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v6",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "पञ्चाक्षरमिदं",
+            "iast": "pañcākṣaramidaṃ"
+          },
+          {
+            "id": "w2",
+            "text": "पुण्यं",
+            "iast": "puṇyaṃ"
+          },
+          {
+            "id": "w3",
+            "text": "यः",
+            "iast": "yaḥ"
+          },
+          {
+            "id": "w4",
+            "text": "पठेच्छिवसन्निधौ",
+            "iast": "paṭhecchivasannidhau"
+          }
+        ],
+        "end": "।",
+        "pada_count": 2
+      },
+      {
+        "words": [
+          {
+            "id": "w5",
+            "text": "शिवलोकमवाप्नोति",
+            "iast": "śivalokamavāpnoti"
+          },
+          {
+            "id": "w6",
+            "text": "शिवेन",
+            "iast": "śivena"
+          },
+          {
+            "id": "w7",
+            "text": "सह",
+            "iast": "saha"
+          },
+          {
+            "id": "w8",
+            "text": "मोदते",
+            "iast": "modate"
+          }
+        ],
+        "end": "॥ ६ ॥",
+        "pada_count": 2
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2"
+        ],
+        "kind": "wordplay",
+        "body": {
+          "en": "*Pañcākṣara* means 'the five syllables', and here the word does double duty. It is the name of the prayer *na-maḥ śi-vā-ya*, whose five sounds opened the five verses one by one ([verse 5](#v5-a2)). Yet 'this' (*idam*) points at what has just been sung: the hymn itself. So the hymn takes the prayer's name. To recite it is to say the five syllables twice over: spread across the verses, and whole in every refrain.",
+          "hi": "*पञ्चाक्षर* का अर्थ है 'पाँच अक्षर', और यहाँ यह शब्द दो काम करता है। यह *न-मः-शि-वा-य* मन्त्र का नाम है, जिसकी पाँच ध्वनियों से पाँचों श्लोक एक-एक करके आरम्भ हुए ([श्लोक ५](#v5-a2))। पर 'यह' (*इदम्*) अभी गाए गए स्तोत्र की ओर संकेत करता है। इस तरह स्तोत्र मन्त्र का ही नाम ले लेता है। इसका पाठ करना पाँचों अक्षरों को दो बार कहना है: श्लोकों में बिखरे हुए, और हर टेक में पूरे।"
+        },
+        "citations": [
+          {
+            "source": "mw-pancakshara",
+            "locator": "MW pañcākṣara, p. 577,3",
+            "quote": "consisting of 5 syllables"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "phalaśruti, translation",
+            "quote": "this sacred five-syllabled mantra, (namaH shivAya)"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 34, verse 6, Hindi translation",
+            "quote": "इस पवित्र पञ्चाक्षरका पाठ करता है"
+          },
+          {
+            "source": "mw-idam",
+            "locator": "MW idam, p. 165,2",
+            "quote": "this, this here, referring to something near the speaker"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "pp. 33–34, vv. 1–6",
+            "quote": "तस्मै ‘य’ काराय नमः शिवाय"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w3",
+          "w4"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Where should the hymn be recited? *Śiva-sannidhau*, 'in Śiva's presence'. *Sannidhi* is nearness, being close by. Read plainly, it means near Śiva Himself: at His shrine, before the *liṅga*, where He is present.\n\nThe verse sets no other condition. *Yaḥ*, 'whoever', leaves the door open to anyone who says the words in that presence.",
+          "hi": "स्तोत्र का पाठ कहाँ हो? *शिव-सन्निधौ*, 'शिव के सान्निध्य में'। *सन्निधि* का अर्थ है समीपता, पास होना। सीधे अर्थ में यह स्वयं शिव के समीप है: उनके मन्दिर में, *लिङ्ग* के सामने, जहाँ वे उपस्थित हैं।\n\nश्लोक और कोई शर्त नहीं रखता। *यः*, 'जो कोई', हर उस व्यक्ति के लिए द्वार खुला रखता है जो उस सान्निध्य में ये शब्द कहे।"
+        },
+        "citations": [
+          {
+            "source": "mw-samnidhi",
+            "locator": "MW saṃ-nidhi, p. 1146,3",
+            "quote": "nearness, vicinity, presence"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "phalaśruti, translation",
+            "quote": "near the Shiva (linga)"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 34, verse 6, Hindi translation",
+            "quote": "जो शिवके समीप"
+          },
+          {
+            "source": "mw-yad",
+            "locator": "MW yad, p. 844,2",
+            "quote": "who, which, what, whichever, whatever"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w5",
+          "w6",
+          "w7",
+          "w8"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "After the praise, this closing verse tells what reciting brings. Watch Śiva's name climb through it: the reciter begins *near* Śiva, then reaches *śiva-loka*, Śiva's own world, and at last rejoices *with* Him (*śivena saha*). Nearness becomes company.\n\nNot every printing has this verse. Three of the six printed texts compared include it; the other three end the hymn with verse 5.",
+          "hi": "स्तुति के बाद यह अन्तिम श्लोक बताता है कि पाठ से क्या मिलता है। देखिए, शिव का नाम कैसे सीढ़ी चढ़ता है: पाठ करने वाला शिव के *समीप* से आरम्भ करता है, फिर *शिव-लोक*, शिव के अपने लोक को पाता है, और अन्त में शिव के *साथ* (*शिवेन सह*) आनन्द मनाता है। समीपता संग बन जाती है।\n\nयह श्लोक हर मुद्रित पाठ में नहीं है। तुलना किए गए छह पाठों में से तीन में यह है; बाकी तीन स्तोत्र को पाँचवें श्लोक पर समाप्त करते हैं।"
+        },
+        "citations": [
+          {
+            "source": "mw-shivaloka",
+            "locator": "MW śiva-loka, p. 1075,2",
+            "quote": "Śiva's heaven"
+          },
+          {
+            "source": "mw-mud",
+            "locator": "MW 2. √mud, p. 822,2",
+            "quote": "to be merry or glad or happy, rejoice"
+          },
+          {
+            "source": "gitapress-stotraratnavali",
+            "locator": "p. 34, verse ॥ ६ ॥",
+            "quote": "शिवलोकमवाप्नोति शिवेन सह मोदते॥ ६॥"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 459, verse ॥ ६ ॥",
+            "quote": "शिवलोकमवाप्नोति शिवेन सह मोदते ॥ ६ ॥"
+          },
+          {
+            "source": "sanskritdocuments-panch",
+            "locator": "phalaśruti (unnumbered, after verse 5)",
+            "quote": "शिवलोकमवाप्नोति शिवेन सह मोदते ॥"
+          },
+          {
+            "source": "vanivilas-1910-works-17",
+            "locator": "pp. [119]–120: five verses, no phalaśruti"
+          },
+          {
+            "source": "sringeri-shiva-panchakshara",
+            "locator": "five verses, no phalaśruti"
+          },
+          {
+            "source": "stotranidhi-shiva-panchakshara",
+            "locator": "five verses, no phalaśruti"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "Whoever"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "recites"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "this"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "holy"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "five-syllable (hymn)"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "in Śiva's presence,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "that person"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "reaches Śiva's world"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "and rejoices"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "together with"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "Śiva."
+            }
+          ]
+        ],
+        "bhavartha": "In its last verse the hymn speaks about itself. Whoever recites this holy hymn of the five syllables near Śiva reaches Śiva's world and rejoices together with Śiva. Śiva's name comes three times: near Śiva, in Śiva's world, with Śiva."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "जो"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "शिव के समीप"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "इस"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "पवित्र"
+            },
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "पञ्चाक्षर (स्तोत्र) का"
+            },
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "पाठ करता है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "वह"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "शिवलोक को प्राप्त करता है,"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "शिव"
+            },
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "के साथ"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "आनन्द मनाता है।"
+            }
+          ]
+        ],
+        "bhavartha": "अन्तिम श्लोक में स्तोत्र अपने ही बारे में कहता है। जो शिव के समीप इस पवित्र पञ्चाक्षर स्तोत्र का पाठ करता है, वह शिवलोक को प्राप्त करता है और शिव के साथ आनन्द मनाता है। शिव का नाम तीन बार आता है: शिव के समीप, शिव के लोक में, शिव के साथ।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "पञ्च",
+            "iast": "pañca"
+          },
+          {
+            "sa": "अक्षरम्",
+            "iast": "akṣaram"
+          },
+          {
+            "sa": "इदम्",
+            "iast": "idam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + a → ā",
+            "explanation": {
+              "en": "The final a of pañca and the first a of akṣara merge into one long ā: pañca + akṣaram → pañcākṣaram.",
+              "hi": "'पञ्च' का अन्तिम 'अ' और 'अक्षर' का पहला 'अ' मिलकर एक दीर्घ 'आ' बनते हैं: पञ्च + अक्षरम् → पञ्चाक्षरम्।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "The m of pañcākṣaram simply runs on to the i of idam; the final m of idam is written as anusvāra before the p of puṇyam: idam → idaṃ.",
+              "hi": "पञ्चाक्षरम् का 'म्' अगले 'इ' (इदम्) से जुड़ जाता है; इदम् का अन्तिम 'म्' आगे के 'प' (पुण्यम्) से पहले अनुस्वार बन जाता है: इदम् → इदं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पञ्चन्",
+            "iast": "pañcan",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पञ्चन्",
+              "iast": "pañcan"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pañcan",
+              "gloss": "five"
+            },
+            "meaning": {
+              "en": "five",
+              "hi": "पाँच"
+            }
+          },
+          {
+            "sa": "अक्षर",
+            "iast": "akṣara",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अक्षर",
+              "iast": "akṣara"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "a-kṣara",
+              "gloss": "a syllable"
+            },
+            "meaning": {
+              "en": "syllable",
+              "hi": "अक्षर"
+            }
+          },
+          {
+            "sa": "इदम्",
+            "iast": "idam",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इदम्",
+              "iast": "idam"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "idam",
+              "gloss": "this, this here, referring to something near the speaker"
+            },
+            "meaning": {
+              "en": "this",
+              "hi": "यह"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "this five-syllable (hymn)",
+          "hi": "यह पञ्चाक्षर (स्तोत्र)"
+        },
+        "literal": {
+          "en": "this (set of) five syllables",
+          "hi": "यह पाँच अक्षरों का समूह"
+        },
+        "notes": {
+          "en": "Two words run together: pañcākṣaram + idam. The word-splitter's guesses (pañcākṣa 'five-eyed' + ram) do not fit; pañcākṣara 'five syllables' is the word, and idam 'this' agrees with it. It names the prayer na-maḥ śi-vā-ya and, through 'this', the hymn just sung (see note a1).",
+          "hi": "दो शब्द जुड़े हैं: पञ्चाक्षरम् + इदम्। शब्द-विभाजक के सुझाव (पञ्चाक्ष 'पाँच नेत्रों वाला' + रम्) यहाँ नहीं बैठते; शब्द पञ्चाक्षर 'पाँच अक्षर' है, और इदम् 'यह' उसका विशेषण है। यह न-मः-शि-वा-य मन्त्र का नाम है और 'यह' के द्वारा अभी गाए गए स्तोत्र का भी।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "this five-syllable prayer (namaḥ śivāya)",
+              "hi": "यह पञ्चाक्षर मन्त्र (नमः शिवाय)"
+            },
+            "note": "sanskritdocuments-panch translates 'this sacred five-syllabled mantra, (namaH shivAya)'; gitapress-stotraratnavali keeps 'इस पवित्र पञ्चाक्षरका पाठ', which fits either the prayer or the hymn named after it."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-pancakshara",
+          "mw-akshara",
+          "mw-pancan",
+          "mw-idam",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w2": {
+        "padaccheda": [
+          {
+            "sa": "पुण्यम्",
+            "iast": "puṇyam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the y of the next word (yaḥ): puṇyam → puṇyaṃ.",
+              "hi": "अगले शब्द (यः) के 'य' से पहले अन्तिम 'म्' अनुस्वार बन जाता है: पुण्यम् → पुण्यं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पुण्य",
+            "iast": "puṇya",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पुण्य",
+              "iast": "puṇya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "puṇya",
+              "gloss": "pure, holy, sacred"
+            },
+            "meaning": {
+              "en": "holy",
+              "hi": "पवित्र"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "holy",
+          "hi": "पवित्र"
+        },
+        "notes": {
+          "en": "Describes pañcākṣaram, 'this holy five-syllable (hymn)'.",
+          "hi": "पञ्चाक्षरम् का विशेषण: 'यह पवित्र पञ्चाक्षर'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-punya",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "यः",
+            "iast": "yaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "यद्",
+            "iast": "yad",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "यद्",
+              "iast": "yad"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "yad",
+              "gloss": "who, which, what, whichever, whatever"
+            },
+            "meaning": {
+              "en": "who",
+              "hi": "जो"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "whoever",
+          "hi": "जो (कोई)"
+        },
+        "notes": {
+          "en": "'Who' opens a clause that the second line answers: whoever recites, (that person) reaches. The 'that person' (saḥ) is understood, not written.",
+          "hi": "'जो' एक वाक्यांश खोलता है जिसका उत्तर दूसरी पंक्ति देती है: जो पाठ करता है, (वह) प्राप्त करता है। 'वह' (सः) लिखा नहीं, समझा जाता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-yad",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w4": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "पठेत्",
+            "iast": "paṭhet"
+          },
+          {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          {
+            "sa": "सन्निधौ",
+            "iast": "sannidhau"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "ścutva, chatva",
+            "rule": "t + ś → c + ch",
+            "explanation": {
+              "en": "The final t of paṭhet becomes c before ś, and the ś after it becomes ch: paṭhet + śiva → paṭhecchiva.",
+              "hi": "पठेत् का अन्तिम 'त्' आगे के 'श' के कारण 'च्' बन जाता है, और वह 'श' 'छ' बन जाता है: पठेत् + शिव → पठेच्छिव।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पठेत्",
+            "iast": "paṭhet",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पठ्",
+              "iast": "paṭh",
+              "gana": 1,
+              "gloss": {
+                "en": "to recite",
+                "hi": "पाठ करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "paṭh",
+              "gloss": "to read or repeat aloud, to recite"
+            },
+            "meaning": {
+              "en": "recites",
+              "hi": "पढ़े"
+            }
+          },
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "meaning": {
+              "en": "Śiva",
+              "hi": "शिव"
+            }
+          },
+          {
+            "sa": "सन्निधि",
+            "iast": "sannidhi",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "dhatu",
+              "sa": "धा",
+              "iast": "dhā",
+              "gana": 3,
+              "prefixes": [
+                "sam",
+                "ni"
+              ],
+              "gloss": {
+                "en": "to place",
+                "hi": "रखना"
+              }
+            },
+            "formation": "sam + ni + √dhā + ki (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "saṃ-nidhi",
+              "gloss": "juxtaposition, nearness, vicinity, presence"
+            },
+            "meaning": {
+              "en": "presence",
+              "hi": "समीपता"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "recites in Śiva's presence",
+          "hi": "शिव के समीप पाठ करता है"
+        },
+        "notes": {
+          "en": "Two words run together: paṭhet 'would recite' and the compound śiva-sannidhau 'in Śiva's presence'. paṭhet is the form for 'should, would': 'whoever would recite' = whoever recites. The word-splitter's guesses (iva 'like', sanni 'despair') do not fit. sannidhi is the dictionary's saṃnidhi, spelled with nn as in most prints; one print writes संनिधौ.",
+          "hi": "दो शब्द जुड़े हैं: पठेत् 'पढ़े' और समास शिव-सन्निधौ 'शिव के समीप'। पठेत् 'चाहिए, पढ़े' वाला रूप है: 'जो पढ़े' = जो पढ़ता है। शब्द-विभाजक के सुझाव (इव 'जैसे', सन्नि 'निराशा') यहाँ नहीं बैठते। सन्निधि कोश का संनिधि ही है; अधिकतर मुद्रित पाठ न्न लिखते हैं, एक में संनिधौ है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "recites near the Śiva-liṅga",
+              "hi": "शिवलिङ्ग के समीप पाठ करता है"
+            },
+            "note": "sanskritdocuments-panch: 'near the Shiva (linga)'; gitapress-stotraratnavali: 'शिवके समीप'."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-path",
+          "mw-samnidhi",
+          "mw-dha",
+          "mw-shiva",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch",
+          "ramakrishna-math-mantrapushpam"
+        ]
+      },
+      "w5": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "शिव",
+            "iast": "śiva"
+          },
+          {
+            "sa": "लोकम्",
+            "iast": "lokam"
+          },
+          {
+            "sa": "अवाप्नोति",
+            "iast": "avāpnoti"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇa-dīrgha",
+            "rule": "a + ā → ā",
+            "explanation": {
+              "en": "The a of the prefix ava and the ā of āpnoti merge into one long ā: ava + āpnoti → avāpnoti. The m of śivalokam simply runs on to the a that follows.",
+              "hi": "उपसर्ग 'अव' का 'अ' और 'आप्नोति' का 'आ' मिलकर एक 'आ' बनते हैं: अव + आप्नोति → अवाप्नोति। शिवलोकम् का 'म्' आगे के 'अ' से जुड़ जाता है।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "meaning": {
+              "en": "Śiva",
+              "hi": "शिव"
+            }
+          },
+          {
+            "sa": "लोक",
+            "iast": "loka",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लोक",
+              "iast": "loka"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "loka",
+              "gloss": "the wide space or world"
+            },
+            "meaning": {
+              "en": "world",
+              "hi": "लोक"
+            }
+          },
+          {
+            "sa": "अवाप्नोति",
+            "iast": "avāpnoti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "आप्",
+              "iast": "āp",
+              "gana": 5,
+              "prefixes": [
+                "ava"
+              ],
+              "gloss": {
+                "en": "to reach",
+                "hi": "प्राप्त करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "avāp",
+              "gloss": "to reach, attain, obtain, gain, get"
+            },
+            "meaning": {
+              "en": "reaches",
+              "hi": "पाता है"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "reaches Śiva's world",
+          "hi": "शिवलोक को प्राप्त करता है"
+        },
+        "notes": {
+          "en": "Two words run together: śiva-lokam 'Śiva's world' and avāpnoti 'reaches, gains' (ava + √āp).",
+          "hi": "दो शब्द जुड़े हैं: शिव-लोकम् 'शिव का लोक' और अवाप्नोति 'प्राप्त करता है' (अव + √आप्)।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shivaloka",
+          "mw-loka",
+          "mw-avap",
+          "mw-ap",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "शिवेन",
+            "iast": "śivena"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शिव",
+            "iast": "śiva",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शिव",
+              "iast": "śiva"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śiva",
+              "gloss": "‘The Auspicious one’"
+            },
+            "meaning": {
+              "en": "Śiva",
+              "hi": "शिव"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Śiva (in whose company)",
+          "hi": "शिव (जिनके साथ)"
+        },
+        "epithet": true,
+        "notes": {
+          "en": "The -ena ending is required by saha 'with' (saha takes this form of the noun it goes with): śivena saha, 'together with Śiva'.",
+          "hi": "'-एन' अन्त 'सह' (साथ) के कारण है (सह के साथ संज्ञा का यही रूप आता है): शिवेन सह, 'शिव के साथ'।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-shiva",
+          "mw-saha",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "सह",
+            "iast": "saha"
+          }
+        ],
+        "components": [
+          {
+            "sa": "सह",
+            "iast": "saha",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "saha",
+              "gloss": "together with, along with, with"
+            },
+            "meaning": {
+              "en": "with",
+              "hi": "साथ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "together with",
+          "hi": "के साथ"
+        },
+        "notes": {
+          "en": "An unchanging word, 'with', placed after the word it governs (śivena).",
+          "hi": "अव्यय 'साथ', जो अपने सम्बन्धी शब्द (शिवेन) के बाद आता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-saha",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "मोदते",
+            "iast": "modate"
+          }
+        ],
+        "components": [
+          {
+            "sa": "मोदते",
+            "iast": "modate",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "मुद्",
+              "iast": "mud",
+              "gana": 1,
+              "gloss": {
+                "en": "to rejoice",
+                "hi": "आनन्दित होना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mud",
+              "gloss": "to be merry or glad or happy, rejoice"
+            },
+            "meaning": {
+              "en": "rejoices",
+              "hi": "आनन्दित होता है"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "rejoices",
+          "hi": "आनन्द मनाता है"
+        },
+        "notes": {
+          "en": "Present tense of √mud 'to rejoice'; its subject is the reciter (the understood 'that person'). The word-splitter's split moda + te ('joy' + 'your') does not fit.",
+          "hi": "√मुद् 'आनन्दित होना' का वर्तमान काल; कर्ता पाठ करने वाला है (समझा गया 'वह')। शब्द-विभाजक का 'मोद + ते' विभाजन यहाँ नहीं बैठता।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-mud",
+          "mw-moda",
+          "gitapress-stotraratnavali",
+          "sanskritdocuments-panch"
+        ]
+      }
+    }
+  }
+}
