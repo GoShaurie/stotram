@@ -1,5 +1,6 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Link from "next/link";
+import { RegisterServiceWorker } from "@/components/RegisterServiceWorker";
 import { Inter, Noto_Serif_Devanagari, Tiro_Devanagari_Sanskrit } from "next/font/google";
 import { SITE } from "@/lib/site";
 import "./globals.css";
@@ -19,6 +20,15 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: { default: `${SITE.name}: Understand what you chant`, template: `%s | ${SITE.name}` },
   description: SITE.description,
+  applicationName: SITE.name,
+  // Installed on iOS: opens full-screen, black status bar matching the header (no content under it).
+  appleWebApp: { capable: true, title: SITE.name, statusBarStyle: "black" },
+  formatDetection: { telephone: false },
+};
+
+// Phone browser chrome / installed-app title bar matches the black header.
+export const viewport: Viewport = {
+  themeColor: "#000000",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -47,6 +57,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             Every word, note and translation is marked with its review status and cites its sources.
           </p>
         </footer>
+        <RegisterServiceWorker />
       </body>
     </html>
   );
