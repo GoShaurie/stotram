@@ -1,0 +1,12 @@
+{
+  "check": "T4.8",
+  "fields_hash": "84cd964d38bbe27c",
+  "findings": [
+    {
+      "status": "fail",
+      "path": "translations.en.lines",
+      "message": "Read as one sentence, the EN lines 3-4 say: 'whoever recites at dusk, for him, steady, rich in chariots, great elephants and horses, Śambhu grants Lakṣmī, good fortune, ever kind-faced.' In English, an adjective phrase placed before the subject attaches to that subject. So 'steady, rich in chariots, great elephants and horses' describes Śambhu, but w8/w9 actually describe Lakṣmī (feminine accusative, agreeing with p10; vyakhya-sts-17 anvaya: 'स्थिरां ... लक्ष्मीं प्रददाति'). The sentence is stilted and misleads the reader about who is 'rich in chariots'. Line 2 is also awkward: 'whoever recites at dusk' has no object, because the hymn was named earlier, before the colon.",
+      "suggested_fix": "Reword lines 3-4 so the adjectives clearly go with Lakṣmī and keep the same refs. For example: line 3 'for him [w7] a steady, [w8] lasting fortune rich in chariots, great elephants and horses [w9]' and line 4 'Lakṣmī [w10], ever [w11] kind-faced [w12], is what Śambhu [w14] grants [w13].' Another option: 'to him Śambhu grants' at the start of line 4, followed by 'a Lakṣmī steady, rich in chariots…, ever kind-faced'. Optionally, add 'it' after 'recites' in line 2."
+    }
+  ]
+}

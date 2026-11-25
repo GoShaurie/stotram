@@ -1,0 +1,1735 @@
+{
+  "group": "annotations",
+  "checks": {
+    "T4.5": "checks/judges/T4.5.md",
+    "T4.9": "checks/judges/T4.9.md",
+    "T4.10": "checks/judges/T4.10.md"
+  },
+  "stotram": {
+    "id": "shiva-tandava-stotram",
+    "title": {
+      "sa": "शिवताण्डवस्तोत्रम्",
+      "iast": "Śivatāṇḍavastotram",
+      "en": "Shiva Tandava Stotram",
+      "hi": "शिव ताण्डव स्तोत्र"
+    },
+    "attribution": {
+      "en": "Traditionally attributed to Rāvaṇa, the king of Laṅkā and a devotee of Śiva.",
+      "hi": "परम्परा से लंकापति रावण द्वारा रचित माना जाता है, जो शिव के परम भक्त थे।"
+    },
+    "sources": [
+      {
+        "id": "ramakrishna-math-mantrapushpam",
+        "name": "मन्त्रपुष्पम् (Mantrapushpam), ed. Swami Devarupananda, Ramakrishna Math, Khar, Mumbai, 3rd ed. 2007 — शिवताण्डवस्तोत्रम् [15] (श्री रावण कृतम्); scan on Internet Archive",
+        "kind": "text",
+        "url": "https://archive.org/details/mantra-puspam/page/468/mode/1up"
+      },
+      {
+        "id": "sa-wikisource-shivatandava",
+        "name": "विकिस्रोतः (Sanskrit Wikisource) — शिवताण्डवस्तोत्रम् (रावण); headed \"॥अथ सुसंशुद्धं रावणकृतशिवताण्डवस्तोत्रम्॥\"",
+        "kind": "text",
+        "url": "https://sa.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D"
+      },
+      {
+        "id": "sanskritdocuments-shivtand-meaning",
+        "name": "sanskritdocuments.org — Shivatandava Stotra with meaning (shivTAND_meaning.itx); word-meanings and translation by Dr. Sarasvati Mohan and students, Samskrit Academy, San Jose CA",
+        "kind": "translation",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivTAND_meaning.html"
+      },
+      {
+        "id": "sanskritdocuments-shivtand",
+        "name": "sanskritdocuments.org — श्रीशिवताण्डवस्तोत्रम् रावणरचितम् (shivtAND.itx; transliterated and proofread by Girish Beeharry and Sushil D. Sharma; \"Extended version with 17 verses\")",
+        "kind": "text",
+        "url": "https://sanskritdocuments.org/doc_shiva/shivtAND.html"
+      },
+      {
+        "id": "shlokam-shiva-tandava",
+        "name": "shlokam.org — Shiva Tandava Stotram (Devanagari, IAST, simplified roman, verse translation, word-meanings)",
+        "kind": "translation",
+        "url": "https://shlokam.org/shloka/shiva-tandava-stotram.htm"
+      },
+      {
+        "id": "mw-tad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'tad' (SLP1 key: tad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=tad"
+      },
+      {
+        "id": "mw-sada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sadā' (SLP1 key: sadA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sadA"
+      },
+      {
+        "id": "mw-para",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'para' (SLP1 key: para)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=para"
+      },
+      {
+        "id": "vyakhya-sts-17",
+        "name": "vyakhya.org — शिवताण्डवस्तोत्रम्, श्लोक १७ (Shloka 17 Analysis: पदच्छेद, अन्वय, भावार्थ, व्याख्या; Hindi)",
+        "kind": "commentary",
+        "url": "https://www.vyakhya.org/sts-top/sts-vyakhya/sts-17/"
+      },
+      {
+        "id": "mw-path",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'paṭh' (SLP1 key: paW)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=paW"
+      },
+      {
+        "id": "mw-avasaana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'avasāna' (SLP1 key: avasAna)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=avasAna"
+      },
+      {
+        "id": "mw-dashasya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'daśāsya' (SLP1 key: daSAsya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=daSAsya"
+      },
+      {
+        "id": "mw-eva",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'eva' (SLP1 key: eva)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=eva"
+      },
+      {
+        "id": "mw-gajendra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gajendra' (SLP1 key: gajendra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gajendra"
+      },
+      {
+        "id": "mw-gita",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'gīta' (SLP1 key: gIta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=gIta"
+      },
+      {
+        "id": "mw-lakshmi",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'lakṣmī' (SLP1 key: lakzmI)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=lakzmI"
+      },
+      {
+        "id": "mw-prada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pradā' (SLP1 key: pradA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pradA"
+      },
+      {
+        "id": "mw-pradosha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pradoṣa' (SLP1 key: pradoza)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pradoza"
+      },
+      {
+        "id": "mw-prasada",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'prasāda' (SLP1 key: prasAda)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=prasAda"
+      },
+      {
+        "id": "mw-puja",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pūjā' (SLP1 key: pUjA)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pUjA"
+      },
+      {
+        "id": "mw-pujana",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'pūjana' (SLP1 key: pUjana)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=pUjana"
+      },
+      {
+        "id": "mw-ratha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'ratha' (SLP1 key: raTa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=raTa"
+      },
+      {
+        "id": "mw-samaya",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'samaya' (SLP1 key: samaya)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=samaya"
+      },
+      {
+        "id": "mw-shambhu",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'śambhu' (SLP1 key: SamBu)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=SamBu"
+      },
+      {
+        "id": "mw-sthira",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sthira' (SLP1 key: sTira)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sTira"
+      },
+      {
+        "id": "mw-sumukha",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'sumukha' (SLP1 key: sumuKa)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=sumuKa"
+      },
+      {
+        "id": "mw-turamga",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'turaṃga' (SLP1 key: turaMga)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=turaMga"
+      },
+      {
+        "id": "mw-vaktra",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'vaktra' (SLP1 key: vaktra)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=vaktra"
+      },
+      {
+        "id": "mw-yad",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yad' (SLP1 key: yad)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yad"
+      },
+      {
+        "id": "mw-yukta",
+        "name": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Dictionaries, entry 'yukta' (SLP1 key: yukta)",
+        "kind": "dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=mw&key=yukta"
+      }
+    ],
+    "tradition": {
+      "id": "shaiva"
+    }
+  },
+  "verse": {
+    "id": "v17",
+    "lines": [
+      {
+        "words": [
+          {
+            "id": "w1",
+            "text": "पूजावसानसमये",
+            "iast": "pūjāvasānasamaye"
+          },
+          {
+            "id": "w2",
+            "text": "दशवक्त्रगीतं",
+            "iast": "daśavaktragītaṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w3",
+            "text": "यः",
+            "iast": "yaḥ"
+          },
+          {
+            "id": "w4",
+            "text": "शम्भुपूजनपरं",
+            "iast": "śambhupūjanaparaṃ"
+          },
+          {
+            "id": "w5",
+            "text": "पठति",
+            "iast": "paṭhati"
+          },
+          {
+            "id": "w6",
+            "text": "प्रदोषे",
+            "iast": "pradoṣe"
+          }
+        ],
+        "end": "।"
+      },
+      {
+        "words": [
+          {
+            "id": "w7",
+            "text": "तस्य",
+            "iast": "tasya"
+          },
+          {
+            "id": "w8",
+            "text": "स्थिरां",
+            "iast": "sthirāṃ"
+          },
+          {
+            "id": "w9",
+            "text": "रथगजेन्द्रतुरङ्गयुक्तां",
+            "iast": "rathagajendraturaṅgayuktāṃ"
+          }
+        ],
+        "end": ""
+      },
+      {
+        "words": [
+          {
+            "id": "w10",
+            "text": "लक्ष्मीं",
+            "iast": "lakṣmīṃ"
+          },
+          {
+            "id": "w11",
+            "text": "सदैव",
+            "iast": "sadaiva"
+          },
+          {
+            "id": "w12",
+            "text": "सुमुखीं",
+            "iast": "sumukhīṃ"
+          },
+          {
+            "id": "w13",
+            "text": "प्रददाति",
+            "iast": "pradadāti"
+          },
+          {
+            "id": "w14",
+            "text": "शम्भुः",
+            "iast": "śambhuḥ"
+          }
+        ],
+        "end": "॥ १७ ॥"
+      }
+    ],
+    "annotations": [
+      {
+        "id": "a1",
+        "refs": [
+          "w1",
+          "w2"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "At the very end, the singer signs his name. *Daśa-vaktra* means 'ten-faced', and the ten-faced one is Rāvaṇa: the hymn now calls itself his song (*gīta*). The same line says when to sing it: *pūjā-avasāna-samaye*, at the moment worship comes to its close. So the Tāṇḍava hymn takes its place as the last act of worship, the praise that rounds it off.",
+          "hi": "अन्त में आकर गायक अपना नाम बताता है। *दश-वक्त्र* यानी 'दस मुखों वाला', और दस मुखों वाला रावण है: स्तोत्र अब स्वयं को उसका गीत (*गीत*) कहता है। इसी पंक्ति में यह भी है कि इसे कब गाना है: *पूजा-अवसान-समये*, जब पूजा पूरी होने को हो। इस तरह ताण्डव-स्तोत्र पूजा का अन्तिम अंग बन जाता है, वह स्तुति जिससे पूजा पूरी होती है।"
+        },
+        "citations": [
+          {
+            "source": "mw-dashasya",
+            "locator": "MW daśāsya, p. 472",
+            "quote": "m. Rāvaṇa"
+          },
+          {
+            "source": "mw-vaktra",
+            "locator": "MW vaktra, p. 912",
+            "quote": "the mouth, face"
+          },
+          {
+            "source": "vyakhya-sts-17",
+            "locator": "श्लोक १७, पदच्छेद (word glosses)",
+            "quote": "दशवक्त्रगीतं = रावण द्वारा रचित (स्तोत्र) गीत"
+          },
+          {
+            "source": "vyakhya-sts-17",
+            "locator": "श्लोक १७",
+            "quote": "इति श्रीरावणकृतं शिवताण्डवस्तोत्रं सम्पूर्णम्"
+          },
+          {
+            "source": "mw-avasaana",
+            "locator": "MW ava-sāna, p. 105",
+            "quote": "conclusion, termination, cessation"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a2",
+        "refs": [
+          "w4"
+        ],
+        "kind": "grammar",
+        "body": {
+          "en": "Who is devoted here, the hymn or the one who recites it? *Para* at the end of a word means 'wholly given to', so *śambhu-pūjana-para* is 'wholly given to Śambhu's worship'. Its ending *-am* matches the thing being recited, not the reciter, so strictly it describes the hymn: a song that is all worship. Heard as the devotee's own state it still fits, for whoever recites a hymn made of worship is worshipping too.",
+          "hi": "यहाँ समर्पित कौन है, स्तोत्र या उसे पढ़ने वाला? शब्द के अन्त में *पर* का अर्थ है 'पूरी तरह किसी में लगा हुआ', इसलिए *शम्भु-पूजन-पर* है 'पूरी तरह शम्भु की पूजा को समर्पित'। इसका *-अम्* अन्त पढ़ी जाने वाली चीज़ से मेल खाता है, पढ़ने वाले से नहीं, इसलिए ठीक-ठीक यह स्तोत्र का वर्णन है: ऐसा गीत जो पूरा का पूरा पूजा है। इसे भक्त की अपनी अवस्था मानें तो भी बात बैठती है, क्योंकि पूजा से बना स्तोत्र पढ़ने वाला भी पूजा ही कर रहा है।"
+        },
+        "citations": [
+          {
+            "source": "mw-para",
+            "locator": "MW para, p. 586",
+            "quote": "having as the chief object, given up to"
+          },
+          {
+            "source": "sanskritdocuments-shivtand-meaning",
+            "locator": "verse 15, translation",
+            "quote": "dedicated to the worship of Shiva"
+          },
+          {
+            "source": "vyakhya-sts-17",
+            "locator": "श्लोक १७, पदच्छेद (word glosses)",
+            "quote": "शिव-पूजा-प्रवण"
+          }
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "a3",
+        "refs": [
+          "w8",
+          "w9",
+          "w10"
+        ],
+        "kind": "context",
+        "body": {
+          "en": "Picture a royal procession: chariots (*ratha*), great elephants (*gaja-indra*, 'king of elephants') and horses (*turaṅga*, 'the swift-goer'). That is Lakṣmī here, fortune at its grandest. But the first word is the key one: *sthirā*, steady. Lakṣmī is known for not staying; she is as restless as a line of waves on water. What the verse promises from Śambhu is the fortune that does not leave.",
+          "hi": "एक राजसी सवारी की कल्पना कीजिए: रथ (*रथ*), श्रेष्ठ हाथी (*गज-इन्द्र*, 'हाथियों का राजा') और घोड़े (*तुरङ्ग*, 'तेज़ चलने वाला')। यहाँ लक्ष्मी यही है, अपने सबसे भव्य रूप में समृद्धि। पर कुंजी पहला शब्द है: *स्थिरा*, टिकी रहने वाली। लक्ष्मी टिकती नहीं, पानी पर लहरों की कतार जैसी चंचल होती है। श्लोक का वचन है कि शम्भु ऐसी लक्ष्मी देते हैं जो छोड़कर नहीं जाती।"
+        },
+        "citations": [
+          {
+            "source": "vyakhya-sts-17",
+            "locator": "श्लोक १७, व्याख्या",
+            "quote": "देवी लक्ष्मी जल की तरंगमाला की तरह चंचल होती है"
+          },
+          {
+            "source": "mw-sthira",
+            "locator": "MW sthira, p. 1264",
+            "quote": "unfluctuating, durable, lasting, permanent, changeless"
+          },
+          {
+            "source": "mw-gajendra",
+            "locator": "MW gajendra, p. 342",
+            "quote": "= ˚ja-rāja"
+          },
+          {
+            "source": "mw-turamga",
+            "locator": "MW turaṃga, p. 451",
+            "quote": "‘going quickly’, a horse"
+          },
+          {
+            "source": "mw-lakshmi",
+            "locator": "MW lakṣmī, p. 892",
+            "quote": "wealth, riches"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a4",
+        "refs": [
+          "w11",
+          "w12"
+        ],
+        "kind": "variant",
+        "body": {
+          "en": "Many printings end the verse *sadaiva sumukhīm*, 'ever kind-faced'. *Sumukhī* is fair-faced, and also gracious, well-disposed: fortune herself turns a smiling face toward the one who recites. The text is also found with another last line, *lakṣmīṃ prasāda-samaye pradadāti śambhuḥ*: 'Śambhu grants fortune at the moment of His grace'. There the kind face is Śiva's: wealth comes when He is pleased.",
+          "hi": "अनेक पाठों में श्लोक का अन्त *सदैव सुमुखीं* है, 'सदा प्रसन्न मुख वाली'। *सुमुखी* का अर्थ है सुन्दर मुख वाली, और कृपालु, अनुकूल भी: समृद्धि स्वयं पाठ करने वाले की ओर मुस्कुराता चेहरा करती है। यह पाठ एक दूसरी अन्तिम पंक्ति के साथ भी मिलता है, *लक्ष्मीं प्रसाद-समये प्रददाति शम्भुः*: 'शम्भु अपनी कृपा के क्षण में लक्ष्मी देते हैं'। वहाँ प्रसन्न मुख शिव का है: धन तब आता है जब वे प्रसन्न होते हैं।"
+        },
+        "citations": [
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 17",
+            "quote": "लक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः"
+          },
+          {
+            "source": "ramakrishna-math-mantrapushpam",
+            "locator": "p. 470, verse 15",
+            "quote": "लक्ष्मीं सदैव सुमुखीं"
+          },
+          {
+            "source": "shlokam-shiva-tandava",
+            "locator": "verse 15",
+            "quote": "लक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः"
+          },
+          {
+            "source": "vyakhya-sts-17",
+            "locator": "श्लोक १७",
+            "quote": "लक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः"
+          },
+          {
+            "source": "sa-wikisource-shivatandava",
+            "locator": "closing verse after ॥१६॥",
+            "quote": "लक्ष्मीं प्रसादसमये प्रददाति शम्भुः"
+          },
+          {
+            "source": "sanskritdocuments-shivtand",
+            "locator": "verse 17, variant in parentheses",
+            "quote": "(लक्ष्मीं प्रसादसमये प्रददाति शम्भुः)"
+          },
+          {
+            "source": "mw-sumukha",
+            "locator": "MW su-mukha, p. 1231",
+            "quote": "gracious, favourable, kind to"
+          },
+          {
+            "source": "mw-prasada",
+            "locator": "MW pra-sāda, p. 697",
+            "quote": "graciousness, kindness, kind behaviour, favour"
+          }
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "a5",
+        "refs": [
+          "w14"
+        ],
+        "kind": "theology",
+        "body": {
+          "en": "The hymn's last word is a name that is also a promise. *Śambhu* joins *śam*, well-being and joy, with *bhu*, 'come into being': the one from whom good things arise, the kind giver. So a verse that lists gifts ends on the giver, whose name already says what He does, just as [verse 1](#v1-a5) closed on *Śiva*, 'the auspicious one'.",
+          "hi": "स्तोत्र का अन्तिम शब्द एक नाम है, और साथ ही एक वचन भी। *शम्भु* में *शम्* (कल्याण, आनन्द) और *भु* (उत्पन्न होना) जुड़े हैं: जिनसे भला उपजता है, वे दयालु दाता। इसलिए उपहारों को गिनाने वाला श्लोक दाता पर समाप्त होता है, जिनका नाम ही बताता है कि वे क्या करते हैं; वैसे ही जैसे [पहला श्लोक](#v1-a5) *शिव*, 'मंगलमय', पर समाप्त हुआ था।"
+        },
+        "citations": [
+          {
+            "source": "mw-shambhu",
+            "locator": "MW śambhu, p. 1055",
+            "quote": "being or existing for happiness or welfare"
+          },
+          {
+            "source": "vyakhya-sts-17",
+            "locator": "श्लोक १७, व्याख्या",
+            "quote": "शम्भु: शब्द का अर्थ ही है कल्याण के पैदा करने वाले (शम् + भु:)"
+          }
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "translations": {
+      "en": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "At the close of worship,"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "this"
+            },
+            {
+              "refs": [
+                "x2"
+              ],
+              "text": "hymn"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "sung by the Ten-faced One,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "wholly given to Śambhu's worship:"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "whoever"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "recites"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "at dusk,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "for him,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "steady,"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "rich in chariots, great elephants and horses,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "Śambhu"
+            },
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "grants"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "Lakṣmī, good fortune,"
+            },
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "ever"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "kind-faced."
+            }
+          ]
+        ],
+        "bhavartha": "The hymn closes by saying what it brings. Whoever recites this song of the Ten-faced One, Rāvaṇa, at dusk when worship is over, a hymn that is wholly about worshipping Śambhu, is given by Śambhu a fortune that stays: chariots, great elephants and horses, and Lakṣmī, good fortune, always turning a kind face toward him."
+      },
+      "hi": {
+        "lines": [
+          [
+            {
+              "refs": [
+                "w1"
+              ],
+              "text": "पूजा के समापन के समय"
+            },
+            {
+              "refs": [
+                "w2"
+              ],
+              "text": "दशमुख (रावण) के गाए हुए,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w4"
+              ],
+              "text": "शम्भु की पूजा को समर्पित"
+            },
+            {
+              "refs": [
+                "x1"
+              ],
+              "text": "इस"
+            },
+            {
+              "refs": [
+                "x2"
+              ],
+              "text": "स्तोत्र को"
+            },
+            {
+              "refs": [
+                "w3"
+              ],
+              "text": "जो"
+            },
+            {
+              "refs": [
+                "w6"
+              ],
+              "text": "प्रदोष-काल (सन्ध्या) में"
+            },
+            {
+              "refs": [
+                "w5"
+              ],
+              "text": "पढ़ता है,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w7"
+              ],
+              "text": "उसे"
+            },
+            {
+              "refs": [
+                "w9"
+              ],
+              "text": "रथों, श्रेष्ठ हाथियों और घोड़ों से भरी,"
+            },
+            {
+              "refs": [
+                "w8"
+              ],
+              "text": "टिकी रहने वाली,"
+            }
+          ],
+          [
+            {
+              "refs": [
+                "w11"
+              ],
+              "text": "सदा"
+            },
+            {
+              "refs": [
+                "w12"
+              ],
+              "text": "प्रसन्न मुख वाली"
+            },
+            {
+              "refs": [
+                "w10"
+              ],
+              "text": "लक्ष्मी"
+            },
+            {
+              "refs": [
+                "w14"
+              ],
+              "text": "शम्भु"
+            },
+            {
+              "refs": [
+                "w13"
+              ],
+              "text": "प्रदान करते हैं।"
+            }
+          ]
+        ],
+        "bhavartha": "स्तोत्र अन्त में बताता है कि इसका फल क्या है। पूजा पूरी होने पर, सन्ध्या के समय, जो कोई दशमुख रावण के गाए इस स्तोत्र को पढ़ता है, जो पूरा का पूरा शम्भु की पूजा है, उसे शम्भु ऐसी लक्ष्मी देते हैं जो टिकी रहती है: रथ, श्रेष्ठ हाथी और घोड़े, और सदा उसकी ओर प्रसन्न मुख किए रहने वाली समृद्धि।"
+      }
+    },
+    "words": {
+      "w1": {
+        "compound": "c1",
+        "padaccheda": [
+          {
+            "sa": "पूजा",
+            "iast": "pūjā"
+          },
+          {
+            "sa": "अवसान",
+            "iast": "avasāna"
+          },
+          {
+            "sa": "समये",
+            "iast": "samaye"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "savarṇadīrgha",
+            "rule": "ā + a → ā",
+            "explanation": {
+              "en": "The final ā of pūjā and the first a of avasāna merge into one long ā: pūjā + avasāna → pūjāvasāna.",
+              "hi": "पूजा का अन्तिम 'आ' और अवसान का पहला 'अ' मिलकर एक 'आ' बन जाते हैं: पूजा + अवसान → पूजावसान।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "पूजा",
+            "iast": "pūjā",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पूजा",
+              "iast": "pūjā"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pūjā",
+              "gloss": "honour, worship, respect, reverence"
+            },
+            "meaning": {
+              "en": "worship",
+              "hi": "पूजा"
+            }
+          },
+          {
+            "sa": "अवसान",
+            "iast": "avasāna",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "अवसान",
+              "iast": "avasāna"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ava-sāna",
+              "gloss": "conclusion, termination, cessation"
+            },
+            "meaning": {
+              "en": "end",
+              "hi": "समापन"
+            }
+          },
+          {
+            "sa": "समय",
+            "iast": "samaya",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "समय",
+              "iast": "samaya"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "samaya",
+              "gloss": "appointed or proper time, right moment for doing anything"
+            },
+            "meaning": {
+              "en": "time",
+              "hi": "समय"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "at the close of worship",
+          "hi": "पूजा के समापन के समय"
+        },
+        "literal": {
+          "en": "at the time of the end of worship",
+          "hi": "पूजा के अन्त के समय में"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-puja",
+          "mw-avasaana",
+          "mw-samaya",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w2": {
+        "compound": "c2",
+        "padaccheda": [
+          {
+            "sa": "दश",
+            "iast": "daśa"
+          },
+          {
+            "sa": "वक्त्र",
+            "iast": "vaktra"
+          },
+          {
+            "sa": "गीतम्",
+            "iast": "gītam"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (yaḥ): gītam → gītaṃ.",
+              "hi": "अगले शब्द (यः) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: गीतम् → गीतं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "दशन्",
+            "iast": "daśan",
+            "pos": "numeral",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "दशन्",
+              "iast": "daśan"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "daśan",
+              "gloss": "ten"
+            },
+            "meaning": {
+              "en": "ten",
+              "hi": "दस"
+            }
+          },
+          {
+            "sa": "वक्त्र",
+            "iast": "vaktra",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "वक्त्र",
+              "iast": "vaktra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "vaktra",
+              "gloss": "the mouth, face"
+            },
+            "meaning": {
+              "en": "face",
+              "hi": "मुख"
+            }
+          },
+          {
+            "sa": "गीत",
+            "iast": "gīta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "गै",
+              "iast": "gai",
+              "gana": 1,
+              "gloss": {
+                "en": "to sing",
+                "hi": "गाना"
+              }
+            },
+            "formation": "√gai + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "gīta",
+              "gloss": "sung, chanted, praised in songs"
+            },
+            "meaning": {
+              "en": "sung",
+              "hi": "गाया हुआ"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "sung by the Ten-faced One, i.e. Rāvaṇa",
+          "hi": "दशमुख, अर्थात् रावण, का गाया हुआ"
+        },
+        "literal": {
+          "en": "sung by the ten-faced",
+          "hi": "दस मुखों वाले द्वारा गाया हुआ"
+        },
+        "aside": {
+          "en": "The ten-faced one is Rāvaṇa: in its closing verse the hymn names its own singer.",
+          "hi": "दस मुखों वाला रावण है: अपने अन्तिम श्लोक में स्तोत्र अपने गायक का नाम लेता है।"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-dashasya",
+          "mw-vaktra",
+          "mw-gita",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w3": {
+        "padaccheda": [
+          {
+            "sa": "यः",
+            "iast": "yaḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "यद्",
+            "iast": "yad",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "यद्",
+              "iast": "yad"
+            },
+            "meaning": {
+              "en": "who",
+              "hi": "जो"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "whoever",
+          "hi": "जो कोई"
+        },
+        "notes": {
+          "en": "Paired with tasya, 'to him', in the next line: whoever recites, to him Śambhu gives.",
+          "hi": "अगली पंक्ति के तस्य 'उसे' के साथ जोड़ी बनाता है: जो पढ़ता है, उसे शम्भु देते हैं।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-yad",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w4": {
+        "compound": "c3",
+        "padaccheda": [
+          {
+            "sa": "शम्भु",
+            "iast": "śambhu"
+          },
+          {
+            "sa": "पूजन",
+            "iast": "pūjana"
+          },
+          {
+            "sa": "परम्",
+            "iast": "param"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (paṭhati): param → paraṃ.",
+              "hi": "अगले शब्द (पठति) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: परम् → परं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "शम्भु",
+            "iast": "śambhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शम्भु",
+              "iast": "śambhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śambhu",
+              "gloss": "N. of Śiva"
+            },
+            "meaning": {
+              "en": "Śambhu",
+              "hi": "शम्भु"
+            }
+          },
+          {
+            "sa": "पूजन",
+            "iast": "pūjana",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पूज्",
+              "iast": "pūj",
+              "gana": 10,
+              "gloss": {
+                "en": "to worship",
+                "hi": "पूजना"
+              }
+            },
+            "formation": "√pūj + lyuṭ (action noun)",
+            "sense": {
+              "dict": "mw",
+              "headword": "pūjana",
+              "gloss": "reverencing, honouring, worship"
+            },
+            "meaning": {
+              "en": "worship",
+              "hi": "पूजा"
+            }
+          },
+          {
+            "sa": "पर",
+            "iast": "para",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "पर",
+              "iast": "para"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "para",
+              "gloss": "any chief matter or paramount object (ifc. having as the chief object, given up to)"
+            },
+            "meaning": {
+              "en": "devoted",
+              "hi": "समर्पित"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(this hymn) wholly given to the worship of Śambhu, i.e. Śiva",
+          "hi": "(यह स्तोत्र) जो पूरी तरह शम्भु, अर्थात् शिव, की पूजा को समर्पित है"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(whoever is) devoted to Śambhu's worship",
+              "hi": "(जो) शिव-पूजा में लगा है"
+            },
+            "note": "vyakhya-sts-17 glosses the word as शिव की पूजा करने वाला / शिव-पूजा-प्रवण and its bhāvārtha applies it to the reciter; the -am ending agrees with the recited hymn (x2), as sanskritdocuments-shivtand-meaning reads it ('this stotra dedicated to the worship of Shiva')."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-para",
+          "mw-pujana",
+          "mw-shambhu",
+          "vyakhya-sts-17",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w5": {
+        "padaccheda": [
+          {
+            "sa": "पठति",
+            "iast": "paṭhati"
+          }
+        ],
+        "components": [
+          {
+            "sa": "पठति",
+            "iast": "paṭhati",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "पठ्",
+              "iast": "paṭh",
+              "gana": 1,
+              "gloss": {
+                "en": "to read aloud, to recite",
+                "hi": "पढ़ना, पाठ करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "paṭh",
+              "gloss": "to read or repeat aloud, to recite, rehearse"
+            },
+            "meaning": {
+              "en": "recites",
+              "hi": "पढ़ता है"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "recites",
+          "hi": "पढ़ता है, पाठ करता है"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-path",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w6": {
+        "padaccheda": [
+          {
+            "sa": "प्रदोषे",
+            "iast": "pradoṣe"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रदोष",
+            "iast": "pradoṣa",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "प्रदोष",
+              "iast": "pradoṣa"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-doṣa",
+              "gloss": "the first part of the night, evening"
+            },
+            "meaning": {
+              "en": "dusk",
+              "hi": "सन्ध्या"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "at dusk, in the early evening",
+          "hi": "प्रदोष-काल में, सन्ध्या के समय"
+        },
+        "aside": {
+          "en": "*Pradoṣa* is the first part of the night, the hour just after sunset. It can also be taken as 'on the Pradoṣa day'.",
+          "hi": "*प्रदोष* रात का पहला भाग है, सूर्यास्त के ठीक बाद का समय। इसे 'प्रदोष के दिन' भी समझा जा सकता है।"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "on the Pradoṣa day",
+              "hi": "प्रदोष के दिन"
+            },
+            "note": "shlokam-shiva-tandava glosses प्रदोषे as 'on the Pradosha day'; vyakhya-sts-17 (संध्या के समय), sanskritdocuments-shivtand-meaning ('early in the evening, after sunset') and MW (evening) take it as the hour."
+          }
+        ],
+        "confidence": "high",
+        "sources": [
+          "mw-pradosha",
+          "vyakhya-sts-17",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w7": {
+        "padaccheda": [
+          {
+            "sa": "तस्य",
+            "iast": "tasya"
+          }
+        ],
+        "components": [
+          {
+            "sa": "तद्",
+            "iast": "tad",
+            "pos": "pronoun",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तद्",
+              "iast": "tad"
+            },
+            "meaning": {
+              "en": "him",
+              "hi": "उसे"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "for him, i.e. for that reciter",
+          "hi": "उसे, अर्थात् उस पाठ करने वाले को"
+        },
+        "literal": {
+          "en": "of him",
+          "hi": "उसका"
+        },
+        "notes": {
+          "en": "The form literally means 'of him'; here it marks the one who receives the gift, and answers yaḥ 'whoever' in the line before.",
+          "hi": "शब्द का सीधा अर्थ 'उसका' है; यहाँ यह पाने वाले को बताता है, और पिछली पंक्ति के यः 'जो' का उत्तर है।"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-tad",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w8": {
+        "padaccheda": [
+          {
+            "sa": "स्थिराम्",
+            "iast": "sthirām"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (ratha-): sthirām → sthirāṃ.",
+              "hi": "अगले शब्द (रथ-) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: स्थिराम् → स्थिरां।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "स्थिर",
+            "iast": "sthira",
+            "pos": "adjective",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "स्थिर",
+              "iast": "sthira"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "sthira",
+              "gloss": "unfluctuating, durable, lasting, permanent"
+            },
+            "meaning": {
+              "en": "steady",
+              "hi": "स्थिर"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "steady, lasting (fortune, i.e. Lakṣmī)",
+          "hi": "टिकी रहने वाली (लक्ष्मी)"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-sthira",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w9": {
+        "compound": "c4",
+        "padaccheda": [
+          {
+            "sa": "रथ",
+            "iast": "ratha"
+          },
+          {
+            "sa": "गज",
+            "iast": "gaja"
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra"
+          },
+          {
+            "sa": "तुरङ्ग",
+            "iast": "turaṅga"
+          },
+          {
+            "sa": "युक्ताम्",
+            "iast": "yuktām"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "guṇa",
+            "rule": "a + i → e",
+            "explanation": {
+              "en": "The final a of gaja and the first i of indra merge into e: gaja + indra → gajendra.",
+              "hi": "गज का अन्तिम 'अ' और इन्द्र का पहला 'इ' मिलकर 'ए' बन जाते हैं: गज + इन्द्र → गजेन्द्र।"
+            }
+          },
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (lakṣmīṃ): yuktām → yuktāṃ.",
+              "hi": "अगले शब्द (लक्ष्मीं) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: युक्ताम् → युक्तां।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "रथ",
+            "iast": "ratha",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "रथ",
+              "iast": "ratha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "ratha",
+              "gloss": "a chariot, car"
+            },
+            "meaning": {
+              "en": "chariot",
+              "hi": "रथ"
+            }
+          },
+          {
+            "sa": "गज",
+            "iast": "gaja",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "गज",
+              "iast": "gaja"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "gaja",
+              "gloss": "an elephant"
+            },
+            "meaning": {
+              "en": "elephant",
+              "hi": "हाथी"
+            }
+          },
+          {
+            "sa": "इन्द्र",
+            "iast": "indra",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "इन्द्र",
+              "iast": "indra"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "indra",
+              "gloss": "ifc. best, excellent, the first, the chief"
+            },
+            "meaning": {
+              "en": "chief",
+              "hi": "श्रेष्ठ"
+            }
+          },
+          {
+            "sa": "तुरङ्ग",
+            "iast": "turaṅga",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "तुरङ्ग",
+              "iast": "turaṅga"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "turaṃga",
+              "gloss": "‘going quickly’, a horse"
+            },
+            "meaning": {
+              "en": "horse",
+              "hi": "घोड़ा"
+            }
+          },
+          {
+            "sa": "युक्त",
+            "iast": "yukta",
+            "pos": "participle",
+            "root": {
+              "kind": "dhatu",
+              "sa": "युज्",
+              "iast": "yuj",
+              "gana": 7,
+              "gloss": {
+                "en": "to join, to furnish with",
+                "hi": "जोड़ना"
+              }
+            },
+            "formation": "√yuj + kta (past participle)",
+            "sense": {
+              "dict": "mw",
+              "headword": "yukta",
+              "gloss": "furnished or endowed or filled or supplied or provided with"
+            },
+            "meaning": {
+              "en": "furnished",
+              "hi": "युक्त"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "(fortune, i.e. Lakṣmī) rich in chariots, great elephants and horses",
+          "hi": "रथों, श्रेष्ठ हाथियों और घोड़ों से भरी (लक्ष्मी)"
+        },
+        "literal": {
+          "en": "furnished with chariots, kings of elephants and horses",
+          "hi": "रथ, गजराज और घोड़ों से युक्त"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-ratha",
+          "mw-gajendra",
+          "mw-turamga",
+          "mw-yukta",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w10": {
+        "padaccheda": [
+          {
+            "sa": "लक्ष्मीम्",
+            "iast": "lakṣmīm"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (sadaiva): lakṣmīm → lakṣmīṃ.",
+              "hi": "अगले शब्द (सदैव) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: लक्ष्मीम् → लक्ष्मीं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "लक्ष्मी",
+            "iast": "lakṣmī",
+            "pos": "noun",
+            "gender": "feminine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "लक्ष्मी",
+              "iast": "lakṣmī"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "lakṣmī",
+              "gloss": "good fortune, prosperity; wealth, riches; the goddess of fortune and beauty"
+            },
+            "meaning": {
+              "en": "fortune",
+              "hi": "लक्ष्मी"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Lakṣmī, good fortune",
+          "hi": "लक्ष्मी, समृद्धि"
+        },
+        "confidence": "high",
+        "sources": [
+          "mw-lakshmi",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w11": {
+        "padaccheda": [
+          {
+            "sa": "सदा",
+            "iast": "sadā"
+          },
+          {
+            "sa": "एव",
+            "iast": "eva"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "vṛddhi",
+            "rule": "ā + e → ai",
+            "explanation": {
+              "en": "The final ā of sadā and the e of eva merge into ai: sadā + eva → sadaiva.",
+              "hi": "सदा का अन्तिम 'आ' और एव का 'ए' मिलकर 'ऐ' बन जाते हैं: सदा + एव → सदैव।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "सदा",
+            "iast": "sadā",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "sadā",
+              "gloss": "always, ever, every time"
+            },
+            "meaning": {
+              "en": "always",
+              "hi": "सदा"
+            }
+          },
+          {
+            "sa": "एव",
+            "iast": "eva",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "eva",
+              "gloss": "just, exactly, very, same, only, even"
+            },
+            "meaning": {
+              "en": "indeed",
+              "hi": "ही"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "ever, at all times",
+          "hi": "सदा ही"
+        },
+        "alternatives": [
+          {
+            "reading": {
+              "en": "(Śambhu) always grants",
+              "hi": "(शम्भु) सदा प्रदान करते हैं"
+            },
+            "note": "sadaiva can also go with the verb; vyakhya-sts-17's bhāvārtha joins सदा to स्थिर ('ever steady'). The anvaya of vyakhya-sts-17 places it before सुमुखीं, and sanskritdocuments-shivtand-meaning glosses 'always-definitely-favourable', so it is taken with sumukhīm here."
+          }
+        ],
+        "confidence": "medium",
+        "sources": [
+          "mw-sada",
+          "mw-eva",
+          "vyakhya-sts-17",
+          "sanskritdocuments-shivtand-meaning",
+          "shlokam-shiva-tandava"
+        ]
+      },
+      "w12": {
+        "compound": "c5",
+        "padaccheda": [
+          {
+            "sa": "सुमुखीम्",
+            "iast": "sumukhīm"
+          }
+        ],
+        "sandhi": [
+          {
+            "name": "anusvāra",
+            "rule": "m + consonant → ṃ",
+            "explanation": {
+              "en": "Final m is written as anusvāra before the consonant of the next word (pradadāti): sumukhīm → sumukhīṃ.",
+              "hi": "अगले शब्द (प्रददाति) के व्यंजन से पहले अन्तिम 'म्' अनुस्वार बन जाता है: सुमुखीम् → सुमुखीं।"
+            }
+          }
+        ],
+        "components": [
+          {
+            "sa": "सु",
+            "iast": "su",
+            "pos": "indeclinable",
+            "sense": {
+              "dict": "mw",
+              "headword": "su",
+              "gloss": "good, excellent, right, virtuous, beautiful"
+            },
+            "meaning": {
+              "en": "good",
+              "hi": "सुन्दर"
+            }
+          },
+          {
+            "sa": "मुख",
+            "iast": "mukha",
+            "pos": "noun",
+            "gender": "neuter",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "मुख",
+              "iast": "mukha"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "mukha",
+              "gloss": "the mouth, face, countenance"
+            },
+            "meaning": {
+              "en": "face",
+              "hi": "मुख"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "kind-faced, gracious (Lakṣmī)",
+          "hi": "प्रसन्न मुख वाली (लक्ष्मी)"
+        },
+        "literal": {
+          "en": "having a good face",
+          "hi": "सुन्दर मुख वाली"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-sumukha",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w13": {
+        "padaccheda": [
+          {
+            "sa": "प्रददाति",
+            "iast": "pradadāti"
+          }
+        ],
+        "components": [
+          {
+            "sa": "प्रददाति",
+            "iast": "pradadāti",
+            "pos": "verb",
+            "root": {
+              "kind": "dhatu",
+              "sa": "दा",
+              "iast": "dā",
+              "gana": 3,
+              "prefixes": [
+                "pra"
+              ],
+              "gloss": {
+                "en": "to give, to grant",
+                "hi": "देना, प्रदान करना"
+              }
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "pra-dā",
+              "gloss": "to give away, give, offer, present, grant, bestow"
+            },
+            "meaning": {
+              "en": "grants",
+              "hi": "देते हैं"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "grants",
+          "hi": "प्रदान करते हैं"
+        },
+        "confidence": "medium",
+        "sources": [
+          "mw-prada",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ]
+      },
+      "w14": {
+        "padaccheda": [
+          {
+            "sa": "शम्भुः",
+            "iast": "śambhuḥ"
+          }
+        ],
+        "components": [
+          {
+            "sa": "शम्भु",
+            "iast": "śambhu",
+            "pos": "noun",
+            "gender": "masculine",
+            "root": {
+              "kind": "pratipadika",
+              "sa": "शम्भु",
+              "iast": "śambhu"
+            },
+            "sense": {
+              "dict": "mw",
+              "headword": "śambhu",
+              "gloss": "N. of Śiva"
+            },
+            "meaning": {
+              "en": "Śambhu",
+              "hi": "शम्भु"
+            }
+          }
+        ],
+        "meaning": {
+          "en": "Śambhu, i.e. Śiva",
+          "hi": "शम्भु, अर्थात् शिव"
+        },
+        "epithet": true,
+        "confidence": "high",
+        "sources": [
+          "mw-shambhu",
+          "vyakhya-sts-17",
+          "shlokam-shiva-tandava",
+          "sanskritdocuments-shivtand-meaning"
+        ],
+        "aside": {
+          "en": "*Śambhu* means 'the one who brings welfare': *śam*, welfare and happiness, with *bhū*, to bring about. A fitting name for the one this verse calls the giver of lasting fortune.",
+          "hi": "*शम्भु* यानी 'कल्याण करने वाले': *शम्* (कल्याण, सुख) और *भू* (उत्पन्न करना)। यह नाम यहाँ ठीक बैठता है, क्योंकि श्लोक उन्हें टिकी रहने वाली लक्ष्मी का दाता बताता है।"
+        }
+      }
+    }
+  }
+}
