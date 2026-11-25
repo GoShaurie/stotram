@@ -26,8 +26,9 @@ const ANNOTATION_HASH = /^#([\w-]+?)-(a\w+)$/;
 export function Reader({ verses, concepts, sources, linkBase = "" }: Props) {
   const [lang, setLang] = usePreference<Lang>("stotram:lang", "en", LANGS);
   const [iast, setIast] = usePreference<"on" | "off">("stotram:iast", "off", ["on", "off"]);
-  // "reader" is the default Genius layout; "split" is the compact two-column view (word card on the right on click).
-  const [layout, setLayout] = usePreference<Layout>("stotram:layout", "reader", LAYOUTS);
+  // "split" (the compact two-column view, word card on the right on click) is the default and the server-rendered
+  // layout; "reader" is the Genius layout with the notes rail (EDITORIAL_GUIDE, 2026-11-25).
+  const [layout, setLayout] = usePreference<Layout>("stotram:layout", "split", LAYOUTS);
   const [hover, setHover] = useState<Hover>(null);
   const [pinned, setPinned] = useState<WordRef | null>(null);
   const [active, setActive] = useState<AnnotationRef | null>(null);

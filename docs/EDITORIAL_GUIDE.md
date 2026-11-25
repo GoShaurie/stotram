@@ -20,10 +20,11 @@ When the owner gives a new preference, add it here (with the date) in the same c
 - **Highlights carry over.** A meaning phrase whose words belong to a story card is highlighted like the Sanskrit.
   Nothing to write for this, but keep segments tight so the highlight lands on the right words.
 
-- **Two layouts.** The Genius layout (text left, notes rail right, word card in the rail) stays the default.
-  A **Split view** toggle gives a compact alternative: smaller text on the left, Sanskrit evenly spaced with its
-  mappable meaning beside it, and nothing on the right until a word is clicked; then the same word card as the
-  default view opens there. Split view doesn't list the story/theology cards up front. *(2026-11-18)*
+- **Two layouts.** **Split view is the default** (and the server-rendered layout): smaller text on the left,
+  Sanskrit evenly spaced with its mappable meaning beside it, and nothing on the right until a word is clicked; then
+  the word card opens there. Split view doesn't list the story/theology cards up front. Turning the **Split view**
+  toggle off gives the Genius layout (text left, notes rail right, word card in the rail). A reader's choice is
+  remembered per browser. *(2026-11-18; split made the default 2026-11-25)*
 
 - **Print / PDF sheet** (`/stotram/<id>/print`, linked from the stotram header). Kept deliberately simple: title,
   then every verse with each Sanskrit line on the left and its meaning beside it on the right (under it on phones).
